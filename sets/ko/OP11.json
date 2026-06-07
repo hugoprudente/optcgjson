@@ -1,0 +1,508 @@
+{
+    "meta": {
+        "date": "2026-03-28",
+        "version": "1.0.0",
+        "set": 1563987989,
+        "language": "ko"
+    },
+    "data": {
+        "code": "OP11",
+        "cards": [
+            {
+                "id": "OP11-001",
+                "number": "OP11-001",
+                "type": "리더",
+                "class": "L",
+                "name": "코비",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색",
+                    "흑색",
+                    "다색"
+                ],
+                "feature": [
+                    "해군",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "자신의 《SWORD》 특징을 가진 캐릭터는 등장한 턴에 캐릭터를 어택할 수 있다.\r\n【턴 1회】자신의 원래 파워가 7000 이하인 《해군》 특징을 가진 캐릭터가 상대의 효과로 필드를 벗어날 경우, 대신 자신의 트래시에서 카드 3장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_161843_fdc1bb9d8d"
+            },
+            {
+                "id": "OP11-001_P1",
+                "number": "OP11-001_P1",
+                "type": "리더",
+                "class": "L",
+                "name": "코비",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색",
+                    "흑색",
+                    "다색"
+                ],
+                "feature": [
+                    "해군",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "자신의 《SWORD》 특징을 가진 캐릭터는 등장한 턴에 캐릭터를 어택할 수 있다.\r\n【턴 1회】자신의 원래 파워가 7000 이하인 《해군》 특징을 가진 캐릭터가 상대의 효과로 필드를 벗어날 경우, 대신 자신의 트래시에서 카드 3장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_161850_e2ed7c8373"
+            },
+            {
+                "id": "OP11-002",
+                "number": "OP11-002",
+                "type": "캐릭터",
+                "class": "C",
+                "name": "아인",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "NEO 해군"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -1000. 그 후, 상대의 파워 0 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_161911_10f9c888fd"
+            },
+            {
+                "id": "OP11-003",
+                "number": "OP11-003",
+                "type": "캐릭터",
+                "class": "UC",
+                "name": "우솝",
+                "cost": "5",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "N/A",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_161942_c44f8f3023"
+            },
+            {
+                "id": "OP11-004",
+                "number": "OP11-004",
+                "type": "캐릭터",
+                "class": "SR",
+                "name": "쿠자쿠",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "해군",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「쿠자쿠」 이외의 《해군》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.\r\n【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 이번 턴 동안, 자신의 캐릭터 1장까지의 파워 +1000.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_161951_cf15498d60"
+            },
+            {
+                "id": "OP11-004_P1",
+                "number": "OP11-004_P1",
+                "type": "캐릭터",
+                "class": "SR",
+                "name": "쿠자쿠",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "해군",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「쿠자쿠」 이외의 《해군》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.\r\n【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 이번 턴 동안, 자신의 캐릭터 1장까지의 파워 +1000.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162020_088c40e8f7"
+            },
+            {
+                "id": "OP11-005",
+                "number": "OP11-005",
+                "type": "캐릭터",
+                "class": "C",
+                "name": "스모커",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "3",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【두웅!!×1】이 캐릭터는 <특수> 속성을 가지지 않은 캐릭터의 효과로는 KO 당하지 않는다.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162028_23759b78e1"
+            },
+            {
+                "id": "OP11-006",
+                "number": "OP11-006",
+                "type": "캐릭터",
+                "class": "C",
+                "name": "제트",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "NEO 해군"
+                ],
+                "block_icon": "3",
+                "effect": "【두웅!!×1】【어택 시】이번 턴 동안, 상대의 <특수> 속성을 가진 캐릭터 1장까지의 파워 -5000.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162041_b94e19a274"
+            },
+            {
+                "id": "OP11-007",
+                "number": "OP11-007",
+                "type": "캐릭터",
+                "class": "C",
+                "name": "타시기",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "3",
+                "effect": "【기동: 메인】이 캐릭터를 레스트할 수 있다: 자신의 리더가 《해군》 특징을 가진 경우, 이번 턴 동안, 자신의 《해군》 특징을 가진 캐릭터 1장까지의 파워 +2000.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162053_4bbd976207"
+            },
+            {
+                "id": "OP11-008",
+                "number": "OP11-008",
+                "type": "캐릭터",
+                "class": "R",
+                "name": "돌",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "3",
+                "effect": "【블로커】\r\n【등장 시】자신의 패 1장을 버릴 수 있다: 자신의 리더가 《해군》 특징을 가진 경우, 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -6000.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162103_1341541ebf"
+            },
+            {
+                "id": "OP11-008_P1",
+                "number": "OP11-008_P1",
+                "type": "캐릭터",
+                "class": "R",
+                "name": "돌",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "3",
+                "effect": "【블로커】\r\n【등장 시】자신의 패 1장을 버릴 수 있다: 자신의 리더가 《해군》 특징을 가진 경우, 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -6000.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162111_688ad06324"
+            },
+            {
+                "id": "OP11-009",
+                "number": "OP11-009",
+                "type": "캐릭터",
+                "class": "C",
+                "name": "니코 로빈",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【두웅!!×2】【어택 시】다음 상대의 턴 종료 시까지, 상대의 캐릭터 1장까지의 파워 -2000.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162120_76d5fcdaf0"
+            },
+            {
+                "id": "OP11-010",
+                "number": "OP11-010",
+                "type": "캐릭터",
+                "class": "SR",
+                "name": "히바리",
+                "cost": "5",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "해군",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -2000.\r\n【어택 시】이번 턴 동안, 이 캐릭터의 파워 +1000. 그 후, 이번 턴 동안, 자신의 《해군》 특징을 가진 리더 1장까지는 액티브 상태인 캐릭터도 어택할 수 있다.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162132_0eb8af5f10"
+            },
+            {
+                "id": "OP11-010_P1",
+                "number": "OP11-010_P1",
+                "type": "캐릭터",
+                "class": "SR",
+                "name": "히바리",
+                "cost": "5",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "해군",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -2000.\r\n【어택 시】이번 턴 동안, 이 캐릭터의 파워 +1000.  그 후, 이번 턴 동안, 자신의 《해군》 특징을 가진 리더 1장까지는 액티브 상태인 캐릭터도 어택할 수 있다.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162141_c7635b8e7e"
+            },
+            {
+                "id": "OP11-011",
+                "number": "OP11-011",
+                "type": "캐릭터",
+                "class": "C",
+                "name": "빈즈",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "NEO 해군"
+                ],
+                "block_icon": "3",
+                "effect": "N/A",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162155_b794930dac"
+            },
+            {
+                "id": "OP11-012",
+                "number": "OP11-012",
+                "type": "캐릭터",
+                "class": "UC",
+                "name": "프랑키",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【자신의 턴 동안】【턴 1회】상대가 이벤트를 발동했을 때, 이번 턴 동안, 자신의 모든 캐릭터의 파워 +2000.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162230_be236e792c"
+            },
+            {
+                "id": "OP11-013",
+                "number": "OP11-013",
+                "type": "캐릭터",
+                "class": "R",
+                "name": "프린스 그루스",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "해군",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【어택 시】이번 턴 동안, 상대의 파워 2000 이하인 모든 캐릭터는 【블로커】를 발동할 수 없다.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162242_99faced4f8"
+            },
+            {
+                "id": "OP11-014",
+                "number": "OP11-014",
+                "type": "캐릭터",
+                "class": "R",
+                "name": "볼사리노",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "해군"
+                ],
+                "block_icon": "3",
+                "effect": "【블로커】\r\n【기동: 메인】이 캐릭터를 레스트할 수 있다: 이번 턴 동안, 자신의 《해군》 특징을 가진 리더 또는 캐릭터 1장까지는 액티브 상태인 캐릭터도 어택할 수 있다.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162425_532fad0c27"
+            },
+            {
+                "id": "OP11-015",
+                "number": "OP11-015",
+                "type": "캐릭터",
+                "class": "C",
+                "name": "모차",
+                "cost": "4",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "펑크 하자드"
+                ],
+                "block_icon": "3",
+                "effect": "N/A",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162437_a294e42bd1"
+            },
+            {
+                "id": "OP11-016",
+                "number": "OP11-016",
+                "type": "캐릭터",
+                "class": "UC",
+                "name": "롤로노아 조로",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【기동: 메인】【턴 1회】자신의 리더 또는 캐릭터 1장에게 레스트 상태인 두웅!!을 1장까지 부여한다.",
+                "card_set": "[OPK-11] 부스터 팩 신속의 권",
+                "image_url": "https://onepiece-cardgame.kr/fileDownload?downname=20260320_162455_8006969bae"
+            }
+        ]
+    }
+}

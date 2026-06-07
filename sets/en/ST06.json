@@ -1,0 +1,437 @@
+{
+    "meta": {
+        "date": "2026-03-16",
+        "version": "1.0.0",
+        "set": 556006
+    },
+    "data": {
+        "code": "ST06",
+        "cards": [
+            {
+                "id": "ST06-001",
+                "number": "ST06-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Sakazuki",
+                "image_path": "images/TheNavyST06/ST06-001.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-001.png"
+            },
+            {
+                "id": "ST06-002",
+                "number": "ST06-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Koby",
+                "image_path": "images/TheNavyST06/ST06-002.png",
+                "cost": "1",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-002.png"
+            },
+            {
+                "id": "ST06-003",
+                "number": "ST06-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jango",
+                "image_path": "images/TheNavyST06/ST06-003.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-003.png"
+            },
+            {
+                "id": "ST06-004",
+                "number": "ST06-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Smoker",
+                "image_path": "images/TheNavyST06/ST06-004.png",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "This Character cannot be K.O.'d by effects.[DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack].(This card deals 2 damage.)",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-004.png"
+            },
+            {
+                "id": "ST06-005",
+                "number": "ST06-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sengoku",
+                "image_path": "images/TheNavyST06/ST06-005.png",
+                "cost": "5",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-005.png"
+            },
+            {
+                "id": "ST06-006",
+                "number": "ST06-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tashigi",
+                "image_path": "images/TheNavyST06/ST06-006.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-006.png"
+            },
+            {
+                "id": "ST06-007",
+                "number": "ST06-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tsuru",
+                "image_path": "images/TheNavyST06/ST06-007.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-007.png"
+            },
+            {
+                "id": "ST06-008",
+                "number": "ST06-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Hina",
+                "image_path": "images/TheNavyST06/ST06-008.png",
+                "cost": "3",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-008.png"
+            },
+            {
+                "id": "ST06-009",
+                "number": "ST06-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Fullbody",
+                "image_path": "images/TheNavyST06/ST06-009.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-009.png"
+            },
+            {
+                "id": "ST06-010",
+                "number": "ST06-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Helmeppo",
+                "image_path": "images/TheNavyST06/ST06-010.png",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-010.png"
+            },
+            {
+                "id": "ST06-011",
+                "number": "ST06-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Momonga",
+                "image_path": "images/TheNavyST06/ST06-011.png",
+                "cost": "4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-011.png"
+            },
+            {
+                "id": "ST06-012",
+                "number": "ST06-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Garp",
+                "image_path": "images/TheNavyST06/ST06-012.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-012.png"
+            },
+            {
+                "id": "ST06-013",
+                "number": "ST06-013",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "T-Bone",
+                "image_path": "images/TheNavyST06/ST06-013.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-013.png"
+            },
+            {
+                "id": "ST06-014",
+                "number": "ST06-014",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Shockwave",
+                "image_path": "images/TheNavyST06/ST06-014.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's active Characters with a cost of 3 or less.",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-014.png"
+            },
+            {
+                "id": "ST06-015",
+                "number": "ST06-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Great Eruption",
+                "image_path": "images/TheNavyST06/ST06-015.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Your opponent chooses 1 card from their hand and trashes it.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] Draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-015.png"
+            },
+            {
+                "id": "ST06-016",
+                "number": "ST06-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "White Out",
+                "image_path": "images/TheNavyST06/ST06-016.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Draw 1 card and none of your Characters can be K.O.'d during this turn.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-016.png"
+            },
+            {
+                "id": "ST06-017",
+                "number": "ST06-017",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Navy HQ",
+                "image_path": "images/TheNavyST06/ST06-017.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Give up to 1 of your opponent's Characters −1 cost during this turn.[Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −1 cost during this turn.",
+                "card_set": "-The Navy- [ST-06]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-017.png"
+            }
+        ]
+    }
+}

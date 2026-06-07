@@ -1,0 +1,445 @@
+{
+    "meta": {
+        "date": "2026-03-16",
+        "version": "1.0.0",
+        "set": 556001
+    },
+    "data": {
+        "code": "ST01",
+        "cards": [
+            {
+                "id": "ST01-001",
+                "number": "ST01-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "image_path": "images/StrawHatCrewST01/ST01-001.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] [Once Per Turn] Give this Leader or 1 of your Characters up to 1 rested DON!! card.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-001.png"
+            },
+            {
+                "id": "ST01-002",
+                "number": "ST01-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "image_path": "images/StrawHatCrewST01/ST01-002.png",
+                "cost": "2",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "[Trigger] Play this card.",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x2] [When Attacking] Your opponent cannot activate a [Blocker] Character that has 5000 or more power during this battle.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-002.png"
+            },
+            {
+                "id": "ST01-003",
+                "number": "ST01-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Karoo",
+                "image_path": "images/StrawHatCrewST01/ST01-003.png",
+                "cost": "1",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Animal",
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-003.png"
+            },
+            {
+                "id": "ST01-004",
+                "number": "ST01-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "image_path": "images/StrawHatCrewST01/ST01-004.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x2] This Character gains [Rush].(This card can attack on the turn in which it is played.)",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-004.png"
+            },
+            {
+                "id": "ST01-005",
+                "number": "ST01-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "image_path": "images/StrawHatCrewST01/ST01-005.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Fish-Man",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [When Attacking] Up to 1 of your Leader or Character cards other than this card gains +1000 power during this turn.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-005.png"
+            },
+            {
+                "id": "ST01-006",
+                "number": "ST01-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "image_path": "images/StrawHatCrewST01/ST01-006.png",
+                "cost": "1",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Animal",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-006.png"
+            },
+            {
+                "id": "ST01-007",
+                "number": "ST01-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "image_path": "images/StrawHatCrewST01/ST01-007.png",
+                "cost": "1",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-007.png"
+            },
+            {
+                "id": "ST01-008",
+                "number": "ST01-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "image_path": "images/StrawHatCrewST01/ST01-008.png",
+                "cost": "3",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-008.png"
+            },
+            {
+                "id": "ST01-009",
+                "number": "ST01-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nefeltari Vivi",
+                "image_path": "images/StrawHatCrewST01/ST01-009.png",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-009.png"
+            },
+            {
+                "id": "ST01-010",
+                "number": "ST01-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "image_path": "images/StrawHatCrewST01/ST01-010.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-010.png"
+            },
+            {
+                "id": "ST01-011",
+                "number": "ST01-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "image_path": "images/StrawHatCrewST01/ST01-011.png",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-011.png"
+            },
+            {
+                "id": "ST01-012",
+                "number": "ST01-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "image_path": "images/StrawHatCrewST01/ST01-012.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.)[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png"
+            },
+            {
+                "id": "ST01-013",
+                "number": "ST01-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "image_path": "images/StrawHatCrewST01/ST01-013.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] This Character gains +1000 power.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-013.png"
+            },
+            {
+                "id": "ST01-014",
+                "number": "ST01-014",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Guard Point",
+                "image_path": "images/StrawHatCrewST01/ST01-014.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Your Leader or 1 of your Characters gains +1000 power during this turn.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Animal",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png"
+            },
+            {
+                "id": "ST01-015",
+                "number": "ST01-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Jet Pistol",
+                "image_path": "images/StrawHatCrewST01/ST01-015.png",
+                "cost": "4",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Activate this card's [Main] effect.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-015.png"
+            },
+            {
+                "id": "ST01-016",
+                "number": "ST01-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Diable Jambe",
+                "image_path": "images/StrawHatCrewST01/ST01-016.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] K.O. 1 of your opponent's [Blocker] Characters with a cost of 3 or less.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] Select up to 1 of your {Straw Hat Crew} type Leader or Character cards. Your opponent cannot activate [Blocker] if that Leader or Character attacks during this turn.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-016.png"
+            },
+            {
+                "id": "ST01-017",
+                "number": "ST01-017",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Thousand Sunny",
+                "image_path": "images/StrawHatCrewST01/ST01-017.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may rest this Stage: Up to 1 {Straw Hat Crew} type Leader or Character card on your field gains +1000 power during this turn.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-017.png"
+            }
+        ]
+    }
+}

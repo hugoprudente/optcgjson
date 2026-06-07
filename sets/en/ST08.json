@@ -1,0 +1,387 @@
+{
+    "meta": {
+        "date": "2026-03-16",
+        "version": "1.0.0",
+        "set": 556008
+    },
+    "data": {
+        "code": "ST08",
+        "cards": [
+            {
+                "id": "ST08-001",
+                "number": "ST08-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-001.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-001.png"
+            },
+            {
+                "id": "ST08-002",
+                "number": "ST08-002",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Uta",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-002.png",
+                "cost": "2",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "1",
+                "effect": "This Character cannot be K.O.'d in battle by Leaders.[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-002.png"
+            },
+            {
+                "id": "ST08-003",
+                "number": "ST08-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gaimon",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-003.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "East Blue"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-003.png"
+            },
+            {
+                "id": "ST08-004",
+                "number": "ST08-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Koby",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-004.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-004.png"
+            },
+            {
+                "id": "ST08-005",
+                "number": "ST08-005",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Shanks",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-005.png",
+                "cost": "9",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Red-Haired Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] You may trash 1 card from your hand: K.O. all Characters with a cost of 1 or less.",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-005.png"
+            },
+            {
+                "id": "ST08-006",
+                "number": "ST08-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Shirahoshi",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-006.png",
+                "cost": "4",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Merfolk"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-006.png"
+            },
+            {
+                "id": "ST08-007",
+                "number": "ST08-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nefeltari Vivi",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-007.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "[Trigger] Play this card.",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-007.png"
+            },
+            {
+                "id": "ST08-008",
+                "number": "ST08-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Higuma",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-008.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Mountain Bandits"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-008.png"
+            },
+            {
+                "id": "ST08-009",
+                "number": "ST08-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Makino",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-009.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Windmill Village"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] If there is a Character with a cost of 0, draw 1 card.",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-009.png"
+            },
+            {
+                "id": "ST08-010",
+                "number": "ST08-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Garp",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-010.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-010.png"
+            },
+            {
+                "id": "ST08-011",
+                "number": "ST08-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-011.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-011.png"
+            },
+            {
+                "id": "ST08-012",
+                "number": "ST08-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Laboon",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-012.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Animal"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-012.png"
+            },
+            {
+                "id": "ST08-013",
+                "number": "ST08-013",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr.2.Bon.Kurei(Bentham)",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-013.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Former Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] At the end of a battle in which this Character battles your opponent's Character, you may K.O. the opponent’s Character you battled with. If you do, K.O. this Character.",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-013.png"
+            },
+            {
+                "id": "ST08-014",
+                "number": "ST08-014",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Bell",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-014.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Add up to 1 black Character card with a cost of 2 or less from your trash to your hand.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] You may add 1 card from the top of your Life cards to your hand: Give up to 1 of your opponent's Characters −7 cost during this turn.",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-014.png"
+            },
+            {
+                "id": "ST08-015",
+                "number": "ST08-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Pistol",
+                "image_path": "images/SideMonkeyDLuffyST08/ST08-015.png",
+                "cost": "3",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Draw 1 card.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+                "card_set": "-Side Monkey.D.Luffy- [ST-08]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-015.png"
+            }
+        ]
+    }
+}

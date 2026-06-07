@@ -1,0 +1,455 @@
+{
+    "meta": {
+        "date": "2026-03-16",
+        "version": "1.0.0",
+        "set": 556005
+    },
+    "data": {
+        "code": "ST05",
+        "cards": [
+            {
+                "id": "ST05-001",
+                "number": "ST05-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Shanks",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-001.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "The Four Emperors",
+                    "Red-Haired Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] [Once Per Turn] DON!! −3 (You may return the specified number of DON!! cards from your field to your DON!! deck.): All of your {FILM} type Characters gain +2000 power during this turn.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-001.png"
+            },
+            {
+                "id": "ST05-002",
+                "number": "ST05-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ain",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-002.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "Neo Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-002.png"
+            },
+            {
+                "id": "ST05-003",
+                "number": "ST05-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ann",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-003.png",
+                "cost": "2",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "The Pirates Fest"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-003.png"
+            },
+            {
+                "id": "ST05-004",
+                "number": "ST05-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Uta",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-004.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-004.png"
+            },
+            {
+                "id": "ST05-005",
+                "number": "ST05-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Carina",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-005.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "Grantesoro"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] [Once Per Turn] You may rest this Character and trash 1 {FILM} type card from your hand: If your opponent has more DON!! cards on their field than you, add 2 DON!! cards from your DON!! deck and rest them.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-005.png"
+            },
+            {
+                "id": "ST05-006",
+                "number": "ST05-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gild Tesoro",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-006.png",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "Grantesoro"
+                ],
+                "block_icon": "1",
+                "effect": "[When Attacking] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-006.png"
+            },
+            {
+                "id": "ST05-007",
+                "number": "ST05-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gordon",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-007.png",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-007.png"
+            },
+            {
+                "id": "ST05-008",
+                "number": "ST05-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Shiki",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-008.png",
+                "cost": "6",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "Golden Lion Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "If you have 8 or more DON!! cards on your field, this Character cannot be K.O.'d in battle.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-008.png"
+            },
+            {
+                "id": "ST05-009",
+                "number": "ST05-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Scarlet",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-009.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "[Trigger] Play this card.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "Animal",
+                    "Golden Lion Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-009.png"
+            },
+            {
+                "id": "ST05-010",
+                "number": "ST05-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Z",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-010.png",
+                "cost": "7",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "Neo Navy"
+                ],
+                "block_icon": "1",
+                "effect": "When this Character battles <Strike> attribute Characters, this Character gains +3000 power during this turn.[Activate: Main] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +2000 power during this turn.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-010.png"
+            },
+            {
+                "id": "ST05-011",
+                "number": "ST05-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Douglas Bullet",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-011.png",
+                "cost": "8",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "The Pirates Fest"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] [Once Per Turn] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 2 of your opponent's Characters with a cost of 6 or less. Then, this Character gains [Double Attack] during this turn.(This card deals 2 damage.)",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-011.png"
+            },
+            {
+                "id": "ST05-012",
+                "number": "ST05-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Baccarat",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-012.png",
+                "cost": "3",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "Grantesoro"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-012.png"
+            },
+            {
+                "id": "ST05-013",
+                "number": "ST05-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Bins",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-013.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "Neo Navy"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-013.png"
+            },
+            {
+                "id": "ST05-014",
+                "number": "ST05-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Buena Festa",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-014.png",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "The Pirates Fest"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {FILM} type card other than [Buena Festa] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-014.png"
+            },
+            {
+                "id": "ST05-015",
+                "number": "ST05-015",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Dr. Indigo",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-015.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "Scientist",
+                    "Golden Lion Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-015.png"
+            },
+            {
+                "id": "ST05-016",
+                "number": "ST05-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Lion's Threat Imperial Earth Bind",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-016.png",
+                "cost": "3",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "Golden Lion Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-016.png"
+            },
+            {
+                "id": "ST05-017",
+                "number": "ST05-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Union Armada",
+                "image_path": "images/ONEPIECEFILMeditionST05/ST05-017.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "The Pirates Fest"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] Up to 1 of your {FILM} type Leader or Character cards gains +4000 power during this battle. If that card is a Character, that Character cannot be K.O.'d during this turn.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-017.png"
+            }
+        ]
+    }
+}

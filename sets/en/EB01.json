@@ -1,0 +1,2054 @@
+{
+    "meta": {
+        "date": "2026-03-16",
+        "version": "1.0.0",
+        "set": 556201
+    },
+    "data": {
+        "code": "EB01",
+        "cards": [
+            {
+                "id": "EB01-001",
+                "number": "EB01-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kouzuki Oden",
+                "image_path": "images/MemorialCollectionEB01/EB01-001.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red",
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Kouzuki Clan"
+                ],
+                "block_icon": "2",
+                "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules.[DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-001.png"
+            },
+            {
+                "id": "EB01-001_p1",
+                "number": "EB01-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kouzuki Oden (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-001_p1.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red",
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Kouzuki Clan"
+                ],
+                "block_icon": "2",
+                "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules.[DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p1.png"
+            },
+            {
+                "id": "EB01-002",
+                "number": "EB01-002",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Izo",
+                "image_path": "images/MemorialCollectionEB01/EB01-002.png",
+                "cost": "5",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: If your Leader has the {Land of Wano} or {Whitebeard Pirates} type, give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-002.png"
+            },
+            {
+                "id": "EB01-003",
+                "number": "EB01-003",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kid & Killer",
+                "image_path": "images/MemorialCollectionEB01/EB01-003.png",
+                "cost": "4",
+                "attribute": [
+                    "Slash",
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "Kid Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.)[When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-003.png"
+            },
+            {
+                "id": "EB01-003_p1",
+                "number": "EB01-003",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kid & Killer (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-003_p1.png",
+                "cost": "4",
+                "attribute": [
+                    "Slash",
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "Kid Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.)[When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p1.png"
+            },
+            {
+                "id": "EB01-004",
+                "number": "EB01-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Koza",
+                "image_path": "images/MemorialCollectionEB01/EB01-004.png",
+                "cost": "2",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta"
+                ],
+                "block_icon": "2",
+                "effect": "[When Attacking] You may give your 1 active Leader −5000 power during this turn: Give up to 1 of your opponent's Characters −3000 power during this turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-004.png"
+            },
+            {
+                "id": "EB01-005",
+                "number": "EB01-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Doma",
+                "image_path": "images/MemorialCollectionEB01/EB01-005.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates Allies"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-005.png"
+            },
+            {
+                "id": "EB01-006",
+                "number": "EB01-006",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "image_path": "images/MemorialCollectionEB01/EB01-006.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Animal",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-006.png"
+            },
+            {
+                "id": "EB01-006_p1",
+                "number": "EB01-006",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-006_p1.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Animal",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p1.png"
+            },
+            {
+                "id": "EB01-006_p2",
+                "number": "EB01-006",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-006_p2.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Animal",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p2.png"
+            },
+            {
+                "id": "EB01-007",
+                "number": "EB01-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Yamato",
+                "image_path": "images/MemorialCollectionEB01/EB01-007.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Land of Wano"
+                ],
+                "block_icon": "2",
+                "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-007.png"
+            },
+            {
+                "id": "EB01-008",
+                "number": "EB01-008",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "LittleOars Jr.",
+                "image_path": "images/MemorialCollectionEB01/EB01-008.png",
+                "cost": "6",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Giant",
+                    "Whitebeard Pirates Allies"
+                ],
+                "block_icon": "2",
+                "effect": "[Once Per Turn] If this Character would be K.O.'d by an effect, you may trash 1 Event or Stage card from your hand instead.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-008.png"
+            },
+            {
+                "id": "EB01-009",
+                "number": "EB01-009",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Just Shut Up and Come with Us!!!!",
+                "image_path": "images/MemorialCollectionEB01/EB01-009.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Drum Kingdom",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[Counter] Look at 5 cards from the top of your deck and play up to 1 {Animal} type Character card with a cost of 3 or less. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-009.png"
+            },
+            {
+                "id": "EB01-010",
+                "number": "EB01-010",
+                "type": "R",
+                "class": "EVENT",
+                "name": "There's No Way You Could Defeat Me!!",
+                "image_path": "images/MemorialCollectionEB01/EB01-010.png",
+                "cost": "3",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 5000 base power or less.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Water Seven",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[Counter] K.O. up to 1 of your opponent's Characters with 6000 base power or less.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-010.png"
+            },
+            {
+                "id": "EB01-011",
+                "number": "EB01-011",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Mini-Merry",
+                "image_path": "images/MemorialCollectionEB01/EB01-011.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[Activate: Main] You may rest this card and place 1 of your Characters with 1000 base power at the bottom of your deck: Draw 1 card.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-011.png"
+            },
+            {
+                "id": "EB01-012",
+                "number": "EB01-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Cavendish",
+                "image_path": "images/MemorialCollectionEB01/EB01-012.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "Beautiful Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play]/[When Attacking] If your Leader has the {Supernovas} type and you have no other [Cavendish] Characters, set up to 2 of your DON!! cards as active.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-012.png"
+            },
+            {
+                "id": "EB01-012_p1",
+                "number": "EB01-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Cavendish (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-012_p1.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "Beautiful Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play]/[When Attacking] If your Leader has the {Supernovas} type and you have no other [Cavendish] Characters, set up to 2 of your DON!! cards as active.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-012_p1.png"
+            },
+            {
+                "id": "EB01-013",
+                "number": "EB01-013",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kouzuki Hiyori",
+                "image_path": "images/MemorialCollectionEB01/EB01-013.png",
+                "cost": "4",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Kouzuki Clan"
+                ],
+                "block_icon": "2",
+                "effect": "[Activate: Main] You may trash this Character: Play up to 1 {Land of Wano} type Character card with a cost of 5 or less other than [Kouzuki Hiyori] from your hand. Then, draw 1 card.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-013.png"
+            },
+            {
+                "id": "EB01-013_p1",
+                "number": "EB01-013",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kouzuki Hiyori (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-013_p1.png",
+                "cost": "4",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Kouzuki Clan"
+                ],
+                "block_icon": "2",
+                "effect": "[Activate: Main] You may trash this Character: Play up to 1 {Land of Wano} type Character card with a cost of 5 or less other than [Kouzuki Hiyori] from your hand. Then, draw 1 card.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-013_p1.png"
+            },
+            {
+                "id": "EB01-014",
+                "number": "EB01-014",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "image_path": "images/MemorialCollectionEB01/EB01-014.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[DON!! x1] [Your Turn] This Character gains +1000 power for every 3 of your rested DON!! cards.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-014.png"
+            },
+            {
+                "id": "EB01-015",
+                "number": "EB01-015",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Scratchmen Apoo",
+                "image_path": "images/MemorialCollectionEB01/EB01-015.png",
+                "cost": "1",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "On-Air Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-015.png"
+            },
+            {
+                "id": "EB01-016",
+                "number": "EB01-016",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bingoh",
+                "image_path": "images/MemorialCollectionEB01/EB01-016.png",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano"
+                ],
+                "block_icon": "2",
+                "effect": "[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's rested Characters with a cost of 1 or less.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-016.png"
+            },
+            {
+                "id": "EB01-017",
+                "number": "EB01-017",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Blueno",
+                "image_path": "images/MemorialCollectionEB01/EB01-017.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-017.png"
+            },
+            {
+                "id": "EB01-018",
+                "number": "EB01-018",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mountain God",
+                "image_path": "images/MemorialCollectionEB01/EB01-018.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Animal",
+                    "Land of Wano"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-018.png"
+            },
+            {
+                "id": "EB01-019",
+                "number": "EB01-019",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Off-White",
+                "image_path": "images/MemorialCollectionEB01/EB01-019.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, look at 3 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-019.png"
+            },
+            {
+                "id": "EB01-020",
+                "number": "EB01-020",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Chambres",
+                "image_path": "images/MemorialCollectionEB01/EB01-020.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Activate this card's [Main] effect.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "Heart Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[Main] If your Leader has the {Supernovas} type, return 1 of your Characters to the owner's hand, and play up to 1 Character card with a cost of 2 or less from your hand that is a different color than the returned Character.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-020.png"
+            },
+            {
+                "id": "EB01-021",
+                "number": "EB01-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Hannyabal",
+                "image_path": "images/MemorialCollectionEB01/EB01-021.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Blue",
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "2",
+                "effect": "[End of Your Turn] You may return 1 of your {Impel Down} type Characters with a cost of 2 or more to the owner's hand: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-021.png"
+            },
+            {
+                "id": "EB01-021_p1",
+                "number": "EB01-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Hannyabal (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-021_p1.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Blue",
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "2",
+                "effect": "[End of Your Turn] You may return 1 of your {Impel Down} type Characters with a cost of 2 or more to the owner's hand: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-021_p1.png"
+            },
+            {
+                "id": "EB01-022",
+                "number": "EB01-022",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Inazuma",
+                "image_path": "images/MemorialCollectionEB01/EB01-022.png",
+                "cost": "6",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "2",
+                "effect": "[End of Your Turn] If you have 2 or less cards in your hand, draw 2 cards.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-022.png"
+            },
+            {
+                "id": "EB01-022_p1",
+                "number": "EB01-022",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Inazuma (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-022_p1.png",
+                "cost": "6",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "2",
+                "effect": "[End of Your Turn] If you have 2 or less cards in your hand, draw 2 cards.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-022_p1.png"
+            },
+            {
+                "id": "EB01-023",
+                "number": "EB01-023",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Edward Weevil",
+                "image_path": "images/MemorialCollectionEB01/EB01-023.png",
+                "cost": "4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] Draw 1 card.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-023.png"
+            },
+            {
+                "id": "EB01-024",
+                "number": "EB01-024",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Hamlet",
+                "image_path": "images/MemorialCollectionEB01/EB01-024.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates",
+                    "SMILE"
+                ],
+                "block_icon": "2",
+                "effect": "If you have 4 or less cards in your hand, all of your {SMILE} type Characters gain +1000 power.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-024.png"
+            },
+            {
+                "id": "EB01-025",
+                "number": "EB01-025",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Fourtricks",
+                "image_path": "images/MemorialCollectionEB01/EB01-025.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates",
+                    "SMILE"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-025.png"
+            },
+            {
+                "id": "EB01-026",
+                "number": "EB01-026",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Prince Bellett",
+                "image_path": "images/MemorialCollectionEB01/EB01-026.png",
+                "cost": "2",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "2",
+                "effect": "[DON!! x1] [When Attacking] If you have 1 or less cards in your hand, return up to 1 Character with a cost of 3 or less to the owner's hand.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-026.png"
+            },
+            {
+                "id": "EB01-027",
+                "number": "EB01-027",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.1(Daz.Bonez)",
+                "image_path": "images/MemorialCollectionEB01/EB01-027.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "2",
+                "effect": "If your Leader's type includes \"Baroque Works\", this Character gains +1000 power for every 2 Events in your trash.[On Play] Draw 2 cards and trash 1 card from your hand.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-027.png"
+            },
+            {
+                "id": "EB01-027_p1",
+                "number": "EB01-027",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.1(Daz.Bonez) (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-027_p1.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "2",
+                "effect": "If your Leader's type includes \"Baroque Works\", this Character gains +1000 power for every 2 Events in your trash.[On Play] Draw 2 cards and trash 1 card from your hand.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-027_p1.png"
+            },
+            {
+                "id": "EB01-028",
+                "number": "EB01-028",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Gum-Gum Champion Rifle",
+                "image_path": "images/MemorialCollectionEB01/EB01-028.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the bottom of the owner's deck.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[Counter] If your Leader has the {Impel Down} type, up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, your opponent returns 1 of their active Characters to the owner's hand.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-028.png"
+            },
+            {
+                "id": "EB01-029",
+                "number": "EB01-029",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Sorry. I'm a Goner.",
+                "image_path": "images/MemorialCollectionEB01/EB01-029.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Return up to 1 Character with a cost of 8 or less to the owner's hand.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "East Blue",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[Counter] Reveal 1 card from the top of your deck. If the revealed card has a cost of 4 or more, return up to 1 of your Characters to the owner's hand. Then, place the revealed card at the bottom of your deck.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-029.png"
+            },
+            {
+                "id": "EB01-030",
+                "number": "EB01-030",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Loguetown",
+                "image_path": "images/MemorialCollectionEB01/EB01-030.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Play this card.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "East Blue"
+                ],
+                "block_icon": "2",
+                "effect": "[Activate: Main] You may place this card and 1 card from your hand at the bottom of your deck in any order: Draw 2 cards.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-030.png"
+            },
+            {
+                "id": "EB01-031",
+                "number": "EB01-031",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kalifa",
+                "image_path": "images/MemorialCollectionEB01/EB01-031.png",
+                "cost": "5",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Water Seven",
+                    "Galley-La Company"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, add up to 2 Character cards with a cost of 4 or less from your trash to your hand.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-031.png"
+            },
+            {
+                "id": "EB01-031_p1",
+                "number": "EB01-031",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kalifa (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-031_p1.png",
+                "cost": "5",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Water Seven",
+                    "Galley-La Company"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, add up to 2 Character cards with a cost of 4 or less from your trash to your hand.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-031_p1.png"
+            },
+            {
+                "id": "EB01-032",
+                "number": "EB01-032",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Army Wolves",
+                "image_path": "images/MemorialCollectionEB01/EB01-032.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Animal",
+                    "Impel Down"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-032.png"
+            },
+            {
+                "id": "EB01-033",
+                "number": "EB01-033",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Blueno",
+                "image_path": "images/MemorialCollectionEB01/EB01-033.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Water Seven"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, play up to 1 {Water Seven} type Character card with a cost of 5 other than [Blueno] from your hand or trash.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-033.png"
+            },
+            {
+                "id": "EB01-034",
+                "number": "EB01-034",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Ms. Wednesday",
+                "image_path": "images/MemorialCollectionEB01/EB01-034.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "2",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-034.png"
+            },
+            {
+                "id": "EB01-034_p1",
+                "number": "EB01-034",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Ms. Wednesday (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-034_p1.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "2",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-034_p1.png"
+            },
+            {
+                "id": "EB01-035",
+                "number": "EB01-035",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ms. Monday",
+                "image_path": "images/MemorialCollectionEB01/EB01-035.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "[Trigger] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] If your Leader's type includes \"Baroque Works\", up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-035.png"
+            },
+            {
+                "id": "EB01-036",
+                "number": "EB01-036",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Minochihuahua",
+                "image_path": "images/MemorialCollectionEB01/EB01-036.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Jailer Beast"
+                ],
+                "block_icon": "2",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.)[On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-036.png"
+            },
+            {
+                "id": "EB01-037",
+                "number": "EB01-037",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr. 9",
+                "image_path": "images/MemorialCollectionEB01/EB01-037.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "2",
+                "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-037.png"
+            },
+            {
+                "id": "EB01-038",
+                "number": "EB01-038",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Oh Come My Way",
+                "image_path": "images/MemorialCollectionEB01/EB01-038.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] DON!! −1: Draw 2 cards.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "2",
+                "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", select 1 of your Characters. Change the attack target to the selected Character.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-038.png"
+            },
+            {
+                "id": "EB01-039",
+                "number": "EB01-039",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Conquerer of Three Worlds Ragnaraku",
+                "image_path": "images/MemorialCollectionEB01/EB01-039.png",
+                "cost": "5",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 8 or less.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-039.png"
+            },
+            {
+                "id": "EB01-040",
+                "number": "EB01-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kyros",
+                "image_path": "images/MemorialCollectionEB01/EB01-040.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Black",
+                    "Yellow"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "2",
+                "effect": "[Activate: Main] [Once Per Turn] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-040.png"
+            },
+            {
+                "id": "EB01-040_p1",
+                "number": "EB01-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kyros (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-040_p1.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Black",
+                    "Yellow"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "2",
+                "effect": "[Activate: Main] [Once Per Turn] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-040_p1.png"
+            },
+            {
+                "id": "EB01-041",
+                "number": "EB01-041",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Crocus",
+                "image_path": "images/MemorialCollectionEB01/EB01-041.png",
+                "cost": "6",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Former Roger Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-041.png"
+            },
+            {
+                "id": "EB01-042",
+                "number": "EB01-042",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Scarlet",
+                "image_path": "images/MemorialCollectionEB01/EB01-042.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "2",
+                "effect": "[Activate: Main] You may trash this Character: Play up to 1 {Dressrosa} type Character card with a cost of 3 or less other than [Scarlet] from your hand rested. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-042.png"
+            },
+            {
+                "id": "EB01-043",
+                "number": "EB01-043",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Spandine",
+                "image_path": "images/MemorialCollectionEB01/EB01-043.png",
+                "cost": "3",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] You may place 3 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: Play up to 1 Character card with a type including \"CP\" and a cost of 4 or less other than [Spandine] from your trash rested.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-043.png"
+            },
+            {
+                "id": "EB01-044",
+                "number": "EB01-044",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Funkfreed",
+                "image_path": "images/MemorialCollectionEB01/EB01-044.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "2",
+                "effect": "[Activate: Main] You may rest this Character: Up to 1 of your [Spandam] Characters gains +3000 power during this turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-044.png"
+            },
+            {
+                "id": "EB01-045",
+                "number": "EB01-045",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "image_path": "images/MemorialCollectionEB01/EB01-045.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Rumbar Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] If your opponent has a Character with a cost of 0, this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-045.png"
+            },
+            {
+                "id": "EB01-046",
+                "number": "EB01-046",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "image_path": "images/MemorialCollectionEB01/EB01-046.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play]/[When Attacking] Give up to 1 of your opponent's Characters −1 cost during this turn. Then, K.O. up to 1 of your opponent's Characters with a cost of 0.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-046.png"
+            },
+            {
+                "id": "EB01-046_p1",
+                "number": "EB01-046",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Brook (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-046_p1.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play]/[When Attacking] Give up to 1 of your opponent's Characters −1 cost during this turn. Then, K.O. up to 1 of your opponent's Characters with a cost of 0.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-046_p1.png"
+            },
+            {
+                "id": "EB01-047",
+                "number": "EB01-047",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Laboon",
+                "image_path": "images/MemorialCollectionEB01/EB01-047.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Animal"
+                ],
+                "block_icon": "2",
+                "effect": "[Once Per Turn] When a Character is K.O.'d, draw 1 card and trash 1 card from your hand.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-047.png"
+            },
+            {
+                "id": "EB01-048",
+                "number": "EB01-048",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Laboon",
+                "image_path": "images/MemorialCollectionEB01/EB01-048.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Animal"
+                ],
+                "block_icon": "2",
+                "effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −4 cost during this turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-048.png"
+            },
+            {
+                "id": "EB01-048_p1",
+                "number": "EB01-048",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Laboon (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-048_p1.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Animal"
+                ],
+                "block_icon": "2",
+                "effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −4 cost during this turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-048_p1.png"
+            },
+            {
+                "id": "EB01-049",
+                "number": "EB01-049",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "T-Bone",
+                "image_path": "images/MemorialCollectionEB01/EB01-049.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Water Seven",
+                    "Navy"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-049.png"
+            },
+            {
+                "id": "EB01-049_p1",
+                "number": "EB01-049",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "T-Bone (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-049_p1.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Water Seven",
+                    "Navy"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-049_p1.png"
+            },
+            {
+                "id": "EB01-050",
+                "number": "EB01-050",
+                "type": "C",
+                "class": "EVENT",
+                "name": "...I Want to Live!!",
+                "image_path": "images/MemorialCollectionEB01/EB01-050.png",
+                "cost": "3",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[Counter] If you have 30 or more cards in your trash, add up to 1 card from the top of your deck to the top of your Life cards.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-050.png"
+            },
+            {
+                "id": "EB01-051",
+                "number": "EB01-051",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Finger Pistol",
+                "image_path": "images/MemorialCollectionEB01/EB01-051.png",
+                "cost": "4",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Activate this card's [Main] effect.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "2",
+                "effect": "[Main] You may trash 2 cards from the top of your deck: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-051.png"
+            },
+            {
+                "id": "EB01-052",
+                "number": "EB01-052",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Viola",
+                "image_path": "images/MemorialCollectionEB01/EB01-052.png",
+                "cost": "2",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "2",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Choose one:• Look at all of your opponent's Life cards and place them back in their Life area in any order.• Turn all of your Life cards face-down.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-052.png"
+            },
+            {
+                "id": "EB01-052_p1",
+                "number": "EB01-052",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Viola (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-052_p1.png",
+                "cost": "2",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "2",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Choose one:• Look at all of your opponent's Life cards and place them back in their Life area in any order.• Turn all of your Life cards face-down.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-052_p1.png"
+            },
+            {
+                "id": "EB01-053",
+                "number": "EB01-053",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gastino",
+                "image_path": "images/MemorialCollectionEB01/EB01-053.png",
+                "cost": "3",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "[Trigger] Give up to a total of 2 of your opponent's Leader or Character cards −3000 power during this turn.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Scientist"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] Place up to 1 of your opponent's Characters with a cost of 3 or less at the top or bottom of your opponent's Life cards face-up.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-053.png"
+            },
+            {
+                "id": "EB01-054",
+                "number": "EB01-054",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Gan.Fall",
+                "image_path": "images/MemorialCollectionEB01/EB01-054.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Sky Island"
+                ],
+                "block_icon": "2",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If your opponent has 1 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-054.png"
+            },
+            {
+                "id": "EB01-055",
+                "number": "EB01-055",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Charlotte Compote",
+                "image_path": "images/MemorialCollectionEB01/EB01-055.png",
+                "cost": "7",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Big Mom Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-055.png"
+            },
+            {
+                "id": "EB01-056",
+                "number": "EB01-056",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Flampe",
+                "image_path": "images/MemorialCollectionEB01/EB01-056.png",
+                "cost": "1",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Big Mom Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Draw 1 card.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-056.png"
+            },
+            {
+                "id": "EB01-056_p1",
+                "number": "EB01-056",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Flampe (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-056_p1.png",
+                "cost": "1",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Big Mom Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Draw 1 card.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-056_p1.png"
+            },
+            {
+                "id": "EB01-057",
+                "number": "EB01-057",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Shirahoshi",
+                "image_path": "images/MemorialCollectionEB01/EB01-057.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Merfolk"
+                ],
+                "block_icon": "2",
+                "effect": "When this Character is K.O.'d by your opponent's effect, add up to 1 card from the top of your deck to the top of your Life cards.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-057.png"
+            },
+            {
+                "id": "EB01-057_p1",
+                "number": "EB01-057",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Shirahoshi (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-057_p1.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Merfolk"
+                ],
+                "block_icon": "2",
+                "effect": "When this Character is K.O.'d by your opponent's effect, add up to 1 card from the top of your deck to the top of your Life cards.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-057_p1.png"
+            },
+            {
+                "id": "EB01-058",
+                "number": "EB01-058",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mont Blanc Cricket",
+                "image_path": "images/MemorialCollectionEB01/EB01-058.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Monkey Mountain Alliance"
+                ],
+                "block_icon": "2",
+                "effect": "[DON!! x1] [Your Turn] If you have 2 or less Life cards, this Character gains +2000 power.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-058.png"
+            },
+            {
+                "id": "EB01-059",
+                "number": "EB01-059",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Kingdom Come",
+                "image_path": "images/MemorialCollectionEB01/EB01-059.png",
+                "cost": "6",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the total of your and your opponent's Life cards.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Sky Island"
+                ],
+                "block_icon": "2",
+                "effect": "[Main] K.O. up to 1 of your opponent's Characters. Then, trash cards from the top of your Life cards until you have 1 Life card.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-059.png"
+            },
+            {
+                "id": "EB01-060",
+                "number": "EB01-060",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Did Someone Say...Kami?",
+                "image_path": "images/MemorialCollectionEB01/EB01-060.png",
+                "cost": "4",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Sky Island"
+                ],
+                "block_icon": "2",
+                "effect": "[Main] Play up to 1 [Enel] with a cost of 7 or less from your hand or trash. Then, trash cards from the top of your Life cards until you have 1 Life card.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-060.png"
+            },
+            {
+                "id": "EB01-061",
+                "number": "EB01-061",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Mr.2.Bon.Kurei(Bentham)",
+                "image_path": "images/MemorialCollectionEB01/EB01-061.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Former Baroque Works"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.[When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-061.png"
+            },
+            {
+                "id": "EB01-061_p1",
+                "number": "EB01-061",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Mr.2.Bon.Kurei(Bentham) (Parallel)",
+                "image_path": "images/MemorialCollectionEB01/EB01-061_p1.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Former Baroque Works"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.[When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-061_p1.png"
+            }
+        ]
+    }
+}

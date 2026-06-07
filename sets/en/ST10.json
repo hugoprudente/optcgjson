@@ -1,0 +1,493 @@
+{
+    "meta": {
+        "date": "2026-03-16",
+        "version": "1.0.0",
+        "set": 556010
+    },
+    "data": {
+        "code": "ST10",
+        "cards": [
+            {
+                "id": "OP01-016_p3",
+                "number": "OP01-016",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Nami (Parallel)",
+                "image_path": "images/TheThreeCaptainsST10/OP01-016_p3.png",
+                "cost": "1",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p3.png"
+            },
+            {
+                "id": "OP01-025_p2",
+                "number": "OP01-025",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro (Parallel)",
+                "image_path": "images/TheThreeCaptainsST10/OP01-025_p2.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.)",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-025_p2.png"
+            },
+            {
+                "id": "ST10-001",
+                "number": "ST10-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Trafalgar Law",
+                "image_path": "images/TheThreeCaptainsST10/ST10-001.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red",
+                    "Purple"
+                ],
+                "feature": [
+                    "Heart Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[Activate: Main] [Once Per Turn] DON!! −3 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Place up to 1 of your opponent's Characters with 3000 power or less at the bottom of the owner's deck, and play up to 1 Character card with a cost of 4 or less from your hand.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-001.png"
+            },
+            {
+                "id": "ST10-002",
+                "number": "ST10-002",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "image_path": "images/TheThreeCaptainsST10/ST10-002.png",
+                "cost": "Life3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Red",
+                    "Purple"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[Activate: Main] [Once Per Turn] If you have 0 DON!! cards on your field or 8 or more DON!! cards on your field, add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-002.png"
+            },
+            {
+                "id": "ST10-003",
+                "number": "ST10-003",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Eustass\"Captain\"Kid",
+                "image_path": "images/TheThreeCaptainsST10/ST10-003.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red",
+                    "Purple"
+                ],
+                "feature": [
+                    "Kid Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[Your Turn] If you have 4 or more Life cards, give this Leader −1000 power.[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Leader gains +2000 power during this turn.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-003.png"
+            },
+            {
+                "id": "ST10-004",
+                "number": "ST10-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "image_path": "images/TheThreeCaptainsST10/ST10-004.png",
+                "cost": "6",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] If your opponent has a Character with 5000 or more power, this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-004.png"
+            },
+            {
+                "id": "ST10-005",
+                "number": "ST10-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "image_path": "images/TheThreeCaptainsST10/ST10-005.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Fish-Man",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-005.png"
+            },
+            {
+                "id": "ST10-006",
+                "number": "ST10-006",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "image_path": "images/TheThreeCaptainsST10/ST10-006.png",
+                "cost": "10",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "11000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.)[Once Per Turn] When your opponent activates a [Blocker], K.O. up to 1 of your opponent's Characters with 8000 power or less.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-006.png"
+            },
+            {
+                "id": "ST10-007",
+                "number": "ST10-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Killer",
+                "image_path": "images/TheThreeCaptainsST10/ST10-007.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Kid Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-007.png"
+            },
+            {
+                "id": "ST10-008",
+                "number": "ST10-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Shachi & Penguin",
+                "image_path": "images/TheThreeCaptainsST10/ST10-008.png",
+                "cost": "4",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Heart Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] If you have 3 or less DON!! cards on your field, add up to 2 DON!! cards from your DON!! deck and rest them.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-008.png"
+            },
+            {
+                "id": "ST10-009",
+                "number": "ST10-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jean Bart",
+                "image_path": "images/TheThreeCaptainsST10/ST10-009.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Heart Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play] ➀ (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-009.png"
+            },
+            {
+                "id": "ST10-010",
+                "number": "ST10-010",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "image_path": "images/TheThreeCaptainsST10/ST10-010.png",
+                "cost": "4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Heart Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 7 or more cards in their hand, trash 2 cards from your opponent's hand.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-010.png"
+            },
+            {
+                "id": "ST10-011",
+                "number": "ST10-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Heat",
+                "image_path": "images/TheThreeCaptainsST10/ST10-011.png",
+                "cost": "3",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Kid Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, this Character gains +2000 power until the start of your next turn.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-011.png"
+            },
+            {
+                "id": "ST10-012",
+                "number": "ST10-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bepo",
+                "image_path": "images/TheThreeCaptainsST10/ST10-012.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Minks",
+                    "Heart Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play]/[When Attacking] If your opponent has more DON!! cards on their field than you, add up to 1 DON!! card from your DON!! deck and rest it.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-012.png"
+            },
+            {
+                "id": "ST10-013",
+                "number": "ST10-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Eustass\"Captain\"Kid",
+                "image_path": "images/TheThreeCaptainsST10/ST10-013.png",
+                "cost": "7",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Kid Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[On Play]/[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader gains +1000 power until the start of your next turn.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-013.png"
+            },
+            {
+                "id": "ST10-014",
+                "number": "ST10-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Wire",
+                "image_path": "images/TheThreeCaptainsST10/ST10-014.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Kid Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, draw 1 card and trash 1 card from your hand.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-014.png"
+            },
+            {
+                "id": "ST10-015",
+                "number": "ST10-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Giant Sumo Slap",
+                "image_path": "images/TheThreeCaptainsST10/ST10-015.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle, and K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-015.png"
+            },
+            {
+                "id": "ST10-016",
+                "number": "ST10-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Kong Gatling",
+                "image_path": "images/TheThreeCaptainsST10/ST10-016.png",
+                "cost": "5",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Up to 1 of your Leader gains +1000 power until the end of your next turn.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[Main] K.O. up to 1 of your opponent's Characters with 7000 power or less.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-016.png"
+            },
+            {
+                "id": "ST10-017",
+                "number": "ST10-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Punk Vise",
+                "image_path": "images/TheThreeCaptainsST10/ST10-017.png",
+                "cost": "3",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Kid Pirates"
+                ],
+                "block_icon": "2",
+                "effect": "[Main] Rest up to 1 of your opponent's Characters with a cost of 2 or less, and add up to 1 DON!! card from your DON!! deck and rest it.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-017.png"
+            }
+        ]
+    }
+}

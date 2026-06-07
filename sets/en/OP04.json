@@ -1,0 +1,3814 @@
+{
+    "meta": {
+        "date": "2026-03-16",
+        "version": "1.0.0",
+        "set": 556104
+    },
+    "data": {
+        "code": "OP04",
+        "cards": [
+            {
+                "id": "OP04-001",
+                "number": "OP04-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Nefeltari Vivi",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-001.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red",
+                    "Blue"
+                ],
+                "feature": [
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "This Leader cannot attack.[Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Draw 1 card and up to 1 of your Characters gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-001.png"
+            },
+            {
+                "id": "OP04-001_p1",
+                "number": "OP04-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Nefeltari Vivi (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-001_p1.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red",
+                    "Blue"
+                ],
+                "feature": [
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "This Leader cannot attack.[Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Draw 1 card and up to 1 of your Characters gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-001_p1.png"
+            },
+            {
+                "id": "OP04-002",
+                "number": "OP04-002",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Igaram",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-002.png",
+                "cost": "2",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may rest this Character and give your 1 active Leader −5000 power during this turn: Look at 5 cards from the top of your deck; reveal up to 1 {Alabasta} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-002.png"
+            },
+            {
+                "id": "OP04-003",
+                "number": "OP04-003",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-003.png",
+                "cost": "4",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[On K.O.] K.O. up to 1 of your opponent's Characters with 5000 base power or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-003.png"
+            },
+            {
+                "id": "OP04-004",
+                "number": "OP04-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Karoo",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-004.png",
+                "cost": "1",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Animal",
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may rest this Character: Give up to 1 rested DON!! card to each of your {Alabasta} type Characters.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-004.png"
+            },
+            {
+                "id": "OP04-005",
+                "number": "OP04-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kung Fu Jugon",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-005.png",
+                "cost": "1",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Animal",
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "If you have a [Kung Fu Jugon] other than this Character, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-005.png"
+            },
+            {
+                "id": "OP04-006",
+                "number": "OP04-006",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Koza",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-006.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "[When Attacking] You may give your 1 active Leader −5000 power during this turn: This Character gains +2000 power until the start of your next turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-006.png"
+            },
+            {
+                "id": "OP04-007",
+                "number": "OP04-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-007.png",
+                "cost": "1",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-007.png"
+            },
+            {
+                "id": "OP04-008",
+                "number": "OP04-008",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Chaka",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-008.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [When Attacking] If your Leader is [Nefeltari Vivi], give up to 1 of your opponent's Characters −3000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 0 power or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-008.png"
+            },
+            {
+                "id": "OP04-009",
+                "number": "OP04-009",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Super Spot-Billed Duck Troops",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-009.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Animal",
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "[When Attacking] You may give your 1 active Leader −5000 power during this turn: Return this Character to the owner's hand at the end of this turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-009.png"
+            },
+            {
+                "id": "OP04-010",
+                "number": "OP04-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-010.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Animal",
+                    "Alabasta",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Play up to 1 {Animal} type Character card with 3000 power or less from your hand.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-010.png"
+            },
+            {
+                "id": "OP04-011",
+                "number": "OP04-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-011.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[When Attacking] Reveal 1 card from the top of your deck. If the revealed card is a Character card with 6000 power or more, this Character gains +3000 power during this turn. Then, place the revealed card at the bottom of your deck.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-011.png"
+            },
+            {
+                "id": "OP04-012",
+                "number": "OP04-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nefeltari Cobra",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-012.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "[Your Turn] All of your {Alabasta} type Characters other than this Character gain +1000 power.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-012.png"
+            },
+            {
+                "id": "OP04-013",
+                "number": "OP04-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Pell",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-013.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-013.png"
+            },
+            {
+                "id": "OP04-013_p1",
+                "number": "OP04-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Pell (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-013_p1.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-013_p1.png"
+            },
+            {
+                "id": "OP04-014",
+                "number": "OP04-014",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-014.png",
+                "cost": "8",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-014.png"
+            },
+            {
+                "id": "OP04-015",
+                "number": "OP04-015",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-015.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-015.png"
+            },
+            {
+                "id": "OP04-016",
+                "number": "OP04-016",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Bad Manners Kick Course",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-016.png",
+                "cost": "-",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-016.png"
+            },
+            {
+                "id": "OP04-017",
+                "number": "OP04-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Happiness Punch",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-017.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] Give up to 1 of your opponent's Leader or Character cards −2000 power during this turn. Then, if your Leader is active, give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-017.png"
+            },
+            {
+                "id": "OP04-018",
+                "number": "OP04-018",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Enchanting Vertigo Dance",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-018.png",
+                "cost": "3",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Activate this card's [Main] effect.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] If your Leader has the {Alabasta} type, give up to 2 of your opponent's Characters −2000 power during this turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-018.png"
+            },
+            {
+                "id": "OP04-019",
+                "number": "OP04-019",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Donquixote Doflamingo",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-019.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Green",
+                    "Purple"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[End of Your Turn] Set up to 2 of your DON!! cards as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-019.png"
+            },
+            {
+                "id": "OP04-019_p1",
+                "number": "OP04-019",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Donquixote Doflamingo (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-019_p1.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Green",
+                    "Purple"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[End of Your Turn] Set up to 2 of your DON!! cards as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-019_p1.png"
+            },
+            {
+                "id": "OP04-020",
+                "number": "OP04-020",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Issho",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-020.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Green",
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [Your Turn] Give all of your opponent's Characters −1 cost.[End of Your Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Set up to 1 of your Characters with a cost of 5 or less as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-020.png"
+            },
+            {
+                "id": "OP04-020_p1",
+                "number": "OP04-020",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Issho (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-020_p1.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Green",
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [Your Turn] Give all of your opponent's Characters −1 cost.[End of Your Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Set up to 1 of your Characters with a cost of 5 or less as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-020_p1.png"
+            },
+            {
+                "id": "OP04-021",
+                "number": "OP04-021",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Viola",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-021.png",
+                "cost": "3",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Your Opponent's Attack] ➁ (You may rest the specified number of DON!! cards in your cost area.): Rest up to 1 of your opponent's DON!! cards.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-021.png"
+            },
+            {
+                "id": "OP04-022",
+                "number": "OP04-022",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Eric",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-022.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "East Blue"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may rest this Character: Rest up to 1 of your opponent's Characters with a cost of 1 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-022.png"
+            },
+            {
+                "id": "OP04-023",
+                "number": "OP04-023",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kuro",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-023.png",
+                "cost": "6",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "East Blue",
+                    "Black Cat Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-023.png"
+            },
+            {
+                "id": "OP04-024",
+                "number": "OP04-024",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sugar",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-024.png",
+                "cost": "2",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Opponent's Turn] [Once Per Turn] When your opponent plays a Character, if your Leader has the {Donquixote Pirates} type, rest up to 1 of your opponent's Characters. Then, rest this Character.[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-024.png"
+            },
+            {
+                "id": "OP04-024_p1",
+                "number": "OP04-024",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sugar (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-024_p1.png",
+                "cost": "2",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Opponent's Turn] [Once Per Turn] When your opponent plays a Character, if your Leader has the {Donquixote Pirates} type, rest up to 1 of your opponent's Characters. Then, rest this Character.[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-024_p1.png"
+            },
+            {
+                "id": "OP04-025",
+                "number": "OP04-025",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Giolla",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-025.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Your Opponent's Attack] ➁ (You may rest the specified number of DON!! cards in your cost area.): Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-025.png"
+            },
+            {
+                "id": "OP04-026",
+                "number": "OP04-026",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Senor Pink",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-026.png",
+                "cost": "3",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[When Attacking] ➀ (You may rest the specified number of DON!! cards in your cost area.): If your Leader has the {Donquixote Pirates} type, rest up to 1 of your opponent's Characters with a cost of 4 or less. Then, set up to 1 of your DON!! cards as active at the end of this turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-026.png"
+            },
+            {
+                "id": "OP04-027",
+                "number": "OP04-027",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Daddy Masterson",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-027.png",
+                "cost": "4",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "East Blue",
+                    "Former Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [End of Your Turn] Set this Character as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-027.png"
+            },
+            {
+                "id": "OP04-028",
+                "number": "OP04-028",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Diamante",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-028.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] [End of Your Turn] If you have 2 or more active DON!! cards, set this Character as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-028.png"
+            },
+            {
+                "id": "OP04-028_p1",
+                "number": "OP04-028",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Diamante (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-028_p1.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] [End of Your Turn] If you have 2 or more active DON!! cards, set this Character as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-028_p1.png"
+            },
+            {
+                "id": "OP04-029",
+                "number": "OP04-029",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Dellinger",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-029.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-029.png"
+            },
+            {
+                "id": "OP04-030",
+                "number": "OP04-030",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Trebol",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-030.png",
+                "cost": "6",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.[On Your Opponent's Attack] ➁ (You may rest the specified number of DON!! cards in your cost area.): Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-030.png"
+            },
+            {
+                "id": "OP04-030_p1",
+                "number": "OP04-030",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Trebol (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-030_p1.png",
+                "cost": "6",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.[On Your Opponent's Attack] ➁ (You may rest the specified number of DON!! cards in your cost area.): Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-030_p1.png"
+            },
+            {
+                "id": "OP04-031",
+                "number": "OP04-031",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Donquixote Doflamingo",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-031.png",
+                "cost": "10",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Up to a total of 3 of your opponent's rested Leader and Character cards will not become active in your opponent's next Refresh Phase.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-031.png"
+            },
+            {
+                "id": "OP04-031_p1",
+                "number": "OP04-031",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Donquixote Doflamingo (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-031_p1.png",
+                "cost": "10",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Up to a total of 3 of your opponent's rested Leader and Character cards will not become active in your opponent's next Refresh Phase.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-031_p1.png"
+            },
+            {
+                "id": "OP04-032",
+                "number": "OP04-032",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Baby 5",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-032.png",
+                "cost": "1",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[End of Your Turn] You may trash this Character: Set up to 2 of your DON!! cards as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-032.png"
+            },
+            {
+                "id": "OP04-033",
+                "number": "OP04-033",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Machvise",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-033.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] If your Leader has the {Donquixote Pirates} type, rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, set up to 1 of your DON!! cards as active at the end of this turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-033.png"
+            },
+            {
+                "id": "OP04-034",
+                "number": "OP04-034",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Lao.G",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-034.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[End of Your Turn] If you have 3 or more active DON!! cards, K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-034.png"
+            },
+            {
+                "id": "OP04-035",
+                "number": "OP04-035",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Spiderweb",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-035.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Up to 1 of your Leader gains +2000 power during this turn.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, set up to 1 of your Characters as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-035.png"
+            },
+            {
+                "id": "OP04-036",
+                "number": "OP04-036",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Donquixote Family",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-036.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Activate this card's [Counter] effect.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] Look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-036.png"
+            },
+            {
+                "id": "OP04-037",
+                "number": "OP04-037",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Flapping Thread",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-037.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] If your Leader has the {Donquixote Pirates} type, up to 1 of your Leader or Character cards gains +2000 power during this turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-037.png"
+            },
+            {
+                "id": "OP04-038",
+                "number": "OP04-038",
+                "type": "C",
+                "class": "EVENT",
+                "name": "The Weak Do Not Have the Right to Choose How They Die!!!",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-038.png",
+                "cost": "5",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Set up to 5 of your DON!! cards as active.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Main]/[Counter] Rest up to 1 of your opponent's Leader or Character cards. Then, K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-038.png"
+            },
+            {
+                "id": "OP04-039",
+                "number": "OP04-039",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Rebecca",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-039.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Blue",
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "1",
+                "effect": "This Leader cannot attack.[Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): If you have 6 or less cards in your hand, look at 2 cards from the top of your deck; reveal up to 1 {Dressrosa} type card and add it to your hand. Then, trash the rest.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-039.png"
+            },
+            {
+                "id": "OP04-039_p1",
+                "number": "OP04-039",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Rebecca (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-039_p1.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Blue",
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "1",
+                "effect": "This Leader cannot attack.[Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): If you have 6 or less cards in your hand, look at 2 cards from the top of your deck; reveal up to 1 {Dressrosa} type card and add it to your hand. Then, trash the rest.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-039_p1.png"
+            },
+            {
+                "id": "OP04-040",
+                "number": "OP04-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Queen",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-040.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Blue",
+                    "Yellow"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [When Attacking] If you have a total of 4 or less cards in your Life area and hand, draw 1 card. If you have a Character with a cost of 8 or more, you may add up to 1 card from the top of your deck to the top of your Life cards instead of drawing 1 card.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-040.png"
+            },
+            {
+                "id": "OP04-040_p1",
+                "number": "OP04-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Queen (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-040_p1.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Blue",
+                    "Yellow"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [When Attacking] If you have a total of 4 or less cards in your Life area and hand, draw 1 card. If you have a Character with a cost of 8 or more, you may add up to 1 card from the top of your deck to the top of your Life cards instead of drawing 1 card.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-040_p1.png"
+            },
+            {
+                "id": "OP04-041",
+                "number": "OP04-041",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Apis",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-041.png",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "East Blue"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] You may trash 2 cards from your hand: Look at 5 cards from the top of your deck; reveal up to 1 {East Blue} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-041.png"
+            },
+            {
+                "id": "OP04-042",
+                "number": "OP04-042",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ipponmatsu",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-042.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "East Blue"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Up to 1 of your <Slash> attribute Characters gains +3000 power during this turn. Then, trash 1 card from the top of your deck.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-042.png"
+            },
+            {
+                "id": "OP04-043",
+                "number": "OP04-043",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Ulti",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-043.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [When Attacking] Return up to 1 Character with a cost of 2 or less to the owner's hand or the bottom of their deck.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-043.png"
+            },
+            {
+                "id": "OP04-044",
+                "number": "OP04-044",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kaido",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-044.png",
+                "cost": "10",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Return up to 1 Character with a cost of 8 or less and up to 1 Character with a cost of 3 or less to the owner's hand.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-044.png"
+            },
+            {
+                "id": "OP04-044_p1",
+                "number": "OP04-044",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kaido (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-044_p1.png",
+                "cost": "10",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Return up to 1 Character with a cost of 8 or less and up to 1 Character with a cost of 3 or less to the owner's hand.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-044_p1.png"
+            },
+            {
+                "id": "OP04-045",
+                "number": "OP04-045",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "King",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-045.png",
+                "cost": "7",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Draw 1 card.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-045.png"
+            },
+            {
+                "id": "OP04-046",
+                "number": "OP04-046",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Queen",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-046.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] If your Leader has the {Animal Kingdom Pirates} type, look at 7 cards from the top of your deck; reveal a total of up to 2 [Plague Rounds] or [Ice Oni] cards and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-046.png"
+            },
+            {
+                "id": "OP04-047",
+                "number": "OP04-047",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ice Oni",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-047.png",
+                "cost": "8",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Plague",
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Your Turn] At the end of a battle in which this Character battles your opponent's Character with a cost of 5 or less, place the opponent's Character you battled with at the bottom of the owner's deck.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-047.png"
+            },
+            {
+                "id": "OP04-048",
+                "number": "OP04-048",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Sasaki",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-048.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Return all cards in your hand to your deck and shuffle your deck. Then, draw cards equal to the number you returned to your deck.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-048.png"
+            },
+            {
+                "id": "OP04-049",
+                "number": "OP04-049",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Jack",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-049.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On K.O.] Draw 1 card.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-049.png"
+            },
+            {
+                "id": "OP04-050",
+                "number": "OP04-050",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Hanger",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-050.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "East Blue"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Character: Draw 1 card.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-050.png"
+            },
+            {
+                "id": "OP04-051",
+                "number": "OP04-051",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Who's.Who",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-051.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Animal Kingdom Pirates} type card other than [Who's.Who] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-051.png"
+            },
+            {
+                "id": "OP04-051_p1",
+                "number": "OP04-051",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Who's.Who (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-051_p1.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Animal Kingdom Pirates} type card other than [Who's.Who] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-051_p1.png"
+            },
+            {
+                "id": "OP04-052",
+                "number": "OP04-052",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Black Maria",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-052.png",
+                "cost": "3",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "[Trigger] Play this card.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] ➁ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Draw 1 card.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-052.png"
+            },
+            {
+                "id": "OP04-053",
+                "number": "OP04-053",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Page One",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-053.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [Once Per Turn] When you activate an Event, draw 1 card. Then, place 1 card from your hand at the bottom of your deck.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-053.png"
+            },
+            {
+                "id": "OP04-054",
+                "number": "OP04-054",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Rokki",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-054.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Giant",
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-054.png"
+            },
+            {
+                "id": "OP04-055",
+                "number": "OP04-055",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Plague Rounds",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-055.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Activate this card's [Main] effect.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] You may trash 1 [Ice Oni] from your hand and place 1 Character with a cost of 4 or less at the bottom of the owner's deck: Play 1 [Ice Oni] from your trash.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-055.png"
+            },
+            {
+                "id": "OP04-056",
+                "number": "OP04-056",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Gum-Gum Red Roc",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-056.png",
+                "cost": "6",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] Place up to 1 Character at the bottom of the owner's deck.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-056.png"
+            },
+            {
+                "id": "OP04-057",
+                "number": "OP04-057",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Dragon Twister Demolition Breath",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-057.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Return up to 1 Character with a cost of 6 or less to the owner's hand.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Animal Kingdom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, place up to 1 Character with a cost of 1 or less at the bottom of the owner's deck.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-057.png"
+            },
+            {
+                "id": "OP04-058",
+                "number": "OP04-058",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Crocodile",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-058.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple",
+                    "Yellow"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[Opponent's Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck by your effect, add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-058.png"
+            },
+            {
+                "id": "OP04-058_p1",
+                "number": "OP04-058",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Crocodile (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-058_p1.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple",
+                    "Yellow"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[Opponent's Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck by your effect, add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-058_p1.png"
+            },
+            {
+                "id": "OP04-059",
+                "number": "OP04-059",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Iceburg",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-059.png",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Water Seven",
+                    "Galley-La Company"
+                ],
+                "block_icon": "1",
+                "effect": "[On Your Opponent's Attack] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, this Character gains [Blocker] during this turn.(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-059.png"
+            },
+            {
+                "id": "OP04-060",
+                "number": "OP04-060",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Crocodile",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-060.png",
+                "cost": "8",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 card from the top of your deck to the top of your Life cards.[On Your Opponent's Attack] [Once Per Turn] DON!! −1: Draw 1 card and trash 1 card from your hand.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-060.png"
+            },
+            {
+                "id": "OP04-060_p1",
+                "number": "OP04-060",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Crocodile (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-060_p1.png",
+                "cost": "8",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 card from the top of your deck to the top of your Life cards.[On Your Opponent's Attack] [Once Per Turn] DON!! −1: Draw 1 card and trash 1 card from your hand.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-060_p1.png"
+            },
+            {
+                "id": "OP04-061",
+                "number": "OP04-061",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tom",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-061.png",
+                "cost": "3",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Fish-Man",
+                    "Water Seven"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may trash this Character: If your Leader has the {Water Seven} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-061.png"
+            },
+            {
+                "id": "OP04-062",
+                "number": "OP04-062",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bananagator",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-062.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Animal"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-062.png"
+            },
+            {
+                "id": "OP04-063",
+                "number": "OP04-063",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-063.png",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Water Seven",
+                    "The Franky Family"
+                ],
+                "block_icon": "1",
+                "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, up to 1 of your Leader or Character cards gains +1000 power during this battle.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-063.png"
+            },
+            {
+                "id": "OP04-064",
+                "number": "OP04-064",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Ms. All Sunday",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-064.png",
+                "cost": "5",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "[Trigger] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it. Then, if you have 6 or more DON!! cards on your field, draw 1 card.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-064.png"
+            },
+            {
+                "id": "OP04-064_p1",
+                "number": "OP04-064",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Ms. All Sunday (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-064_p1.png",
+                "cost": "5",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "[Trigger] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it. Then, if you have 6 or more DON!! cards on your field, draw 1 card.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-064_p1.png"
+            },
+            {
+                "id": "OP04-065",
+                "number": "OP04-065",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Miss.Goldenweek(Marianne)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-065.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "[Trigger] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] If your Leader's type includes \"Baroque Works\", up to 1 of your opponent's Characters with a cost of 5 or less cannot attack until the start of your next turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-065.png"
+            },
+            {
+                "id": "OP04-066",
+                "number": "OP04-066",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Miss.Valentine(Mikita)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-066.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "[Trigger] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Baroque Works\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-066.png"
+            },
+            {
+                "id": "OP04-067",
+                "number": "OP04-067",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Miss.MerryChristmas(Drophy)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-067.png",
+                "cost": "4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "[Trigger] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-067.png"
+            },
+            {
+                "id": "OP04-068",
+                "number": "OP04-068",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Yokozuna",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-068.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Animal",
+                    "Water Seven"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Your Opponent's Attack] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Return up to 1 of your opponent's Characters with a cost of 2 or less to the owner's hand.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-068.png"
+            },
+            {
+                "id": "OP04-069",
+                "number": "OP04-069",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Mr.2.Bon.Kurei(Bentham)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-069.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "[Trigger] DON!! −1: Play this card.",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[On Your Opponent's Attack] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character's base power becomes the same as the power of your opponent's attacking Leader or Character during this turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-069.png"
+            },
+            {
+                "id": "OP04-070",
+                "number": "OP04-070",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Mr.3(Galdino)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-070.png",
+                "cost": "3",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 of your opponent's Characters −1000 power during this turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-070.png"
+            },
+            {
+                "id": "OP04-071",
+                "number": "OP04-071",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Mr.4(Babe)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-071.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[On Your Opponent's Attack] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Blocker] and +1000 power during this battle.(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-071.png"
+            },
+            {
+                "id": "OP04-072",
+                "number": "OP04-072",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.5(Gem)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-072.png",
+                "cost": "7",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-072.png"
+            },
+            {
+                "id": "OP04-072_p1",
+                "number": "OP04-072",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.5(Gem) (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-072_p1.png",
+                "cost": "7",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-072_p1.png"
+            },
+            {
+                "id": "OP04-073",
+                "number": "OP04-073",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr.13 & Ms.Friday",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-073.png",
+                "cost": "3",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "[Trigger] Play this card.",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Animal",
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may trash this Character and 1 of your Characters with a type including \"Baroque Works\": Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-073.png"
+            },
+            {
+                "id": "OP04-074",
+                "number": "OP04-074",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Colors Trap",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-074.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader or Character cards gains +1000 power during this battle. Then, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-074.png"
+            },
+            {
+                "id": "OP04-075",
+                "number": "OP04-075",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Nez-Palm Cannon",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-075.png",
+                "cost": "3",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 DON!! card from your DON!! deck and rest it.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-075.png"
+            },
+            {
+                "id": "OP04-076",
+                "number": "OP04-076",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Weakness...Is an Unforgivable Sin.",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-076.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-076.png"
+            },
+            {
+                "id": "OP04-077",
+                "number": "OP04-077",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ideo",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-077.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-077.png"
+            },
+            {
+                "id": "OP04-078",
+                "number": "OP04-078",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Oimo & Kashii",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-078.png",
+                "cost": "6",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Giant",
+                    "World Government"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-078.png"
+            },
+            {
+                "id": "OP04-079",
+                "number": "OP04-079",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Orlumbus",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-079.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa",
+                    "Yonta Maria Fleet"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −4 cost during this turn and trash 2 cards from the top of your deck. Then, K.O. 1 of your {Dressrosa} type Characters.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-079.png"
+            },
+            {
+                "id": "OP04-080",
+                "number": "OP04-080",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Gyats",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-080.png",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Up to 1 of your {Dressrosa} type Characters can also attack active Characters during this turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-080.png"
+            },
+            {
+                "id": "OP04-081",
+                "number": "OP04-081",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Cavendish",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-081.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa",
+                    "Beautiful Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] This Character can also attack active Characters.[When Attacking] You may rest your Leader: K.O. up to 1 of your opponent's Characters with a cost of 1 or less. Then, trash 2 cards from the top of your deck.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-081.png"
+            },
+            {
+                "id": "OP04-082",
+                "number": "OP04-082",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kyros",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-082.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "1",
+                "effect": "If this Character would be K.O.'d, you may rest your Leader or 1 [Corrida Coliseum] instead.[On Play] If your Leader is [Rebecca], K.O. up to 1 of your opponent's Characters with a cost of 1 or less. Then, trash 1 card from the top of your deck.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-082.png"
+            },
+            {
+                "id": "OP04-082_p1",
+                "number": "OP04-082",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kyros (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-082_p1.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "1",
+                "effect": "If this Character would be K.O.'d, you may rest your Leader or 1 [Corrida Coliseum] instead.[On Play] If your Leader is [Rebecca], K.O. up to 1 of your opponent's Characters with a cost of 1 or less. Then, trash 1 card from the top of your deck.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-082_p1.png"
+            },
+            {
+                "id": "OP04-083",
+                "number": "OP04-083",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sabo",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-083.png",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] None of your Characters can be K.O.'d by effects until the start of your next turn. Then, draw 2 cards and trash 2 cards from your hand.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-083.png"
+            },
+            {
+                "id": "OP04-083_p1",
+                "number": "OP04-083",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sabo (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-083_p1.png",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] None of your Characters can be K.O.'d by effects until the start of your next turn. Then, draw 2 cards and trash 2 cards from your hand.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-083_p1.png"
+            },
+            {
+                "id": "OP04-083_p2",
+                "number": "OP04-083",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sabo (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-083_p2.png",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] None of your Characters can be K.O.'d by effects until the start of your next turn. Then, draw 2 cards and trash 2 cards from your hand.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-083_p2.png"
+            },
+            {
+                "id": "OP04-084",
+                "number": "OP04-084",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Stussy",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-084.png",
+                "cost": "2",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Look at 3 cards from the top of your deck and play up to 1 Character card with a type including \"CP\" other than [Stussy] and a cost of 2 or less. Then, trash the rest.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-084.png"
+            },
+            {
+                "id": "OP04-085",
+                "number": "OP04-085",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Suleiman",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-085.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play]/[When Attacking] If your Leader has the {Dressrosa} type, give up to 1 of your opponent's Characters −2 cost during this turn. Then, trash 1 card from the top of your deck.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-085.png"
+            },
+            {
+                "id": "OP04-086",
+                "number": "OP04-086",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Chinjao",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-086.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa",
+                    "Happosui Army"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] When this Character battles and K.O.'s your opponent's Character, draw 2 cards and trash 2 cards from your hand.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-086.png"
+            },
+            {
+                "id": "OP04-087",
+                "number": "OP04-087",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-087.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa",
+                    "Heart Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-087.png"
+            },
+            {
+                "id": "OP04-088",
+                "number": "OP04-088",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Hajrudin",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-088.png",
+                "cost": "6",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Giant",
+                    "Dressrosa",
+                    "New Giant Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may rest your 1 Leader: Give up to 1 of your opponent's Characters −4 cost during this turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-088.png"
+            },
+            {
+                "id": "OP04-089",
+                "number": "OP04-089",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Bartolomeo",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-089.png",
+                "cost": "3",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa",
+                    "Barto Club"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-089.png"
+            },
+            {
+                "id": "OP04-090",
+                "number": "OP04-090",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-090.png",
+                "cost": "7",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "This Character can also attack active Characters.[Activate: Main] [Once Per Turn] You may return 7 cards from your trash to the bottom of your deck in any order: Set this Character as active. Then, this Character will not become active in your next Refresh Phase.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-090.png"
+            },
+            {
+                "id": "OP04-090_p1",
+                "number": "OP04-090",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-090_p1.png",
+                "cost": "7",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "This Character can also attack active Characters.[Activate: Main] [Once Per Turn] You may return 7 cards from your trash to the bottom of your deck in any order: Set this Character as active. Then, this Character will not become active in your next Refresh Phase.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-090_p1.png"
+            },
+            {
+                "id": "OP04-091",
+                "number": "OP04-091",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Leo",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-091.png",
+                "cost": "1",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "The Tontattas",
+                    "Dressrosa"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] You may rest your 1 Leader: If your Leader has the {Dressrosa} type, K.O. up to 1 of your opponent's Characters with a cost of 1 or less. Then, trash 2 cards from the top of your deck.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-091.png"
+            },
+            {
+                "id": "OP04-092",
+                "number": "OP04-092",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Rebecca",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-092.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type card other than [Rebecca] and add it to your hand. Then, trash the rest.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-092.png"
+            },
+            {
+                "id": "OP04-093",
+                "number": "OP04-093",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Gum-Gum King Kong Gun",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-093.png",
+                "cost": "3",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Draw 3 cards and trash 2 cards from your hand.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] Up to 1 of your {Dressrosa} type Characters gains +6000 power during this turn. Then, if you have 15 or more cards in your trash, that card gains [Double Attack] during this turn.(This card deals 2 damage.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-093.png"
+            },
+            {
+                "id": "OP04-094",
+                "number": "OP04-094",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Trueno Bastardo",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-094.png",
+                "cost": "4",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] You may rest your Leader: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] Choose up to 1 of your opponent's Characters with a cost of 4 or less and K.O. it. If you have 15 or more cards in your trash, choose up to 1 of your opponent's Characters with a cost of 6 or less instead of a Character with a cost of 4 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-094.png"
+            },
+            {
+                "id": "OP04-095",
+                "number": "OP04-095",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Barrier!!",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-095.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa",
+                    "Barto Club"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 15 or more cards in your trash, that card gains an additional +2000 power during this battle.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-095.png"
+            },
+            {
+                "id": "OP04-096",
+                "number": "OP04-096",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Corrida Coliseum",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-096.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Dressrosa"
+                ],
+                "block_icon": "1",
+                "effect": "If your Leader has the {Dressrosa} type, your {Dressrosa} type Characters can attack Characters on the turn in which they are played.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-096.png"
+            },
+            {
+                "id": "OP04-097",
+                "number": "OP04-097",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Otama",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-097.png",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Land of Wano"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Add up to 1 of your opponent's {Animal} or {SMILE} type Characters with a cost of 3 or less to the top of your opponent's Life cards face-up.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-097.png"
+            },
+            {
+                "id": "OP04-098",
+                "number": "OP04-098",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Toko",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-098.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Land of Wano"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] You may trash 2 {Land of Wano} type cards from your hand: If you have 1 or less Life cards, add 1 card from the top of your deck to the top of your Life cards.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-098.png"
+            },
+            {
+                "id": "OP04-099",
+                "number": "OP04-099",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Olin",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-099.png",
+                "cost": "7",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "[Trigger] If you have 1 or less Life cards, play this card.",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "The Four Emperors",
+                    "Big Mom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "Also treat this card's name as [Charlotte Linlin] according to the rules.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-099.png"
+            },
+            {
+                "id": "OP04-100",
+                "number": "OP04-100",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Capone\"Gang\"Bege",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-100.png",
+                "cost": "3",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "[Trigger] Up to 1 of your opponent's Leader or Character cards cannot attack during this turn.",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Firetank Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-100.png"
+            },
+            {
+                "id": "OP04-100_p1",
+                "number": "OP04-100",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Capone\"Gang\"Bege (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-100_p1.png",
+                "cost": "3",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "[Trigger] Up to 1 of your opponent's Leader or Character cards cannot attack during this turn.",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Firetank Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-100_p1.png"
+            },
+            {
+                "id": "OP04-101",
+                "number": "OP04-101",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Carmel",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-101.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "[Trigger] Play this card. Then, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "The House of Lambs"
+                ],
+                "block_icon": "1",
+                "effect": "[Your Turn] [On Play] Draw 1 card.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-101.png"
+            },
+            {
+                "id": "OP04-102",
+                "number": "OP04-102",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kin'emon",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-102.png",
+                "cost": "6",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Land of Wano"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may add 1 card from the top or bottom of your Life cards to your hand: Set this Character as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-102.png"
+            },
+            {
+                "id": "OP04-103",
+                "number": "OP04-103",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Kouzuki Hiyori",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-103.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "[Trigger] Play this card.",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Kouzuki Clan"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Up to 1 of your {Land of Wano} type Leader or Character cards gains +1000 power during this turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-103.png"
+            },
+            {
+                "id": "OP04-104",
+                "number": "OP04-104",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-104.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "[Trigger] You may trash 1 card from your hand: Play this card.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "The Vinsmoke Family"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-104.png"
+            },
+            {
+                "id": "OP04-104_p1",
+                "number": "OP04-104",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sanji (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-104_p1.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "[Trigger] You may trash 1 card from your hand: Play this card.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "The Vinsmoke Family"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-104_p1.png"
+            },
+            {
+                "id": "OP04-105",
+                "number": "OP04-105",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Amande",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-105.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Big Mom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] [Once Per Turn] You may trash 1 card with a [Trigger] from your hand: Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-105.png"
+            },
+            {
+                "id": "OP04-106",
+                "number": "OP04-106",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Charlotte Bavarois",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-106.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "[Trigger] You may trash 1 card from your hand: Play this card.",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Big Mom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character gains +1000 power.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-106.png"
+            },
+            {
+                "id": "OP04-107",
+                "number": "OP04-107",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Charlotte Perospero",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-107.png",
+                "cost": "6",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Big Mom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-107.png"
+            },
+            {
+                "id": "OP04-108",
+                "number": "OP04-108",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Charlotte Moscato",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-108.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "[Trigger] You may trash 1 card from your hand: Play this card.",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Big Mom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] This Character gains [Banish].(When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-108.png"
+            },
+            {
+                "id": "OP04-109",
+                "number": "OP04-109",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tonoyasu",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-109.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Land of Wano"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may trash this Character: Up to 1 of your {Land of Wano} type Leader or Character cards gains +3000 power during this turn.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-109.png"
+            },
+            {
+                "id": "OP04-110",
+                "number": "OP04-110",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Pound",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-110.png",
+                "cost": "3",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Whole Cake Island"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] Add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of your opponent's Life cards face-up.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-110.png"
+            },
+            {
+                "id": "OP04-111",
+                "number": "OP04-111",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Hera",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-111.png",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "[Trigger] Play this card.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Big Mom Pirates",
+                    "Homies"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may trash 1 of your {Homies} type Characters other than this Character and rest this Character: Set up to 1 of your [Charlotte Linlin] Characters as active.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-111.png"
+            },
+            {
+                "id": "OP04-112",
+                "number": "OP04-112",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Yamato",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-112.png",
+                "cost": "9",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Land of Wano"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the total of your and your opponent's Life cards. Then, if you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-112.png"
+            },
+            {
+                "id": "OP04-112_p1",
+                "number": "OP04-112",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Yamato (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-112_p1.png",
+                "cost": "9",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Land of Wano"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the total of your and your opponent's Life cards. Then, if you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-112_p1.png"
+            },
+            {
+                "id": "OP04-113",
+                "number": "OP04-113",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Rabiyan",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-113.png",
+                "cost": "2",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "[Trigger] Play this card.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Big Mom Pirates",
+                    "Homies"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-113.png"
+            },
+            {
+                "id": "OP04-114",
+                "number": "OP04-114",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Randolph",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-114.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Big Mom Pirates",
+                    "Homies"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-114.png"
+            },
+            {
+                "id": "OP04-115",
+                "number": "OP04-115",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gun Modoki",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-115.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Kouzuki Clan"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] You may add 1 card from the top or bottom of your Life cards to your hand: Up to 1 of your {Land of Wano} type Characters gains [Double Attack] during this turn.(This card deals 2 damage.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-115.png"
+            },
+            {
+                "id": "OP04-116",
+                "number": "OP04-116",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Diable Jambe Joue Shot",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-116.png",
+                "cost": "3",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Draw 1 card.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "The Vinsmoke Family"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, if you and your opponent have a total of 4 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-116.png"
+            },
+            {
+                "id": "OP04-117",
+                "number": "OP04-117",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Heavenly Fire",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-117.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Yellow"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Big Mom Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] Add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of your opponent's Life cards face-up.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-117.png"
+            },
+            {
+                "id": "OP04-118",
+                "number": "OP04-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Nefeltari Vivi",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-118.png",
+                "cost": "7",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "All of your red Characters with a cost of 3 or more other than this Character gain [Rush].(This card can attack on the turn in which it is played.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-118.png"
+            },
+            {
+                "id": "OP04-118_p1",
+                "number": "OP04-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Nefeltari Vivi (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-118_p1.png",
+                "cost": "7",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Alabasta"
+                ],
+                "block_icon": "1",
+                "effect": "All of your red Characters with a cost of 3 or more other than this Character gain [Rush].(This card can attack on the turn in which it is played.)",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-118_p1.png"
+            },
+            {
+                "id": "OP04-119",
+                "number": "OP04-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Donquixote Rosinante",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-119.png",
+                "cost": "8",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Navy",
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Opponent's Turn] If this Character is rested, your active Characters with a base cost of 5 cannot be K.O.'d by effects.[On Play] You may rest this Character: Play up to 1 green Character card with a cost of 5 from your hand.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-119.png"
+            },
+            {
+                "id": "OP04-119_p1",
+                "number": "OP04-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Donquixote Rosinante (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP04-119_p1.png",
+                "cost": "8",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Navy",
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Opponent's Turn] If this Character is rested, your active Characters with a base cost of 5 cannot be K.O.'d by effects.[On Play] You may rest this Character: Play up to 1 green Character card with a cost of 5 from your hand.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-119_p1.png"
+            },
+            {
+                "id": "OP01-047_p2",
+                "number": "OP01-047",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP01-047_p2.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "Heart Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-047_p2.png"
+            },
+            {
+                "id": "OP01-078_p2",
+                "number": "OP01-078",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Boa Hancock (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP01-078_p2.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Kuja Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-078_p2.png"
+            },
+            {
+                "id": "OP02-004_p2",
+                "number": "OP02-004",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Edward.Newgate (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP02-004_p2.png",
+                "cost": "9",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn.[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-004_p2.png"
+            },
+            {
+                "id": "OP02-085_p2",
+                "number": "OP02-085",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Magellan (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP02-085_p2.png",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck.[Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-085_p2.png"
+            },
+            {
+                "id": "OP02-099_p2",
+                "number": "OP02-099",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Sakazuki (Parallel)",
+                "image_path": "images/KingdomsofIntrigueOP04/OP02-099_p2.png",
+                "cost": "6",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+                "card_set": "-Kingdoms of Intrigue- [OP-04]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-099_p2.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,396 @@
+{
+    "meta": {
+        "date": "2026-03-16",
+        "version": "1.0.0",
+        "set": 556025
+    },
+    "data": {
+        "code": "ST25",
+        "cards": [
+            {
+                "id": "OP09-042_p2",
+                "number": "OP09-042",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Buggy",
+                "image_path": "images/BlueBuggyST25/OP09-042_p2.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Cross Guild"
+                ],
+                "block_icon": "3",
+                "effect": "[Activate: Main] You may rest 5 of your DON!! cards and trash 1 card from your hand: Play up to 1 {Cross Guild} type Character card from your hand.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.png"
+            },
+            {
+                "id": "OP09-043_r1",
+                "number": "OP09-043",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Alvida",
+                "image_path": "images/BlueBuggyST25/OP09-043_r1.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Cross Guild"
+                ],
+                "block_icon": "3",
+                "effect": "[On K.O.] If your Leader has the {Cross Guild} type, play up to 1 Character card with a cost of 5 or less other than [Alvida] from your hand.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-043_r1.png"
+            },
+            {
+                "id": "OP09-045_r1",
+                "number": "OP09-045",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Cabaji",
+                "image_path": "images/BlueBuggyST25/OP09-045_r1.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Cross Guild"
+                ],
+                "block_icon": "3",
+                "effect": "If you have a [Buggy] or [Mohji] Character, this Character cannot be K.O.'d in battle.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-045_r1.png"
+            },
+            {
+                "id": "OP09-051_r1",
+                "number": "OP09-051",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "image_path": "images/BlueBuggyST25/OP09-051_r1.png",
+                "cost": "10",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Cross Guild"
+                ],
+                "block_icon": "3",
+                "effect": "[On Play] Place up to 1 of your opponent's Characters at the bottom of the owner's deck. Then, if you do not have 5 Characters with a cost of 5 or more, place this Character at the bottom of the owner's deck.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-051_r1.png"
+            },
+            {
+                "id": "OP09-053_r1",
+                "number": "OP09-053",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Mohji",
+                "image_path": "images/BlueBuggyST25/OP09-053_r1.png",
+                "cost": "5",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Cross Guild"
+                ],
+                "block_icon": "3",
+                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Richie] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Richie] from your hand.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-053_r1.png"
+            },
+            {
+                "id": "OP09-054_r1",
+                "number": "OP09-054",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Richie",
+                "image_path": "images/BlueBuggyST25/OP09-054_r1.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Animal",
+                    "Cross Guild"
+                ],
+                "block_icon": "3",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-054_r1.png"
+            },
+            {
+                "id": "OP09-055_r1",
+                "number": "OP09-055",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr.1(Daz.Bonez)",
+                "image_path": "images/BlueBuggyST25/OP09-055_r1.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Cross Guild",
+                    "Former Baroque Works"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-055_r1.png"
+            },
+            {
+                "id": "OP09-056_r1",
+                "number": "OP09-056",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.3(Galdino)",
+                "image_path": "images/BlueBuggyST25/OP09-056_r1.png",
+                "cost": "1",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Cross Guild",
+                    "Former Baroque Works"
+                ],
+                "block_icon": "3",
+                "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Cross Guild} type card or card with a type including \"Baroque Works\" other than [Mr.3(Galdino)] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-056_r1.png"
+            },
+            {
+                "id": "OP09-057_p1",
+                "number": "OP09-057",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Cross Guild",
+                "image_path": "images/BlueBuggyST25/OP09-057_p1.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Activate this card's [Main] effect.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Cross Guild"
+                ],
+                "block_icon": "3",
+                "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Cross Guild} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-057_p1.png"
+            },
+            {
+                "id": "P-084_r1",
+                "number": "P-084",
+                "type": "P",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "image_path": "images/BlueBuggyST25/P-084_r1.png",
+                "cost": "7",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Cross Guild"
+                ],
+                "block_icon": "3",
+                "effect": "This Character cannot attack.If your Leader is [Buggy], all Characters with a cost of 3 or 4 cannot attack.[On Play] Play up to 1 {Cross Guild} type Character card with a cost of 6 or less from your hand.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/P-084_r1.png"
+            },
+            {
+                "id": "ST25-001",
+                "number": "ST25-001",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Alvida",
+                "image_path": "images/BlueBuggyST25/ST25-001.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Cross Guild"
+                ],
+                "block_icon": "3",
+                "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains +1 cost.[On Play] If your Leader is [Buggy], draw 3 cards and trash 2 cards from your hand.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST25-001.png"
+            },
+            {
+                "id": "ST25-002",
+                "number": "ST25-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Cabaji",
+                "image_path": "images/BlueBuggyST25/ST25-002.png",
+                "cost": "4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Cross Guild"
+                ],
+                "block_icon": "3",
+                "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost.(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Opponent's Turn] This Character gains +5000 power.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST25-002.png"
+            },
+            {
+                "id": "ST25-003",
+                "number": "ST25-003",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Crocodile & Mihawk",
+                "image_path": "images/BlueBuggyST25/ST25-003.png",
+                "cost": "8",
+                "attribute": [
+                    "Slash",
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Cross Guild",
+                    "Former Baroque Works"
+                ],
+                "block_icon": "3",
+                "effect": "[On Play] Draw 2 cards and trash 1 card from your hand. Then, play up to 1 {Cross Guild} type Character card with a cost of 4 or less from your hand.[Once Per Turn] If your {Cross Guild} type Character would be removed from the field by your opponent's effect, you may trash 1 card from your hand instead.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST25-003.png"
+            },
+            {
+                "id": "ST25-004",
+                "number": "ST25-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "image_path": "images/BlueBuggyST25/ST25-004.png",
+                "cost": "4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Cross Guild"
+                ],
+                "block_icon": "3",
+                "effect": "[Activate: Main] You may trash 1 card from your hand and trash this Character: If your Leader is [Buggy], play up to 1 {Cross Guild} type Character card with a cost of 6 or less from your hand.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST25-004.png"
+            },
+            {
+                "id": "ST25-005",
+                "number": "ST25-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mohji",
+                "image_path": "images/BlueBuggyST25/ST25-005.png",
+                "cost": "4",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Cross Guild"
+                ],
+                "block_icon": "3",
+                "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost.(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] If your Leader is [Buggy] and you have 3 or less cards in your hand, draw 1 card.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST25-005.png"
+            }
+        ]
+    }
+}

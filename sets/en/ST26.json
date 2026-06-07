@@ -1,0 +1,393 @@
+{
+    "meta": {
+        "date": "2026-03-16",
+        "version": "1.0.0",
+        "set": 556026
+    },
+    "data": {
+        "code": "ST26",
+        "cards": [
+            {
+                "id": "OP05-065_r1",
+                "number": "OP05-065",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "San-Gorou",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/OP05-065_r1.png",
+                "cost": "6",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-065_r1.png"
+            },
+            {
+                "id": "OP05-066_r2",
+                "number": "OP05-066",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/OP05-066_r2.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Fish-Man",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Opponent's Turn] If you have 10 DON!! cards on your field, this Character gains +1000 power.",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-066_r2.png"
+            },
+            {
+                "id": "OP05-070_r2",
+                "number": "OP05-070",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Fra-Nosuke",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/OP05-070_r2.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "[DON!! x1] If you have 8 or more DON!! cards on your field, this Character gains [Rush].(This card can attack on the turn in which it is played.)",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-070_r2.png"
+            },
+            {
+                "id": "OP09-061_p2",
+                "number": "OP09-061",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/OP09-061_p2.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple",
+                    "Black"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "3",
+                "effect": "[DON!! x1] All of your Characters gain +1 cost.[Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-061_p2.png"
+            },
+            {
+                "id": "OP09-063_r1",
+                "number": "OP09-063",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/OP09-063_r1.png",
+                "cost": "4",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-063_r1.png"
+            },
+            {
+                "id": "OP09-070_r1",
+                "number": "OP09-070",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/OP09-070_r1.png",
+                "cost": "3",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "3",
+                "effect": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-070_r1.png"
+            },
+            {
+                "id": "OP09-076_r1",
+                "number": "OP09-076",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/OP09-076_r1.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "3",
+                "effect": "[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-076_r1.png"
+            },
+            {
+                "id": "OP09-077_r1",
+                "number": "OP09-077",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Gum-Gum Lightning",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/OP09-077_r1.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "3",
+                "effect": "[Main] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-077_r1.png"
+            },
+            {
+                "id": "OP09-078_p1",
+                "number": "OP09-078",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Gum-Gum Giant",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/OP09-078_p1.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "3",
+                "effect": "[Counter] DON!! −2, You may trash 1 card from your hand: If your Leader has the {Straw Hat Crew} type, up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, draw 2 cards.",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-078_p1.png"
+            },
+            {
+                "id": "ST14-010_r1",
+                "number": "ST14-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/ST14-010_r1.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST14-010_r1.png"
+            },
+            {
+                "id": "ST26-001",
+                "number": "ST26-001",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Soba Mask",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/ST26-001.png",
+                "cost": "7",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "3",
+                "effect": "If you have a [San-Gorou] or [Sanji] Character with 7000 base power or more, give this card in your hand −5 cost.[On Play] Return all of your [San-Gorou] and [Sanji] Characters to the owner's hand.",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST26-001.png"
+            },
+            {
+                "id": "ST26-002",
+                "number": "ST26-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/ST26-002.png",
+                "cost": "3",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Animal",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "3",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's DON!! cards or Characters with a cost of 1 or less.",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST26-002.png"
+            },
+            {
+                "id": "ST26-003",
+                "number": "ST26-003",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/ST26-003.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "3",
+                "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST26-003.png"
+            },
+            {
+                "id": "ST26-004",
+                "number": "ST26-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "General Franky",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/ST26-004.png",
+                "cost": "8",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "3",
+                "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 2 of your opponent's Characters −2000 power during this turn.",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST26-004.png"
+            },
+            {
+                "id": "ST26-005",
+                "number": "ST26-005",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "image_path": "images/PurpleBlackMonkeyDLuffyST26/ST26-005.png",
+                "cost": "6",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "3",
+                "effect": "[On Play]/[When Attacking] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, your {Straw Hat Crew} type Leader's base power becomes 7000 until the end of your opponent's next End Phase.",
+                "card_set": "-Purple/Black Monkey.D.Luffy- [ST-26]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST26-005.png"
+            }
+        ]
+    }
+}

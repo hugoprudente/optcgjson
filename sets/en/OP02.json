@@ -1,0 +1,3946 @@
+{
+    "meta": {
+        "date": "2026-03-16",
+        "version": "1.0.0",
+        "set": 556102
+    },
+    "data": {
+        "code": "OP02",
+        "cards": [
+            {
+                "id": "OP02-001",
+                "number": "OP02-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Edward.Newgate",
+                "image_path": "images/ParamountWarOP02/OP02-001.png",
+                "cost": "Life6",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[End of Your Turn] Add 1 card from the top of your Life cards to your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-001.png"
+            },
+            {
+                "id": "OP02-001_p1",
+                "number": "OP02-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Edward.Newgate (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-001_p1.png",
+                "cost": "Life6",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[End of Your Turn] Add 1 card from the top of your Life cards to your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-001_p1.png"
+            },
+            {
+                "id": "OP02-002",
+                "number": "OP02-002",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Garp",
+                "image_path": "images/ParamountWarOP02/OP02-002.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red",
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Your Turn] When this Leader or 1 of your Characters is given a DON!! card, give up to 1 of your opponent's Characters with a cost of 7 or less −1 cost during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-002.png"
+            },
+            {
+                "id": "OP02-002_p1",
+                "number": "OP02-002",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Garp (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-002_p1.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red",
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Your Turn] When this Leader or 1 of your Characters is given a DON!! card, give up to 1 of your opponent's Characters with a cost of 7 or less −1 cost during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-002_p1.png"
+            },
+            {
+                "id": "OP02-003",
+                "number": "OP02-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Atmos",
+                "image_path": "images/ParamountWarOP02/OP02-003.png",
+                "cost": "4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-003.png"
+            },
+            {
+                "id": "OP02-004",
+                "number": "OP02-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Edward.Newgate",
+                "image_path": "images/ParamountWarOP02/OP02-004.png",
+                "cost": "9",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn.[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-004.png"
+            },
+            {
+                "id": "OP02-004_p1",
+                "number": "OP02-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Edward.Newgate (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-004_p1.png",
+                "cost": "9",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn.[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-004_p1.png"
+            },
+            {
+                "id": "OP02-005",
+                "number": "OP02-005",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Curly.Dadan",
+                "image_path": "images/ParamountWarOP02/OP02-005.png",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Mountain Bandits"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Look at up to 5 cards from the top of your deck; reveal up to 1 red Character with a cost of 1 and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-005.png"
+            },
+            {
+                "id": "OP02-006",
+                "number": "OP02-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kingdew",
+                "image_path": "images/ParamountWarOP02/OP02-006.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-006.png"
+            },
+            {
+                "id": "OP02-007",
+                "number": "OP02-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Thatch",
+                "image_path": "images/ParamountWarOP02/OP02-007.png",
+                "cost": "6",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-007.png"
+            },
+            {
+                "id": "OP02-008",
+                "number": "OP02-008",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Jozu",
+                "image_path": "images/ParamountWarOP02/OP02-008.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] If you have 2 or less Life cards and your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush].(This card can attack on the turn in which it is played.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-008.png"
+            },
+            {
+                "id": "OP02-009",
+                "number": "OP02-009",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Squard",
+                "image_path": "images/ParamountWarOP02/OP02-009.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates Allies"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", give up to 1 of your opponent's Characters −4000 power during this turn and add 1 card from the top of your Life cards to your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-009.png"
+            },
+            {
+                "id": "OP02-009_p1",
+                "number": "OP02-009",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Squard (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-009_p1.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates Allies"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] If your Leader's type includes \"Whitebeard Pirates\", give up to 1 of your opponent's Characters −4000 power during this turn and add 1 card from the top of your Life cards to your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-009_p1.png"
+            },
+            {
+                "id": "OP02-010",
+                "number": "OP02-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Dogura",
+                "image_path": "images/ParamountWarOP02/OP02-010.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Mountain Bandits"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may rest this Character: Play up to 1 red Character other than [Dogura] with a cost of 1 from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-010.png"
+            },
+            {
+                "id": "OP02-011",
+                "number": "OP02-011",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Vista",
+                "image_path": "images/ParamountWarOP02/OP02-011.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-011.png"
+            },
+            {
+                "id": "OP02-012",
+                "number": "OP02-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Blenheim",
+                "image_path": "images/ParamountWarOP02/OP02-012.png",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-012.png"
+            },
+            {
+                "id": "OP02-013",
+                "number": "OP02-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Portgas.D.Ace",
+                "image_path": "images/ParamountWarOP02/OP02-013.png",
+                "cost": "7",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-013.png"
+            },
+            {
+                "id": "OP02-013_p1",
+                "number": "OP02-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Portgas.D.Ace (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-013_p1.png",
+                "cost": "7",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-013_p1.png"
+            },
+            {
+                "id": "OP02-013_p2",
+                "number": "OP02-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Portgas.D.Ace (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-013_p2.png",
+                "cost": "7",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-013_p2.png"
+            },
+            {
+                "id": "OP02-014",
+                "number": "OP02-014",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Whitey Bay",
+                "image_path": "images/ParamountWarOP02/OP02-014.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates Allies"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] This Character can also attack your opponent's active Characters.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-014.png"
+            },
+            {
+                "id": "OP02-015",
+                "number": "OP02-015",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Makino",
+                "image_path": "images/ParamountWarOP02/OP02-015.png",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Windmill Village"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may rest this Character: Up to 1 of your red Characters with a cost of 1 gains +3000 power during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-015.png"
+            },
+            {
+                "id": "OP02-016",
+                "number": "OP02-016",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Magura",
+                "image_path": "images/ParamountWarOP02/OP02-016.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Mountain Bandits"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Up to 1 of your red Characters with a cost of 1 gains +3000 power during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-016.png"
+            },
+            {
+                "id": "OP02-017",
+                "number": "OP02-017",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Masked Deuce",
+                "image_path": "images/ParamountWarOP02/OP02-017.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Spade Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-017.png"
+            },
+            {
+                "id": "OP02-017_p1",
+                "number": "OP02-017",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Masked Deuce (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-017_p1.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Spade Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 2000 power or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-017_p1.png"
+            },
+            {
+                "id": "OP02-018",
+                "number": "OP02-018",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Marco",
+                "image_path": "images/ParamountWarOP02/OP02-018.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-018.png"
+            },
+            {
+                "id": "OP02-018_p1",
+                "number": "OP02-018",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Marco (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-018_p1.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-018_p1.png"
+            },
+            {
+                "id": "OP02-019",
+                "number": "OP02-019",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Rakuyo",
+                "image_path": "images/ParamountWarOP02/OP02-019.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [Your Turn] All of your Characters with a type including \"Whitebeard Pirates\" gain +1000 power.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-019.png"
+            },
+            {
+                "id": "OP02-020",
+                "number": "OP02-020",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "LittleOars Jr.",
+                "image_path": "images/ParamountWarOP02/OP02-020.png",
+                "cost": "7",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Giant",
+                    "Whitebeard Pirates Allies"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-020.png"
+            },
+            {
+                "id": "OP02-021",
+                "number": "OP02-021",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Seaquake",
+                "image_path": "images/ParamountWarOP02/OP02-021.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] If your Leader's type includes \"Whitebeard Pirates\", K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-021.png"
+            },
+            {
+                "id": "OP02-022",
+                "number": "OP02-022",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Whitebeard Pirates",
+                "image_path": "images/ParamountWarOP02/OP02-022.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 Character card with a type including \"Whitebeard Pirates\" and add it to your hand. Then, place the rest at the bottom of your deck in any order.[Trigger] Activate this card's [Main] effect.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-022.png"
+            },
+            {
+                "id": "OP02-023",
+                "number": "OP02-023",
+                "type": "C",
+                "class": "EVENT",
+                "name": "You May Be a Fool...but I Still Love You",
+                "image_path": "images/ParamountWarOP02/OP02-023.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Up to 1 of your Leader gains +1000 power during this turn.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] If you have 3 or less Life cards, you cannot add Life cards to your hand using your own effects during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-023.png"
+            },
+            {
+                "id": "OP02-024",
+                "number": "OP02-024",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Moby Dick",
+                "image_path": "images/ParamountWarOP02/OP02-024.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Play this card.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Your Turn] If you have 1 or less Life cards, your [Edward.Newgate] and all your Characters with a type including \"Whitebeard Pirates\" gain +2000 power.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-024.png"
+            },
+            {
+                "id": "OP02-025",
+                "number": "OP02-025",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kin'emon",
+                "image_path": "images/ParamountWarOP02/OP02-025.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "The Akazaya Nine"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] [Once Per Turn] If you have 1 or less Characters, the next time you play a {Land of Wano} type Character card with a cost of 3 or more from your hand during this turn, the cost will be reduced by 1.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-025.png"
+            },
+            {
+                "id": "OP02-025_p1",
+                "number": "OP02-025",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kin'emon (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-025_p1.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "The Akazaya Nine"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] [Once Per Turn] If you have 1 or less Characters, the next time you play a {Land of Wano} type Character card with a cost of 3 or more from your hand during this turn, the cost will be reduced by 1.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-025_p1.png"
+            },
+            {
+                "id": "OP02-026",
+                "number": "OP02-026",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Sanji",
+                "image_path": "images/ParamountWarOP02/OP02-026.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Green",
+                    "Blue"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Once Per Turn] When you play a Character with no base effect from your hand, if you have 3 or less Characters, set up to 2 of your DON!! cards as active.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-026.png"
+            },
+            {
+                "id": "OP02-026_p1",
+                "number": "OP02-026",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Sanji (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-026_p1.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Green",
+                    "Blue"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Once Per Turn] When you play a Character with no base effect from your hand, if you have 3 or less Characters, set up to 2 of your DON!! cards as active.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-026_p1.png"
+            },
+            {
+                "id": "OP02-027",
+                "number": "OP02-027",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Inuarashi",
+                "image_path": "images/ParamountWarOP02/OP02-027.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Minks",
+                    "Land of Wano",
+                    "The Akazaya Nine"
+                ],
+                "block_icon": "1",
+                "effect": "If all of your DON!! cards are rested, this Character cannot be removed from the field by your opponent's effects.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-027.png"
+            },
+            {
+                "id": "OP02-028",
+                "number": "OP02-028",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "image_path": "images/ParamountWarOP02/OP02-028.png",
+                "cost": "3",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-028.png"
+            },
+            {
+                "id": "OP02-029",
+                "number": "OP02-029",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Carrot",
+                "image_path": "images/ParamountWarOP02/OP02-029.png",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Minks"
+                ],
+                "block_icon": "1",
+                "effect": "[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-029.png"
+            },
+            {
+                "id": "OP02-030",
+                "number": "OP02-030",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kouzuki Oden",
+                "image_path": "images/ParamountWarOP02/OP02-030.png",
+                "cost": "8",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Kouzuki Clan"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.[On K.O.] Play up to 1 green {Land of Wano} type Character card with a cost of 3 from your deck. Then, shuffle your deck.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-030.png"
+            },
+            {
+                "id": "OP02-030_p1",
+                "number": "OP02-030",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kouzuki Oden (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-030_p1.png",
+                "cost": "8",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Kouzuki Clan"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] [Once Per Turn] ③ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.[On K.O.] Play up to 1 green {Land of Wano} type Character card with a cost of 3 from your deck. Then, shuffle your deck.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-030_p1.png"
+            },
+            {
+                "id": "OP02-031",
+                "number": "OP02-031",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Kouzuki Toki",
+                "image_path": "images/ParamountWarOP02/OP02-031.png",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Kouzuki Clan"
+                ],
+                "block_icon": "1",
+                "effect": "If you have a [Kouzuki Oden] Character, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-031.png"
+            },
+            {
+                "id": "OP02-031_p1",
+                "number": "OP02-031",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Kouzuki Toki (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-031_p1.png",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Kouzuki Clan"
+                ],
+                "block_icon": "1",
+                "effect": "If you have a [Kouzuki Oden] Character, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-031_p1.png"
+            },
+            {
+                "id": "OP02-032",
+                "number": "OP02-032",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Shishilian",
+                "image_path": "images/ParamountWarOP02/OP02-032.png",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Minks"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] ② (You may rest the specified number of DON!! cards in your cost area.): Set up to 1 of your {Minks} type Characters with a cost of 5 or less as active.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-032.png"
+            },
+            {
+                "id": "OP02-033",
+                "number": "OP02-033",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "image_path": "images/ParamountWarOP02/OP02-033.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Fish-Man",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-033.png"
+            },
+            {
+                "id": "OP02-034",
+                "number": "OP02-034",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "image_path": "images/ParamountWarOP02/OP02-034.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Animal",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [When Attacking] Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-034.png"
+            },
+            {
+                "id": "OP02-035",
+                "number": "OP02-035",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "image_path": "images/ParamountWarOP02/OP02-035.png",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Supernovas",
+                    "Heart Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may return this Character to the owner's hand: Play up to 1 Character with a cost of 3 from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-035.png"
+            },
+            {
+                "id": "OP02-036",
+                "number": "OP02-036",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "image_path": "images/ParamountWarOP02/OP02-036.png",
+                "cost": "3",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play]/[When Attacking] ➀ (You may rest the specified number of DON!! cards in your cost area.): Look at 3 cards from the top of your deck; reveal up to 1 {FILM} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-036.png"
+            },
+            {
+                "id": "OP02-036_p1",
+                "number": "OP02-036",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nami (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-036_p1.png",
+                "cost": "3",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play]/[When Attacking] ➀ (You may rest the specified number of DON!! cards in your cost area.): Look at 3 cards from the top of your deck; reveal up to 1 {FILM} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-036_p1.png"
+            },
+            {
+                "id": "OP02-037",
+                "number": "OP02-037",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "image_path": "images/ParamountWarOP02/OP02-037.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 2 or less from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-037.png"
+            },
+            {
+                "id": "OP02-038",
+                "number": "OP02-038",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nekomamushi",
+                "image_path": "images/ParamountWarOP02/OP02-038.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Minks",
+                    "Land of Wano",
+                    "The Akazaya Nine"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-038.png"
+            },
+            {
+                "id": "OP02-039",
+                "number": "OP02-039",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "image_path": "images/ParamountWarOP02/OP02-039.png",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-039.png"
+            },
+            {
+                "id": "OP02-040",
+                "number": "OP02-040",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "image_path": "images/ParamountWarOP02/OP02-040.png",
+                "cost": "4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 3 or less from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-040.png"
+            },
+            {
+                "id": "OP02-041",
+                "number": "OP02-041",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "image_path": "images/ParamountWarOP02/OP02-041.png",
+                "cost": "7",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Supernovas",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 4 or less from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-041.png"
+            },
+            {
+                "id": "OP02-041_p1",
+                "number": "OP02-041",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-041_p1.png",
+                "cost": "7",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Supernovas",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 4 or less from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-041_p1.png"
+            },
+            {
+                "id": "OP02-042",
+                "number": "OP02-042",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Yamato",
+                "image_path": "images/ParamountWarOP02/OP02-042.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano"
+                ],
+                "block_icon": "1",
+                "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.[On Play] Rest up to 1 of your opponent's Characters with a cost of 6 or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-042.png"
+            },
+            {
+                "id": "OP02-043",
+                "number": "OP02-043",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "image_path": "images/ParamountWarOP02/OP02-043.png",
+                "cost": "4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Supernovas",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-043.png"
+            },
+            {
+                "id": "OP02-044",
+                "number": "OP02-044",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Wanda",
+                "image_path": "images/ParamountWarOP02/OP02-044.png",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Minks"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Play up to 1 {Minks} type Character card other than [Wanda] with a cost of 3 or less from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-044.png"
+            },
+            {
+                "id": "OP02-045",
+                "number": "OP02-045",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Three Sword Style Oni Giri",
+                "image_path": "images/ParamountWarOP02/OP02-045.png",
+                "cost": "3",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Rest up to 1 of your opponent's Leader or Character cards with a cost of 5 or less.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Supernovas",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, play up to 1 Character card with a cost of 3 or less and no base effect from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-045.png"
+            },
+            {
+                "id": "OP02-046",
+                "number": "OP02-046",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Diable Jambe Venaison Shoot",
+                "image_path": "images/ParamountWarOP02/OP02-046.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Play up to 1 Character card with a cost of 4 or less and no base effect from your hand.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "FILM",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-046.png"
+            },
+            {
+                "id": "OP02-047",
+                "number": "OP02-047",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Paradise Totsuka",
+                "image_path": "images/ParamountWarOP02/OP02-047.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Kouzuki Clan"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-047.png"
+            },
+            {
+                "id": "OP02-048",
+                "number": "OP02-048",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Land of Wano",
+                "image_path": "images/ParamountWarOP02/OP02-048.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may trash 1 {Land of Wano} type card from your hand and rest this Stage: Set up to 1 of your DON!! cards as active.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-048.png"
+            },
+            {
+                "id": "OP02-049",
+                "number": "OP02-049",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Emporio.Ivankov",
+                "image_path": "images/ParamountWarOP02/OP02-049.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "1",
+                "effect": "[End of Your Turn] If you have 0 cards in your hand, draw 2 cards.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-049.png"
+            },
+            {
+                "id": "OP02-049_p1",
+                "number": "OP02-049",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Emporio.Ivankov (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-049_p1.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "1",
+                "effect": "[End of Your Turn] If you have 0 cards in your hand, draw 2 cards.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-049_p1.png"
+            },
+            {
+                "id": "OP02-050",
+                "number": "OP02-050",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Inazuma",
+                "image_path": "images/ParamountWarOP02/OP02-050.png",
+                "cost": "4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "1",
+                "effect": "If you have 1 or less cards in your hand, this Character gains +2000 power.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-050.png"
+            },
+            {
+                "id": "OP02-051",
+                "number": "OP02-051",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Emporio.Ivankov",
+                "image_path": "images/ParamountWarOP02/OP02-051.png",
+                "cost": "7",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Draw card(s) so that you have 3 cards in your hand and then play up to 1 blue {Impel Down} type Character card with a cost of 6 or less from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-051.png"
+            },
+            {
+                "id": "OP02-051_p1",
+                "number": "OP02-051",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Emporio.Ivankov (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-051_p1.png",
+                "cost": "7",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Draw card(s) so that you have 3 cards in your hand and then play up to 1 blue {Impel Down} type Character card with a cost of 6 or less from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-051_p1.png"
+            },
+            {
+                "id": "OP02-052",
+                "number": "OP02-052",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Cabaji",
+                "image_path": "images/ParamountWarOP02/OP02-052.png",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Buggy Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] If you have [Mohji], draw 2 cards and trash 1 card from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-052.png"
+            },
+            {
+                "id": "OP02-053",
+                "number": "OP02-053",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Crocodile",
+                "image_path": "images/ParamountWarOP02/OP02-053.png",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Former Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-053.png"
+            },
+            {
+                "id": "OP02-054",
+                "number": "OP02-054",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gecko Moria",
+                "image_path": "images/ParamountWarOP02/OP02-054.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Thriller Bark Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-054.png"
+            },
+            {
+                "id": "OP02-055",
+                "number": "OP02-055",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Dracule Mihawk",
+                "image_path": "images/ParamountWarOP02/OP02-055.png",
+                "cost": "6",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-055.png"
+            },
+            {
+                "id": "OP02-056",
+                "number": "OP02-056",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Donquixote Doflamingo",
+                "image_path": "images/ParamountWarOP02/OP02-056.png",
+                "cost": "1",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.[DON!! x1] [When Attacking] You may trash 1 card from your hand: Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-056.png"
+            },
+            {
+                "id": "OP02-057",
+                "number": "OP02-057",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Bartholomew Kuma",
+                "image_path": "images/ParamountWarOP02/OP02-057.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "The Seven Warlords of the Sea",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Look at 2 cards from the top of your deck; reveal up to 1 {The Seven Warlords of the Sea} type card and add it to your hand. Then, place the rest at the top or bottom of the deck in any order.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-057.png"
+            },
+            {
+                "id": "OP02-058",
+                "number": "OP02-058",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "image_path": "images/ParamountWarOP02/OP02-058.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Buggy Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 blue {Impel Down} type card other than [Buggy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-058.png"
+            },
+            {
+                "id": "OP02-058_p1",
+                "number": "OP02-058",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Buggy (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-058_p1.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Buggy Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 blue {Impel Down} type card other than [Buggy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-058_p1.png"
+            },
+            {
+                "id": "OP02-059",
+                "number": "OP02-059",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Boa Hancock",
+                "image_path": "images/ParamountWarOP02/OP02-059.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "The Seven Warlords of the Sea",
+                    "Kuja Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[When Attacking] Draw 1 card and trash 1 card from your hand. Then, trash up to 3 cards from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-059.png"
+            },
+            {
+                "id": "OP02-059_p1",
+                "number": "OP02-059",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Boa Hancock (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-059_p1.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "The Seven Warlords of the Sea",
+                    "Kuja Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[When Attacking] Draw 1 card and trash 1 card from your hand. Then, trash up to 3 cards from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-059_p1.png"
+            },
+            {
+                "id": "OP02-060",
+                "number": "OP02-060",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mohji",
+                "image_path": "images/ParamountWarOP02/OP02-060.png",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Buggy Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-060.png"
+            },
+            {
+                "id": "OP02-061",
+                "number": "OP02-061",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Morley",
+                "image_path": "images/ParamountWarOP02/OP02-061.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Giant",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "1",
+                "effect": "[When Attacking] If you have 1 or less cards in your hand, your opponent cannot activate the [Blocker] of any Character with a cost of 5 or less during this battle.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-061.png"
+            },
+            {
+                "id": "OP02-062",
+                "number": "OP02-062",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "image_path": "images/ParamountWarOP02/OP02-062.png",
+                "cost": "6",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play]/[When Attacking] You may trash 2 cards from your hand: Return up to 1 Character with a cost of 4 or less to the owner's hand. Then, this Character gains [Double Attack] during this turn.(This card deals 2 damage.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-062.png"
+            },
+            {
+                "id": "OP02-062_p1",
+                "number": "OP02-062",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-062_p1.png",
+                "cost": "6",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play]/[When Attacking] You may trash 2 cards from your hand: Return up to 1 Character with a cost of 4 or less to the owner's hand. Then, this Character gains [Double Attack] during this turn.(This card deals 2 damage.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-062_p1.png"
+            },
+            {
+                "id": "OP02-063",
+                "number": "OP02-063",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Mr.1(Daz.Bonez)",
+                "image_path": "images/ParamountWarOP02/OP02-063.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Former Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Add up to 1 blue Event card with a cost of 1 from your trash to your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-063.png"
+            },
+            {
+                "id": "OP02-064",
+                "number": "OP02-064",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.2.Bon.Kurei(Bentham)",
+                "image_path": "images/ParamountWarOP02/OP02-064.png",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Former Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [When Attacking] You may trash 1 card from your hand: Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck. Then, at the end of this battle, place this Character at the bottom of the owner's deck.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-064.png"
+            },
+            {
+                "id": "OP02-065",
+                "number": "OP02-065",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.3(Galdino)",
+                "image_path": "images/ParamountWarOP02/OP02-065.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Former Baroque Works"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[End of Your Turn] You may trash 1 card from your hand: Set this Character as active.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-065.png"
+            },
+            {
+                "id": "OP02-066",
+                "number": "OP02-066",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Impel Down All Stars",
+                "image_path": "images/ParamountWarOP02/OP02-066.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Draw 2 cards.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] You may trash 2 cards from your hand: If your Leader has the {Impel Down} type, draw up to 2 cards.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-066.png"
+            },
+            {
+                "id": "OP02-067",
+                "number": "OP02-067",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Arabesque Brick Fist",
+                "image_path": "images/ParamountWarOP02/OP02-067.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Activate this card's [Main] effect.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Fish-Man",
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] Return up to 1 Character with a cost of 4 or less to the owner's hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-067.png"
+            },
+            {
+                "id": "OP02-068",
+                "number": "OP02-068",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Gum-Gum Rain",
+                "image_path": "images/ParamountWarOP02/OP02-068.png",
+                "cost": "-",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Return up to 1 Character with a cost of 2 or less to the owner's hand.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-068.png"
+            },
+            {
+                "id": "OP02-069",
+                "number": "OP02-069",
+                "type": "C",
+                "class": "EVENT",
+                "name": "DEATH WINK",
+                "image_path": "images/ParamountWarOP02/OP02-069.png",
+                "cost": "3",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Return up to 1 Character with a cost of 7 or less to the owner's hand.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +6000 power during this battle. Then, draw cards so that you have 2 cards in your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-069.png"
+            },
+            {
+                "id": "OP02-070",
+                "number": "OP02-070",
+                "type": "C",
+                "class": "STAGE",
+                "name": "New Kama Land",
+                "image_path": "images/ParamountWarOP02/OP02-070.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may rest this Stage: If your Leader is [Emporio.Ivankov], draw 1 card and trash 1 card from your hand. Then, trash up to 3 cards from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-070.png"
+            },
+            {
+                "id": "OP02-071",
+                "number": "OP02-071",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Magellan",
+                "image_path": "images/ParamountWarOP02/OP02-071.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, this Leader gains +1000 power during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-071.png"
+            },
+            {
+                "id": "OP02-071_p1",
+                "number": "OP02-071",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Magellan (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-071_p1.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, this Leader gains +1000 power during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-071_p1.png"
+            },
+            {
+                "id": "OP02-072",
+                "number": "OP02-072",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Zephyr",
+                "image_path": "images/ParamountWarOP02/OP02-072.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple",
+                    "Black"
+                ],
+                "feature": [
+                    "FILM",
+                    "Neo Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[When Attacking] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less. Then, this Leader gains +1000 power during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-072.png"
+            },
+            {
+                "id": "OP02-072_p1",
+                "number": "OP02-072",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Zephyr (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-072_p1.png",
+                "cost": "Life4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple",
+                    "Black"
+                ],
+                "feature": [
+                    "FILM",
+                    "Neo Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[When Attacking] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less. Then, this Leader gains +1000 power during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-072_p1.png"
+            },
+            {
+                "id": "OP02-073",
+                "number": "OP02-073",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Little Sadi",
+                "image_path": "images/ParamountWarOP02/OP02-073.png",
+                "cost": "3",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Play up to 1 {Jailer Beast} type Character card from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-073.png"
+            },
+            {
+                "id": "OP02-073_p1",
+                "number": "OP02-073",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Little Sadi (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-073_p1.png",
+                "cost": "3",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Play up to 1 {Jailer Beast} type Character card from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-073_p1.png"
+            },
+            {
+                "id": "OP02-074",
+                "number": "OP02-074",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Saldeath",
+                "image_path": "images/ParamountWarOP02/OP02-074.png",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "Your [Blugori] gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-074.png"
+            },
+            {
+                "id": "OP02-075",
+                "number": "OP02-075",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Shiki",
+                "image_path": "images/ParamountWarOP02/OP02-075.png",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "[Trigger] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "Golden Lion Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-075.png"
+            },
+            {
+                "id": "OP02-076",
+                "number": "OP02-076",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Shiryu",
+                "image_path": "images/ParamountWarOP02/OP02-076.png",
+                "cost": "4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-076.png"
+            },
+            {
+                "id": "OP02-077",
+                "number": "OP02-077",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Solitaire",
+                "image_path": "images/ParamountWarOP02/OP02-077.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates",
+                    "SMILE"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-077.png"
+            },
+            {
+                "id": "OP02-078",
+                "number": "OP02-078",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Daifugo",
+                "image_path": "images/ParamountWarOP02/OP02-078.png",
+                "cost": "3",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates",
+                    "SMILE"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 {SMILE} type Character card other than [Daifugo] with a cost of 3 or less from your hand.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-078.png"
+            },
+            {
+                "id": "OP02-079",
+                "number": "OP02-079",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Douglas Bullet",
+                "image_path": "images/ParamountWarOP02/OP02-079.png",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM",
+                    "The Pirates Fest"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-079.png"
+            },
+            {
+                "id": "OP02-080",
+                "number": "OP02-080",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Dobon",
+                "image_path": "images/ParamountWarOP02/OP02-080.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Animal Kingdom Pirates",
+                    "SMILE"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-080.png"
+            },
+            {
+                "id": "OP02-081",
+                "number": "OP02-081",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Domino",
+                "image_path": "images/ParamountWarOP02/OP02-081.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-081.png"
+            },
+            {
+                "id": "OP02-082",
+                "number": "OP02-082",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Byrnndi World",
+                "image_path": "images/ParamountWarOP02/OP02-082.png",
+                "cost": "8",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "World Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] DON!! −8 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +792000 power during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-082.png"
+            },
+            {
+                "id": "OP02-083",
+                "number": "OP02-083",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Hannyabal",
+                "image_path": "images/ParamountWarOP02/OP02-083.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple {Impel Down} type card other than [Hannyabal] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-083.png"
+            },
+            {
+                "id": "OP02-084",
+                "number": "OP02-084",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Blugori",
+                "image_path": "images/ParamountWarOP02/OP02-084.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Animal",
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-084.png"
+            },
+            {
+                "id": "OP02-085",
+                "number": "OP02-085",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Magellan",
+                "image_path": "images/ParamountWarOP02/OP02-085.png",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck.[Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-085.png"
+            },
+            {
+                "id": "OP02-085_p1",
+                "number": "OP02-085",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Magellan (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-085_p1.png",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your opponent returns 1 DON!! card from their field to their DON!! deck.[Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-085_p1.png"
+            },
+            {
+                "id": "OP02-086",
+                "number": "OP02-086",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Minokoala",
+                "image_path": "images/ParamountWarOP02/OP02-086.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Jailer Beast"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-086.png"
+            },
+            {
+                "id": "OP02-086_p1",
+                "number": "OP02-086",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Minokoala (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-086_p1.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Jailer Beast"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-086_p1.png"
+            },
+            {
+                "id": "OP02-087",
+                "number": "OP02-087",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Minotaur",
+                "image_path": "images/ParamountWarOP02/OP02-087.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Jailer Beast"
+                ],
+                "block_icon": "1",
+                "effect": "[Double Attack] (This card deals 2 damage.)[On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-087.png"
+            },
+            {
+                "id": "OP02-088",
+                "number": "OP02-088",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sphinx",
+                "image_path": "images/ParamountWarOP02/OP02-088.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Animal",
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-088.png"
+            },
+            {
+                "id": "OP02-089",
+                "number": "OP02-089",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Judgment of Hell",
+                "image_path": "images/ParamountWarOP02/OP02-089.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] If your opponent has 6 or more DON!! cards on their field, your opponent returns 1 DON!! card from their field to their DON!! deck.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to a total of 2 of your opponent's Leader or Character cards −3000 power during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-089.png"
+            },
+            {
+                "id": "OP02-090",
+                "number": "OP02-090",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Hydra",
+                "image_path": "images/ParamountWarOP02/OP02-090.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] If your opponent has 6 or more DON!! cards on their field, your opponent returns 1 DON!! card from their field to their DON!! deck.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Give up to 1 of your opponent's Characters −3000 power during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-090.png"
+            },
+            {
+                "id": "OP02-091",
+                "number": "OP02-091",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Venom Road",
+                "image_path": "images/ParamountWarOP02/OP02-091.png",
+                "cost": "3",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] If your opponent has 6 or more DON!! cards on their field, your opponent returns 1 DON!! card from their field to their DON!! deck.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-091.png"
+            },
+            {
+                "id": "OP02-092",
+                "number": "OP02-092",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Impel Down",
+                "image_path": "images/ParamountWarOP02/OP02-092.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "Impel Down"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 {Impel Down} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-092.png"
+            },
+            {
+                "id": "OP02-093",
+                "number": "OP02-093",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Smoker",
+                "image_path": "images/ParamountWarOP02/OP02-093.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1 cost during this turn. Then, if there is a Character with a cost of 0, this Leader gains +1000 power during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-093.png"
+            },
+            {
+                "id": "OP02-093_p1",
+                "number": "OP02-093",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Smoker (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-093_p1.png",
+                "cost": "Life5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1 cost during this turn. Then, if there is a Character with a cost of 0, this Leader gains +1000 power during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-093_p1.png"
+            },
+            {
+                "id": "OP02-094",
+                "number": "OP02-094",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Isuka",
+                "image_path": "images/ParamountWarOP02/OP02-094.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [Once Per Turn] When this Character battles and K.O.'s your opponent's Character, set this Character as active.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-094.png"
+            },
+            {
+                "id": "OP02-095",
+                "number": "OP02-095",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Onigumo",
+                "image_path": "images/ParamountWarOP02/OP02-095.png",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "If there is a Character with a cost of 0, this Character gains [Banish].(When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-095.png"
+            },
+            {
+                "id": "OP02-096",
+                "number": "OP02-096",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kuzan",
+                "image_path": "images/ParamountWarOP02/OP02-096.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Draw 1 card.[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-096.png"
+            },
+            {
+                "id": "OP02-096_p1",
+                "number": "OP02-096",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kuzan (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-096_p1.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Draw 1 card.[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-096_p1.png"
+            },
+            {
+                "id": "OP02-097",
+                "number": "OP02-097",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Komille",
+                "image_path": "images/ParamountWarOP02/OP02-097.png",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-097.png"
+            },
+            {
+                "id": "OP02-098",
+                "number": "OP02-098",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Koby",
+                "image_path": "images/ParamountWarOP02/OP02-098.png",
+                "cost": "3",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-098.png"
+            },
+            {
+                "id": "OP02-099",
+                "number": "OP02-099",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sakazuki",
+                "image_path": "images/ParamountWarOP02/OP02-099.png",
+                "cost": "6",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-099.png"
+            },
+            {
+                "id": "OP02-099_p1",
+                "number": "OP02-099",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sakazuki (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-099_p1.png",
+                "cost": "6",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-099_p1.png"
+            },
+            {
+                "id": "OP02-100",
+                "number": "OP02-100",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jango",
+                "image_path": "images/ParamountWarOP02/OP02-100.png",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "If you have [Fullbody], this Character cannot be K.O.'d in battle.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-100.png"
+            },
+            {
+                "id": "OP02-101",
+                "number": "OP02-101",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Strawberry",
+                "image_path": "images/ParamountWarOP02/OP02-101.png",
+                "cost": "4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[When Attacking] If there is a Character with a cost of 0, your opponent cannot activate the [Blocker] of any Character with a cost of 5 or less during this battle.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-101.png"
+            },
+            {
+                "id": "OP02-102",
+                "number": "OP02-102",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Smoker",
+                "image_path": "images/ParamountWarOP02/OP02-102.png",
+                "cost": "3",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "This Character cannot be K.O.'d by effects.[When Attacking] If there is a Character with a cost of 0, this Character gains +2000 power during this battle.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-102.png"
+            },
+            {
+                "id": "OP02-103",
+                "number": "OP02-103",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Sengoku",
+                "image_path": "images/ParamountWarOP02/OP02-103.png",
+                "cost": "2",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −2 cost during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-103.png"
+            },
+            {
+                "id": "OP02-104",
+                "number": "OP02-104",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sentomaru",
+                "image_path": "images/ParamountWarOP02/OP02-104.png",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "[Trigger] Play this card.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-104.png"
+            },
+            {
+                "id": "OP02-105",
+                "number": "OP02-105",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tashigi",
+                "image_path": "images/ParamountWarOP02/OP02-105.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-105.png"
+            },
+            {
+                "id": "OP02-105_p1",
+                "number": "OP02-105",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tashigi (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-105_p1.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −3 cost during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-105_p1.png"
+            },
+            {
+                "id": "OP02-106",
+                "number": "OP02-106",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Tsuru",
+                "image_path": "images/ParamountWarOP02/OP02-106.png",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-106.png"
+            },
+            {
+                "id": "OP02-107",
+                "number": "OP02-107",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Doberman",
+                "image_path": "images/ParamountWarOP02/OP02-107.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-107.png"
+            },
+            {
+                "id": "OP02-108",
+                "number": "OP02-108",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Donquixote Rosinante",
+                "image_path": "images/ParamountWarOP02/OP02-108.png",
+                "cost": "2",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy",
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-108.png"
+            },
+            {
+                "id": "OP02-108_p1",
+                "number": "OP02-108",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Donquixote Rosinante (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-108_p1.png",
+                "cost": "2",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy",
+                    "Donquixote Pirates"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-108_p1.png"
+            },
+            {
+                "id": "OP02-109",
+                "number": "OP02-109",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jaguar.D.Saul",
+                "image_path": "images/ParamountWarOP02/OP02-109.png",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Giant",
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-109.png"
+            },
+            {
+                "id": "OP02-110",
+                "number": "OP02-110",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Hina",
+                "image_path": "images/ParamountWarOP02/OP02-110.png",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] Select up to 1 of your opponent's Characters with a cost of 6 or less. The selected Character cannot attack during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-110.png"
+            },
+            {
+                "id": "OP02-111",
+                "number": "OP02-111",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Fullbody",
+                "image_path": "images/ParamountWarOP02/OP02-111.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[When Attacking] If you have [Jango], this card gains +3000 power during this battle.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-111.png"
+            },
+            {
+                "id": "OP02-112",
+                "number": "OP02-112",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Bell-mère",
+                "image_path": "images/ParamountWarOP02/OP02-112.png",
+                "cost": "1",
+                "attribute": [
+                    "Ranged"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −1 cost during this turn. Then, up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-112.png"
+            },
+            {
+                "id": "OP02-113",
+                "number": "OP02-113",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Helmeppo",
+                "image_path": "images/ParamountWarOP02/OP02-113.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "[Trigger] Play this card.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[When Attacking] Give up to 1 of your opponent's Characters −2 cost during this turn. Then, if there is a Character with a cost of 0, this Character gains +2000 power during this battle.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-113.png"
+            },
+            {
+                "id": "OP02-114",
+                "number": "OP02-114",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Borsalino",
+                "image_path": "images/ParamountWarOP02/OP02-114.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Opponent's Turn] This Character gains +1000 power and cannot be K.O.'d by effects.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-114.png"
+            },
+            {
+                "id": "OP02-114_p1",
+                "number": "OP02-114",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Borsalino (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-114_p1.png",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Opponent's Turn] This Character gains +1000 power and cannot be K.O.'d by effects.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-114_p1.png"
+            },
+            {
+                "id": "OP02-115",
+                "number": "OP02-115",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Garp",
+                "image_path": "images/ParamountWarOP02/OP02-115.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with a cost of 0.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-115.png"
+            },
+            {
+                "id": "OP02-115_p1",
+                "number": "OP02-115",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Garp (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-115_p1.png",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with a cost of 0.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-115_p1.png"
+            },
+            {
+                "id": "OP02-116",
+                "number": "OP02-116",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Yamakaji",
+                "image_path": "images/ParamountWarOP02/OP02-116.png",
+                "cost": "3",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-116.png"
+            },
+            {
+                "id": "OP02-117",
+                "number": "OP02-117",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Ice Age",
+                "image_path": "images/ParamountWarOP02/OP02-117.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] Give up to 1 of your opponent's Characters −5 cost during this turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-117.png"
+            },
+            {
+                "id": "OP02-118",
+                "number": "OP02-118",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Yasakani Sacred Jewel",
+                "image_path": "images/ParamountWarOP02/OP02-118.png",
+                "cost": "1",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] K.O. up to 1 of your opponent's Stages with a cost of 3 or less.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Counter] You may trash 1 card from your hand: Select up to 1 of your Characters. The selected Character cannot be K.O.'d during this battle.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-118.png"
+            },
+            {
+                "id": "OP02-119",
+                "number": "OP02-119",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Meteor Volcano",
+                "image_path": "images/ParamountWarOP02/OP02-119.png",
+                "cost": "2",
+                "attribute": [
+                    ""
+                ],
+                "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-119.png"
+            },
+            {
+                "id": "OP02-120",
+                "number": "OP02-120",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Uta",
+                "image_path": "images/ParamountWarOP02/OP02-120.png",
+                "cost": "8",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your Leader and all of your Characters gain +1000 power until the start of your next turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-120.png"
+            },
+            {
+                "id": "OP02-120_p1",
+                "number": "OP02-120",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Uta (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-120_p1.png",
+                "cost": "8",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "Purple"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "1",
+                "effect": "[On Play] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Your Leader and all of your Characters gain +1000 power until the start of your next turn.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-120_p1.png"
+            },
+            {
+                "id": "OP02-121",
+                "number": "OP02-121",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Kuzan",
+                "image_path": "images/ParamountWarOP02/OP02-121.png",
+                "cost": "10",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Former Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Your Turn] Give all of your opponent's Characters −5 cost.[On Play] K.O. up to 1 of your opponent's Characters with a cost of 0.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-121.png"
+            },
+            {
+                "id": "OP02-121_p1",
+                "number": "OP02-121",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Kuzan (Parallel)",
+                "image_path": "images/ParamountWarOP02/OP02-121_p1.png",
+                "cost": "10",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "Black"
+                ],
+                "feature": [
+                    "Former Navy"
+                ],
+                "block_icon": "1",
+                "effect": "[Your Turn] Give all of your opponent's Characters −5 cost.[On Play] K.O. up to 1 of your opponent's Characters with a cost of 0.",
+                "card_set": "-Paramount War- [OP-02]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-121_p1.png"
+            }
+        ]
+    }
+}
