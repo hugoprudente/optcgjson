@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556025
+        "set": 556025,
+        "language": "en"
     },
     "data": {
         "code": "ST25",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Buggy",
-                "image_path": "images/BlueBuggyST25/OP09-042_p2.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Slash"
                 ],
@@ -39,7 +39,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Alvida",
-                "image_path": "images/BlueBuggyST25/OP09-043_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -64,7 +63,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Cabaji",
-                "image_path": "images/BlueBuggyST25/OP09-045_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -89,7 +87,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Buggy",
-                "image_path": "images/BlueBuggyST25/OP09-051_r1.png",
                 "cost": "10",
                 "attribute": [
                     "Slash"
@@ -115,7 +112,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Mohji",
-                "image_path": "images/BlueBuggyST25/OP09-053_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -140,7 +136,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Richie",
-                "image_path": "images/BlueBuggyST25/OP09-054_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -166,7 +161,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Mr.1(Daz.Bonez)",
-                "image_path": "images/BlueBuggyST25/OP09-055_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -192,7 +186,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Mr.3(Galdino)",
-                "image_path": "images/BlueBuggyST25/OP09-056_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -218,11 +211,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Cross Guild",
-                "image_path": "images/BlueBuggyST25/OP09-057_p1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -243,7 +233,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Buggy",
-                "image_path": "images/BlueBuggyST25/P-084_r1.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -259,7 +248,7 @@
                     "Cross Guild"
                 ],
                 "block_icon": "3",
-                "effect": "This Character cannot attack.If your Leader is [Buggy], all Characters with a cost of 3 or 4 cannot attack.[On Play] Play up to 1 {Cross Guild} type Character card with a cost of 6 or less from your hand.",
+                "effect": "This Character cannot attack. If your Leader is [Buggy], all Characters with a cost of 3 or 4 cannot attack. [On Play] Play up to 1 {Cross Guild} type Character card with a cost of 6 or less from your hand.",
                 "card_set": "-Blue Buggy- [ST-25]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/P-084_r1.png"
             },
@@ -269,7 +258,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Alvida",
-                "image_path": "images/BlueBuggyST25/ST25-001.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -284,7 +272,7 @@
                     "Cross Guild"
                 ],
                 "block_icon": "3",
-                "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains +1 cost.[On Play] If your Leader is [Buggy], draw 3 cards and trash 2 cards from your hand.",
+                "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains +1 cost. [On Play] If your Leader is [Buggy], draw 3 cards and trash 2 cards from your hand.",
                 "card_set": "-Blue Buggy- [ST-25]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST25-001.png"
             },
@@ -294,7 +282,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Cabaji",
-                "image_path": "images/BlueBuggyST25/ST25-002.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -309,7 +296,7 @@
                     "Cross Guild"
                 ],
                 "block_icon": "3",
-                "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost.(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Opponent's Turn] This Character gains +5000 power.",
+                "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] This Character gains +5000 power.",
                 "card_set": "-Blue Buggy- [ST-25]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST25-002.png"
             },
@@ -319,7 +306,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Crocodile & Mihawk",
-                "image_path": "images/BlueBuggyST25/ST25-003.png",
                 "cost": "8",
                 "attribute": [
                     "Slash",
@@ -336,7 +322,7 @@
                     "Former Baroque Works"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] Draw 2 cards and trash 1 card from your hand. Then, play up to 1 {Cross Guild} type Character card with a cost of 4 or less from your hand.[Once Per Turn] If your {Cross Guild} type Character would be removed from the field by your opponent's effect, you may trash 1 card from your hand instead.",
+                "effect": "[On Play] Draw 2 cards and trash 1 card from your hand. Then, play up to 1 {Cross Guild} type Character card with a cost of 4 or less from your hand. [Once Per Turn] If your {Cross Guild} type Character would be removed from the field by your opponent's effect, you may trash 1 card from your hand instead.",
                 "card_set": "-Blue Buggy- [ST-25]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST25-003.png"
             },
@@ -346,7 +332,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Buggy",
-                "image_path": "images/BlueBuggyST25/ST25-004.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -372,7 +357,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Mohji",
-                "image_path": "images/BlueBuggyST25/ST25-005.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -387,7 +371,7 @@
                     "Cross Guild"
                 ],
                 "block_icon": "3",
-                "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost.(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] If your Leader is [Buggy] and you have 3 or less cards in your hand, draw 1 card.",
+                "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] If your Leader is [Buggy] and you have 3 or less cards in your hand, draw 1 card.",
                 "card_set": "-Blue Buggy- [ST-25]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST25-005.png"
             }

@@ -1,0 +1,374 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563016,
+        "language": "th"
+    },
+    "data": {
+        "code": "ST16",
+        "cards": [
+            {
+                "id": "P-029_r2",
+                "number": "P-029",
+                "type": "P",
+                "class": "CHARACTER",
+                "name": "Bartolomeo",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM",
+                    "ซูเปอร์โนวา",
+                    "บาร์โธคลับ"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อจบเทิร์นของเรา] สามารถ เรสต์ คาแรกเตอร์นี้ : ทำการ แอ็คทีฟ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < FILM > นอกเหนือจาก [Bartolomeo] จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/P-029_r2.png"
+            },
+            {
+                "id": "P-057_p1",
+                "number": "P-057",
+                "type": "P",
+                "class": "EVENT",
+                "name": "Fleeting Lullaby",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ดนตรี",
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] ถ้าลีดเดอร์ของเราคือ [Uta], ทำให้ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า ที่กำลังเรสต์อยู่ จำนวนไม่เกิน 2 ใบ, จะไม่ถูกเปลี่ยนเป็น แอ็คทีฟ ในช่วงรีเฟรชเฟสของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/P-057_p1.png"
+            },
+            {
+                "id": "P-058_p1",
+                "number": "P-058",
+                "type": "P",
+                "class": "EVENT",
+                "name": "Where the Wind Blows",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ แอ็คทีฟ คาแรกเตอร์ ที่มีคุณสมบัติ < FILM > ของเราทั้งหมด.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ดนตรี",
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] ถ้าลีดเดอร์ของเราคือ [Uta], ในตอนจบเทิร์นของเรา, ทำการ แอ็คทีฟ คาแรกเตอร์ ที่มีคุณสมบัติ < FILM > ของเราทั้งหมด.",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/P-058_p1.png"
+            },
+            {
+                "id": "P-059_p1",
+                "number": "P-059",
+                "type": "P",
+                "class": "EVENT",
+                "name": "The World's Continuation",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ดนตรี",
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "[เคาท์เตอร์] ถ้าลีดเดอร์ของเราคือ [Uta], สามารถนำ คาแรกเตอร์ของเรา จำนวนเท่าไหร่ก็ได้ กลับขึ้นมือของเรา. ในแบทเทิลนี้, ลีดเดอร์ของเรา หรือ คาแรกเตอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000, ต่อจำนวน คาแรกเตอร์ ที่ถูกนำกลับขึ้นมือข้างต้น จำนวน 1 ใบ.",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/P-059_p1.png"
+            },
+            {
+                "id": "P-060_p1",
+                "number": "P-060",
+                "type": "P",
+                "class": "EVENT",
+                "name": "Tot Musica",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ดนตรี",
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] ทำการ เรสต์ [Uta] ของเรา จำนวน 1 ใบ : ทำการ เรสต์ ด้ง!! ของคู่แข่ง จำนวนไม่เกิน 2 ใบ.",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/P-060_p1.png"
+            },
+            {
+                "id": "P-061_r1",
+                "number": "P-061",
+                "type": "P",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/P-061_r1.png"
+            },
+            {
+                "id": "ST11-001_p1",
+                "number": "ST11-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Uta",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] [เทิร์นละ 1 ครั้ง] นำการ์ดจากข้างบนเด็คของเรา จำนวน 1 ใบ มาแสดงให้ดู, แล้วหาการ์ดที่มีคุณสมบัติ < FILM > จำนวนไม่เกิน 1 ใบ, นำขึ้นมือ. จากนั้น, จะนำการ์ดที่เหลือไปวางที่ข้างใต้เด็คของเรา.",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST11-001_p1.png"
+            },
+            {
+                "id": "ST11-003_p2",
+                "number": "ST11-003",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Backlight",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ดนตรี",
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] ถ้าลีดเดอร์ของเราคือ [Uta], เลือก 1 อย่าง จากดังต่อไปนี้. • ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. • ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่,  จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST11-003_p2.png"
+            },
+            {
+                "id": "ST11-004_p2",
+                "number": "ST11-004",
+                "type": "SR",
+                "class": "EVENT",
+                "name": "New Genesis",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ดนตรี",
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] ถ้าลีดเดอร์ของเราคือ [Uta], ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ดที่มีคุณสมบัติ < FILM > นอกเหนือจาก [New Genesis] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, และทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST11-004_p2.png"
+            },
+            {
+                "id": "ST11-005_p2",
+                "number": "ST11-005",
+                "type": "C",
+                "class": "EVENT",
+                "name": "I'm invincible",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ดนตรี",
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] ทำการ แอ็คทีฟ [Uta] ที่เป็น ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST11-005_p2.png"
+            },
+            {
+                "id": "ST16-001",
+                "number": "ST16-001",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Uta",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ด ที่มีคุณสมบัติ < FILM > จากบนมือของเรา จำนวน 1 ใบ : นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST16-001.png"
+            },
+            {
+                "id": "ST16-002",
+                "number": "ST16-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gordon",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อคู่แข่งโจมตี] สามารถทิ้งการ์ด ที่มีคุณสมบัติ < ดนตรี > จากบนมือของเรา จำนวนกี่ใบก็ได้. ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000 ต่อจำนวนการ์ด ที่ทิ้งไป 1 ใบ.",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST16-002.png"
+            },
+            {
+                "id": "ST16-003",
+                "number": "ST16-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Charlotte Katakuri",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < FILM >, และเรามีการ์ด ที่กำลังเรสต์อยู่ จำนวน 6 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000.",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST16-003.png"
+            },
+            {
+                "id": "ST16-004",
+                "number": "ST16-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Shanks",
+                "cost": "9",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "11000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM",
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่กำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST16-004.png"
+            },
+            {
+                "id": "ST16-005",
+                "number": "ST16-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้ามี [Uta] ของฝ่ายเรา ที่กำลังเรสต์อยู่ละก็, คาแรกเตอร์นี้ จะมีพาวเวอร์ +1000.",
+                "card_set": "-Green Uta- [ST-16]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST16-005.png"
+            }
+        ]
+    }
+}

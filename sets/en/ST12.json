@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556012
+        "set": 556012,
+        "language": "en"
     },
     "data": {
         "code": "ST12",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Roronoa Zoro & Sanji",
-                "image_path": "images/ZoroSanjiST12/ST12-001.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash",
                     "Strike"
@@ -40,7 +40,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kuina",
-                "image_path": "images/ZoroSanjiST12/ST12-002.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -65,7 +64,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Dracule Mihawk",
-                "image_path": "images/ZoroSanjiST12/ST12-003.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -91,7 +89,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Humandrill",
-                "image_path": "images/ZoroSanjiST12/ST12-004.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -117,7 +114,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Perona",
-                "image_path": "images/ZoroSanjiST12/ST12-005.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -143,7 +139,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Yosaku & Johnny",
-                "image_path": "images/ZoroSanjiST12/ST12-006.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -158,7 +153,7 @@
                     "East Blue"
                 ],
                 "block_icon": "2",
-                "effect": "[DON!! x1] [When Attacking] Choose one:• Rest up to 1 of your opponent's Characters with a cost of 2 or less.• K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
+                "effect": "[DON!! x1] [When Attacking] Choose one: • Rest up to 1 of your opponent's Characters with a cost of 2 or less. • K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.",
                 "card_set": "-Zoro & Sanji- [ST-12]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST12-006.png"
             },
@@ -168,7 +163,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Rika",
-                "image_path": "images/ZoroSanjiST12/ST12-007.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -193,7 +187,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/ZoroSanjiST12/ST12-008.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -218,7 +211,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Elephant True Bluefin",
-                "image_path": "images/ZoroSanjiST12/ST12-009.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -243,7 +235,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Emporio.Ivankov",
-                "image_path": "images/ZoroSanjiST12/ST12-010.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -259,7 +250,7 @@
                     "Revolutionary Army"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] Reveal 1 card from the top of your deck and play up to 1 Character card with a cost of 2. Then, place the rest at the top or bottom of your deck.[When Attacking] [Once Per Turn] Draw 1 card if you have 6 or less cards in your hand.",
+                "effect": "[On Play] Reveal 1 card from the top of your deck and play up to 1 Character card with a cost of 2. Then, place the rest at the top or bottom of your deck. [When Attacking] [Once Per Turn] Draw 1 card if you have 6 or less cards in your hand.",
                 "card_set": "-Zoro & Sanji- [ST-12]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST12-010.png"
             },
@@ -269,7 +260,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/ZoroSanjiST12/ST12-011.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -294,7 +284,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Pudding",
-                "image_path": "images/ZoroSanjiST12/ST12-012.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -319,7 +308,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Zeff",
-                "image_path": "images/ZoroSanjiST12/ST12-013.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -334,7 +322,7 @@
                     "East Blue"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.[When Attacking] Reveal 1 card from the top of your deck and play up to 1 Character card with a cost of 2 rested. Then, place the rest at the top or bottom of your deck.",
+                "effect": "[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order. [When Attacking] Reveal 1 card from the top of your deck and play up to 1 Character card with a cost of 2 rested. Then, place the rest at the top or bottom of your deck.",
                 "card_set": "-Zoro & Sanji- [ST-12]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST12-013.png"
             },
@@ -344,7 +332,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Duval",
-                "image_path": "images/ZoroSanjiST12/ST12-014.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -359,7 +346,7 @@
                     "The Flying Fish Riders"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
                 "card_set": "-Zoro & Sanji- [ST-12]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST12-014.png"
             },
@@ -369,7 +356,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Patty & Carne",
-                "image_path": "images/ZoroSanjiST12/ST12-015.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -394,11 +380,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Lion Strike",
-                "image_path": "images/ZoroSanjiST12/ST12-016.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -419,11 +402,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Plastic Surgery Shot",
-                "image_path": "images/ZoroSanjiST12/ST12-017.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",

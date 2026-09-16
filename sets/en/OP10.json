@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556110
+        "set": 556110,
+        "language": "en"
     },
     "data": {
         "code": "OP10",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Smoker",
-                "image_path": "images/RoyalBloodOP10/OP10-001.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -30,7 +30,7 @@
                     "Navy"
                 ],
                 "block_icon": "3",
-                "effect": "[Opponent's Turn] All of your {Navy} or {Punk Hazard} type Characters gain +1000 power.[Activate: Main] [Once Per Turn] If you have a Character with 7000 power or more, set up to 2 of your DON!! cards as active.",
+                "effect": "[Opponent's Turn] All of your {Navy} or {Punk Hazard} type Characters gain +1000 power. [Activate: Main] [Once Per Turn] If you have a Character with 7000 power or more, set up to 2 of your DON!! cards as active.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-001.png"
             },
@@ -40,8 +40,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Smoker",
-                "image_path": "images/RoyalBloodOP10/OP10-001_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -57,7 +56,7 @@
                     "Navy"
                 ],
                 "block_icon": "3",
-                "effect": "[Opponent's Turn] All of your {Navy} or {Punk Hazard} type Characters gain +1000 power.[Activate: Main] [Once Per Turn] If you have a Character with 7000 power or more, set up to 2 of your DON!! cards as active.",
+                "effect": "[Opponent's Turn] All of your {Navy} or {Punk Hazard} type Characters gain +1000 power. [Activate: Main] [Once Per Turn] If you have a Character with 7000 power or more, set up to 2 of your DON!! cards as active.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-001_p1.png"
             },
@@ -67,8 +66,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Caesar Clown",
-                "image_path": "images/RoyalBloodOP10/OP10-002.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -94,8 +92,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Caesar Clown",
-                "image_path": "images/RoyalBloodOP10/OP10-002_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -121,8 +118,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Sugar",
-                "image_path": "images/RoyalBloodOP10/OP10-003.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -137,7 +133,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[End of Your Turn] If you have a {Donquixote Pirates} type Character with 6000 power or more, set up to 1 of your DON!! cards as active.[Opponent's Turn] [Once Per Turn] When you activate an Event, add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[End of Your Turn] If you have a {Donquixote Pirates} type Character with 6000 power or more, set up to 1 of your DON!! cards as active. [Opponent's Turn] [Once Per Turn] When you activate an Event, add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-003.png"
             },
@@ -147,8 +143,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Sugar",
-                "image_path": "images/RoyalBloodOP10/OP10-003_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -163,7 +158,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[End of Your Turn] If you have a {Donquixote Pirates} type Character with 6000 power or more, set up to 1 of your DON!! cards as active.[Opponent's Turn] [Once Per Turn] When you activate an Event, add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[End of Your Turn] If you have a {Donquixote Pirates} type Character with 6000 power or more, set up to 1 of your DON!! cards as active. [Opponent's Turn] [Once Per Turn] When you activate an Event, add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-003_p1.png"
             },
@@ -173,7 +168,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vergo",
-                "image_path": "images/RoyalBloodOP10/OP10-004.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -200,7 +194,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/RoyalBloodOP10/OP10-005.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -216,7 +209,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Your Turn] This Character gains +3000 power.[On K.O.] Draw 1 card.",
+                "effect": "[Your Turn] This Character gains +3000 power. [On K.O.] Draw 1 card.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-005.png"
             },
@@ -226,7 +219,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/RoyalBloodOP10/OP10-005_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -242,7 +234,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Your Turn] This Character gains +3000 power.[On K.O.] Draw 1 card.",
+                "effect": "[Your Turn] This Character gains +3000 power. [On K.O.] Draw 1 card.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-005_p1.png"
             },
@@ -252,7 +244,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Caesar Clown",
-                "image_path": "images/RoyalBloodOP10/OP10-006.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -278,7 +269,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Ceaser Soldier",
-                "image_path": "images/RoyalBloodOP10/OP10-007.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -303,7 +293,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Scotch",
-                "image_path": "images/RoyalBloodOP10/OP10-008.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -318,7 +307,7 @@
                     "Punk Hazard"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you don't have [Rock], play up to 1 [Rock] from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you don't have [Rock], play up to 1 [Rock] from your hand.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-008.png"
             },
@@ -328,7 +317,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Smiley",
-                "image_path": "images/RoyalBloodOP10/OP10-009.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -354,7 +342,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Chadros.Higelyges (Brownbeard)",
-                "image_path": "images/RoyalBloodOP10/OP10-010.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -380,7 +367,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/RoyalBloodOP10/OP10-011.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -396,7 +382,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Opponent's Turn] This Character gains +2000 power.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] This Character gains +2000 power.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-011.png"
             },
@@ -406,7 +392,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Dragon Number Thirteen",
-                "image_path": "images/RoyalBloodOP10/OP10-012.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -432,7 +417,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/RoyalBloodOP10/OP10-013.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -458,7 +442,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Franky",
-                "image_path": "images/RoyalBloodOP10/OP10-014.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -485,7 +468,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Mocha",
-                "image_path": "images/RoyalBloodOP10/OP10-015.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -510,7 +492,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monet",
-                "image_path": "images/RoyalBloodOP10/OP10-016.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -536,7 +517,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monet",
-                "image_path": "images/RoyalBloodOP10/OP10-016_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -562,7 +542,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Rock",
-                "image_path": "images/RoyalBloodOP10/OP10-017.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -587,11 +566,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Ten-Layer Igloo",
-                "image_path": "images/RoyalBloodOP10/OP10-018.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -613,11 +589,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Divine Departure",
-                "image_path": "images/RoyalBloodOP10/OP10-019.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -629,7 +602,7 @@
                     "Red-Haired Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Main] You may rest 5 of your DON!! cards: K.O. up to 1 of your opponent's Characters with 8000 power or less.[Counter] Up to 1 of your Leader gains +3000 power during this battle.",
+                "effect": "[Main] You may rest 5 of your DON!! cards: K.O. up to 1 of your opponent's Characters with 8000 power or less. [Counter] Up to 1 of your Leader gains +3000 power during this battle.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-019.png"
             },
@@ -639,11 +612,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Divine Departure",
-                "image_path": "images/RoyalBloodOP10/OP10-019_p1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -655,7 +625,7 @@
                     "Red-Haired Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Main] You may rest 5 of your DON!! cards: K.O. up to 1 of your opponent's Characters with 8000 power or less.[Counter] Up to 1 of your Leader gains +3000 power during this battle.",
+                "effect": "[Main] You may rest 5 of your DON!! cards: K.O. up to 1 of your opponent's Characters with 8000 power or less. [Counter] Up to 1 of your Leader gains +3000 power during this battle.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-019_p1.png"
             },
@@ -665,11 +635,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Gum-Gum UFO",
-                "image_path": "images/RoyalBloodOP10/OP10-020.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
                 "power": "-",
                 "counter": "-",
@@ -691,11 +658,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Punk Hazard",
-                "image_path": "images/RoyalBloodOP10/OP10-021.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -716,8 +680,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Trafalgar Law",
-                "image_path": "images/RoyalBloodOP10/OP10-022.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -744,8 +707,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Trafalgar Law",
-                "image_path": "images/RoyalBloodOP10/OP10-022_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -772,7 +734,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Issho",
-                "image_path": "images/RoyalBloodOP10/OP10-023.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -798,7 +759,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Edward.Newgate",
-                "image_path": "images/RoyalBloodOP10/OP10-024.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -825,7 +785,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Enel",
-                "image_path": "images/RoyalBloodOP10/OP10-025.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -851,7 +810,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kin'emon",
-                "image_path": "images/RoyalBloodOP10/OP10-026.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -878,7 +836,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Kin'emon",
-                "image_path": "images/RoyalBloodOP10/OP10-027.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -905,7 +862,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Kouzuki Momonosuke",
-                "image_path": "images/RoyalBloodOP10/OP10-028.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -932,7 +888,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Dracule Mihawk",
-                "image_path": "images/RoyalBloodOP10/OP10-029.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -958,7 +913,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Smoker",
-                "image_path": "images/RoyalBloodOP10/OP10-030.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -974,7 +928,7 @@
                     "Navy"
                 ],
                 "block_icon": "3",
-                "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)[Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn.",
+                "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-030.png"
             },
@@ -984,7 +938,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Smoker",
-                "image_path": "images/RoyalBloodOP10/OP10-030_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1000,7 +953,7 @@
                     "Navy"
                 ],
                 "block_icon": "3",
-                "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)[Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn.",
+                "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-030_p1.png"
             },
@@ -1010,7 +963,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sengoku",
-                "image_path": "images/RoyalBloodOP10/OP10-031.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -1036,7 +988,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Tashigi",
-                "image_path": "images/RoyalBloodOP10/OP10-032.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -1062,7 +1013,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Tashigi",
-                "image_path": "images/RoyalBloodOP10/OP10-032_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -1088,7 +1038,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/RoyalBloodOP10/OP10-033.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -1114,7 +1063,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Franky",
-                "image_path": "images/RoyalBloodOP10/OP10-034.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1140,7 +1088,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Brook",
-                "image_path": "images/RoyalBloodOP10/OP10-035.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1166,7 +1113,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Perona",
-                "image_path": "images/RoyalBloodOP10/OP10-036.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1193,7 +1139,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Lim",
-                "image_path": "images/RoyalBloodOP10/OP10-037.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1208,7 +1153,7 @@
                     "ODYSSEY"
                 ],
                 "block_icon": "3",
-                "effect": "[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your {ODYSSEY} type Characters instead.[End of Your Turn] Set up to 1 of your {ODYSSEY} type Characters as active.",
+                "effect": "[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your {ODYSSEY} type Characters instead. [End of Your Turn] Set up to 1 of your {ODYSSEY} type Characters as active.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-037.png"
             },
@@ -1218,7 +1163,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Lim",
-                "image_path": "images/RoyalBloodOP10/OP10-037_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1233,7 +1177,7 @@
                     "ODYSSEY"
                 ],
                 "block_icon": "3",
-                "effect": "[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your {ODYSSEY} type Characters instead.[End of Your Turn] Set up to 1 of your {ODYSSEY} type Characters as active.",
+                "effect": "[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your {ODYSSEY} type Characters instead. [End of Your Turn] Set up to 1 of your {ODYSSEY} type Characters as active.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-037_p1.png"
             },
@@ -1243,7 +1187,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/RoyalBloodOP10/OP10-038.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1270,11 +1213,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Gum-Gum Dragon Fire Pistol Twister Star",
-                "image_path": "images/RoyalBloodOP10/OP10-039.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
                 "power": "-",
                 "counter": "-",
@@ -1297,11 +1237,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "The Weak Do Not Have the Right to Choose How They Die",
-                "image_path": "images/RoyalBloodOP10/OP10-040.png",
                 "cost": "5",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1324,11 +1261,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Radio Knife",
-                "image_path": "images/RoyalBloodOP10/OP10-041.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -1351,8 +1285,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Usopp",
-                "image_path": "images/RoyalBloodOP10/OP10-042.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Ranged"
                 ],
@@ -1368,7 +1301,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "All of your {Dressrosa} type Characters with a cost of 2 or more gain +1 cost.[Opponent's Turn] [Once Per Turn] This effect can be activated when your {Dressrosa} type Character is removed from the field by your opponent's effect or K.O.'d. If you have 5 or less cards in your hand, draw 1 card.",
+                "effect": "All of your {Dressrosa} type Characters with a cost of 2 or more gain +1 cost. [Opponent's Turn] [Once Per Turn] This effect can be activated when your {Dressrosa} type Character is removed from the field by your opponent's effect or K.O.'d. If you have 5 or less cards in your hand, draw 1 card.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-042.png"
             },
@@ -1378,8 +1311,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Usopp",
-                "image_path": "images/RoyalBloodOP10/OP10-042_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Ranged"
                 ],
@@ -1395,7 +1327,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "All of your {Dressrosa} type Characters with a cost of 2 or more gain +1 cost.[Opponent's Turn] [Once Per Turn] This effect can be activated when your {Dressrosa} type Character is removed from the field by your opponent's effect or K.O.'d. If you have 5 or less cards in your hand, draw 1 card.",
+                "effect": "All of your {Dressrosa} type Characters with a cost of 2 or more gain +1 cost. [Opponent's Turn] [Once Per Turn] This effect can be activated when your {Dressrosa} type Character is removed from the field by your opponent's effect or K.O.'d. If you have 5 or less cards in your hand, draw 1 card.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-042_p1.png"
             },
@@ -1405,7 +1337,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Moocy",
-                "image_path": "images/RoyalBloodOP10/OP10-043.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -1431,7 +1362,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Cub",
-                "image_path": "images/RoyalBloodOP10/OP10-044.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -1457,7 +1387,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Cavendish",
-                "image_path": "images/RoyalBloodOP10/OP10-045.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1483,7 +1412,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Cavendish",
-                "image_path": "images/RoyalBloodOP10/OP10-045_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1509,7 +1437,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kyros",
-                "image_path": "images/RoyalBloodOP10/OP10-046.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -1534,7 +1461,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kyros",
-                "image_path": "images/RoyalBloodOP10/OP10-046_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -1559,7 +1485,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Koala",
-                "image_path": "images/RoyalBloodOP10/OP10-047.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -1585,7 +1510,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sai",
-                "image_path": "images/RoyalBloodOP10/OP10-048.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1611,7 +1535,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Sabo",
-                "image_path": "images/RoyalBloodOP10/OP10-049.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1637,7 +1560,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Hajrudin",
-                "image_path": "images/RoyalBloodOP10/OP10-050.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -1664,7 +1586,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Hack",
-                "image_path": "images/RoyalBloodOP10/OP10-051.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1691,7 +1612,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bartolomeo",
-                "image_path": "images/RoyalBloodOP10/OP10-052.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1707,7 +1627,7 @@
                     "Barto Club"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Place up to 1 Character with a cost of 1 or less at the bottom of the owner's deck.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Place up to 1 Character with a cost of 1 or less at the bottom of the owner's deck.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-052.png"
             },
@@ -1717,7 +1637,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bian",
-                "image_path": "images/RoyalBloodOP10/OP10-053.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -1743,7 +1662,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Blue Gilly",
-                "image_path": "images/RoyalBloodOP10/OP10-054.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1768,7 +1686,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Marco",
-                "image_path": "images/RoyalBloodOP10/OP10-055.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -1783,7 +1700,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-055.png"
             },
@@ -1793,7 +1710,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Mansherry",
-                "image_path": "images/RoyalBloodOP10/OP10-056.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -1819,7 +1735,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Leo",
-                "image_path": "images/RoyalBloodOP10/OP10-057.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -1845,7 +1760,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Rebecca",
-                "image_path": "images/RoyalBloodOP10/OP10-058.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -1870,7 +1784,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Rebecca",
-                "image_path": "images/RoyalBloodOP10/OP10-058_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -1895,11 +1808,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Fo...llow...Me...and...I...Will...Gui...de...You",
-                "image_path": "images/RoyalBloodOP10/OP10-059.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1921,11 +1831,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Barrier-Barrier Pistol",
-                "image_path": "images/RoyalBloodOP10/OP10-060.png",
                 "cost": "5",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1947,11 +1854,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Special Long-Range Attack!! Bagworm",
-                "image_path": "images/RoyalBloodOP10/OP10-061.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 Character with a cost of 2 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -1973,7 +1877,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Violet",
-                "image_path": "images/RoyalBloodOP10/OP10-062.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -1988,7 +1891,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker][On K.O.] DON!! −1: If your Leader has the {Donquixote Pirates} type, add up to 1 purple Event from your trash to your hand.",
+                "effect": "[Blocker] [On K.O.] DON!! −1: If your Leader has the {Donquixote Pirates} type, add up to 1 purple Event from your trash to your hand.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-062.png"
             },
@@ -1998,7 +1901,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Sanji",
-                "image_path": "images/RoyalBloodOP10/OP10-063.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -2024,7 +1926,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Clone Soldier",
-                "image_path": "images/RoyalBloodOP10/OP10-064.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -2049,7 +1950,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Sugar",
-                "image_path": "images/RoyalBloodOP10/OP10-065.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -2074,7 +1974,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Giolla",
-                "image_path": "images/RoyalBloodOP10/OP10-066.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -2099,7 +1998,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Senor Pink",
-                "image_path": "images/RoyalBloodOP10/OP10-067.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2124,7 +2022,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Senor Pink",
-                "image_path": "images/RoyalBloodOP10/OP10-067_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2149,7 +2046,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Diamante",
-                "image_path": "images/RoyalBloodOP10/OP10-068.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -2174,7 +2070,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Fighting Fish",
-                "image_path": "images/RoyalBloodOP10/OP10-069.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -2200,7 +2095,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Trebol",
-                "image_path": "images/RoyalBloodOP10/OP10-070.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2215,7 +2109,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] All of your Characters with 1000 base power or less cannot be K.O.'d by your opponent's effects until the end of your opponent's next turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] All of your Characters with 1000 base power or less cannot be K.O.'d by your opponent's effects until the end of your opponent's next turn.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-070.png"
             },
@@ -2225,7 +2119,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Donquixote Doflamingo",
-                "image_path": "images/RoyalBloodOP10/OP10-071.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -2241,7 +2134,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] DON!! −1: Play up to 1 {Donquixote Pirates} type Character card with a cost of 5 or less from your hand.[On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[On Play] DON!! −1: Play up to 1 {Donquixote Pirates} type Character card with a cost of 5 or less from your hand. [On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-071.png"
             },
@@ -2251,7 +2144,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Donquixote Doflamingo",
-                "image_path": "images/RoyalBloodOP10/OP10-071_p1.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -2267,7 +2159,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] DON!! −1: Play up to 1 {Donquixote Pirates} type Character card with a cost of 5 or less from your hand.[On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[On Play] DON!! −1: Play up to 1 {Donquixote Pirates} type Character card with a cost of 5 or less from your hand. [On Your Opponent's Attack] [Once Per Turn] You may rest 1 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-071_p1.png"
             },
@@ -2277,7 +2169,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Donquixote Rosinante",
-                "image_path": "images/RoyalBloodOP10/OP10-072.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2293,7 +2184,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] You may trash 1 Event from your hand: Draw 2 cards.[End of Your Turn] If you have 7 or more DON!! cards on your field, set up to 2 of your DON!! cards as active.",
+                "effect": "[On Play] You may trash 1 Event from your hand: Draw 2 cards. [End of Your Turn] If you have 7 or more DON!! cards on your field, set up to 2 of your DON!! cards as active.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-072.png"
             },
@@ -2303,7 +2194,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Donquixote Rosinante",
-                "image_path": "images/RoyalBloodOP10/OP10-072_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2319,7 +2209,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] You may trash 1 Event from your hand: Draw 2 cards.[End of Your Turn] If you have 7 or more DON!! cards on your field, set up to 2 of your DON!! cards as active.",
+                "effect": "[On Play] You may trash 1 Event from your hand: Draw 2 cards. [End of Your Turn] If you have 7 or more DON!! cards on your field, set up to 2 of your DON!! cards as active.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-072_p1.png"
             },
@@ -2329,7 +2219,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Buffalo",
-                "image_path": "images/RoyalBloodOP10/OP10-073.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -2354,7 +2243,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Pica",
-                "image_path": "images/RoyalBloodOP10/OP10-074.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -2379,7 +2267,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Foxy",
-                "image_path": "images/RoyalBloodOP10/OP10-075.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -2404,7 +2291,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Baby 5",
-                "image_path": "images/RoyalBloodOP10/OP10-076.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -2429,7 +2315,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bellamy",
-                "image_path": "images/RoyalBloodOP10/OP10-077.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -2444,7 +2329,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] You may rest 2 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] You may rest 2 of your DON!! cards: Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-077.png"
             },
@@ -2454,11 +2339,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "I Do Not Forgive Those Who Laugh at My Family!!!",
-                "image_path": "images/RoyalBloodOP10/OP10-078.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -2480,11 +2362,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "God Thread",
-                "image_path": "images/RoyalBloodOP10/OP10-079.png",
                 "cost": "5",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "power": "-",
                 "counter": "-",
@@ -2506,11 +2385,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Little Black Bears",
-                "image_path": "images/RoyalBloodOP10/OP10-080.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "power": "-",
                 "counter": "-",
@@ -2531,7 +2407,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Usopp",
-                "image_path": "images/RoyalBloodOP10/OP10-081.png",
                 "cost": "4",
                 "attribute": [
                     "Ranged"
@@ -2557,7 +2432,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kuzan",
-                "image_path": "images/RoyalBloodOP10/OP10-082.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2573,7 +2447,7 @@
                     "Blackbeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "This Character cannot be removed from the field by your opponent's effects.[Activate: Main] You may trash this Character: Draw 1 card. Then, play up to 1 {Blackbeard Pirates} type Character card with a cost of 5 or less other than [Kuzan] from your trash.",
+                "effect": "This Character cannot be removed from the field by your opponent's effects. [Activate: Main] You may trash this Character: Draw 1 card. Then, play up to 1 {Blackbeard Pirates} type Character card with a cost of 5 or less other than [Kuzan] from your trash.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-082.png"
             },
@@ -2583,7 +2457,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kuzan",
-                "image_path": "images/RoyalBloodOP10/OP10-082_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2599,7 +2472,7 @@
                     "Blackbeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "This Character cannot be removed from the field by your opponent's effects.[Activate: Main] You may trash this Character: Draw 1 card. Then, play up to 1 {Blackbeard Pirates} type Character card with a cost of 5 or less other than [Kuzan] from your trash.",
+                "effect": "This Character cannot be removed from the field by your opponent's effects. [Activate: Main] You may trash this Character: Draw 1 card. Then, play up to 1 {Blackbeard Pirates} type Character card with a cost of 5 or less other than [Kuzan] from your trash.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-082_p1.png"
             },
@@ -2609,7 +2482,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Kouzuki Momonosuke",
-                "image_path": "images/RoyalBloodOP10/OP10-083.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -2636,7 +2508,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sanjuan.Wolf",
-                "image_path": "images/RoyalBloodOP10/OP10-084.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2662,7 +2533,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Jesus Burgess",
-                "image_path": "images/RoyalBloodOP10/OP10-085.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -2688,7 +2558,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Shiryu",
-                "image_path": "images/RoyalBloodOP10/OP10-086.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2703,7 +2572,7 @@
                     "Blackbeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Opponent's Turn] This Character gains +2000 power.[Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type, and this Character was played on this turn, K.O. up to 1 of your opponent's Characters with a base cost of 3 or less.",
+                "effect": "[Opponent's Turn] This Character gains +2000 power. [Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type, and this Character was played on this turn, K.O. up to 1 of your opponent's Characters with a base cost of 3 or less.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-086.png"
             },
@@ -2713,7 +2582,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/RoyalBloodOP10/OP10-087.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -2740,7 +2608,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/RoyalBloodOP10/OP10-088.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -2766,7 +2633,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/RoyalBloodOP10/OP10-089.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -2792,7 +2658,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Franky",
-                "image_path": "images/RoyalBloodOP10/OP10-090.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -2808,7 +2673,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker][On K.O.] Play up to 1 {Dressrosa} type Character card with a cost of 3 or less from your trash rested.",
+                "effect": "[Blocker] [On K.O.] Play up to 1 {Dressrosa} type Character card with a cost of 3 or less from your trash rested.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-090.png"
             },
@@ -2818,7 +2683,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Franky",
-                "image_path": "images/RoyalBloodOP10/OP10-090_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -2834,7 +2698,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker][On K.O.] Play up to 1 {Dressrosa} type Character card with a cost of 3 or less from your trash rested.",
+                "effect": "[Blocker] [On K.O.] Play up to 1 {Dressrosa} type Character card with a cost of 3 or less from your trash rested.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-090_p1.png"
             },
@@ -2844,7 +2708,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Brook",
-                "image_path": "images/RoyalBloodOP10/OP10-091.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -2870,7 +2733,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Perona",
-                "image_path": "images/RoyalBloodOP10/OP10-092.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2895,7 +2757,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Saint Homing",
-                "image_path": "images/RoyalBloodOP10/OP10-093.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -2920,7 +2781,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Ryuma",
-                "image_path": "images/RoyalBloodOP10/OP10-094.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2946,7 +2806,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/RoyalBloodOP10/OP10-095.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2973,11 +2832,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "There’s No Longer Any Need for the Seven Warlords of the Sea!!!",
-                "image_path": "images/RoyalBloodOP10/OP10-096.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's {The Seven Warlords of the Sea} type Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -2998,11 +2854,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Gum-Gum Rhino Schneider",
-                "image_path": "images/RoyalBloodOP10/OP10-097.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -3025,11 +2878,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Liberation",
-                "image_path": "images/RoyalBloodOP10/OP10-098.png",
                 "cost": "6",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Negate the effect of up to 1 of each of your opponent's Leader and Character cards during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -3050,8 +2900,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/RoyalBloodOP10/OP10-099.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -3076,8 +2925,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/RoyalBloodOP10/OP10-099_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -3102,7 +2950,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Inazuma",
-                "image_path": "images/RoyalBloodOP10/OP10-100.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -3127,7 +2974,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Urouge",
-                "image_path": "images/RoyalBloodOP10/OP10-101.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3153,7 +2999,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Emporio.Ivankov",
-                "image_path": "images/RoyalBloodOP10/OP10-102.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -3178,7 +3023,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Capone\"Gang\"Bege",
-                "image_path": "images/RoyalBloodOP10/OP10-103.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -3204,7 +3048,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Caribou",
-                "image_path": "images/RoyalBloodOP10/OP10-104.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -3230,7 +3073,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Cavendish",
-                "image_path": "images/RoyalBloodOP10/OP10-105.png",
                 "cost": "6",
                 "attribute": [
                     "Slash"
@@ -3257,7 +3099,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Killer",
-                "image_path": "images/RoyalBloodOP10/OP10-106.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -3283,7 +3124,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/RoyalBloodOP10/OP10-107.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -3299,7 +3139,7 @@
                     "Bonney Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker][On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 {Supernovas} type Character card with a cost of 5 from your hand to the top of your Life cards face-up.",
+                "effect": "[Blocker] [On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 {Supernovas} type Character card with a cost of 5 from your hand to the top of your Life cards face-up.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-107.png"
             },
@@ -3309,7 +3149,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Scratchmen Apoo",
-                "image_path": "images/RoyalBloodOP10/OP10-108.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -3335,7 +3174,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Basil Hawkins",
-                "image_path": "images/RoyalBloodOP10/OP10-109.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -3361,7 +3199,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Heat & Wire",
-                "image_path": "images/RoyalBloodOP10/OP10-110.png",
                 "cost": "3",
                 "attribute": [
                     "Slash",
@@ -3387,7 +3224,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/RoyalBloodOP10/OP10-111.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -3413,7 +3249,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/RoyalBloodOP10/OP10-111_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -3439,7 +3274,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/RoyalBloodOP10/OP10-112.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -3455,7 +3289,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] You may rest this Character: Trash up to 1 card from the top of your opponent's Life cards.[End of Your Turn] If your opponent has 2 or less Life cards, draw 1 card and trash 1 card from your hand.",
+                "effect": "[On Play] You may rest this Character: Trash up to 1 card from the top of your opponent's Life cards. [End of Your Turn] If your opponent has 2 or less Life cards, draw 1 card and trash 1 card from your hand.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-112.png"
             },
@@ -3465,7 +3299,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/RoyalBloodOP10/OP10-112_p1.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -3481,7 +3314,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] You may rest this Character: Trash up to 1 card from the top of your opponent's Life cards.[End of Your Turn] If your opponent has 2 or less Life cards, draw 1 card and trash 1 card from your hand.",
+                "effect": "[On Play] You may rest this Character: Trash up to 1 card from the top of your opponent's Life cards. [End of Your Turn] If your opponent has 2 or less Life cards, draw 1 card and trash 1 card from your hand.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-112_p1.png"
             },
@@ -3491,7 +3324,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/RoyalBloodOP10/OP10-113.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -3517,7 +3349,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "X.Drake",
-                "image_path": "images/RoyalBloodOP10/OP10-114.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -3544,11 +3375,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Let's Meet Again in the New World",
-                "image_path": "images/RoyalBloodOP10/OP10-115.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -3570,11 +3398,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Damned Punk",
-                "image_path": "images/RoyalBloodOP10/OP10-116.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -3596,11 +3421,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "ROOM",
-                "image_path": "images/RoyalBloodOP10/OP10-117.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card.",
                 "power": "-",
                 "counter": "-",
@@ -3622,7 +3444,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/RoyalBloodOP10/OP10-118.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -3639,7 +3460,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "Once per turn, this Character cannot be K.O.'d by your opponent's effects.[When Attacking] You may place 3 cards from your trash at the bottom of your deck in any order: If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
+                "effect": "Once per turn, this Character cannot be K.O.'d by your opponent's effects. [When Attacking] You may place 3 cards from your trash at the bottom of your deck in any order: If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-118.png"
             },
@@ -3649,7 +3470,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/RoyalBloodOP10/OP10-118_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -3666,7 +3486,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "Once per turn, this Character cannot be K.O.'d by your opponent's effects.[When Attacking] You may place 3 cards from your trash at the bottom of your deck in any order: If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
+                "effect": "Once per turn, this Character cannot be K.O.'d by your opponent's effects. [When Attacking] You may place 3 cards from your trash at the bottom of your deck in any order: If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-118_p1.png"
             },
@@ -3676,7 +3496,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/RoyalBloodOP10/OP10-119.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -3703,7 +3522,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/RoyalBloodOP10/OP10-119_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -3730,7 +3548,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/RoyalBloodOP10/OP10-119_p2.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -3757,7 +3574,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Charlotte Flampe",
-                "image_path": "images/RoyalBloodOP10/EB01-056_p2.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -3782,7 +3598,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Urouge",
-                "image_path": "images/RoyalBloodOP10/OP07-021_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -3798,7 +3613,7 @@
                     "Fallen Monk Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] Set up to 1 of your DON!! cards as active.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-021_p1.png"
             },
@@ -3808,7 +3623,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Charlotte Pudding",
-                "image_path": "images/RoyalBloodOP10/ST12-012_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -3833,7 +3647,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/RoyalBloodOP10/ST14-003_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3858,7 +3671,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Edward.Newgate",
-                "image_path": "images/RoyalBloodOP10/ST15-002_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -3874,7 +3686,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+                "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. [Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with 5000 power or less.",
                 "card_set": "-Royal Blood- [OP-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST15-002_p1.png"
             },
@@ -3884,7 +3696,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Uso-Hachi",
-                "image_path": "images/RoyalBloodOP10/ST18-001_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"

@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556010
+        "set": 556010,
+        "language": "en"
     },
     "data": {
         "code": "ST10",
@@ -13,7 +14,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Nami (Parallel)",
-                "image_path": "images/TheThreeCaptainsST10/OP01-016_p3.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -38,7 +38,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro (Parallel)",
-                "image_path": "images/TheThreeCaptainsST10/OP01-025_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -64,8 +63,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Trafalgar Law",
-                "image_path": "images/TheThreeCaptainsST10/ST10-001.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -90,8 +88,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/TheThreeCaptainsST10/ST10-002.png",
-                "cost": "Life3",
+                "cost": "3",
                 "attribute": [
                     "Strike"
                 ],
@@ -116,8 +113,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/TheThreeCaptainsST10/ST10-003.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -132,7 +128,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Your Turn] If you have 4 or more Life cards, give this Leader −1000 power.[When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Leader gains +2000 power during this turn.",
+                "effect": "[Your Turn] If you have 4 or more Life cards, give this Leader −1000 power. [When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Leader gains +2000 power during this turn.",
                 "card_set": "-The Three Captains- [ST-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-003.png"
             },
@@ -142,7 +138,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/TheThreeCaptainsST10/ST10-004.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -157,7 +152,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] If your opponent has a Character with 5000 or more power, this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] If your opponent has a Character with 5000 or more power, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-The Three Captains- [ST-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-004.png"
             },
@@ -167,7 +162,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jinbe",
-                "image_path": "images/TheThreeCaptainsST10/ST10-005.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -193,7 +187,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/TheThreeCaptainsST10/ST10-006.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -208,7 +201,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[Once Per Turn] When your opponent activates a [Blocker], K.O. up to 1 of your opponent's Characters with 8000 power or less.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [Once Per Turn] When your opponent activates a [Blocker], K.O. up to 1 of your opponent's Characters with 8000 power or less.",
                 "card_set": "-The Three Captains- [ST-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-006.png"
             },
@@ -218,7 +211,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Killer",
-                "image_path": "images/TheThreeCaptainsST10/ST10-007.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -243,7 +235,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Shachi & Penguin",
-                "image_path": "images/TheThreeCaptainsST10/ST10-008.png",
                 "cost": "4",
                 "attribute": [
                     "Ranged"
@@ -268,7 +259,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jean Bart",
-                "image_path": "images/TheThreeCaptainsST10/ST10-009.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -293,7 +283,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/TheThreeCaptainsST10/ST10-010.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -308,7 +297,7 @@
                     "Heart Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 7 or more cards in their hand, trash 2 cards from your opponent's hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 7 or more cards in their hand, trash 2 cards from your opponent's hand.",
                 "card_set": "-The Three Captains- [ST-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-010.png"
             },
@@ -318,7 +307,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Heat",
-                "image_path": "images/TheThreeCaptainsST10/ST10-011.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -343,7 +331,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bepo",
-                "image_path": "images/TheThreeCaptainsST10/ST10-012.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -369,7 +356,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/TheThreeCaptainsST10/ST10-013.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -394,7 +380,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Wire",
-                "image_path": "images/TheThreeCaptainsST10/ST10-014.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -409,7 +394,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, draw 1 card and trash 1 card from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, draw 1 card and trash 1 card from your hand.",
                 "card_set": "-The Three Captains- [ST-10]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-014.png"
             },
@@ -419,11 +404,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Gum-Gum Giant Sumo Slap",
-                "image_path": "images/TheThreeCaptainsST10/ST10-015.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -444,11 +426,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Gum-Gum Kong Gatling",
-                "image_path": "images/TheThreeCaptainsST10/ST10-016.png",
                 "cost": "5",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader gains +1000 power until the end of your next turn.",
                 "power": "-",
                 "counter": "-",
@@ -469,11 +448,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Punk Vise",
-                "image_path": "images/TheThreeCaptainsST10/ST10-017.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "power": "-",
                 "counter": "-",

@@ -1,0 +1,849 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 556030,
+        "language": "en"
+    },
+    "data": {
+        "code": "ST30",
+        "cards": [
+            {
+                "id": "ST30-001",
+                "number": "ST30-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Luffy & Ace",
+                "cost": "4",
+                "attribute": [
+                    "Strike",
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Red",
+                    "Green"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Whitebeard Pirates",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "5",
+                "effect": "If you have a Character with 7000 base power or more, give this Leader −2000 power. [Opponent's Turn] All of your [Portgas.D.Ace] and [Monkey.D.Luffy] cards gain +3000 power.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-001.png"
+            },
+            {
+                "id": "ST30-001_p1",
+                "number": "ST30-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Luffy & Ace",
+                "cost": "4",
+                "attribute": [
+                    "Strike",
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Red",
+                    "Green"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Whitebeard Pirates",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "5",
+                "effect": "If you have a Character with 7000 base power or more, give this Leader −2000 power. [Opponent's Turn] All of your [Portgas.D.Ace] and [Monkey.D.Luffy] cards gain +3000 power.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-001_p1.png"
+            },
+            {
+                "id": "ST30-002",
+                "number": "ST30-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Inazuma",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "5",
+                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 Character card with 6000 power and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-002.png"
+            },
+            {
+                "id": "ST30-002_p1",
+                "number": "ST30-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Inazuma",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "5",
+                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 Character card with 6000 power and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-002_p1.png"
+            },
+            {
+                "id": "ST30-003",
+                "number": "ST30-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Edward.Newgate",
+                "cost": "8",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "[Your Turn] All of your Characters with 6000 base power gain +1000 power.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-003.png"
+            },
+            {
+                "id": "ST30-003_p1",
+                "number": "ST30-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Edward.Newgate",
+                "cost": "8",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "The Four Emperors",
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "[Your Turn] All of your Characters with 6000 base power gain +1000 power.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-003_p1.png"
+            },
+            {
+                "id": "ST30-004",
+                "number": "ST30-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Emporio.Ivankov",
+                "cost": "1",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "5",
+                "effect": "[On Play] You may reveal 2 Character cards with 6000 power from your hand: Draw 3 cards and trash 2 cards from your hand.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-004.png"
+            },
+            {
+                "id": "ST30-004_p1",
+                "number": "ST30-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Emporio.Ivankov",
+                "cost": "1",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Revolutionary Army"
+                ],
+                "block_icon": "5",
+                "effect": "[On Play] You may reveal 2 Character cards with 6000 power from your hand: Draw 3 cards and trash 2 cards from your hand.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-004_p1.png"
+            },
+            {
+                "id": "ST30-005",
+                "number": "ST30-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jozu",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "-",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-005.png"
+            },
+            {
+                "id": "ST30-005_p1",
+                "number": "ST30-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jozu",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "-",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-005_p1.png"
+            },
+            {
+                "id": "ST30-006",
+                "number": "ST30-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Fish-Man",
+                    "Impel Down",
+                    "The Sun Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "[On Play] You may trash 1 Character card with 6000 power from your hand: Draw 2 cards.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-006.png"
+            },
+            {
+                "id": "ST30-006_p1",
+                "number": "ST30-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Fish-Man",
+                    "Impel Down",
+                    "The Sun Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "[On Play] You may trash 1 Character card with 6000 power from your hand: Draw 2 cards.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-006_p1.png"
+            },
+            {
+                "id": "ST30-007",
+                "number": "ST30-007",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Portgas.D.Ace",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "[On Play] You may rest 1 of your DON!! cards: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.) [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-007.png"
+            },
+            {
+                "id": "ST30-007_p1",
+                "number": "ST30-007",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Portgas.D.Ace",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "[On Play] You may rest 1 of your DON!! cards: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.) [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-007_p1.png"
+            },
+            {
+                "id": "ST30-008",
+                "number": "ST30-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Marco",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] You may trash 1 Character card with 6000 power from your hand: Play this Character card from your trash rested.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-008.png"
+            },
+            {
+                "id": "ST30-008_p1",
+                "number": "ST30-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Marco",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] You may trash 1 Character card with 6000 power from your hand: Play this Character card from your trash rested.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-008_p1.png"
+            },
+            {
+                "id": "ST30-009",
+                "number": "ST30-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "LittleOars Jr.",
+                "cost": "1",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Giant",
+                    "Whitebeard Pirates Allies"
+                ],
+                "block_icon": "5",
+                "effect": "If your Character with 6000 base power would be removed from the field by your opponent's effect, you may trash this Character and draw 1 card instead.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-009.png"
+            },
+            {
+                "id": "ST30-009_p1",
+                "number": "ST30-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "LittleOars Jr.",
+                "cost": "1",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Giant",
+                    "Whitebeard Pirates Allies"
+                ],
+                "block_icon": "5",
+                "effect": "If your Character with 6000 base power would be removed from the field by your opponent's effect, you may trash this Character and draw 1 card instead.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-009_p1.png"
+            },
+            {
+                "id": "ST30-010",
+                "number": "ST30-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Crocodile",
+                "cost": "6",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Former Baroque Works"
+                ],
+                "block_icon": "5",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Up to 1 of your opponent's rested Characters will not become active in your opponent's next Refresh Phase.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-010.png"
+            },
+            {
+                "id": "ST30-010_p1",
+                "number": "ST30-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Crocodile",
+                "cost": "6",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Former Baroque Works"
+                ],
+                "block_icon": "5",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Up to 1 of your opponent's rested Characters will not become active in your opponent's next Refresh Phase.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-010_p1.png"
+            },
+            {
+                "id": "ST30-011",
+                "number": "ST30-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Buggy Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "If your Character with 6000 base power would be removed from the field by your opponent's effect, you may rest this Character instead. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-011.png"
+            },
+            {
+                "id": "ST30-011_p1",
+                "number": "ST30-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Buggy Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "If your Character with 6000 base power would be removed from the field by your opponent's effect, you may rest this Character instead. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-011_p1.png"
+            },
+            {
+                "id": "ST30-012",
+                "number": "ST30-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "5",
+                "effect": "[On Play] You may rest 1 of your DON!! cards: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.) [When Attacking] Rest up to 1 of your opponent's [Blocker] Characters.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-012.png"
+            },
+            {
+                "id": "ST30-012_p1",
+                "number": "ST30-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "5",
+                "effect": "[On Play] You may rest 1 of your DON!! cards: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.) [When Attacking] Rest up to 1 of your opponent's [Blocker] Characters.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-012_p1.png"
+            },
+            {
+                "id": "ST30-013",
+                "number": "ST30-013",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr.2.Bon.Kurei(Bentham)",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Former Baroque Works"
+                ],
+                "block_icon": "5",
+                "effect": "-",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-013.png"
+            },
+            {
+                "id": "ST30-013_p1",
+                "number": "ST30-013",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr.2.Bon.Kurei(Bentham)",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Former Baroque Works"
+                ],
+                "block_icon": "5",
+                "effect": "-",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-013_p1.png"
+            },
+            {
+                "id": "ST30-014",
+                "number": "ST30-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr.3(Galdino)",
+                "cost": "2",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Former Baroque Works"
+                ],
+                "block_icon": "5",
+                "effect": "[Activate: Main] You may rest this Character: Give up to 2 of your Characters with 6000 base power up to 2 rested DON!! cards each.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-014.png"
+            },
+            {
+                "id": "ST30-014_p1",
+                "number": "ST30-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr.3(Galdino)",
+                "cost": "2",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Impel Down",
+                    "Former Baroque Works"
+                ],
+                "block_icon": "5",
+                "effect": "[Activate: Main] You may rest this Character: Give up to 2 of your Characters with 6000 base power up to 2 rested DON!! cards each.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-014_p1.png"
+            },
+            {
+                "id": "ST30-015",
+                "number": "ST30-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "The Name of This Era Is \"Whitebeard\"!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "[Counter] If you have 2 or more Characters with 6000 base power, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-015.png"
+            },
+            {
+                "id": "ST30-015_p1",
+                "number": "ST30-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "The Name of This Era Is \"Whitebeard\"!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "[Counter] If you have 2 or more Characters with 6000 base power, up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-015_p1.png"
+            },
+            {
+                "id": "ST30-016",
+                "number": "ST30-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Can You Still Fight, Luffy?! Of Course!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "5",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, if you have [Portgas.D.Ace] and [Monkey.D.Luffy] Characters with 6000 base power, draw 1 card.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-016.png"
+            },
+            {
+                "id": "ST30-016_p1",
+                "number": "ST30-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Can You Still Fight, Luffy?! Of Course!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "5",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, if you have [Portgas.D.Ace] and [Monkey.D.Luffy] Characters with 6000 base power, draw 1 card.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-016_p1.png"
+            },
+            {
+                "id": "ST30-017",
+                "number": "ST30-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "And You Get Yourself in Big Trouble!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[Trigger] Activate this card's [Main] effect.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 Character card with 6000 power and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-017.png"
+            },
+            {
+                "id": "ST30-017_p1",
+                "number": "ST30-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "And You Get Yourself in Big Trouble!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[Trigger] Activate this card's [Main] effect.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Red"
+                ],
+                "feature": [
+                    "Whitebeard Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 Character card with 6000 power and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "STARTER DECK EX -Luffy & Ace- [ST-30]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-017_p1.png"
+            }
+        ]
+    }
+}

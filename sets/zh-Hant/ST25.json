@@ -1,0 +1,351 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 554025,
+        "language": "zh-Hant"
+    },
+    "data": {
+        "code": "ST25",
+        "cards": [
+            {
+                "id": "OP09-042_p2",
+                "number": "OP09-042",
+                "type": "L",
+                "class": "LEADER",
+                "name": "巴其",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "四皇",
+                    "十字公會"
+                ],
+                "block_icon": "3",
+                "effect": "【啟動主要】可將5張自己的咚‼卡置為休息狀態，並廢棄1張自己的手牌：使最多1張自己手牌中擁有《十字公會》特徵的角色卡登場。",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.png"
+            },
+            {
+                "id": "OP09-043_r1",
+                "number": "OP09-043",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "亞爾麗塔",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "十字公會"
+                ],
+                "block_icon": "3",
+                "effect": "【KO時】若自己的領航卡擁有《十字公會》特徵時，使最多1張自己手牌中除了「亞爾麗塔」以外費用5以下的角色卡登場。",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP09-043_r1.png"
+            },
+            {
+                "id": "OP09-045_r1",
+                "number": "OP09-045",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "卡巴吉",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "十字公會"
+                ],
+                "block_icon": "3",
+                "effect": "若場上有自己的角色卡「巴其」或「摩奇」時，這張角色卡在對戰中不會遭到KO。",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP09-045_r1.png"
+            },
+            {
+                "id": "OP09-051_r1",
+                "number": "OP09-051",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "巴其",
+                "cost": "10",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "四皇",
+                    "十字公會"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】將最多1張對手的角色卡放置在持有者的卡組下面。之後，若場上沒有5張自己費用5以上的角色卡時，將這張角色卡放置在持有者的卡組下面。",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP09-051_r1.png"
+            },
+            {
+                "id": "OP09-053_r1",
+                "number": "OP09-053",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "摩奇",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "十字公會"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】從自己的卡組上面查看5張卡片，公開最多1張「利基」，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面，並使最多1張自己手牌中的「利基」登場。",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP09-053_r1.png"
+            },
+            {
+                "id": "OP09-054_r1",
+                "number": "OP09-054",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "利基",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "動物",
+                    "十字公會"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP09-054_r1.png"
+            },
+            {
+                "id": "OP09-055_r1",
+                "number": "OP09-055",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr.1(達茲・波涅士)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "十字公會",
+                    "前B・W"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP09-055_r1.png"
+            },
+            {
+                "id": "OP09-056_r1",
+                "number": "OP09-056",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.3(賈爾迪諾)",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "十字公會",
+                    "前B・W"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】從自己的卡組上面查看4張卡片，公開最多1張除了「Mr.3(賈爾迪諾)」以外、擁有《十字公會》特徵或包含『B・W』特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP09-056_r1.png"
+            },
+            {
+                "id": "OP09-057_p1",
+                "number": "OP09-057",
+                "type": "R",
+                "class": "EVENT",
+                "name": "十字公會",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "十字公會"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】從自己的卡組上面查看4張卡片，公開最多1張擁有《十字公會》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP09-057_p1.png"
+            },
+            {
+                "id": "P-084_r1",
+                "number": "P-084",
+                "type": "P",
+                "class": "CHARACTER",
+                "name": "巴其",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "四皇",
+                    "十字公會"
+                ],
+                "block_icon": "3",
+                "effect": "這張角色卡無法進行攻擊。 若自己的領航卡是「巴其」時，費用3和4的角色卡全數，無法進行攻擊。 【登場時】使最多1張自己手牌中費用6以下擁有《十字公會》特徵的角色卡登場。",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/P-084_r1.png"
+            },
+            {
+                "id": "ST25-001",
+                "number": "ST25-001",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "亞爾麗塔",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "十字公會"
+                ],
+                "block_icon": "3",
+                "effect": "若場上有2張以上自己原本費用5以上的角色卡時，這張角色卡的費用+1。 【登場時】若自己的領航卡是「巴其」時，抽3張卡片，並廢棄2張自己的手牌。",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST25-001.png"
+            },
+            {
+                "id": "ST25-002",
+                "number": "ST25-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "卡巴吉",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "十字公會"
+                ],
+                "block_icon": "3",
+                "effect": "若場上有2張以上自己原本費用5以上的角色卡時，這張角色卡獲得【防禦】、費用+1。 (對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【對方回合中】這張角色卡的力量值+5000。",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST25-002.png"
+            },
+            {
+                "id": "ST25-003",
+                "number": "ST25-003",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "克洛克達爾＆密佛格",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "十字公會",
+                    "前B・W"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】抽2張卡片，並廢棄1張自己的手牌。之後，使最多1張自己手牌中費用4以下擁有《十字公會》特徵的角色卡登場。 【每回合1次】自己擁有《十字公會》特徵的角色卡因對手的效果即將離開場上時，可以替換成廢棄1張自己的手牌。",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST25-003.png"
+            },
+            {
+                "id": "ST25-004",
+                "number": "ST25-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "巴其",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "四皇",
+                    "十字公會"
+                ],
+                "block_icon": "3",
+                "effect": "【啟動主要】可以廢棄1張自己的手牌、將這張角色卡放置在廢棄區：若自己的領航卡是「巴其」時，使最多1張自己手牌中費用6以下擁有《十字公會》特徵的角色卡登場。",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST25-004.png"
+            },
+            {
+                "id": "ST25-005",
+                "number": "ST25-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "摩奇",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "十字公會"
+                ],
+                "block_icon": "3",
+                "effect": "若場上有2張以上自己原本費用5以上的角色卡時，這張角色卡獲得【防禦】、費用+1。 (對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【KO時】若自己的領航卡是「巴其」、自己的手牌在3張以下時，抽1張卡片。",
+                "card_set": "藍 巴其【ST-25】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST25-005.png"
+            }
+        ]
+    }
+}

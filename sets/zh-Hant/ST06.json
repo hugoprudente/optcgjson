@@ -1,0 +1,387 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 554006,
+        "language": "zh-Hant"
+    },
+    "data": {
+        "code": "ST06",
+        "cards": [
+            {
+                "id": "ST06-001",
+                "number": "ST06-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "盃",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】【每回合1次】③(可將費用區的咚‼卡依指定的數量置為休息狀態)，可以廢棄1張自己的手牌：KO最多1張對手費用0的角色卡。",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-001.png"
+            },
+            {
+                "id": "ST06-002",
+                "number": "ST06-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "克比",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】可以廢棄1張自己的手牌：KO最多1張對手費用0的角色卡。",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-002.png"
+            },
+            {
+                "id": "ST06-003",
+                "number": "ST06-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "傑克斯",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-003.png"
+            },
+            {
+                "id": "ST06-004",
+                "number": "ST06-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "斯摩格",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "這張角色卡不會因效果而遭到KO。 【咚‼×1】若場上有費用0的角色卡時，這張角色卡獲得【雙重攻擊】。 (這張卡片造成的傷害為2)",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-004.png"
+            },
+            {
+                "id": "ST06-005",
+                "number": "ST06-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "戰國",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【攻擊時】最多1張對手的角色卡，在這個回合，費用-4。",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-005.png"
+            },
+            {
+                "id": "ST06-006",
+                "number": "ST06-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "達絲琪",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可將這張角色卡置為休息狀態：最多1張對手的角色卡，在這個回合，費用-2。",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-006.png"
+            },
+            {
+                "id": "ST06-007",
+                "number": "ST06-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "阿鶴",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-007.png"
+            },
+            {
+                "id": "ST06-008",
+                "number": "ST06-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "希娜",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】最多1張對手的角色卡，在這個回合，費用-4。",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-008.png"
+            },
+            {
+                "id": "ST06-009",
+                "number": "ST06-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "芬布迪",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-009.png"
+            },
+            {
+                "id": "ST06-010",
+                "number": "ST06-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "貝魯梅柏",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】最多1張對手的角色卡，在這個回合，費用-3。",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-010.png"
+            },
+            {
+                "id": "ST06-011",
+                "number": "ST06-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "飛鼠",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-011.png"
+            },
+            {
+                "id": "ST06-012",
+                "number": "ST06-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "蒙其・D・卡普",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可以廢棄1張自己的手牌，將這張角色卡置為休息狀態：KO最多1張對手費用4以下的角色卡。",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-012.png"
+            },
+            {
+                "id": "ST06-013",
+                "number": "ST06-013",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "T彭恩",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-013.png"
+            },
+            {
+                "id": "ST06-014",
+                "number": "ST06-014",
+                "type": "C",
+                "class": "EVENT",
+                "name": "衝擊波",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】KO最多1張對手費用4以下的角色卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。之後，KO最多1張對手活動狀態費用3以下的角色卡。",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-014.png"
+            },
+            {
+                "id": "ST06-015",
+                "number": "ST06-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "大噴火",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】對手選擇1張自身的手牌後廢棄。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【主要】抽1張卡片。之後，最多1張對手的角色卡，在這個回合，費用-2。",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-015.png"
+            },
+            {
+                "id": "ST06-016",
+                "number": "ST06-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "乳白煙霧",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】抽1張卡片，自己的角色卡，在這個回合，不會遭到KO。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-016.png"
+            },
+            {
+                "id": "ST06-017",
+                "number": "ST06-017",
+                "type": "C",
+                "class": "STAGE",
+                "name": "海軍本部",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】最多1張對手的角色卡，在這個回合，費用-1。 【啟動主要】可將這張舞台卡置為休息狀態：若自己的領航卡擁有《海軍》特徵時，最多1張對手的角色卡，在這個回合，費用-1。",
+                "card_set": "海軍【ST-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST06-017.png"
+            }
+        ]
+    }
+}

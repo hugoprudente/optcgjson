@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556204
+        "set": 556204,
+        "language": "en"
     },
     "data": {
         "code": "EB04",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-001.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -30,7 +30,7 @@
                     "Bonney Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Opponent's Turn] If you have 1 or less Life cards, this Leader gains +2000 power.[Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1000 power during this turn. Then, if you have 2 or more Life cards, you may add 1 card from the top of your Life cards to your hand.",
+                "effect": "[Opponent's Turn] If you have 1 or less Life cards, this Leader gains +2000 power. [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1000 power during this turn. Then, if you have 2 or more Life cards, you may add 1 card from the top of your Life cards to your hand.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-001.png"
             },
@@ -40,8 +40,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-001_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -57,7 +56,7 @@
                     "Bonney Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Opponent's Turn] If you have 1 or less Life cards, this Leader gains +2000 power.[Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1000 power during this turn. Then, if you have 2 or more Life cards, you may add 1 card from the top of your Life cards to your hand.",
+                "effect": "[Opponent's Turn] If you have 1 or less Life cards, this Leader gains +2000 power. [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1000 power during this turn. Then, if you have 2 or more Life cards, you may add 1 card from the top of your Life cards to your hand.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-001_p1.png"
             },
@@ -67,7 +66,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-002.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -93,7 +91,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-002_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -119,7 +116,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Smoker & Tashigi",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-003.png",
                 "cost": "8",
                 "attribute": [
                     "Slash",
@@ -136,7 +132,7 @@
                     "Navy"
                 ],
                 "block_icon": "4",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[Opponent's Turn] Your {Navy} type Leader's base power becomes 7000.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [Opponent's Turn] Your {Navy} type Leader's base power becomes 7000.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-003.png"
             },
@@ -146,7 +142,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Zeff",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-004.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -171,7 +166,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-005.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -198,7 +192,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Moda",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-006.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -223,7 +216,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-007.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -239,7 +231,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Your Leader gains +2000 power until the end of your opponent's next End Phase.[Activate: Main] [Once Per Turn] If your opponent has a Character with 8000 power or more, this Character gains [Rush: Character] during this turn.",
+                "effect": "[On Play] Your Leader gains +2000 power until the end of your opponent's next End Phase. [Activate: Main] [Once Per Turn] If your opponent has a Character with 8000 power or more, this Character gains [Rush: Character] during this turn.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-007.png"
             },
@@ -249,7 +241,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-007_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -265,7 +256,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Your Leader gains +2000 power until the end of your opponent's next End Phase.[Activate: Main] [Once Per Turn] If your opponent has a Character with 8000 power or more, this Character gains [Rush: Character] during this turn.",
+                "effect": "[On Play] Your Leader gains +2000 power until the end of your opponent's next End Phase. [Activate: Main] [Once Per Turn] If your opponent has a Character with 8000 power or more, this Character gains [Rush: Character] during this turn.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-007_p1.png"
             },
@@ -275,11 +266,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Distorted Future",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-008.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -291,7 +279,7 @@
                     "Bonney Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Main] If you have 2 or less Life cards, give up to 1 of your opponent's Characters −3000 power during this turn.[Counter] Your Leader gains +3000 power during this battle.",
+                "effect": "[Main] If you have 2 or less Life cards, give up to 1 of your opponent's Characters −3000 power during this turn. [Counter] Your Leader gains +3000 power during this battle.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-008.png"
             },
@@ -301,11 +289,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "It's My Student's Farewell. I Want It to Be Proper.",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-009.png",
                 "cost": "-",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -316,7 +301,7 @@
                     "Former Roger Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Main] You may give 1 active DON!! card to 1 of your [Silvers Rayleigh]: Give up to 1 of your opponent's Characters −2000 power during this turn.[Counter] Up to 1 of your Characters or [Silvers Rayleigh] gains +2000 power during this battle.",
+                "effect": "[Main] You may give 1 active DON!! card to 1 of your [Silvers Rayleigh]: Give up to 1 of your opponent's Characters −2000 power during this turn. [Counter] Up to 1 of your Characters or [Silvers Rayleigh] gains +2000 power during this battle.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-009.png"
             },
@@ -326,11 +311,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Lulucia Kingdom",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-010.png",
                 "cost": "7",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -341,7 +323,7 @@
                     "Lulucia Kingdom"
                 ],
                 "block_icon": "4",
-                "effect": "[Opponent's Turn] All of your Characters with a base cost of 1 gain +5000 power.[On Play] Set the power of up to 1 of your opponent's Characters to 0 during this turn.",
+                "effect": "[Opponent's Turn] All of your Characters with a base cost of 1 gain +5000 power. [On Play] Set the power of up to 1 of your opponent's Characters to 0 during this turn.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-010.png"
             },
@@ -351,7 +333,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Scaled Neptunian",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-011.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -366,7 +347,7 @@
                     "Neptunian"
                 ],
                 "block_icon": "4",
-                "effect": "[Rush: Character] (This card can attack Characters on the turn in which it is played.)[On Play] Draw a card for each of your {Neptunian} type Characters. Then, trash the same number of cards from your hand.",
+                "effect": "[Rush: Character] (This card can attack Characters on the turn in which it is played.) [On Play] Draw a card for each of your {Neptunian} type Characters. Then, trash the same number of cards from your hand.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-011.png"
             },
@@ -376,7 +357,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kikunojo",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-012.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -402,7 +382,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kikunojo",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-012_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -428,7 +407,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Carrot",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-013.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -453,7 +431,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Carrot",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-013_p1.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -478,7 +455,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kouzuki Sukiyaki",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-014.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -494,7 +470,7 @@
                     "Kouzuki Clan"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your {Land of Wano} type Leader.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your {Land of Wano} type Leader.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-014.png"
             },
@@ -504,7 +480,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Jinbe",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-015.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -521,7 +496,7 @@
                     "The Sun Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][On K.O.] You may rest 1 of your cards: If your Leader has the {Fish-Man} or {Merfolk} type, play up to 1 green Character card with a cost of 6 or less from your hand.",
+                "effect": "[Blocker] [On K.O.] You may rest 1 of your cards: If your Leader has the {Fish-Man} or {Merfolk} type, play up to 1 green Character card with a cost of 6 or less from your hand.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-015.png"
             },
@@ -531,7 +506,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bird Neptunian",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-016.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -546,7 +520,7 @@
                     "Neptunian"
                 ],
                 "block_icon": "4",
-                "effect": "[Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn.[When Attacking] If you have 3 or more {Neptunian} type Characters, rest up to 1 of your opponent's Characters with a cost of 8 or less.",
+                "effect": "[Activate: Main] Set up to 1 of your DON!! cards as active. Then, you cannot set DON!! cards as active using Character effects during this turn. [When Attacking] If you have 3 or more {Neptunian} type Characters, rest up to 1 of your opponent's Characters with a cost of 8 or less.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-016.png"
             },
@@ -556,7 +530,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Mystoms",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-017.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -572,7 +545,7 @@
                     "Big Mom Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Your Turn] If you have 3 or more {Minks} type Characters, give all of your opponent's Characters −1 cost.[On Play] If your Leader has the {Minks} type, play up to 1 {Minks} type Character card with a cost of 5 or less from your hand.",
+                "effect": "[Your Turn] If you have 3 or more {Minks} type Characters, give all of your opponent's Characters −1 cost. [On Play] If your Leader has the {Minks} type, play up to 1 {Minks} type Character card with a cost of 5 or less from your hand.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-017.png"
             },
@@ -582,7 +555,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Megalo",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-018.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -608,7 +580,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Megalo",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-018_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -634,11 +605,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Eleclaw",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-019.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -649,7 +617,7 @@
                     "Minks"
                 ],
                 "block_icon": "4",
-                "effect": "[Main] You may rest 1 of your cards: If your Leader has the {Minks} type, give up to 1 of your opponent's Characters −3 cost during this turn.[Counter] Up to 1 of your {Minks} type Leader or Character cards gains +3000 power during this battle.",
+                "effect": "[Main] You may rest 1 of your cards: If your Leader has the {Minks} type, give up to 1 of your opponent's Characters −3 cost during this turn. [Counter] Up to 1 of your {Minks} type Leader or Character cards gains +3000 power during this battle.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-019.png"
             },
@@ -659,11 +627,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Shark Brick Fist",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-020.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -686,7 +651,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Igaram",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-021.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -701,7 +665,7 @@
                     "Alabasta"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] If your Leader is [Nefeltari Vivi], draw 2 cards and trash 1 card from your hand.[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+                "effect": "[On Play] If your Leader is [Nefeltari Vivi], draw 2 cards and trash 1 card from your hand. [Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-021.png"
             },
@@ -711,7 +675,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Issho",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-022.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -727,7 +690,7 @@
                     "Navy"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] You may trash 2 cards from your hand: If your opponent has 6 or more cards in their hand, your opponent places 2 cards from their hand at the bottom of their deck in any order.[DON!! x1] [When Attacking] You may trash 1 card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+                "effect": "[On Play] You may trash 2 cards from your hand: If your opponent has 6 or more cards in their hand, your opponent places 2 cards from their hand at the bottom of their deck in any order. [DON!! x1] [When Attacking] You may trash 1 card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-022.png"
             },
@@ -737,7 +700,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Issho",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-022_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -753,7 +715,7 @@
                     "Navy"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] You may trash 2 cards from your hand: If your opponent has 6 or more cards in their hand, your opponent places 2 cards from their hand at the bottom of their deck in any order.[DON!! x1] [When Attacking] You may trash 1 card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn.",
+                "effect": "[On Play] You may trash 2 cards from your hand: If your opponent has 6 or more cards in their hand, your opponent places 2 cards from their hand at the bottom of their deck in any order. [DON!! x1] [When Attacking] You may trash 1 card from your hand: Give up to 1 of your opponent's Characters −2000 power during this turn.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-022_p1.png"
             },
@@ -763,7 +725,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Chaka & Pell",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-023.png",
                 "cost": "8",
                 "attribute": [
                     "Slash"
@@ -778,7 +739,7 @@
                     "Alabasta"
                 ],
                 "block_icon": "4",
-                "effect": "[Double Attack] (This card deals 2 damage.)[On Play] You may give your active Leader −5000 power during this turn: Draw 2 cards.",
+                "effect": "[Double Attack] (This card deals 2 damage.) [On Play] You may give your active Leader −5000 power during this turn: Draw 2 cards.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-023.png"
             },
@@ -788,7 +749,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Terracotta",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-024.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -803,7 +763,7 @@
                     "Alabasta"
                 ],
                 "block_icon": "4",
-                "effect": "[Activate: Main] You may rest this Character and trash 1 card from your hand: Up to 1 of your {Alabasta} type Characters gains [Unblockable] during this turn.(This card cannot be blocked.)",
+                "effect": "[Activate: Main] You may rest this Character and trash 1 card from your hand: Up to 1 of your {Alabasta} type Characters gains [Unblockable] during this turn. (This card cannot be blocked.)",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-024.png"
             },
@@ -813,7 +773,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Nefeltari Vivi",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-025.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -838,7 +797,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Nefeltari Vivi",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-025_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -863,7 +821,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bluegrass",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-026.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -879,7 +836,7 @@
                     "Navy"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck.[When Attacking] Draw 1 card and trash 1 card from your hand.",
+                "effect": "[On Play] Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck. [When Attacking] Draw 1 card and trash 1 card from your hand.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-026.png"
             },
@@ -889,7 +846,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Boa Hancock",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-027.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -915,11 +871,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Ice Time",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-028.png",
                 "cost": "5",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 Character with a cost of 5 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -940,11 +893,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "I Heard the Sound...of a Lady's Teardrops Falling",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-029.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -956,7 +906,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "4",
-                "effect": "[Main] If your Leader is [Sanji], look at 3 cards from the top of your deck; reveal up to 1 [Sanji] or Event card and add it to your hand. Then, trash the rest.[Counter] You may trash 1 card from your hand: Up to 1 of your [Sanji] cards gains +4000 power during this battle.",
+                "effect": "[Main] If your Leader is [Sanji], look at 3 cards from the top of your deck; reveal up to 1 [Sanji] or Event card and add it to your hand. Then, trash the rest. [Counter] You may trash 1 card from your hand: Up to 1 of your [Sanji] cards gains +4000 power during this battle.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-029.png"
             },
@@ -966,7 +916,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kaido",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-030.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -982,7 +931,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead.[On Play] DON!! −2: If your Leader has the {Animal Kingdom Pirates} type, this Character gains [Rush] during this turn. Then, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
+                "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead. [On Play] DON!! −2: If your Leader has the {Animal Kingdom Pirates} type, this Character gains [Rush] during this turn. Then, rest up to 1 of your opponent's Characters with a cost of 7 or less.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-030.png"
             },
@@ -992,7 +941,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "King",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-031.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -1008,7 +956,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead.[Activate: Main] [Once Per Turn] If your Leader has the {Animal Kingdom Pirates} type and you have no other [King] Characters, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
+                "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead. [Activate: Main] [Once Per Turn] If your Leader has the {Animal Kingdom Pirates} type and you have no other [King] Characters, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-031.png"
             },
@@ -1018,7 +966,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "King",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-031_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -1034,7 +981,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead.[Activate: Main] [Once Per Turn] If your Leader has the {Animal Kingdom Pirates} type and you have no other [King] Characters, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
+                "effect": "If this Character would be K.O.'d, you may return 1 DON!! card from your field to your DON!! deck instead. [Activate: Main] [Once Per Turn] If your Leader has the {Animal Kingdom Pirates} type and you have no other [King] Characters, add up to 1 DON!! card from your DON!! deck and set it as active, and add up to 1 additional DON!! card and rest it.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-031_p1.png"
             },
@@ -1044,7 +991,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Queen",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-032.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -1059,7 +1005,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] You may trash 1 {Animal Kingdom Pirates} type card from your hand: Draw 2 cards.[Activate: Main] [Once Per Turn] You may rest 2 of your DON!! cards: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+                "effect": "[On Play] You may trash 1 {Animal Kingdom Pirates} type card from your hand: Draw 2 cards. [Activate: Main] [Once Per Turn] You may rest 2 of your DON!! cards: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-032.png"
             },
@@ -1069,7 +1015,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Groggy Monsters",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-033.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -1096,7 +1041,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Pudding",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-034.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -1111,7 +1055,7 @@
                     "Big Mom Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: If you have 4 or more Events in your trash, up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+                "effect": "[Blocker] [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: If you have 4 or more Events in your trash, up to 1 of your Leader or Character cards gains +2000 power during this battle.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-034.png"
             },
@@ -1121,7 +1065,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Hitokiri Kamazo",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-035.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1138,7 +1081,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, if your Leader has the {Kid Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+                "effect": "[Blocker] [Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, if your Leader has the {Kid Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-035.png"
             },
@@ -1148,7 +1091,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Foxy",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-036.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -1163,7 +1105,7 @@
                     "Foxy Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] DON!! −1: If your Leader has the {Foxy Pirates} type, draw 2 cards and trash 1 card from your hand. Then, rest up to 1 of your opponent's Characters with a cost of 9 or less.[Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
+                "effect": "[On Play] DON!! −1: If your Leader has the {Foxy Pirates} type, draw 2 cards and trash 1 card from your hand. Then, rest up to 1 of your opponent's Characters with a cost of 9 or less. [Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-036.png"
             },
@@ -1173,7 +1115,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Foxy",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-036_p1.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -1188,7 +1129,7 @@
                     "Foxy Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] DON!! −1: If your Leader has the {Foxy Pirates} type, draw 2 cards and trash 1 card from your hand. Then, rest up to 1 of your opponent's Characters with a cost of 9 or less.[Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
+                "effect": "[On Play] DON!! −1: If your Leader has the {Foxy Pirates} type, draw 2 cards and trash 1 card from your hand. Then, rest up to 1 of your opponent's Characters with a cost of 9 or less. [Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-036_p1.png"
             },
@@ -1198,7 +1139,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Porche",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-037.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1223,7 +1163,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Rosinante & Law",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-038.png",
                 "cost": "6",
                 "attribute": [
                     "Special",
@@ -1240,7 +1179,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "Under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante].[Blocker][On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "Under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante]. [Blocker] [On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-038.png"
             },
@@ -1250,7 +1189,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Rosinante & Law",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-038_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Special",
@@ -1267,7 +1205,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "Under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante].[Blocker][On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "Under the rules of this game, also treat this card's name as [Trafalgar Law] and [Donquixote Rosinante]. [Blocker] [On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card. Then, add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-038_p1.png"
             },
@@ -1277,7 +1215,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-039.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -1293,7 +1230,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.[Activate: Main] You may trash this Character: Play up to 1 {Kid Pirates} type Character card with a cost of 5 or less from your hand.",
+                "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [Activate: Main] You may trash this Character: Play up to 1 {Kid Pirates} type Character card with a cost of 5 or less from your hand.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-039.png"
             },
@@ -1303,11 +1240,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Flame Dragon Torch",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-040.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1319,7 +1253,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Main] You may rest 6 of your DON!! cards: Up to 1 of your [Kaido] cards gains +3000 power during this turn. Then, rest up to 1 of your opponent's Characters.[Counter] DON!! −1: Your Leader gains +4000 power during this battle.",
+                "effect": "[Main] You may rest 6 of your DON!! cards: Up to 1 of your [Kaido] cards gains +3000 power during this turn. Then, rest up to 1 of your opponent's Characters. [Counter] DON!! −1: Your Leader gains +4000 power during this battle.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-040.png"
             },
@@ -1329,11 +1263,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Stealth Black",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-041.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -1354,7 +1285,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Alpha",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-042.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -1379,7 +1309,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kaku",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-043.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1395,7 +1324,7 @@
                     "CP0"
                 ],
                 "block_icon": "4",
-                "effect": "[Once Per Turn] If your black Character with a base cost of 5 or less would be K.O.'d by your opponent's effect, you may place 3 cards from your trash at the bottom of your deck in any order instead.[On Play] Trash 2 cards from the top of your deck.",
+                "effect": "[Once Per Turn] If your black Character with a base cost of 5 or less would be K.O.'d by your opponent's effect, you may place 3 cards from your trash at the bottom of your deck in any order instead. [On Play] Trash 2 cards from the top of your deck.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-043.png"
             },
@@ -1405,7 +1334,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kaku",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-043_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1421,7 +1349,7 @@
                     "CP0"
                 ],
                 "block_icon": "4",
-                "effect": "[Once Per Turn] If your black Character with a base cost of 5 or less would be K.O.'d by your opponent's effect, you may place 3 cards from your trash at the bottom of your deck in any order instead.[On Play] Trash 2 cards from the top of your deck.",
+                "effect": "[Once Per Turn] If your black Character with a base cost of 5 or less would be K.O.'d by your opponent's effect, you may place 3 cards from your trash at the bottom of your deck in any order instead. [On Play] Trash 2 cards from the top of your deck.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-043_p1.png"
             },
@@ -1431,7 +1359,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Koby",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-044.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -1447,7 +1374,7 @@
                     "SWORD"
                 ],
                 "block_icon": "4",
-                "effect": "[Once Per Turn] If your Leader's type includes \"Navy\" and this Character would be removed from the field, you may trash 1 card from your hand instead.[Your Turn] [Once Per Turn] When your opponent's Character is K.O.'d, draw 1 card.",
+                "effect": "[Once Per Turn] If your Leader's type includes \"Navy\" and this Character would be removed from the field, you may trash 1 card from your hand instead. [Your Turn] [Once Per Turn] When your opponent's Character is K.O.'d, draw 1 card.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-044.png"
             },
@@ -1457,7 +1384,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Koby",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-044_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -1473,7 +1399,7 @@
                     "SWORD"
                 ],
                 "block_icon": "4",
-                "effect": "[Once Per Turn] If your Leader's type includes \"Navy\" and this Character would be removed from the field, you may trash 1 card from your hand instead.[Your Turn] [Once Per Turn] When your opponent's Character is K.O.'d, draw 1 card.",
+                "effect": "[Once Per Turn] If your Leader's type includes \"Navy\" and this Character would be removed from the field, you may trash 1 card from your hand instead. [Your Turn] [Once Per Turn] When your opponent's Character is K.O.'d, draw 1 card.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-044_p1.png"
             },
@@ -1483,7 +1409,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Koby",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-044_p2.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -1499,7 +1424,7 @@
                     "SWORD"
                 ],
                 "block_icon": "4",
-                "effect": "[Once Per Turn] If your Leader's type includes \"Navy\" and this Character would be removed from the field, you may trash 1 card from your hand instead.[Your Turn] [Once Per Turn] When your opponent's Character is K.O.'d, draw 1 card.",
+                "effect": "[Once Per Turn] If your Leader's type includes \"Navy\" and this Character would be removed from the field, you may trash 1 card from your hand instead. [Your Turn] [Once Per Turn] When your opponent's Character is K.O.'d, draw 1 card.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-044_p2.png"
             },
@@ -1509,7 +1434,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Ginny",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-045.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -1534,7 +1458,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Doll",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-046.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -1550,7 +1473,7 @@
                     "Navy"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Opponent's Turn] All of your {Navy} type Characters gain +2 cost.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] All of your {Navy} type Characters gain +2 cost.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-046.png"
             },
@@ -1560,7 +1483,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Helmeppo",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-047.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1586,7 +1508,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Rob Lucci",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-048.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1602,7 +1523,7 @@
                     "CP0"
                 ],
                 "block_icon": "4",
-                "effect": "If your Leader's type includes \"CP\", this Character gains +1000 power and +2 cost for every 5 cards in your trash.[On Play] You may trash 1 of your Characters: Draw 1 card.",
+                "effect": "If your Leader's type includes \"CP\", this Character gains +1000 power and +2 cost for every 5 cards in your trash. [On Play] You may trash 1 of your Characters: Draw 1 card.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-048.png"
             },
@@ -1612,7 +1533,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Rob Lucci",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-048_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1628,7 +1548,7 @@
                     "CP0"
                 ],
                 "block_icon": "4",
-                "effect": "If your Leader's type includes \"CP\", this Character gains +1000 power and +2 cost for every 5 cards in your trash.[On Play] You may trash 1 of your Characters: Draw 1 card.",
+                "effect": "If your Leader's type includes \"CP\", this Character gains +1000 power and +2 cost for every 5 cards in your trash. [On Play] You may trash 1 of your Characters: Draw 1 card.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-048_p1.png"
             },
@@ -1638,11 +1558,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Finger Pistol Yellow Lotus",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-049.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1663,11 +1580,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "I'll Whip You Into Shape. ♡",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-050.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1679,7 +1593,7 @@
                     "SWORD"
                 ],
                 "block_icon": "4",
-                "effect": "[Main] Up to 1 of your {SWORD} type Leader or Character cards can also attack active Characters during this turn.[Counter] Your Leader gains +3000 power during this battle.",
+                "effect": "[Main] Up to 1 of your {SWORD} type Leader or Character cards can also attack active Characters during this turn. [Counter] Your Leader gains +3000 power during this battle.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-050.png"
             },
@@ -1689,7 +1603,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Emet",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-051.png",
                 "cost": "8",
                 "attribute": [
                     "Strike"
@@ -1714,7 +1627,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-052.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1730,7 +1642,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "4",
-                "effect": "[When Attacking] This Character's base power becomes the same as your opponent's Leader during this turn.[On K.O.] If you have 2 or less Life cards, play up to 1 yellow Character card with 6000 power or less from your hand.",
+                "effect": "[When Attacking] This Character's base power becomes the same as your opponent's Leader during this turn. [On K.O.] If you have 2 or less Life cards, play up to 1 yellow Character card with 6000 power or less from your hand.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-052.png"
             },
@@ -1740,7 +1652,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-052_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1756,7 +1667,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "4",
-                "effect": "[When Attacking] This Character's base power becomes the same as your opponent's Leader during this turn.[On K.O.] If you have 2 or less Life cards, play up to 1 yellow Character card with 6000 power or less from your hand.",
+                "effect": "[When Attacking] This Character's base power becomes the same as your opponent's Leader during this turn. [On K.O.] If you have 2 or less Life cards, play up to 1 yellow Character card with 6000 power or less from your hand.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-052_p1.png"
             },
@@ -1766,7 +1677,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sentomaru",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-053.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -1782,7 +1692,7 @@
                     "Navy"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] If you have 2 or less Life cards, draw 1 card.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] If you have 2 or less Life cards, draw 1 card.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-053.png"
             },
@@ -1792,7 +1702,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Bartholomew Kuma",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-054.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -1808,7 +1717,7 @@
                     "Revolutionary Army"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] If you have 2 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.[On K.O.] Add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
+                "effect": "[On Play] If you have 2 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. [On K.O.] Add up to 1 card from the top of your opponent's Life cards to the owner's hand.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-054.png"
             },
@@ -1818,7 +1727,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bartholomew Kuma",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-055.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1844,7 +1752,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Pacifista",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-056.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -1861,7 +1768,7 @@
                     "Navy"
                 ],
                 "block_icon": "4",
-                "effect": "If you have [Jewelry Bonney] and you have 0 Life cards, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If you have [Jewelry Bonney] and you have 0 Life cards, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-056.png"
             },
@@ -1871,7 +1778,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vegapunk",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-057.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -1887,7 +1793,7 @@
                     "Scientist"
                 ],
                 "block_icon": "4",
-                "effect": "If you have 2 or less Life cards, all of your yellow {Scientist} type Characters cannot be removed from the field by your opponent's effects.[DON!! x1] This Character gains [Blocker].",
+                "effect": "If you have 2 or less Life cards, all of your yellow {Scientist} type Characters cannot be removed from the field by your opponent's effects. [DON!! x1] This Character gains [Blocker].",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-057.png"
             },
@@ -1897,7 +1803,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Borsalino",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-058.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1913,7 +1818,7 @@
                     "Navy"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you have 2 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you have 2 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-058.png"
             },
@@ -1923,7 +1828,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Borsalino",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-058_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1939,7 +1843,7 @@
                     "Navy"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you have 2 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you have 2 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-058_p1.png"
             },
@@ -1949,11 +1853,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Black Rope Dragon Twister",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-059.png",
                 "cost": "6",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -1976,11 +1877,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Gum-Gum Hawk Gatling",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-060.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -2003,7 +1901,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-061.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -2020,7 +1917,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "4",
-                "effect": "If you have 1 or less Life cards, give this card in your hand −1 cost.[On Play] You may trash 1 card from your hand: Your Leader gains +2000 power until the end of your opponent's next End Phase. Then, this Character gains [Blocker] until the end of your opponent's next End Phase.",
+                "effect": "If you have 1 or less Life cards, give this card in your hand −1 cost. [On Play] You may trash 1 card from your hand: Your Leader gains +2000 power until the end of your opponent's next End Phase. Then, this Character gains [Blocker] until the end of your opponent's next End Phase.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-061.png"
             },
@@ -2030,7 +1927,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-061_p1.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -2047,7 +1943,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "4",
-                "effect": "If you have 1 or less Life cards, give this card in your hand −1 cost.[On Play] You may trash 1 card from your hand: Your Leader gains +2000 power until the end of your opponent's next End Phase. Then, this Character gains [Blocker] until the end of your opponent's next End Phase.",
+                "effect": "If you have 1 or less Life cards, give this card in your hand −1 cost. [On Play] You may trash 1 card from your hand: Your Leader gains +2000 power until the end of your opponent's next End Phase. Then, this Character gains [Blocker] until the end of your opponent's next End Phase.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-061_p1.png"
             },
@@ -2057,7 +1953,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Edward Weevil",
-                "image_path": "images/EGGHEADCRISISEB04/EB01-023_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2082,7 +1977,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Smoker & Tashigi",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-003_p1.png",
                 "cost": "8",
                 "attribute": [
                     "Slash",
@@ -2099,7 +1993,7 @@
                     "Navy"
                 ],
                 "block_icon": "4",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[Opponent's Turn] Your {Navy} type Leader's base power becomes 7000.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [Opponent's Turn] Your {Navy} type Leader's base power becomes 7000.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-003_p1.png"
             },
@@ -2109,7 +2003,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/EGGHEADCRISISEB04/EB04-039_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -2125,7 +2018,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.[Activate: Main] You may trash this Character: Play up to 1 {Kid Pirates} type Character card with a cost of 5 or less from your hand.",
+                "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [Activate: Main] You may trash this Character: Play up to 1 {Kid Pirates} type Character card with a cost of 5 or less from your hand.",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-039_p1.png"
             },
@@ -2135,7 +2028,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Zeus",
-                "image_path": "images/EGGHEADCRISISEB04/OP11-106_p2.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -2161,7 +2053,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/EGGHEADCRISISEB04/PRB02-006_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2177,7 +2068,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Opponent's Turn] If this Character would be rested by your opponent's Character's effect, you may rest 1 of your other Characters instead.[Blocker]",
+                "effect": "[Opponent's Turn] If this Character would be rested by your opponent's Character's effect, you may rest 1 of your other Characters instead. [Blocker]",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/PRB02-006_p2.png"
             },
@@ -2187,7 +2078,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Sabo",
-                "image_path": "images/EGGHEADCRISISEB04/PRB02-014_p2.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -2203,7 +2093,7 @@
                     "Revolutionary Army"
                 ],
                 "block_icon": "3",
-                "effect": "If you have 15 or more cards in your trash, give this card in your hand −3 cost.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If you have 15 or more cards in your trash, give this card in your hand −3 cost. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-EGGHEAD CRISIS- [EB-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/PRB02-014_p2.png"
             }

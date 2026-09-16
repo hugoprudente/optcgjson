@@ -1,0 +1,3732 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 42601130,
+        "language": "ko"
+    },
+    "data": {
+        "code": "OP03",
+        "cards": [
+            {
+                "id": "OP03-001",
+                "number": "OP03-001",
+                "type": "L",
+                "class": "리더",
+                "name": "포트거스 D. 에이스",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "이 리더가 어택했을 때나 어택당했을 때, 자신의 패에서 원하는 수의 이벤트나 스테이지 카드를 버릴 수 있다. 버린 카드 1장당, 이번 배틀 동안, 이 리더의 파워 +1000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240244415319"
+            },
+            {
+                "id": "OP03-001_P1",
+                "number": "OP03-001",
+                "type": "L",
+                "class": "리더",
+                "name": "포트거스 D. 에이스",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "이 리더가 어택했을 때나 어택당했을 때, 자신의 패에서 원하는 수의 이벤트나 스테이지 카드를 버릴 수 있다. 버린 카드 1장당, 이번 배틀 동안, 이 리더의 파워 +1000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240244500736"
+            },
+            {
+                "id": "OP03-002",
+                "number": "OP03-002",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "아디오",
+                "cost": "4",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "ODYSSEY"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】【어택 시】이번 배틀 동안, 상대는 파워 2000 이하인 캐릭터의 【블로커】를 발동할 수 없다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240245057154"
+            },
+            {
+                "id": "OP03-003",
+                "number": "OP03-003",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "이조",
+                "cost": "1",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「이조」 이외의 『흰 수염 해적단』을 포함한 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240245151555"
+            },
+            {
+                "id": "OP03-004",
+                "number": "OP03-004",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "쿠리엘",
+                "cost": "3",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "등장한 턴 동안, 이 캐릭터는 리더를 어택할 수 없다.\r\n【두웅!!×1】이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240245537943"
+            },
+            {
+                "id": "OP03-005",
+                "number": "OP03-005",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "삿치",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】【턴 1회】이번 턴 동안, 이 캐릭터의 파워 +2000. 그 후, 이번 턴 종료 시, 이 캐릭터를 트래시에 놓는다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240246086733"
+            },
+            {
+                "id": "OP03-006",
+                "number": "OP03-006",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "스피드 질",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240246218554"
+            },
+            {
+                "id": "OP03-007",
+                "number": "OP03-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "나무르",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "어인족",
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240246361128"
+            },
+            {
+                "id": "OP03-008",
+                "number": "OP03-008",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "버기",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "버기 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "이 캐릭터는 <참격> 속성을 가진 카드와의 배틀에서는 KO 당하지 않는다.<br>\r\n【등장 시】자신의 덱 위에서 5장을 보고, 적색 이벤트를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240247003300"
+            },
+            {
+                "id": "OP03-009",
+                "number": "OP03-009",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "하루타",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】【턴 1회】자신의 리더 또는 캐릭터 1장에게 레스트 상태인 두웅!!을 1장까지 부여한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240247088819"
+            },
+            {
+                "id": "OP03-010",
+                "number": "OP03-010",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "포사",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240247285001"
+            },
+            {
+                "id": "OP03-011",
+                "number": "OP03-011",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "블라멩코",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!x1】【어택 시】이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -2000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240248054581"
+            },
+            {
+                "id": "OP03-012",
+                "number": "OP03-012",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "마샬 D. 티치",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【어택 시】자신의 파워 4000 이상인 적색 캐릭터 1장을 트래시에 놓을 수 있다: 카드를 1장 뽑는다. 그 후, 이번 배틀 동안, 이 캐릭터의 파워 +1000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240248214798"
+            },
+            {
+                "id": "OP03-013",
+                "number": "OP03-013",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "마르코",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【자신의 턴 동안】【등장 시】상대의 파워 3000 이하인 캐릭터를 1장까지 KO 시킨다.<br>\r\n【KO 시】자신의 패에서 이벤트 1장을 버릴 수 있다: 이 캐릭터 카드를 트래시에서 레스트 상태로 등장시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240248385532"
+            },
+            {
+                "id": "OP03-013_P1",
+                "number": "OP03-013",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "마르코",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【자신의 턴 동안】【등장 시】상대의 파워 3000 이하인 캐릭터를 1장까지 KO 시킨다.<br>\r\n【KO 시】자신의 패에서 이벤트 1장을 버릴 수 있다: 이 캐릭터 카드를 트래시에서 레스트 상태로 등장시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240249175290"
+            },
+            {
+                "id": "OP03-014",
+                "number": "OP03-014",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "몽키 D. 가프",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【어택 시】자신의 패에서 코스트 1인 적색 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240250029089"
+            },
+            {
+                "id": "OP03-015",
+                "number": "OP03-015",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "리무",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "ODYSSEY"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)<br>\r\n【상대의 턴 동안】이 캐릭터가 KO 당했을 때, 이번 턴 동안, 상대의 리더 또는 캐릭터 1장까지의 파워 -2000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240251068362"
+            },
+            {
+                "id": "OP03-016",
+                "number": "OP03-016",
+                "type": "R",
+                "class": "이벤트",
+                "name": "염제",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "상대의 파워 6000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】자신의 리더가 「포트거스 D. 에이스」인 경우, 상대의 파워 8000 이하인 캐릭터를 1장까지 KO 시키고, 이번 턴 동안, 자신의 리더는 【더블 어택】을 얻고, 파워 +3000. <br>\r\n(이 카드가 주는 대미지는 2가 된다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240252394620"
+            },
+            {
+                "id": "OP03-017",
+                "number": "OP03-017",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "십자화",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】/【카운터】자신의 리더가 『흰 수염 해적단』을 포함한 특징을 가진 경우, 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -4000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240252410915"
+            },
+            {
+                "id": "OP03-018",
+                "number": "OP03-018",
+                "type": "R",
+                "class": "이벤트",
+                "name": "불주먹",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "상대의 파워 5000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】자신의 패에서 이벤트 1장을 버릴 수 있다: 상대의 파워 5000 이하인 캐릭터 1장까지와 파워 4000 이하인 캐릭터 1장까지를 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240252574207"
+            },
+            {
+                "id": "OP03-018_P1",
+                "number": "OP03-018",
+                "type": "R",
+                "class": "이벤트",
+                "name": "불주먹",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "상대의 파워 5000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】자신의 패에서 이벤트 1장을 버릴 수 있다: 상대의 파워 5000 이하인 캐릭터 1장까지와 파워 4000 이하인 캐릭터 1장까지를 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240253114887"
+            },
+            {
+                "id": "OP03-019",
+                "number": "OP03-019",
+                "type": "C",
+                "class": "이벤트",
+                "name": "불덩이",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "이번 턴 동안, 상대의 리더 또는 캐릭터 1장까지의 파워 -10000.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】이번 턴 동안, 자신의 리더의 파워 +4000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240253252433"
+            },
+            {
+                "id": "OP03-020",
+                "number": "OP03-020",
+                "type": "C",
+                "class": "스테이지",
+                "name": "스트라이커",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】②(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 이 스테이지를 레스트할 수 있다: 자신의 리더가 「포트거스 D. 에이스」인 경우, 자신의 덱 위에서 5장을 보고, 이벤트를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240253423756"
+            },
+            {
+                "id": "OP03-021",
+                "number": "OP03-021",
+                "type": "L",
+                "class": "리더",
+                "name": "크로",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "크로네코 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】③(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 자신의 《이스트 블루》 특징을 가진 캐릭터 2장을 레스트할 수 있다: 이 리더를 액티브로 하고, 상대의 코스트 5 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240253580959"
+            },
+            {
+                "id": "OP03-021_P1",
+                "number": "OP03-021",
+                "type": "L",
+                "class": "리더",
+                "name": "크로",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "크로네코 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】③(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 자신의 《이스트 블루》 특징을 가진 캐릭터 2장을 레스트할 수 있다: 이 리더를 액티브로 하고, 상대의 코스트 5 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240254317827"
+            },
+            {
+                "id": "OP03-022",
+                "number": "OP03-022",
+                "type": "L",
+                "class": "리더",
+                "name": "아론",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "어인족",
+                    "이스트 블루",
+                    "아론 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×2】【어택 시】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 자신의 패에서 코스트 4 이하인 【트리거】를 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240254461599"
+            },
+            {
+                "id": "OP03-022_P1",
+                "number": "OP03-022",
+                "type": "L",
+                "class": "리더",
+                "name": "아론",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "어인족",
+                    "이스트 블루",
+                    "아론 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×2】【어택 시】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 자신의 패에서 코스트 4 이하인 【트리거】를 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240254595556"
+            },
+            {
+                "id": "OP03-023",
+                "number": "OP03-023",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "알비다",
+                "cost": "1",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "알비다 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240255133937"
+            },
+            {
+                "id": "OP03-024",
+                "number": "OP03-024",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "깅",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "클리크 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 리더가 《이스트 블루》 특징을 가진 경우, 상대의 코스트 4 이하인 캐릭터를 2장까지 레스트로 한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240255465734"
+            },
+            {
+                "id": "OP03-024_P1",
+                "number": "OP03-024",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "깅",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "클리크 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 리더가 《이스트 블루》 특징을 가진 경우, 상대의 코스트 4 이하인 캐릭터를 2장까지 레스트로 한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240256011808"
+            },
+            {
+                "id": "OP03-025",
+                "number": "OP03-025",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "클리크",
+                "cost": "6",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "클리크 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 패 1장을 버릴 수 있다: 상대의 레스트 상태이고 코스트 4 이하인 캐릭터를 2장까지 KO 시킨다.<br>\r\n【두웅!!×1】이 캐릭터는 【더블 어택】을 얻는다.<br>\r\n(이 카드가 주는 대미지는 2가 된다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240256455125"
+            },
+            {
+                "id": "OP03-025_P1",
+                "number": "OP03-025",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "클리크",
+                "cost": "6",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "클리크 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 패 1장을 버릴 수 있다: 상대의 레스트 상태이고 코스트 4 이하인 캐릭터를 2장까지 KO 시킨다.<br>\r\n【두웅!!×1】이 캐릭터는 【더블 어택】을 얻는다.<br>\r\n(이 카드가 주는 대미지는 2가 된다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240256589036"
+            },
+            {
+                "id": "OP03-026",
+                "number": "OP03-026",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "쿠로오비",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "이스트 블루",
+                    "아론 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 리더가 《이스트 블루》 특징을 가진 경우, 상대의 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240257193774"
+            },
+            {
+                "id": "OP03-027",
+                "number": "OP03-027",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샴",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "크로네코 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 리더가 《이스트 블루》 특징을 가진 경우, 상대의 코스트 2 이하인 캐릭터를 1장까지 레스트로 하고, 자신의 「뿌찌」가 없는 경우, 자신의 패에서 「뿌찌」를 1장까지 등장시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240257321811"
+            },
+            {
+                "id": "OP03-028",
+                "number": "OP03-028",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "쟝고",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "크로네코 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】아래에서 하나를 선택한다.<br>\r\n・자신의 《이스트 블루》 특징을 가진 리더 또는 코스트 6 이하인 캐릭터를 1장까지 액티브로 한다.<br>\r\n・이 캐릭터와 상대의 캐릭터 1장까지를 레스트로 한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240258134972"
+            },
+            {
+                "id": "OP03-029",
+                "number": "OP03-029",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "츄",
+                "cost": "4",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "이스트 블루",
+                    "아론 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】상대의 레스트 상태이고 코스트 4 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240258360747"
+            },
+            {
+                "id": "OP03-030",
+                "number": "OP03-030",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "나미",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "아론 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「나미」 이외의 녹색인 《이스트 블루》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240258503368"
+            },
+            {
+                "id": "OP03-031",
+                "number": "OP03-031",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "파알",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "클리크 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240259040799"
+            },
+            {
+                "id": "OP03-032",
+                "number": "OP03-032",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "버기",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "버기 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "이 캐릭터는 <참격> 속성을 가진 카드와의 배틀에서는 KO 당하지 않는다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240301217171"
+            },
+            {
+                "id": "OP03-033",
+                "number": "OP03-033",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "핫짱",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "자신의 리더가 《이스트 블루》 특징을 가진 경우, 이 카드를 등장시킨다.",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "이스트 블루",
+                    "아론 일당"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202504090516529748"
+            },
+            {
+                "id": "OP03-034",
+                "number": "OP03-034",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "뿌찌",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "크로네코 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】상대의 레스트 상태이고 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240302314260"
+            },
+            {
+                "id": "OP03-035",
+                "number": "OP03-035",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "모옴",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "동물",
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240310400032"
+            },
+            {
+                "id": "OP03-036",
+                "number": "OP03-036",
+                "type": "C",
+                "class": "이벤트",
+                "name": "작살",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "상대의 레스트 상태이고 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "크로네코 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】자신의 《이스트 블루》 특징을 가진 캐릭터 1장을 레스트할 수 있다: 자신의 「크로」를 1장까지 액티브로 한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240310511259"
+            },
+            {
+                "id": "OP03-037",
+                "number": "OP03-037",
+                "type": "C",
+                "class": "이벤트",
+                "name": "이빨물어뜯기",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "자신의 패에서 코스트 4 이하인 【트리거】를 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "이스트 블루",
+                    "아론 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】자신의 《이스트 블루》 특징을 가진 캐릭터 1장을 레스트할 수 있다: 상대의 레스트 상태이고 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240311079052"
+            },
+            {
+                "id": "OP03-038",
+                "number": "OP03-038",
+                "type": "R",
+                "class": "이벤트",
+                "name": "맹독 가스탄 MH5",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "상대의 코스트 5 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "클리크 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】상대의 코스트 2 이하인 캐릭터를 2장까지 레스트로 한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240311511225"
+            },
+            {
+                "id": "OP03-039",
+                "number": "OP03-039",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "원·투·쟝고",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "크로네코 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】상대의 코스트 1 이하인 캐릭터를 1장까지 레스트로 한다. 그 후, 이번 턴 동안, 자신의 캐릭터 1장까지의 파워 +1000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240312167367"
+            },
+            {
+                "id": "OP03-040",
+                "number": "OP03-040",
+                "type": "L",
+                "class": "리더",
+                "name": "나미",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "룰상, 자신의 덱이 0장이 된 경우, 자신은 패배하는 대신 승리한다.<br>\r\n【두웅!!×1】이 리더의 어택으로 상대의 라이프에 대미지를 주었을 때, 자신의 덱 위에서 1장을 트래시에 놓을 수 있다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240313046513"
+            },
+            {
+                "id": "OP03-040_P1",
+                "number": "OP03-040",
+                "type": "L",
+                "class": "리더",
+                "name": "나미",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "룰상, 자신의 덱이 0장이 된 경우, 자신은 패배하는 대신 승리한다.<br>\r\n【두웅!!×1】이 리더의 어택으로 상대의 라이프에 대미지를 주었을 때, 자신의 덱 위에서 1장을 트래시에 놓을 수 있다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240313214200"
+            },
+            {
+                "id": "OP03-041",
+                "number": "OP03-041",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "우솝",
+                "cost": "4",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)<br>\r\n【두웅!!×1】이 캐릭터의 어택으로 상대의 라이프에 대미지를 주었을 때, 자신의 덱 위에서 7장을 트래시에 놓을 수 있다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240314081965"
+            },
+            {
+                "id": "OP03-041_P1",
+                "number": "OP03-041",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "우솝",
+                "cost": "4",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)<br>\r\n【두웅!!×1】이 캐릭터의 어택으로 상대의 라이프에 대미지를 주었을 때, 자신의 덱 위에서 7장을 트래시에 놓을 수 있다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240314238131"
+            },
+            {
+                "id": "OP03-042",
+                "number": "OP03-042",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "우솝 해적단",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 트래시에서 청색인 「우솝」을 1장까지 패에 더한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240314572057"
+            },
+            {
+                "id": "OP03-043",
+                "number": "OP03-043",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "가이몬",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "상대의 라이프에 대미지를 주었을 때, 자신의 덱 위에서 3장을 트래시에 놓을 수 있다. 이 경우, 이 캐릭터를 트래시에 놓는다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240315401204"
+            },
+            {
+                "id": "OP03-044",
+                "number": "OP03-044",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "카야",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】카드를 2장 뽑고, 자신의 패 2장을 버린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240317138757"
+            },
+            {
+                "id": "OP03-045",
+                "number": "OP03-045",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "카르네",
+                "cost": "N/A",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)<br>\r\n【상대의 턴 동안】자신의 덱이 20장 이하인 경우, 이 캐릭터의 파워 +3000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240317380900"
+            },
+            {
+                "id": "OP03-046",
+                "number": "OP03-046",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "겐조",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240318150471"
+            },
+            {
+                "id": "OP03-047",
+                "number": "OP03-047",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "제프",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】이 캐릭터의 어택으로 상대의 라이프에 대미지를 주었을 때, 자신의 덱 위에서 7장을 트래시에 놓을 수 있다.<br>\r\n【등장 시】코스트 3 이하인 캐릭터를 1장까지 주인의 패로 되돌리고 자신의 덱 위에서 2장을 트래시에 놓을 수 있다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240318497950"
+            },
+            {
+                "id": "OP03-047_P1",
+                "number": "OP03-047",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "제프",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】이 캐릭터의 어택으로 상대의 라이프에 대미지를 주었을 때, 자신의 덱 위에서 7장을 트래시에 놓을 수 있다.<br>\r\n【등장 시】코스트 3 이하인 캐릭터를 1장까지 주인의 패로 되돌리고 자신의 덱 위에서 2장을 트래시에 놓을 수 있다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240319509063"
+            },
+            {
+                "id": "OP03-048",
+                "number": "OP03-048",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "노지코",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 리더가 「나미」인 경우, 상대의 코스트 5 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240320114413"
+            },
+            {
+                "id": "OP03-049",
+                "number": "OP03-049",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "파티",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 덱이 20장 이하인 경우, 코스트 3 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240320356070"
+            },
+            {
+                "id": "OP03-050",
+                "number": "OP03-050",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "부들",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)<br>\r\n【KO 시】자신의 덱 위에서 1장을 트래시에 놓을 수 있다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240320528551"
+            },
+            {
+                "id": "OP03-051",
+                "number": "OP03-051",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "벨메일",
+                "cost": "4",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "전 해군"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】이 캐릭터의 어택으로 상대의 라이프에 대미지를 주었을 때, 자신의 덱 위에서 7장을 트래시에 놓을 수 있다.<br>\r\n【KO 시】자신의 덱 위에서 3장을 트래시에 놓을 수 있다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240322595694"
+            },
+            {
+                "id": "OP03-052",
+                "number": "OP03-052",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "메리",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240323191065"
+            },
+            {
+                "id": "OP03-053",
+                "number": "OP03-053",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "요삭 & 조니",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】자신의 덱이 20장 이하인 경우, 이 캐릭터의 파워 +2000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240323328550"
+            },
+            {
+                "id": "OP03-054",
+                "number": "OP03-054",
+                "type": "C",
+                "class": "이벤트",
+                "name": "우솝 새총 공격!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "카드를 1장 뽑고, 자신의 덱 위에서 1장을 트래시에 놓을 수 있다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000. 그 후, 자신의 덱 위에서 1장을 트래시에 놓을 수 있다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240323467359"
+            },
+            {
+                "id": "OP03-055",
+                "number": "OP03-055",
+                "type": "C",
+                "class": "이벤트",
+                "name": "고무고무 대망치",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "코스트 4 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】자신의 패 1장을 버릴 수 있다: 이번 배틀 동안, 자신의 리더 1장까지의 파워 +4000. 그 후, 자신의 덱 위에서 2장을 트래시에 놓을 수 있다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240324563581"
+            },
+            {
+                "id": "OP03-056",
+                "number": "OP03-056",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "상디의 볶음밥",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】카드를 2장 뽑는다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240325128740"
+            },
+            {
+                "id": "OP03-057",
+                "number": "OP03-057",
+                "type": "R",
+                "class": "이벤트",
+                "name": "삼천세계",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "코스트 3 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】코스트 5 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240325312840"
+            },
+            {
+                "id": "OP03-058",
+                "number": "OP03-058",
+                "type": "L",
+                "class": "리더",
+                "name": "아이스버그",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "갈레라 컴퍼니"
+                ],
+                "block_icon": "1",
+                "effect": "이 리더는 어택할 수 없다.<br>\r\n【기동: 메인】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다), 이 리더를 레스트할 수 있다: 자신의 패에서 코스트 5 이하인 《갈레라 컴퍼니》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240326053431"
+            },
+            {
+                "id": "OP03-058_P1",
+                "number": "OP03-058",
+                "type": "L",
+                "class": "리더",
+                "name": "아이스버그",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "갈레라 컴퍼니"
+                ],
+                "block_icon": "1",
+                "effect": "이 리더는 어택할 수 없다.<br>\r\n【기동: 메인】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다), 이 리더를 레스트할 수 있다: 자신의 패에서 코스트 5 이하인 《갈레라 컴퍼니》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240329356855"
+            },
+            {
+                "id": "OP03-059",
+                "number": "OP03-059",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "카쿠",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "갈레라 컴퍼니"
+                ],
+                "block_icon": "1",
+                "effect": "【어택 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 이번 배틀 동안, 이 캐릭터는 【배니시】를 얻는다.\r\n(이 카드가 대미지를 주었을 경우, 트리거는 발동하지 않으며 그 카드는 트래시로 보내진다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240332151332"
+            },
+            {
+                "id": "OP03-060",
+                "number": "OP03-060",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "칼리파",
+                "cost": "4",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "갈레라 컴퍼니"
+                ],
+                "block_icon": "1",
+                "effect": "【어택 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 카드를 2장 뽑고, 자신의 패 1장을 버린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240332294359"
+            },
+            {
+                "id": "OP03-061",
+                "number": "OP03-061",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "키위 & 모즈",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "프랑키 패밀리"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240333075892"
+            },
+            {
+                "id": "OP03-062",
+                "number": "OP03-062",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "코코로",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "인어족",
+                    "워터 세븐"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「코코로」 이외의 《워터 세븐》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240337433853"
+            },
+            {
+                "id": "OP03-063",
+                "number": "OP03-063",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "잠바이",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "프랑키 패밀리"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)<br>\r\n【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 리더가 《워터 세븐》 특징을 가진 경우, 카드를 1장 뽑는다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240420194498"
+            },
+            {
+                "id": "OP03-064",
+                "number": "OP03-064",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "타일스톤",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "갈레라 컴퍼니"
+                ],
+                "block_icon": "1",
+                "effect": "【KO 시】자신의 리더가 《갈레라 컴퍼니》 특징을 가진 경우, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240420582089"
+            },
+            {
+                "id": "OP03-065",
+                "number": "OP03-065",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "침니 & 곤베",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "동물",
+                    "워터 세븐"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240421240124"
+            },
+            {
+                "id": "OP03-066",
+                "number": "OP03-066",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "파울리",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "갈레라 컴퍼니"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】➁(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다. 그 후, 자신의 필드에 두웅!!이 8장 이상인 경우, 상대의 코스트 4 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240421474652"
+            },
+            {
+                "id": "OP03-066_P1",
+                "number": "OP03-066",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "파울리",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "갈레라 컴퍼니"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】➁(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다. 그 후, 자신의 필드에 두웅!!이 8장 이상인 경우, 상대의 코스트 4 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240422081168"
+            },
+            {
+                "id": "OP03-067",
+                "number": "OP03-067",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "피플리 루루",
+                "cost": "5",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "갈레라 컴퍼니"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】【어택 시】자신의 리더가 《갈레라 컴퍼니》 특징을 가진 경우, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240422448444"
+            },
+            {
+                "id": "OP03-068",
+                "number": "OP03-068",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "미노제브라",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "임펠 다운",
+                    "옥졸수"
+                ],
+                "block_icon": "1",
+                "effect": "【배니시】(이 카드가 대미지를 주었을 경우, 트리거는 발동하지 않으며 그 카드는 트래시로 보내진다)<br>\r\n【KO 시】자신의 리더가 《임펠 다운》 특징을 가진 경우, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240423044877"
+            },
+            {
+                "id": "OP03-069",
+                "number": "OP03-069",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "미노리노케로스",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "임펠 다운",
+                    "옥졸수"
+                ],
+                "block_icon": "1",
+                "effect": "【KO 시】자신의 리더가 《임펠 다운》 특징을 가진 경우, 카드를 2장 뽑고, 자신의 패 1장을 버린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240423157973"
+            },
+            {
+                "id": "OP03-070",
+                "number": "OP03-070",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다), 자신의 패에서 코스트 5인 캐릭터 카드 1장을 버릴 수 있다: 이번 턴 동안, 이 캐릭터는 【속공】을 얻는다.<br>\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240423307186"
+            },
+            {
+                "id": "OP03-071",
+                "number": "OP03-071",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "로브 루치",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "갈레라 컴퍼니"
+                ],
+                "block_icon": "1",
+                "effect": "【어택 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 5 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240423462892"
+            },
+            {
+                "id": "OP03-072",
+                "number": "OP03-072",
+                "type": "R",
+                "class": "이벤트",
+                "name": "고무고무 JET 총난타",
+                "cost": "0",
+                "attribute": [],
+                "trigger": "두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】자신의 패 1장을 버릴 수 있다: 이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +3000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240424138214"
+            },
+            {
+                "id": "OP03-073",
+                "number": "OP03-073",
+                "type": "C",
+                "class": "이벤트",
+                "name": "배 밑바닥 해체 절단",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "프랑키 패밀리"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 리더가 《워터 세븐》 특징을 가진 경우, 상대의 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240424526426"
+            },
+            {
+                "id": "OP03-074",
+                "number": "OP03-074",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "탭 노트",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "갈레라 컴퍼니"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】두웅!!-2(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 4 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240425060331"
+            },
+            {
+                "id": "OP03-075",
+                "number": "OP03-075",
+                "type": "C",
+                "class": "스테이지",
+                "name": "갈레라 컴퍼니",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "갈레라 컴퍼니"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】이 스테이지를 레스트할 수 있다: 자신의 리더가 「아이스버그」인 경우, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240425323287"
+            },
+            {
+                "id": "OP03-076",
+                "number": "OP03-076",
+                "type": "L",
+                "class": "리더",
+                "name": "로브 루치",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【자신의 턴 동안】【턴 1회】자신의 패 2장을 버릴 수 있다: 상대의 캐릭터가 KO 당했을 때, 이 리더를 액티브로 한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240425475401"
+            },
+            {
+                "id": "OP03-076_P1",
+                "number": "OP03-076",
+                "type": "L",
+                "class": "리더",
+                "name": "로브 루치",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【자신의 턴 동안】【턴 1회】자신의 패 2장을 버릴 수 있다: 상대의 캐릭터가 KO 당했을 때, 이 리더를 액티브로 한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240425589978"
+            },
+            {
+                "id": "OP03-077",
+                "number": "OP03-077",
+                "type": "L",
+                "class": "리더",
+                "name": "샬롯 링링",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "흑색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "사황",
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×2】【어택 시】②(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 자신의 패 1장을 버릴 수 있다: 자신의 라이프가 1장 이하인 경우, 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240426227403"
+            },
+            {
+                "id": "OP03-077_P1",
+                "number": "OP03-077",
+                "type": "L",
+                "class": "리더",
+                "name": "샬롯 링링",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "흑색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "사황",
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×2】【어택 시】②(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 자신의 패 1장을 버릴 수 있다: 자신의 라이프가 1장 이하인 경우, 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240426325259"
+            },
+            {
+                "id": "OP03-078",
+                "number": "OP03-078",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "잇쇼",
+                "cost": "8",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】【자신의 턴 동안】상대의 모든 캐릭터의 코스트 -3.<br>\r\n【등장 시】상대의 패가 6장 이상인 경우, 상대의 패 2장을 버린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240427000320"
+            },
+            {
+                "id": "OP03-078_P1",
+                "number": "OP03-078",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "잇쇼",
+                "cost": "8",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】【자신의 턴 동안】상대의 모든 캐릭터의 코스트 -3.<br>\r\n【등장 시】상대의 패가 6장 이상인 경우, 상대의 패 2장을 버린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240427197752"
+            },
+            {
+                "id": "OP03-079",
+                "number": "OP03-079",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "베르고",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군",
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】이 캐릭터는 배틀에서는 KO 당하지 않는다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240427320183"
+            },
+            {
+                "id": "OP03-080",
+                "number": "OP03-080",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "카쿠",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 트래시에서 『CP』를 포함한 특징을 가진 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 상대의 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240429356717"
+            },
+            {
+                "id": "OP03-080_P1",
+                "number": "OP03-080",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "카쿠",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 트래시에서 『CP』를 포함한 특징을 가진 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 상대의 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240429218931"
+            },
+            {
+                "id": "OP03-081",
+                "number": "OP03-081",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "칼리파",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】카드를 2장 뽑고, 자신의 패 2장을 버린다. 그 후, 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -2.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240429481815"
+            },
+            {
+                "id": "OP03-081_P1",
+                "number": "OP03-081",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "칼리파",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】카드를 2장 뽑고, 자신의 패 2장을 버린다. 그 후, 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -2.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240430031323"
+            },
+            {
+                "id": "OP03-082",
+                "number": "OP03-082",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "쿠마도리",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240430153097"
+            },
+            {
+                "id": "OP03-083",
+                "number": "OP03-083",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "코기",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "세계정부"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 카드를 2장까지 트래시에 놓는다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240430347628"
+            },
+            {
+                "id": "OP03-084",
+                "number": "OP03-084",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "제리",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP6"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240430473738"
+            },
+            {
+                "id": "OP03-085",
+                "number": "OP03-085",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "재브라",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240431078068"
+            },
+            {
+                "id": "OP03-086",
+                "number": "OP03-086",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "스팬담",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 리더가 『CP』를 포함한 특징을 가진 경우, 덱 위에서 3장을 보고, 「스팬담」 이외의 『CP』를 포함한 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 트래시에 놓는다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240431229981"
+            },
+            {
+                "id": "OP03-086_P1",
+                "number": "OP03-086",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "스팬담",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 리더가 『CP』를 포함한 특징을 가진 경우, 덱 위에서 3장을 보고, 「스팬담」 이외의 『CP』를 포함한 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 트래시에 놓는다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240442575568"
+            },
+            {
+                "id": "OP03-087",
+                "number": "OP03-087",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "네로",
+                "cost": "3",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240449001192"
+            },
+            {
+                "id": "OP03-088",
+                "number": "OP03-088",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "후쿠로",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "이 캐릭터는 효과로는 KO 당하지 않는다.<br>\r\n【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240449127017"
+            },
+            {
+                "id": "OP03-089",
+                "number": "OP03-089",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "브랜뉴",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 덱 위에서 3장을 보고, 「브랜뉴」 이외의 《해군》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 트래시에 놓는다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240449290672"
+            },
+            {
+                "id": "OP03-090",
+                "number": "OP03-090",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "블루노",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】이 캐릭터는 【블로커】를 얻는다.<br>\r\n(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)<br>\r\n【KO 시】자신의 트래시에서 코스트 4 이하인 『CP』를 포함한 특징을 가진 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240449420378"
+            },
+            {
+                "id": "OP03-091",
+                "number": "OP03-091",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "헤르메포",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】이번 턴 동안, 상대의 원래 효과가 없는 캐릭터를 1장까지 코스트 0으로 한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240450015042"
+            },
+            {
+                "id": "OP03-092",
+                "number": "OP03-092",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "로브 루치",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 트래시에서 『CP』를 포함한 특징을 가진 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 이번 턴 동안, 이 캐릭터는 【속공】을 얻는다.<br>\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240450173896"
+            },
+            {
+                "id": "OP03-092_P1",
+                "number": "OP03-092",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "로브 루치",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 트래시에서 『CP』를 포함한 특징을 가진 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 이번 턴 동안, 이 캐릭터는 【속공】을 얻는다.<br>\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240450305384"
+            },
+            {
+                "id": "OP03-093",
+                "number": "OP03-093",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "완제",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP7"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 패 1장을 버릴 수 있다: 자신의 리더가 『CP』를 포함한 특징을 가진 경우, 상대의 코스트 1 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240450425307"
+            },
+            {
+                "id": "OP03-094",
+                "number": "OP03-094",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "에어 도어",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "자신의 트래시에서 코스트 3 이하인 흑색 캐릭터 카드를 1장까지 등장시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】자신의 리더가 『CP』를 포함한 특징을 가진 경우, 자신의 덱 위에서 5장을 보고, 코스트 5 이하인 『CP』를 포함한 특징을 가진 캐릭터 카드를 1장까지 등장시킨다. 그 후, 남은 카드를 트래시에 놓는다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240450532104"
+            },
+            {
+                "id": "OP03-095",
+                "number": "OP03-095",
+                "type": "C",
+                "class": "이벤트",
+                "name": "비누 양",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "상대는 자신의 패 1장을 버린다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】이번 턴 동안, 상대의 캐릭터 2장까지의 코스트 -2.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240451179863"
+            },
+            {
+                "id": "OP03-096",
+                "number": "OP03-096",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "람각 주단",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "카드를 2장 뽑는다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】상대의 코스트 0인 캐릭터 또는 상대의 코스트 3 이하인 스테이지를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240452045065"
+            },
+            {
+                "id": "OP03-097",
+                "number": "OP03-097",
+                "type": "R",
+                "class": "이벤트",
+                "name": "육왕건",
+                "cost": "0",
+                "attribute": [],
+                "trigger": "카드를 1장 뽑는다. 그 후, 상대의 코스트 1 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】자신의 패 1장을 버릴 수 있다: 이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +3000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240452190610"
+            },
+            {
+                "id": "OP03-098",
+                "number": "OP03-098",
+                "type": "C",
+                "class": "스테이지",
+                "name": "에니에스 로비",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "세계정부"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】이 스테이지를 레스트할 수 있다: 자신의 리더가 『CP』를 포함한 특징을 가진 경우, 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -2.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240452468146"
+            },
+            {
+                "id": "OP03-099",
+                "number": "OP03-099",
+                "type": "L",
+                "class": "리더",
+                "name": "샬롯 카타쿠리",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】【어택 시】자신 또는 상대의 라이프 위에서 1장까지를 보고, 라이프 맨 위나 아래로 되돌린다. 그 후, 이번 배틀 동안, 이 리더의 파워 +1000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240453185778"
+            },
+            {
+                "id": "OP03-099_P1",
+                "number": "OP03-099",
+                "type": "L",
+                "class": "리더",
+                "name": "샬롯 카타쿠리",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】【어택 시】자신 또는 상대의 라이프 위에서 1장까지를 보고, 라이프 맨 위나 아래로 되돌린다. 그 후, 이번 배틀 동안, 이 리더의 파워 +1000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240453387197"
+            },
+            {
+                "id": "OP03-100",
+                "number": "OP03-100",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "킹 바움",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "자신의 라이프 위나 아래에서 1장을 트래시에 놓을 수 있다: 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단",
+                    "호미즈"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240453591802"
+            },
+            {
+                "id": "OP03-101",
+                "number": "OP03-101",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "케이미",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "인어족"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240454139675"
+            },
+            {
+                "id": "OP03-102",
+                "number": "OP03-102",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "상디",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빈스모크 가문"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×2】【어택 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240454494178"
+            },
+            {
+                "id": "OP03-103",
+                "number": "OP03-103",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "처리업자 보빈",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240455022125"
+            },
+            {
+                "id": "OP03-104",
+                "number": "OP03-104",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "셜리",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "인어족"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)<br>\r\n【등장 시】자신 또는 상대의 라이프 위에서 1장까지를 보고, 라이프 맨 위나 아래로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240455144983"
+            },
+            {
+                "id": "OP03-105",
+                "number": "OP03-105",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "샬롯 오븐",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】【어택 시】자신의 패에서 【트리거】를 가진 카드 1장을 버릴 수 있다: 이번 배틀 동안, 이 캐릭터의 파워 +3000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240455497580"
+            },
+            {
+                "id": "OP03-106",
+                "number": "OP03-106",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샬롯 오페라",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240456072745"
+            },
+            {
+                "id": "OP03-107",
+                "number": "OP03-107",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샬롯 갈렛",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240456217421"
+            },
+            {
+                "id": "OP03-108",
+                "number": "OP03-108",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "샬롯 크래커",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "자신의 패 1장을 버릴 수 있다: 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】자신의 라이프 수가 상대보다 적을 경우, 이 캐릭터는 【더블 어택】을 얻고, 파워 +1000.<br>\r\n(이 카드가 주는 대미지는 2가 된다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240456401806"
+            },
+            {
+                "id": "OP03-108_P1",
+                "number": "OP03-108",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "샬롯 크래커",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "자신의 패 1장을 버릴 수 있다: 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】자신의 라이프 수가 상대보다 적을 경우, 이 캐릭터는 【더블 어택】을 얻고, 파워 +1000.<br>\r\n(이 카드가 주는 대미지는 2가 된다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240456533123"
+            },
+            {
+                "id": "OP03-109",
+                "number": "OP03-109",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샬롯 시폰",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 라이프 위나 아래에서 1장을 트래시에 놓을 수 있다: 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240457100783"
+            },
+            {
+                "id": "OP03-110",
+                "number": "OP03-110",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "샬롯 스무디",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "자신의 패 1장을 버릴 수 있다: 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【어택 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 이번 배틀 동안, 이 캐릭터의 파워 +2000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240457312349"
+            },
+            {
+                "id": "OP03-111",
+                "number": "OP03-111",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샬롯 프랄리네",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "인어족",
+                    "태양 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240457463714"
+            },
+            {
+                "id": "OP03-112",
+                "number": "OP03-112",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "샬롯 푸딩",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 덱 위에서 4장을 보고, 「샬롯 푸딩」 이외의 《빅 맘 해적단》 특징을 가진 카드 또는 「상디」를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240458004848"
+            },
+            {
+                "id": "OP03-112_P1",
+                "number": "OP03-112",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "샬롯 푸딩",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 덱 위에서 4장을 보고, 「샬롯 푸딩」 이외의 《빅 맘 해적단》 특징을 가진 카드 또는 「상디」를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240458114758"
+            },
+            {
+                "id": "OP03-113",
+                "number": "OP03-113",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "샬롯 페로스페로",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "자신의 패 1장을 버릴 수 있다: 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【KO 시】자신의 덱 위에서 3장을 보고, 《빅 맘 해적단》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240458426283"
+            },
+            {
+                "id": "OP03-113_P1",
+                "number": "OP03-113",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "샬롯 페로스페로",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "자신의 패 1장을 버릴 수 있다: 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【KO 시】자신의 덱 위에서 3장을 보고, 《빅 맘 해적단》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240458572750"
+            },
+            {
+                "id": "OP03-114",
+                "number": "OP03-114",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "샬롯 링링",
+                "cost": "10",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "사황",
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 리더가 《빅 맘 해적단》 특징을 가진 경우, 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다. 그 후, 상대의 라이프 위에서 1장까지를 트래시로 보낸다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240459145729"
+            },
+            {
+                "id": "OP03-114_P1",
+                "number": "OP03-114",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "샬롯 링링",
+                "cost": "10",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "사황",
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 리더가 《빅 맘 해적단》 특징을 가진 경우, 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다. 그 후, 상대의 라이프 위에서 1장까지를 트래시로 보낸다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240459311770"
+            },
+            {
+                "id": "OP03-115",
+                "number": "OP03-115",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "슈트로이젠",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 패에서 【트리거】를 가진 카드 1장을 버릴 수 있다: 상대의 코스트 1 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240459474564"
+            },
+            {
+                "id": "OP03-116",
+                "number": "OP03-116",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "시라호시",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "인어족"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】카드를 3장 뽑고, 자신의 패 2장을 버린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240500006907"
+            },
+            {
+                "id": "OP03-117",
+                "number": "OP03-117",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "나폴레옹",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단",
+                    "호미즈"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】이 캐릭터를 레스트할 수 있다: 다음 자신의 턴 개시 시까지, 자신의 「샬롯 링링」 1장까지의 파워 +1000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240506558023"
+            },
+            {
+                "id": "OP03-118",
+                "number": "OP03-118",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "위국",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "자신의 패 2장을 버릴 수 있다: 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "사황",
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +5000.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240500365400"
+            },
+            {
+                "id": "OP03-119",
+                "number": "OP03-119",
+                "type": "R",
+                "class": "이벤트",
+                "name": "참·절·떡",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "자신의 패에서 코스트 4 이하인 【트리거】를 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】자신의 라이프가 상대보다 적은 경우, 상대의 코스트 4 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240500511964"
+            },
+            {
+                "id": "OP03-120",
+                "number": "OP03-120",
+                "type": "C",
+                "class": "이벤트",
+                "name": "열해지옥",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】상대의 라이프가 4장 이상인 경우, 상대의 라이프 위에서 1장까지를 트래시로 보낸다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240501070848"
+            },
+            {
+                "id": "OP03-121",
+                "number": "OP03-121",
+                "type": "C",
+                "class": "이벤트",
+                "name": "뇌정",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "상대의 코스트 5 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "사황",
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】자신의 라이프 위에서 1장을 트래시에 놓을 수 있다: 상대의 코스트 5 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240501529037"
+            },
+            {
+                "id": "OP03-122",
+                "number": "OP03-122",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "저격왕",
+                "cost": "7",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "저격섬"
+                ],
+                "block_icon": "1",
+                "effect": "룰상, 이 카드의 카드명은 「우솝」으로도 취급한다.<br>\r\n【등장 시】코스트 6 이하인 캐릭터를 1장까지 주인의 패로 되돌린다. 그 후, 카드를 2장 뽑고, 자신의 패 2장을 버린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240502080918"
+            },
+            {
+                "id": "OP03-122_P1",
+                "number": "OP03-122",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "저격왕",
+                "cost": "7",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "저격섬"
+                ],
+                "block_icon": "1",
+                "effect": "룰상, 이 카드의 카드명은 「우솝」으로도 취급한다.<br>\r\n【등장 시】코스트 6 이하인 캐릭터를 1장까지 주인의 패로 되돌린다. 그 후, 카드를 2장 뽑고, 자신의 패 2장을 버린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240502229440"
+            },
+            {
+                "id": "OP03-122_P2",
+                "number": "OP03-122",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "저격왕",
+                "cost": "7",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "저격섬"
+                ],
+                "block_icon": "1",
+                "effect": "룰상, 이 카드의 카드명은 「우솝」으로도 취급한다.<br>\r\n【등장 시】코스트 6 이하인 캐릭터를 1장까지 주인의 패로 되돌린다. 그 후, 카드를 2장 뽑고, 자신의 패 2장을 버린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240502553057"
+            },
+            {
+                "id": "OP03-123",
+                "number": "OP03-123",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "샬롯 카타쿠리",
+                "cost": "8",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】코스트 8 이하인 캐릭터를 1장까지 주인의 라이프 맨 위나 아래에 앞면으로 더한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240503483440"
+            },
+            {
+                "id": "OP03-123_P1",
+                "number": "OP03-123",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "샬롯 카타쿠리",
+                "cost": "8",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】코스트 8 이하인 캐릭터를 1장까지 주인의 라이프 맨 위나 아래에 앞면으로 더한다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410251219154356"
+            },
+            {
+                "id": "OP01-051_P2",
+                "number": "OP01-051",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "유스타스 키드",
+                "cost": "8",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "키드 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】【상대의 턴 동안】이 캐릭터가 레스트 상태인 경우, 상대는 캐릭터인 「유스타스 키드」 이외는 어택할 수 없다.\r\n【기동: 메인】【턴 1회】이 캐릭터를 레스트할 수 있다: 자신의 패에서 코스트 3 이하인 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240504012632"
+            },
+            {
+                "id": "ST01-012_P1",
+                "number": "ST01-012",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "초신성",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)<br>\r\n【두웅!!×2】【어택 시】이번 배틀 중, 상대는 【블로커】를 발동할 수 없다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240504156653"
+            },
+            {
+                "id": "ST03-009_P1",
+                "number": "ST03-009",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "돈키호테 도플라밍고",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】코스트 7 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240504293139"
+            },
+            {
+                "id": "ST04-003_P1",
+                "number": "ST04-003",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "카이도",
+                "cost": "9",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "사황",
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】두웅!!-5(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 6 이하인 캐릭터를 1장까지 KO시키고, 이번 턴 동안 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[OPK-03] 부스터 팩 강대한 적",
+                "image_url": "/fileDownload?downname=202410240504406473"
+            }
+        ]
+    }
+}

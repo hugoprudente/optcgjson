@@ -1,0 +1,3790 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563111,
+        "language": "th"
+    },
+    "data": {
+        "code": "OP11",
+        "cards": [
+            {
+                "id": "OP11-001",
+                "number": "OP11-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Koby",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์ของฝ่ายเรา ที่มีคุณสมบัติ < SWORD >, จะสามารถโจมตีใส่ คาแรกเตอร์ ในเทิร์นที่เพิ่งลงสนามได้. [เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์ของฝ่ายเรา ที่มีคุณสมบัติ < กองทัพเรือ > และมีพาวเวอร์ตั้งต้น 7000 หรือต่ำกว่า กำลังจะถูกนำออกจากสนาม โดยความสามารถของฝ่ายคู่แข่ง, จะสามารถนำการ์ด จากในแทรชของเรา จำนวน 3 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค แทนได้.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-001.png"
+            },
+            {
+                "id": "OP11-001_p1",
+                "number": "OP11-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Koby",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์ของฝ่ายเรา ที่มีคุณสมบัติ < SWORD >, จะสามารถโจมตีใส่ คาแรกเตอร์ ในเทิร์นที่เพิ่งลงสนามได้. [เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์ของฝ่ายเรา ที่มีคุณสมบัติ < กองทัพเรือ > และมีพาวเวอร์ตั้งต้น 7000 หรือต่ำกว่า กำลังจะถูกนำออกจากสนาม โดยความสามารถของฝ่ายคู่แข่ง, จะสามารถนำการ์ด จากในแทรชของเรา จำนวน 3 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค แทนได้.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-001_p1.png"
+            },
+            {
+                "id": "OP11-002",
+                "number": "OP11-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ain",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มทหารเรือ NEO"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -1000. จากนั้น, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 0 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-002.png"
+            },
+            {
+                "id": "OP11-003",
+                "number": "OP11-003",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "cost": "5",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-003.png"
+            },
+            {
+                "id": "OP11-004",
+                "number": "OP11-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kujyaku",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กองทัพเรือ > นอกเหนือจาก [Kujaku] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค. [ใช้งาน : เมน] สามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช : ในเทิร์นนี้, คาแรกเตอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-004.png"
+            },
+            {
+                "id": "OP11-004_p1",
+                "number": "OP11-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kujyaku",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กองทัพเรือ > นอกเหนือจาก [Kujaku] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค. [ใช้งาน : เมน] สามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช : ในเทิร์นนี้, คาแรกเตอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-004_p1.png"
+            },
+            {
+                "id": "OP11-005",
+                "number": "OP11-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Smoker",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ด้ง!! x 1] คาแรกเตอร์นี้ จะไม่ถูก KO จากความสามารถของคาแรกเตอร์ ที่ไม่ใช่คุณลักษณะ (พิเศษ).",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-005.png"
+            },
+            {
+                "id": "OP11-006",
+                "number": "OP11-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Zephyr",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มทหารเรือ NEO"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง ที่มีคุณลักษณะ (พิเศษ) จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -5000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-006.png"
+            },
+            {
+                "id": "OP11-007",
+                "number": "OP11-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tashigi",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กองทัพเรือ > ละก็, ในเทิร์นนี้, คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กองทัพเรือ > จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-007.png"
+            },
+            {
+                "id": "OP11-008",
+                "number": "OP11-008",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Doll",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กองทัพเรือ > ละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -6000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-008.png"
+            },
+            {
+                "id": "OP11-008_p1",
+                "number": "OP11-008",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Doll",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กองทัพเรือ > ละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -6000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-008_p1.png"
+            },
+            {
+                "id": "OP11-009",
+                "number": "OP11-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 2] [เมื่อโจมตี] คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -2000, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-009.png"
+            },
+            {
+                "id": "OP11-010",
+                "number": "OP11-010",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Hibari",
+                "cost": "5",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -2000. [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์นี้ จะมีพาวเวอร์ +1000. จากนั้น, ในเทิร์นนี้, ลีดเดอร์ของเรา ที่มีคุณสมบัติ < กองทัพเรือ > จำนวนไม่เกิน 1 ใบ, จะสามารถโจมตีใส่คาแรกเตอร์ ที่กำลังแอ็คทีฟอยู่ ได้ด้วย.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-010.png"
+            },
+            {
+                "id": "OP11-010_p1",
+                "number": "OP11-010",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Hibari",
+                "cost": "5",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -2000. [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์นี้ จะมีพาวเวอร์ +1000. จากนั้น, ในเทิร์นนี้, ลีดเดอร์ของเรา ที่มีคุณสมบัติ < กองทัพเรือ > จำนวนไม่เกิน 1 ใบ, จะสามารถโจมตีใส่คาแรกเตอร์ ที่กำลังแอ็คทีฟอยู่ ได้ด้วย.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-010_p1.png"
+            },
+            {
+                "id": "OP11-011",
+                "number": "OP11-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bins",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มทหารเรือ NEO"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-011.png"
+            },
+            {
+                "id": "OP11-012",
+                "number": "OP11-012",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อคู่แข่งใช้งานอีเวนต์, ในเทิร์นนี้, คาแรกเตอร์ของฝ่ายเรา ทั้งหมด, จะมีพาวเวอร์ +2000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-012.png"
+            },
+            {
+                "id": "OP11-013",
+                "number": "OP11-013",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Prince Grus",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของฝ่ายคู่แข่ง ทั้งหมด ที่มีพาวเวอร์ 2000 หรือต่ำกว่า, จะไม่สามารถใช้งาน [บล็อกเกอร์].",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-013.png"
+            },
+            {
+                "id": "OP11-014",
+                "number": "OP11-014",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Borsalino",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา ที่มีคุณสมบัติ < กองทัพเรือ > จำนวนไม่เกิน 1 ใบ, จะสามารถโจมตีใส่คาแรกเตอร์ ที่กำลังแอ็คทีฟอยู่ ได้ด้วย.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-014.png"
+            },
+            {
+                "id": "OP11-015",
+                "number": "OP11-015",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mocha",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-015.png"
+            },
+            {
+                "id": "OP11-016",
+                "number": "OP11-016",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-016.png"
+            },
+            {
+                "id": "OP11-017",
+                "number": "OP11-017",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "X.Drake",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD",
+                    "กลุ่มโจรสลัดเดรค"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-017.png"
+            },
+            {
+                "id": "OP11-018",
+                "number": "OP11-018",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Honesty Impact",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 6000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -4000. จากนั้น, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 6000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-018.png"
+            },
+            {
+                "id": "OP11-018_p1",
+                "number": "OP11-018",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Honesty Impact",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 6000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -4000. จากนั้น, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 6000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-018_p1.png"
+            },
+            {
+                "id": "OP11-019",
+                "number": "OP11-019",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Glorp Web!!",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000. จากนั้น, ถ้าคู่แข่งมีคาแรกเตอร์ ที่มีพาวเวอร์ 6000 หรือสูงกว่า อยู่ละก็, ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-019.png"
+            },
+            {
+                "id": "OP11-020",
+                "number": "OP11-020",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "X Calibur",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 4000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD",
+                    "กลุ่มโจรสลัดเดรค"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 2 ใบ, จะมีพาวเวอร์ -2000. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กองทัพเรือ > จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-020.png"
+            },
+            {
+                "id": "OP11-021",
+                "number": "OP11-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Jinbe",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อจบเทิร์นของเรา] ถ้าเรามีการ์ดบนมืออยู่ จำนวน 6 ใบ หรือน้อยกว่าละก็, จะทำให้ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > จำนวนไม่เกิน 1 ใบ กับ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-021.png"
+            },
+            {
+                "id": "OP11-021_p1",
+                "number": "OP11-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Jinbe",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อจบเทิร์นของเรา] ถ้าเรามีการ์ดบนมืออยู่ จำนวน 6 ใบ หรือน้อยกว่าละก็, จะทำให้ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > จำนวนไม่เกิน 1 ใบ กับ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-021_p1.png"
+            },
+            {
+                "id": "OP11-022",
+                "number": "OP11-022",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Shirahoshi",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "ลีดเดอร์นี้ไม่สามารถทำการโจมตี. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ, และ หงาย ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : นำ คาแรกเตอร์การ์ด ที่มีคุณสมบัติ < เจ้าทะเล > หรือว่า [Megalo] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม, ซึ่งจะต้องมีค่าคอสต์ ไม่สูงไปกว่า จำนวน ด้ง!! ที่อยู่บนสนามของเรา.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-022.png"
+            },
+            {
+                "id": "OP11-022_p1",
+                "number": "OP11-022",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Shirahoshi",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "ลีดเดอร์นี้ไม่สามารถทำการโจมตี. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ, และ หงาย ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : นำ คาแรกเตอร์การ์ด ที่มีคุณสมบัติ < เจ้าทะเล > หรือว่า [Megalo] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม, ซึ่งจะต้องมีค่าคอสต์ ไม่สูงไปกว่า จำนวน ด้ง!! ที่อยู่บนสนามของเรา.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-022_p1.png"
+            },
+            {
+                "id": "OP11-023",
+                "number": "OP11-023",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Arlong",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เกาะมนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < เผ่ามนุษย์เงือก >, และเรามี ไลฟ์ จำนวน 3 ใบ หรือน้อยกว่า, และคู่แข่งมีการ์ด ที่กำลังเรสต์อยู่ จำนวน 5 ใบ หรือมากกว่าละก็, การ์ดใบนี้ที่อยู่บนมือ, จะมีคอสต์ -3.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-023.png"
+            },
+            {
+                "id": "OP11-023_p1",
+                "number": "OP11-023",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Arlong",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เกาะมนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < เผ่ามนุษย์เงือก >, และเรามี ไลฟ์ จำนวน 3 ใบ หรือน้อยกว่า, และคู่แข่งมีการ์ด ที่กำลังเรสต์อยู่ จำนวน 5 ใบ หรือมากกว่าละก็, การ์ดใบนี้ที่อยู่บนมือ, จะมีคอสต์ -3.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-023_p1.png"
+            },
+            {
+                "id": "OP11-024",
+                "number": "OP11-024",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Aladine",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "3",
+                "effect": "เมื่อคาแรกเตอร์นี้ ถูก KO จากความสามารถของฝ่ายคู่แข่ง, จะขอทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ, และ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ ก็ได้. ถ้าทำเช่นนั้น, จะได้นำคาแรกเตอร์การ์ด ที่มีคอสต์ 6 หรือต่ำกว่า, และมีคุณสมบัติ < เผ่ามนุษย์เงือก  > หรือ < เผ่าเงือก  > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-024.png"
+            },
+            {
+                "id": "OP11-025",
+                "number": "OP11-025",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ishilly",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ กับ  คาแรกเตอร์นี้ : ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-025.png"
+            },
+            {
+                "id": "OP11-026",
+                "number": "OP11-026",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Scaled Neptunian",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เจ้าทะเล"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-026.png"
+            },
+            {
+                "id": "OP11-027",
+                "number": "OP11-027",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bulge-Eyed Neptunian",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เจ้าทะเล"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าลีดเดอร์ของเราคือ [Shirahoshi] ละก็, คาแรกเตอร์นี้ จะสามารถโจมตีใส่ คาแรกเตอร์ ในเทิร์นที่เพิ่งลงสนามได้.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-027.png"
+            },
+            {
+                "id": "OP11-028",
+                "number": "OP11-028",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Lord of the Coast",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เจ้าทะเล",
+                    "อีสต์บลู"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ทำให้ คาแรกเตอร์ของคู่แข่ง ที่กำลังเรสต์อยู่ จำนวนไม่เกิน 1 ใบ, จะไม่ถูกเปลี่ยนเป็น แอ็คทีฟ ในช่วงรีเฟรชเฟสของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-028.png"
+            },
+            {
+                "id": "OP11-029",
+                "number": "OP11-029",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Charlotte Praline",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-029.png"
+            },
+            {
+                "id": "OP11-030",
+                "number": "OP11-030",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Shirahoshi",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ กับ คาแรกเตอร์นี้ : ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < เจ้าทะเล > หรือ < เกาะมนุษย์เงือก > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-030.png"
+            },
+            {
+                "id": "OP11-031",
+                "number": "OP11-031",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เกาะมนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > ละก็, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ทำให้ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > จำนวนไม่เกิน 1 ใบ, สามารถโจมตีใส่ คาแรกเตอร์ ในเทิร์นที่เพิ่งลงสนามได้.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-031.png"
+            },
+            {
+                "id": "OP11-031_p1",
+                "number": "OP11-031",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เกาะมนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > ละก็, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ทำให้ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > จำนวนไม่เกิน 1 ใบ, สามารถโจมตีใส่ คาแรกเตอร์ ในเทิร์นที่เพิ่งลงสนามได้.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-031_p1.png"
+            },
+            {
+                "id": "OP11-032",
+                "number": "OP11-032",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Surume",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-032.png"
+            },
+            {
+                "id": "OP11-033",
+                "number": "OP11-033",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Bird Neptunian",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เจ้าทะเล"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-033.png"
+            },
+            {
+                "id": "OP11-034",
+                "number": "OP11-034",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Hatchan",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เกาะมนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > ละก็, ทำให้ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะไม่สามารถ เรสต์, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-034.png"
+            },
+            {
+                "id": "OP11-035",
+                "number": "OP11-035",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Fisher Tiger",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เกาะมนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "3",
+                "effect": "เมื่อคาแรกเตอร์นี้ ถูก KO จากความสามารถของฝ่ายคู่แข่ง, จะขอ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ ก็ได้. ถ้าทำเช่นนั้น, จะได้นำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า, และมีคุณสมบัติ < เผ่ามนุษย์เงือก  > หรือ < เผ่าเงือก  > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. [เมื่อลงสนาม] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-035.png"
+            },
+            {
+                "id": "OP11-036",
+                "number": "OP11-036",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Spotted Neptunian",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เจ้าทะเล"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเราคือ [Shirahoshi] ละก็, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < เจ้าทะเล >, หรือว่า [Shirahoshi] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-036.png"
+            },
+            {
+                "id": "OP11-037",
+                "number": "OP11-037",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Ancient Weapon Poseidon",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < เจ้าทะเล > หรือ < เกาะมนุษย์เงือก > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-037.png"
+            },
+            {
+                "id": "OP11-038",
+                "number": "OP11-038",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Gum-Gum Elephant Gatling",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เกาะมนุษย์เงือก",
+                    "ซูเปอร์โนวา ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ : ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. [เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-038.png"
+            },
+            {
+                "id": "OP11-039",
+                "number": "OP11-039",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Vagabond Drill",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เกาะมนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา ที่มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000. จากนั้น, ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-039.png"
+            },
+            {
+                "id": "OP11-040",
+                "number": "OP11-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "ในตอนเริ่มเทิร์นของเรา, จะสามารถใช้งาน. ถ้าในสนามของเรามี ด้ง!! อยู่ จำนวน 8 ใบ หรือมากกว่าละก็, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือมาเรียงในลำดับใดก็ได้, แล้วจึงค่อยนำการ์ดเหล่านั้น ไปวางที่ข้างบน หรือ ข้างใต้เด็ค.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-040.png"
+            },
+            {
+                "id": "OP11-040_p1",
+                "number": "OP11-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "ในตอนเริ่มเทิร์นของเรา, จะสามารถใช้งาน. ถ้าในสนามของเรามี ด้ง!! อยู่ จำนวน 8 ใบ หรือมากกว่าละก็, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือมาเรียงในลำดับใดก็ได้, แล้วจึงค่อยนำการ์ดเหล่านั้น ไปวางที่ข้างบน หรือ ข้างใต้เด็ค.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-040_p1.png"
+            },
+            {
+                "id": "OP11-041",
+                "number": "OP11-041",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Nami",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อมี ไลฟ์ ของใครก็ตาม ถูกนำออก, จะสามารถใช้งาน. ถ้าเรามีการ์ดบนมืออยู่ จำนวน 7 ใบ หรือน้อยกว่าละก็, จั่วการ์ด จำนวน 1 ใบ. [ด้ง!! x 1] [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ในเทิร์นนี้, ลีดเดอร์นี้ จะมีพาวเวอร์ +2000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-041.png"
+            },
+            {
+                "id": "OP11-041_p1",
+                "number": "OP11-041",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Nami",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อมี ไลฟ์ ของใครก็ตาม ถูกนำออก, จะสามารถใช้งาน. ถ้าเรามีการ์ดบนมืออยู่ จำนวน 7 ใบ หรือน้อยกว่าละก็, จั่วการ์ด จำนวน 1 ใบ. [ด้ง!! x 1] [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ในเทิร์นนี้, ลีดเดอร์นี้ จะมีพาวเวอร์ +2000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-041_p1.png"
+            },
+            {
+                "id": "OP11-042",
+                "number": "OP11-042",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Vito",
+                "cost": "3",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดไฟร์แทงค์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดไฟร์แทงค์ > จากบนมือของเรา จำนวน 1 ใบ : ในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-042.png"
+            },
+            {
+                "id": "OP11-043",
+                "number": "OP11-043",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Vinsmoke Ichiji",
+                "cost": "7",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค",
+                    "เจอร์ม่า 66"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์ของฝ่ายเรา มีแต่ที่ระบุคำว่า [เจอร์ม่า] รวมอยู่ในคุณสมบัติ เท่านั้น ละก็, จะสามารถใช้งาน. ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000. จากนั้น, จะนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-043.png"
+            },
+            {
+                "id": "OP11-044",
+                "number": "OP11-044",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Vinsmoke Judge",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค",
+                    "เจอร์ม่า 66"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ในเทิร์นนี้, คาแรกเตอร์ของฝ่ายเรา ทั้งหมด ที่มีคุณสมบัติ < เจอร์ม่า 66 >, จะมีพาวเวอร์ +1000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-044.png"
+            },
+            {
+                "id": "OP11-045",
+                "number": "OP11-045",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Vinsmoke Niji",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค",
+                    "เจอร์ม่า 66"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-045.png"
+            },
+            {
+                "id": "OP11-046",
+                "number": "OP11-046",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Vinsmoke Yonji",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค",
+                    "เจอร์ม่า 66"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) ถ้าคาแรกเตอร์ของฝ่ายเรา มีแต่ที่ระบุคำว่า [เจอร์ม่า] รวมอยู่ในคุณสมบัติ เท่านั้น ละก็, คาแรกเตอร์นี้จะไม่ถูก KO จากความสามารถของฝ่ายคู่แข่ง, และจะไม่ถูก เรสต์ จากความสามารถของฝ่ายคู่แข่ง.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-046.png"
+            },
+            {
+                "id": "OP11-047",
+                "number": "OP11-047",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Vinsmoke Reiju",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค",
+                    "เจอร์ม่า 66"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ตระกูลวินสโมค > ละก็, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่ระบุคำว่า [เจอร์ม่า] รวมอยู่ในคุณสมบัติ จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่แทรช.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-047.png"
+            },
+            {
+                "id": "OP11-047_p1",
+                "number": "OP11-047",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Vinsmoke Reiju",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค",
+                    "เจอร์ม่า 66"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ตระกูลวินสโมค > ละก็, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่ระบุคำว่า [เจอร์ม่า] รวมอยู่ในคุณสมบัติ จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่แทรช.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-047_p1.png"
+            },
+            {
+                "id": "OP11-048",
+                "number": "OP11-048",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Capone\"Gang\"Bege",
+                "cost": "1",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดไฟร์แทงค์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคอสต์ 2 หรือสูงกว่า, ซึ่งมีคุณสมบัติ < กลุ่มโจรสลัดไฟร์แทงค์ > หรือ < กลุ่มหมวกฟาง > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-048.png"
+            },
+            {
+                "id": "OP11-049",
+                "number": "OP11-049",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Carrot",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามิงค์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำมาเรียงในลำดับใดก็ได้, แล้วจึงค่อยนำการ์ดเหล่านั้น ไปวางที่ข้างบน หรือ ข้างใต้เด็ค. [เมื่อคู่แข่งโจมตี] สามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช : ในแบทเทิลนี้, ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-049.png"
+            },
+            {
+                "id": "OP11-050",
+                "number": "OP11-050",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gotti",
+                "cost": "3",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดไฟร์แทงค์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] สามารถทิ้งการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดไฟร์แทงค์ > จากบนมือของเรา จำนวน 1 ใบ : นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 1 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ หรือว่า นำไปวางที่ข้างใต้เด็ค.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-050.png"
+            },
+            {
+                "id": "OP11-051",
+                "number": "OP11-051",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "เมื่อคาแรกเตอร์นี้ถูก KO จากความสามารถของฝ่ายคู่แข่ง, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มหมวกฟาง > จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค. [เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีพาวเวอร์ตั้งต้น 5000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-051.png"
+            },
+            {
+                "id": "OP11-051_p1",
+                "number": "OP11-051",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "เมื่อคาแรกเตอร์นี้ถูก KO จากความสามารถของฝ่ายคู่แข่ง, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มหมวกฟาง > จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค. [เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีพาวเวอร์ตั้งต้น 5000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-051_p1.png"
+            },
+            {
+                "id": "OP11-052",
+                "number": "OP11-052",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Charlotte Lola",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดไฟร์แทงค์",
+                    "อดีตกลุ่มโจรสลัดโรลลิ่ง"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-052.png"
+            },
+            {
+                "id": "OP11-053",
+                "number": "OP11-053",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-053.png"
+            },
+            {
+                "id": "OP11-054",
+                "number": "OP11-054",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีหลายธีมสี, จะจั่วการ์ด จำนวน 3 ใบ, และนำการ์ดบนมือของเรา จำนวน 2 ใบ มาเรียงในลำดับใดก็ได้, แล้วจึงค่อยนำการ์ดเหล่านั้น ไปวางที่ข้างบน หรือ ข้างใต้เด็ค.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-054.png"
+            },
+            {
+                "id": "OP11-054_p1",
+                "number": "OP11-054",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีหลายธีมสี, จะจั่วการ์ด จำนวน 3 ใบ, และนำการ์ดบนมือของเรา จำนวน 2 ใบ มาเรียงในลำดับใดก็ได้, แล้วจึงค่อยนำการ์ดเหล่านั้น ไปวางที่ข้างบน หรือ ข้างใต้เด็ค.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-054_p1.png"
+            },
+            {
+                "id": "OP11-055",
+                "number": "OP11-055",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Bartolomeo",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-055.png"
+            },
+            {
+                "id": "OP11-056",
+                "number": "OP11-056",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ตั้งต้น เท่ากับ 1 จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-056.png"
+            },
+            {
+                "id": "OP11-057",
+                "number": "OP11-057",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Pedro",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามิงค์"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าเรามีการ์ดบนมืออยู่ จำนวน 4 ใบ หรือน้อยกว่าละก็, คาแรกเตอร์นี้จะได้รับ [บล็อกเกอร์]. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-057.png"
+            },
+            {
+                "id": "OP11-058",
+                "number": "OP11-058",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าเรามีการ์ดบนมืออยู่ จำนวน 5 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้จะไม่สามารถโจมตีได้. [บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-058.png"
+            },
+            {
+                "id": "OP11-059",
+                "number": "OP11-059",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum King Cobra",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 2 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000. จากนั้น, ถ้าเรามีการ์ดบนมืออยู่ จำนวน 4 ใบ หรือน้อยกว่าละก็, ในแบทเทิลนี้, การ์ดใบดังกล่าว, จะมีพาวเวอร์ +2000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-059.png"
+            },
+            {
+                "id": "OP11-060",
+                "number": "OP11-060",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Let's Crash This Wedding!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ถ้าลีดเดอร์ของเรา มีหลายธีมสี, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > นอกเหนือจาก [Let's Crash This Wedding!!!] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-060.png"
+            },
+            {
+                "id": "OP11-061",
+                "number": "OP11-061",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Gum-Gum Jet Culverin",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 1 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ตั้งต้น 4 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-061.png"
+            },
+            {
+                "id": "OP11-062",
+                "number": "OP11-062",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Charlotte Katakuri",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] / [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] ด้ง!! – 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ดูการ์ดจากข้างบนเด็คของคู่แข่ง จำนวน 1 ใบ. จากนั้น, ในแบทเทิลนี้, ลีดเดอร์นี้ จะมีพาวเวอร์ +1000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-062.png"
+            },
+            {
+                "id": "OP11-062_p1",
+                "number": "OP11-062",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Charlotte Katakuri",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] / [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] ด้ง!! – 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ดูการ์ดจากข้างบนเด็คของคู่แข่ง จำนวน 1 ใบ. จากนั้น, ในแบทเทิลนี้, ลีดเดอร์นี้ จะมีพาวเวอร์ +1000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-062_p1.png"
+            },
+            {
+                "id": "OP11-063",
+                "number": "OP11-063",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Little Sadi",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา มีคุณสมับัติ < อิมเพลดาวน์  > ละก็, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-063.png"
+            },
+            {
+                "id": "OP11-064",
+                "number": "OP11-064",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Saldeath",
+                "cost": "6",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-064.png"
+            },
+            {
+                "id": "OP11-065",
+                "number": "OP11-065",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Charlotte Anana",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าเรามีคาแรกเตอร์ ธีมสีม่วง ที่มีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม > ใบอื่น นอกเหนือจาก [Charlotte Anana] อยู่ด้วยละก็, คาแรกเตอร์นี้จะได้รับ [บล็อกเกอร์]. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-065.png"
+            },
+            {
+                "id": "OP11-066",
+                "number": "OP11-066",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Oven",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ประกาศ จำนวนของ ค่าคอสต์ (หนึ่งจำนวน), และนำการ์ดจากข้างบนเด็คของคู่แข่ง จำนวน 1 ใบ มาแสดงให้ดู. ถ้าการ์ดที่นำมาแสดงให้ดู มีค่าคอสต์ เท่ากับที่ถูกประกาศละก็, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ตั้งต้น 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. จากนั้น, นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-066.png"
+            },
+            {
+                "id": "OP11-067",
+                "number": "OP11-067",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Charlotte Katakuri",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อจบเทิร์นของเรา] จะทำให้ คาแรกเตอร์ของเรา ที่มีคอสต์ 3 หรือมากกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม > จำนวนไม่เกิน 2 ใบ, เปลี่ยนเป็น แอ็คทีฟ. จากนั้น, จะนำ ด้ง!! จากด้ง!! เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-067.png"
+            },
+            {
+                "id": "OP11-067_p1",
+                "number": "OP11-067",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Charlotte Katakuri",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อจบเทิร์นของเรา] จะทำให้ คาแรกเตอร์ของเรา ที่มีคอสต์ 3 หรือมากกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม > จำนวนไม่เกิน 2 ใบ, เปลี่ยนเป็น แอ็คทีฟ. จากนั้น, จะนำ ด้ง!! จากด้ง!! เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-067_p1.png"
+            },
+            {
+                "id": "OP11-068",
+                "number": "OP11-068",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Charlotte Daifuku",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-068.png"
+            },
+            {
+                "id": "OP11-069",
+                "number": "OP11-069",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Brulee",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม > ละก็, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-069.png"
+            },
+            {
+                "id": "OP11-070",
+                "number": "OP11-070",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Charlotte Pudding",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคอสต์ 2 หรือสูงกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค. [ใช้งาน : เมน] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ), สามารถ เรสต์ คาแรกเตอร์นี้ : ดูการ์ดจากข้างบนเด็คของคู่แข่ง จำนวน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-070.png"
+            },
+            {
+                "id": "OP11-070_p1",
+                "number": "OP11-070",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Charlotte Pudding",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคอสต์ 2 หรือสูงกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค. [ใช้งาน : เมน] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ), สามารถ เรสต์ คาแรกเตอร์นี้ : ดูการ์ดจากข้างบนเด็คของคู่แข่ง จำนวน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-070_p1.png"
+            },
+            {
+                "id": "OP11-071",
+                "number": "OP11-071",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Perospero",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ประกาศ จำนวนของ ค่าคอสต์ (หนึ่งจำนวน), และนำการ์ดจากข้างบนเด็คของคู่แข่ง จำนวน 1 ใบ มาแสดงให้ดู. ถ้าการ์ดที่นำมาแสดงให้ดู มีค่าคอสต์ เท่ากับที่ถูกประกาศละก็, จั่วการ์ด จำนวน 1 ใบ, และนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-071.png"
+            },
+            {
+                "id": "OP11-072",
+                "number": "OP11-072",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Charlotte Mont-d'or",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ), สามารถ เรสต์ คาแรกเตอร์นี้ : คู่แข่งจะต้องนำการ์ด จากในแทรชของตัวเอง จำนวน 2 ใบ, ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค. จากนั้น, นำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-072.png"
+            },
+            {
+                "id": "OP11-073",
+                "number": "OP11-073",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Linlin",
+                "cost": "10",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม > ละก็, คาแรกเตอรนี้จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] ด้ง!! - 5 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : ประกาศ จำนวนของ ค่าคอสต์ (หนึ่งจำนวน), และนำการ์ดจากข้างบนเด็คของคู่แข่ง จำนวน 1 ใบ มาแสดงให้ดู. ถ้าการ์ดที่นำมาแสดงให้ดู มีค่าคอสต์ เท่ากับที่ถูกประกาศละก็, ในเทิร์นนี้, ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-073.png"
+            },
+            {
+                "id": "OP11-073_p1",
+                "number": "OP11-073",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Linlin",
+                "cost": "10",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม > ละก็, คาแรกเตอรนี้จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] ด้ง!! - 5 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : ประกาศ จำนวนของ ค่าคอสต์ (หนึ่งจำนวน), และนำการ์ดจากข้างบนเด็คของคู่แข่ง จำนวน 1 ใบ มาแสดงให้ดู. ถ้าการ์ดที่นำมาแสดงให้ดู มีค่าคอสต์ เท่ากับที่ถูกประกาศละก็, ในเทิร์นนี้, ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-073_p1.png"
+            },
+            {
+                "id": "OP11-074",
+                "number": "OP11-074",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Streusen",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ), สามารถ เรสต์ คาแรกเตอร์นี้ : ประกาศ จำนวนของ ค่าคอสต์ (หนึ่งจำนวน), และนำการ์ดจากข้างบนเด็คของคู่แข่ง จำนวน 1 ใบ มาแสดงให้ดู. ถ้าการ์ดที่นำมาแสดงให้ดู มีค่าคอสต์ เท่ากับ จำนวนที่ถูกประกาศละก็, ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-074.png"
+            },
+            {
+                "id": "OP11-075",
+                "number": "OP11-075",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jaguar.D.Saul",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมื่อลงสนาม] ของการ์ดใบนี้.",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เผ่าคนยักษ์",
+                    "โอฮารา ",
+                    "อดีตกองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเราคือ [Nico Robin], และในสนามของเรามี ด้ง!! อยู่จำนวน 7 ใบ หรือมากกว่าละก็, จะจั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-075.png"
+            },
+            {
+                "id": "OP11-076",
+                "number": "OP11-076",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Hannyabal",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < อิมเพลดาวน์ > ละก็, จะได้นำคาแรกเตอร์การ์ด ที่มีคอสต์ 3 หรือต่ำกว่า และมีคุณสมบัติ < อิมเพลดาวน์ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-076.png"
+            },
+            {
+                "id": "OP11-077",
+                "number": "OP11-077",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Randolph",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "โฮมี่ส์",
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อมี ด้ง!! ในสนามของเรา ถูกนำกลับ ด้ง!! เด็ค, คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม > จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ +2, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-077.png"
+            },
+            {
+                "id": "OP11-078",
+                "number": "OP11-078",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Decuplets",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-078.png"
+            },
+            {
+                "id": "OP11-079",
+                "number": "OP11-079",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "When Two Men Are Fighting the Last Thing I Need Is Some Half-Hearted Assistance!!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ประกาศ จำนวนของ ค่าคอสต์ (หนึ่งจำนวน), และนำการ์ดจากข้างบนเด็คของคู่แข่ง จำนวน 1 ใบ มาแสดงให้ดู. ถ้าการ์ดที่นำมาแสดงให้ดู มีค่าคอสต์ เท่ากับจำนวนที่ถูกประกาศละก็, ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +5000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-079.png"
+            },
+            {
+                "id": "OP11-080",
+                "number": "OP11-080",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Gear Two",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 2 ใบ : ถ้าลีดเดอร์ของฝ่ายเรา มีที่เป็น ธีมสีฟ้า รวมอยู่ด้วยละก็,  นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์. [เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-080.png"
+            },
+            {
+                "id": "OP11-080_p1",
+                "number": "OP11-080",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Gear Two",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 2 ใบ : ถ้าลีดเดอร์ของฝ่ายเรา มีที่เป็น ธีมสีฟ้า รวมอยู่ด้วยละก็,  นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์. [เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-080_p1.png"
+            },
+            {
+                "id": "OP11-081",
+                "number": "OP11-081",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Cognac Mama-Mash",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ประกาศ จำนวนของ ค่าคอสต์ (หนึ่งจำนวน), และนำการ์ดจากข้างบนเด็คของคู่แข่ง จำนวน 1 ใบ มาแสดงให้ดู. ถ้าการ์ดที่นำมาแสดงให้ดู มีค่าคอสต์ เท่ากับจำนวนที่ถูกประกาศละก็, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ตั้งต้น 8 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-081.png"
+            },
+            {
+                "id": "OP11-082",
+                "number": "OP11-082",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Aramaki",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถนำ คาแรกเตอร์นี้ ไปวางที่แทรช : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กองทัพเรือ > ละก็, ในเทิร์นนี้, คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กองทัพเรือ > จำนวนไม่เกิน 1 ใบ, จะสามารถโจมตีใส่คาแรกเตอร์ของคู่แข่งที่กำลังแอ็คทีฟอยู่ได้ด้วย. จากนั้น, นำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-082.png"
+            },
+            {
+                "id": "OP11-083",
+                "number": "OP11-083",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Caribou",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคาริบู"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-083.png"
+            },
+            {
+                "id": "OP11-084",
+                "number": "OP11-084",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kuzan",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำการ์ดใบบนสุดจากเด็คของเรา จำนวน 3 ใบ ไปวางที่แทรช. [เมื่อโจมตี] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา ที่มีคุณสมบัติ < กองทัพเรือ > จำนวนไม่เกิน 1 ใบ, จะสามารถโจมตีใส่คาแรกเตอร์ของคู่แข่งที่กำลังแอ็คทีฟอยู่ได้ด้วย.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-084.png"
+            },
+            {
+                "id": "OP11-084_p1",
+                "number": "OP11-084",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kuzan",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำการ์ดใบบนสุดจากเด็คของเรา จำนวน 3 ใบ ไปวางที่แทรช. [เมื่อโจมตี] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา ที่มีคุณสมบัติ < กองทัพเรือ > จำนวนไม่เกิน 1 ใบ, จะสามารถโจมตีใส่คาแรกเตอร์ของคู่แข่งที่กำลังแอ็คทีฟอยู่ได้ด้วย.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-084_p1.png"
+            },
+            {
+                "id": "OP11-085",
+                "number": "OP11-085",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kurozumi Orochi",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "ตระกูลคุโรซึมิ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำการ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < SMILE > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-085.png"
+            },
+            {
+                "id": "OP11-086",
+                "number": "OP11-086",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Coribou",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคาริบู"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ. [ใช้งาน : เมน] สามารถนำ คาแรกเตอร์นี้ ไปวางที่แทรช : นำ [Caribou] ที่มีคอสต์ 4 หรือต่ำกว่า จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-086.png"
+            },
+            {
+                "id": "OP11-087",
+                "number": "OP11-087",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Miss Sarahebi",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดร้อยอสูร",
+                    "SMILE (สไมล์)"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-087.png"
+            },
+            {
+                "id": "OP11-088",
+                "number": "OP11-088",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Shu",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เทิร์นละ 1 ครั้ง] เมื่อคาแรกเตอร์ของคู่แข่งโจมตี, จะสามารถใช้งาน. ถ้าคาแรกเตอร์ใบดังกล่าว มีคุณลักษณะ (ฟัน) ละก็, ในแบทเทิลนี้, คาแรกเตอร์นี้ จะมีพาวเวอร์ +5000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-088.png"
+            },
+            {
+                "id": "OP11-089",
+                "number": "OP11-089",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Black Maria",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดร้อยอสูร"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-089.png"
+            },
+            {
+                "id": "OP11-090",
+                "number": "OP11-090",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Briscola",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดร้อยอสูร",
+                    "SMILE (สไมล์)"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-090.png"
+            },
+            {
+                "id": "OP11-091",
+                "number": "OP11-091",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Berry Good",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] คู่แข่งจะต้องนำ อีเวนต์ จากในแทรชของตัวเอง จำนวน 3 ใบ, ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็คของเขา.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-091.png"
+            },
+            {
+                "id": "OP11-092",
+                "number": "OP11-092",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Helmeppo",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : จั่วการ์ด จำนวน 1 ใบ, แล้วนำคาแรกเตอร์การ์ด ที่มีคอสต์ 8 หรือต่ำกว่า และมีคุณสมบัติ < SWORD > นอกเหนือจาก [Helmeppo] จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, ในตอนจบเทิร์นนี้, จะนำคาแรกเตอร์ ที่ถูกนำลงสนามมาด้วยความสามารถนี้ จำนวน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-092.png"
+            },
+            {
+                "id": "OP11-092_p1",
+                "number": "OP11-092",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Helmeppo",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : จั่วการ์ด จำนวน 1 ใบ, แล้วนำคาแรกเตอร์การ์ด ที่มีคอสต์ 8 หรือต่ำกว่า และมีคุณสมบัติ < SWORD > นอกเหนือจาก [Helmeppo] จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, ในตอนจบเทิร์นนี้, จะนำคาแรกเตอร์ ที่ถูกนำลงสนามมาด้วยความสามารถนี้ จำนวน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-092_p1.png"
+            },
+            {
+                "id": "OP11-093",
+                "number": "OP11-093",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Bogard",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-093.png"
+            },
+            {
+                "id": "OP11-094",
+                "number": "OP11-094",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Morgan",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-094.png"
+            },
+            {
+                "id": "OP11-095",
+                "number": "OP11-095",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Garp",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำการ์ด ที่มีคุณสมบัติ < กองทัพเรือ > จากในแทรชของเรา จำนวน 3 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค : นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้กับ ลีดเดอร์ของเรา จำนวน 1 ใบ. จากนั้น, ถ้ามีคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 9 หรือสูงกว่า อยู่ด้วยละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 7 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-095.png"
+            },
+            {
+                "id": "OP11-095_p1",
+                "number": "OP11-095",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Garp",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำการ์ด ที่มีคุณสมบัติ < กองทัพเรือ > จากในแทรชของเรา จำนวน 3 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค : นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้กับ ลีดเดอร์ของเรา จำนวน 1 ใบ. จากนั้น, ถ้ามีคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 9 หรือสูงกว่า อยู่ด้วยละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 7 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-095_p1.png"
+            },
+            {
+                "id": "OP11-096",
+                "number": "OP11-096",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Ripper",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าเรามีคาแรกเตอร์ ธีมสีดำ ที่มีคุณสมบัติ < กองทัพเรือ > ใบอื่น นอกเหนือจาก [Ripper] อยู่ด้วยละก็, คาแรกเตอร์นี้จะได้รับ [บล็อกเกอร์]. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-096.png"
+            },
+            {
+                "id": "OP11-097",
+                "number": "OP11-097",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "After All These Years I'm Losing My Edge!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000. จากนั้น, ถ้ามีการ์ด อยู่ในแทรชของเรา จำนวน 10 ใบ หรือมากกว่าละก็, จะได้นำคาแรกเตอร์การ์ด ธีมสีดำ ที่มีคอสต์ 3 หรือต่ำกว่า จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-097.png"
+            },
+            {
+                "id": "OP11-098",
+                "number": "OP11-098",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Blue Hole",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] สามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 3 ใบ ไปวางที่แทรช : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-098.png"
+            },
+            {
+                "id": "OP11-099",
+                "number": "OP11-099",
+                "type": "R",
+                "class": "EVENT",
+                "name": "I'm Gonna Be a Navy Officer!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กองทัพเรือ > นอกเหนือจาก [I'm Gonna Be a Navy Officer!!!] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่แทรช.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-099.png"
+            },
+            {
+                "id": "OP11-100",
+                "number": "OP11-100",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Otohime",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเราคือ [Shirahoshi] ละก็, จะสามารถคว่ำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-100.png"
+            },
+            {
+                "id": "OP11-101",
+                "number": "OP11-101",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Capone\"Gang\"Bege",
+                "cost": "2",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดไฟร์แทงค์"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เทิร์นละ 1 ครั้ง] ถ้ามีคาแรกเตอร์ของเรา ที่มีคุณสมบัติ < ซูเปอร์โนวา > นอกเหนือจาก [Capone “Gang” Bege] กำลังจะถูกนำออกจากสนาม จากความสามารถของฝ่ายคู่แข่งละก็, จะสามารถนำไปวางเพิ่มที่บนสุดของ ไลฟ์ของเรา แบบคว่ำ แทนได้.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-101.png"
+            },
+            {
+                "id": "OP11-101_p1",
+                "number": "OP11-101",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Capone\"Gang\"Bege",
+                "cost": "2",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดไฟร์แทงค์"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เทิร์นละ 1 ครั้ง] ถ้ามีคาแรกเตอร์ของเรา ที่มีคุณสมบัติ < ซูเปอร์โนวา > นอกเหนือจาก [Capone “Gang” Bege] กำลังจะถูกนำออกจากสนาม จากความสามารถของฝ่ายคู่แข่งละก็, จะสามารถนำไปวางเพิ่มที่บนสุดของ ไลฟ์ของเรา แบบคว่ำ แทนได้.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-101_p1.png"
+            },
+            {
+                "id": "OP11-102",
+                "number": "OP11-102",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Camie",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อคู่แข่งใช้งาน อีเวนต์ หรือว่า [ทริกเกอร์], จะสามารถใช้งาน. ถ้าคู่แข่งมี ไลฟ์ จำนวน 2 ใบ หรือมากกว่าละก็, จะนำ ไลฟ์ ใบบนสุดของ ทั้งสองฝ่าย ฝ่ายละ จำนวน 1 ใบ ไปวางที่แทรช",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-102.png"
+            },
+            {
+                "id": "OP11-103",
+                "number": "OP11-103",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Long-Jaw Neptunian",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ้าทะเล"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] ถ้าลีดเดอร์ของเราคือ [Shirahoshi] ละก็, สามารถ เรสต์ คาแรกเตอร์นี้, และคว่ำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-103.png"
+            },
+            {
+                "id": "OP11-104",
+                "number": "OP11-104",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Shirley",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] สามารถคว่ำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่มีคุณสมบัติ < เกาะมนุษย์เงือก > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างบน หรือ ข้างใต้เด็ค.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-104.png"
+            },
+            {
+                "id": "OP11-105",
+                "number": "OP11-105",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Charlotte Chiffon",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดไฟร์แทงค์",
+                    "อดีตกลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-105.png"
+            },
+            {
+                "id": "OP11-106",
+                "number": "OP11-106",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Zeus",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "โฮมี่ส์",
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุด หรือ ใบล่างสุด ของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-106.png"
+            },
+            {
+                "id": "OP11-106_p1",
+                "number": "OP11-106",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Zeus",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "โฮมี่ส์",
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุด หรือ ใบล่างสุด ของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-106_p1.png"
+            },
+            {
+                "id": "OP11-107",
+                "number": "OP11-107",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Topknot Neptunian",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ้าทะเล"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าลีดเดอร์ของเราคือ [Shirahoshi] ละก็, สามารถคว่ำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : ในตอนจบเทิร์นนี้, ทำการ แอ็คทีฟ คาแรกเตอร์นี้.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-107.png"
+            },
+            {
+                "id": "OP11-108",
+                "number": "OP11-108",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Neptune",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเราคือ [Shirahoshi] ละก็, จะสามารถคว่ำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-108.png"
+            },
+            {
+                "id": "OP11-109",
+                "number": "OP11-109",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Pappag",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามี [Camie] อยู่ด้วยละก็, จะจั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-109.png"
+            },
+            {
+                "id": "OP11-110",
+                "number": "OP11-110",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Fukaboshi",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าคาแรกเตอร์นี้กำลังจะถูก KO ละก็, จะสามารถ เรสต์ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < เกาะมนุษย์เงือก > จำนวน 1 ใบ, หรือว่า ลีดเดอร์ [Shirahoshi] ของเรา จำนวน 1 ใบ แทนได้. [เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุด หรือ ใบล่างสุด ของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-110.png"
+            },
+            {
+                "id": "OP11-111",
+                "number": "OP11-111",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Mamboshi",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-111.png"
+            },
+            {
+                "id": "OP11-112",
+                "number": "OP11-112",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Megalo",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ในเทิร์นของคู่แข่ง] ถ้าลีดเดอร์ของเราคือ [Shirahoshi] ละก็, คาแรกเตอร์นี้ จะมีพาวเวอร์ +4000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-112.png"
+            },
+            {
+                "id": "OP11-113",
+                "number": "OP11-113",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ryuboshi",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-113.png"
+            },
+            {
+                "id": "OP11-114",
+                "number": "OP11-114",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 3 ใบ : ถ้าผลรวมของจำนวน ไลฟ์ ของทั้งสองฝ่าย คือ จำนวน 5 ใบ หรือมากกว่าละก็, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ตั้งต้น 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. [เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-114.png"
+            },
+            {
+                "id": "OP11-114_p1",
+                "number": "OP11-114",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 3 ใบ : ถ้าผลรวมของจำนวน ไลฟ์ ของทั้งสองฝ่าย คือ จำนวน 5 ใบ หรือมากกว่าละก็, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ตั้งต้น 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. [เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-114_p1.png"
+            },
+            {
+                "id": "OP11-115",
+                "number": "OP11-115",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "You're Just Not My Type!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ถ้าลีดเดอร์ของเราคือ [Shirahoshi] ละก็, ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +4000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-115.png"
+            },
+            {
+                "id": "OP11-116",
+                "number": "OP11-116",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Merman Combat Ultramarine",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์ของเจ้าของ แบบหงายหน้า.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 6 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์ของเจ้าของ แบบหงายหน้า.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-116.png"
+            },
+            {
+                "id": "OP11-117",
+                "number": "OP11-117",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Fish-Man Island",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าลีดเดอร์ของเราคือ [Shirahoshi] ละก็, สามารถหงาย ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : ในเทิร์นนี้, คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < เจ้าทะเล > หรือ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-117.png"
+            },
+            {
+                "id": "OP11-118",
+                "number": "OP11-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อโจมตี] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.จากนั้น, จะได้นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-118.png"
+            },
+            {
+                "id": "OP11-118_p1",
+                "number": "OP11-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อโจมตี] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.จากนั้น, จะได้นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-118_p1.png"
+            },
+            {
+                "id": "OP11-118_p2",
+                "number": "OP11-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อโจมตี] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.จากนั้น, จะได้นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-118_p2.png"
+            },
+            {
+                "id": "OP11-119",
+                "number": "OP11-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Koby",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ในเทิร์นนี้, คาแรกเตอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะสามารถโจมตีใส่คาแรกเตอร์ที่กำลังแอ็คทีฟอยู่ได้ด้วย. [เมื่อโจมตี] สามารถนำการ์ด จากในแทรชของเรา จำนวน 2 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็คของเรา : ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-119.png"
+            },
+            {
+                "id": "OP11-119_p1",
+                "number": "OP11-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Koby",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ในเทิร์นนี้, คาแรกเตอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะสามารถโจมตีใส่คาแรกเตอร์ที่กำลังแอ็คทีฟอยู่ได้ด้วย. [เมื่อโจมตี] สามารถนำการ์ด จากในแทรชของเรา จำนวน 2 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็คของเรา : ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP11-119_p1.png"
+            },
+            {
+                "id": "EB01-057_p2",
+                "number": "EB01-057",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Shirahoshi",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก"
+                ],
+                "block_icon": "2",
+                "effect": "เมื่อคาแรกเตอร์นี้ถูก KO โดยความสามารถของคู่แข่ง, จะต้องนำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์. [บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-057_p2.png"
+            },
+            {
+                "id": "OP05-119_p6",
+                "number": "OP05-119",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "10",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 10 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำคาแรกเตอร์ของฝ่ายเราทั้งหมด นอกเหนือจากคาแรกเตอร์นี้ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค. จากนั้น, หลังจากเล่นเทิร์นนี้แล้ว เราจะได้รับเทิร์นให้เล่นต่อเพิ่มอีก 1 เทิร์น. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] (1) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ) : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP05-119_p6.png"
+            },
+            {
+                "id": "OP05-119_p7",
+                "number": "OP05-119",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "10",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 10 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำคาแรกเตอร์ของฝ่ายเราทั้งหมด นอกเหนือจากคาแรกเตอร์นี้ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค. จากนั้น, หลังจากเล่นเทิร์นนี้แล้ว เราจะได้รับเทิร์นให้เล่นต่อเพิ่มอีก 1 เทิร์น. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] (1) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ) : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP05-119_p7.png"
+            },
+            {
+                "id": "OP06-119_p2",
+                "number": "OP06-119",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "9",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] นำการ์ดจากข้างบนเด็คของเรา จำนวน 1 ใบ มาแสดงให้ดู, แล้วหาคาแรกเตอร์ ที่มีคอสต์ 9 หรือต่ำกว่า นอกเหนือจาก [Sanji] จำนวนไม่เกิน 1 ใบ, นำลงสนาม. จากนั้น, นำการ์ดที่เหลือไปวางที่ข้างใต้เด็ค.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP06-119_p2.png"
+            },
+            {
+                "id": "OP07-085_p2",
+                "number": "OP07-085",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Stussy",
+                "cost": "9",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] สามารถนำคาแรกเตอร์ของเรา จำนวน 1 ใบ ไปวางที่แทรช : ทำการ KO คาแรกเตอร์ของคู่แข่ง, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-085_p2.png"
+            },
+            {
+                "id": "OP09-005_p1",
+                "number": "OP09-005",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Silvers Rayleigh",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดโรเจอร์"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้าคู่แข่งมีคาแรกเตอร์ ที่มีพาวเวอร์ตั้งต้น 5000 หรือสูงกว่า จำนวน 2 ใบ หรือมากกว่า อยู่ด้วยละก็, จะจั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-005_p1.png"
+            },
+            {
+                "id": "ST16-004_p1",
+                "number": "ST16-004",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Shanks",
+                "cost": "9",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "11000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM",
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่กำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST16-004_p1.png"
+            },
+            {
+                "id": "ST18-005_p1",
+                "number": "ST18-005",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Luffy-Tarou",
+                "cost": "7",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำคาแรกเตอร์การ์ด ธีมสีม่วง ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มหมวกฟาง > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-A Fist of Divine Speed- [OP-11]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST18-005_p1.png"
+            }
+        ]
+    }
+}

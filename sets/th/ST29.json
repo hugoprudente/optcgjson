@@ -1,0 +1,789 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563029,
+        "language": "th"
+    },
+    "data": {
+        "code": "ST29",
+        "cards": [
+            {
+                "id": "ST29-001",
+                "number": "ST29-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "สี่จักรพรรดิ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อโจมตี] ถ้าไลฟ์ของเรามีอยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จะจั่วการ์ด จำนวน 1 ใบ, และทิ้งการ์ดในมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-001.png"
+            },
+            {
+                "id": "ST29-001_p1",
+                "number": "ST29-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "สี่จักรพรรดิ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อโจมตี] ถ้าไลฟ์ของเรามีอยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จะจั่วการ์ด จำนวน 1 ใบ, และทิ้งการ์ดในมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-001_p1.png"
+            },
+            {
+                "id": "ST29-002",
+                "number": "ST29-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "cost": "3",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] จะเรสต์ คาแรกเตอร์ของคู่แข่ง ที่คอสต์ไม่สูงไปกว่า จำนวนไลฟ์ของคู่แข่ง, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-002.png"
+            },
+            {
+                "id": "ST29-002_p1",
+                "number": "ST29-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "cost": "3",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] จะเรสต์ คาแรกเตอร์ของคู่แข่ง ที่คอสต์ไม่สูงไปกว่า จำนวนไลฟ์ของคู่แข่ง, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-002_p1.png"
+            },
+            {
+                "id": "ST29-003",
+                "number": "ST29-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kaku",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] จะ KO คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "CP0"
+                ],
+                "block_icon": "4",
+                "effect": "ถ้าไลฟ์ของเรา มีจำนวนไม่มากไปกว่า ไลฟ์ของคู่แข่งละก็, คาแรกเตอร์นี้ จะพาวเวอร์ +1000.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-003.png"
+            },
+            {
+                "id": "ST29-003_p1",
+                "number": "ST29-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kaku",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] จะ KO คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "CP0"
+                ],
+                "block_icon": "4",
+                "effect": "ถ้าไลฟ์ของเรา มีจำนวนไม่มากไปกว่า ไลฟ์ของคู่แข่งละก็, คาแรกเตอร์นี้ จะพาวเวอร์ +1000.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-003_p1.png"
+            },
+            {
+                "id": "ST29-004",
+                "number": "ST29-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : นำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-004.png"
+            },
+            {
+                "id": "ST29-004_p1",
+                "number": "ST29-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : นำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-004_p1.png"
+            },
+            {
+                "id": "ST29-005",
+                "number": "ST29-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเราคือ [Monkey.D.Luffy] ละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-005.png"
+            },
+            {
+                "id": "ST29-005_p1",
+                "number": "ST29-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเราคือ [Monkey.D.Luffy] ละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-005_p1.png"
+            },
+            {
+                "id": "ST29-006",
+                "number": "ST29-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Stussy",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-006.png"
+            },
+            {
+                "id": "ST29-006_p1",
+                "number": "ST29-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Stussy",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-006_p1.png"
+            },
+            {
+                "id": "ST29-007",
+                "number": "ST29-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, [Monkey.D.Luffy] ของฝ่ายเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +2000.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] สามารถนำการ์ดจาก บนสุด หรือ ล่างสุด ของไลฟ์ของเรา จำนวน 1 ใบ ขึ้นมือ : นำการ์ดในมือของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-007.png"
+            },
+            {
+                "id": "ST29-007_p1",
+                "number": "ST29-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, [Monkey.D.Luffy] ของฝ่ายเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +2000.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] สามารถนำการ์ดจาก บนสุด หรือ ล่างสุด ของไลฟ์ของเรา จำนวน 1 ใบ ขึ้นมือ : นำการ์ดในมือของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-007_p1.png"
+            },
+            {
+                "id": "ST29-008",
+                "number": "ST29-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเราคือ [Monkey.D.Luffy] ละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "ถ้าคาแรกเตอร์ของฝ่ายเรา ที่มีคุณสมบัติ < เอ็กเฮด > กำลังจะถูก KO จากความสามารถของฝ่ายคู่แข่ง, จะสามารถหงายการ์ดจากบนสุดของ ไลฟ์ของเรา จำนวน 1 ใบ แทนได้.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-008.png"
+            },
+            {
+                "id": "ST29-008_p1",
+                "number": "ST29-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเราคือ [Monkey.D.Luffy] ละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "ถ้าคาแรกเตอร์ของฝ่ายเรา ที่มีคุณสมบัติ < เอ็กเฮด > กำลังจะถูก KO จากความสามารถของฝ่ายคู่แข่ง, จะสามารถหงายการ์ดจากบนสุดของ ไลฟ์ของเรา จำนวน 1 ใบ แทนได้.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-008_p1.png"
+            },
+            {
+                "id": "ST29-009",
+                "number": "ST29-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเราคือ [Monkey.D.Luffy] ละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-009.png"
+            },
+            {
+                "id": "ST29-009_p1",
+                "number": "ST29-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเราคือ [Monkey.D.Luffy] ละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-009_p1.png"
+            },
+            {
+                "id": "ST29-010",
+                "number": "ST29-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "cost": "5",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-010.png"
+            },
+            {
+                "id": "ST29-010_p1",
+                "number": "ST29-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "cost": "5",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-010_p1.png"
+            },
+            {
+                "id": "ST29-011",
+                "number": "ST29-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-011.png"
+            },
+            {
+                "id": "ST29-011_p1",
+                "number": "ST29-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-011_p1.png"
+            },
+            {
+                "id": "ST29-012",
+                "number": "ST29-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "สี่จักรพรรดิ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้ [Monkey.D.Luffy] ของเรา จำนวน 1 ใบ.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-012.png"
+            },
+            {
+                "id": "ST29-012_p1",
+                "number": "ST29-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "สี่จักรพรรดิ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้ [Monkey.D.Luffy] ของเรา จำนวน 1 ใบ.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-012_p1.png"
+            },
+            {
+                "id": "ST29-013",
+                "number": "ST29-013",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Rob Lucci",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] จะ KO คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ที่คอสต์ไม่สูงไปกว่า จำนวน ไลฟ์ ของทั้งสองฝ่ายรวมกัน.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "CP0"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-013.png"
+            },
+            {
+                "id": "ST29-013_p1",
+                "number": "ST29-013",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Rob Lucci",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] จะ KO คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ที่คอสต์ไม่สูงไปกว่า จำนวน ไลฟ์ ของทั้งสองฝ่ายรวมกัน.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "CP0"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-013_p1.png"
+            },
+            {
+                "id": "ST29-014",
+                "number": "ST29-014",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[คาแรกเตอร์ : จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีคาแรกเตอร์ในเทิร์นที่เพิ่งลงสนามได้) [สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ด ที่มี [ทริกเกอร์] จากในมือของเรา จำนวน 1 ใบ : จั่วการ์ด จำนวน 1 ใบ, และนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-014.png"
+            },
+            {
+                "id": "ST29-014_p1",
+                "number": "ST29-014",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[คาแรกเตอร์ : จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีคาแรกเตอร์ในเทิร์นที่เพิ่งลงสนามได้) [สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ด ที่มี [ทริกเกอร์] จากในมือของเรา จำนวน 1 ใบ : จั่วการ์ด จำนวน 1 ใบ, และนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-014_p1.png"
+            },
+            {
+                "id": "ST29-015",
+                "number": "ST29-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Raw Heat Strike",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +2000. จากนั้น, ถ้าไลฟ์ของเรามีอยู่ จำนวน 1 ใบ หรือน้อยกว่าละก็, ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -2000.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-015.png"
+            },
+            {
+                "id": "ST29-016",
+                "number": "ST29-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Kizaru!! Compared to Two Years Ago We're a Hundred Times Stronger Now!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "สี่จักรพรรดิ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] ในเทิร์นนี้, ลีดเดอร์ [Monkey.D.Luffy] ของฝ่ายเรา จะได้รับ [ห้ามบล็อก]. (การ์ดใบนี้จะไม่โดนบล็อก) [เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ของฝ่ายเรา, จะพาวเวอร์ +3000.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-016.png"
+            },
+            {
+                "id": "ST29-017",
+                "number": "ST29-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Iai Death Lion Song",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดในมือของเรา จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +4000. จากนั้น, ถ้าไลฟ์ของเรามีอยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จะ KO คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-EGGHEAD- [ST-29]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST29-017.png"
+            }
+        ]
+    }
+}

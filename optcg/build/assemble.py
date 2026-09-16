@@ -7,6 +7,7 @@ import os
 from optcg.models.cards import card_to_dict
 from optcg.models.sets import set_to_dict, set_summary
 from optcg.build.json_writer import write_json, write_json_streaming
+from optcg.build.series_map_yaml import assemble_series_map_yaml
 from optcg.providers.official_site import BASE_DIR
 
 OUTPUT_DIR = os.path.join(BASE_DIR, "output")
@@ -46,8 +47,9 @@ def assemble_all_sets(sets: list[dict]) -> None:
 
 
 def assemble_all(sets: list[dict]) -> None:
-    """Run the full assembly: per-set files, SetList, AllSets."""
+    """Run the full assembly: per-set files, SetList, AllSets, series_map."""
     for s in sets:
         assemble_set(s)
     assemble_set_list(sets)
     assemble_all_sets(sets)
+    assemble_series_map_yaml(sets)

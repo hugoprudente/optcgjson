@@ -1,0 +1,1813 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 554201,
+        "language": "zh-Hant"
+    },
+    "data": {
+        "code": "EB01",
+        "cards": [
+            {
+                "id": "EB01-001",
+                "number": "EB01-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "光月御田",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紅",
+                    "綠"
+                ],
+                "feature": [
+                    "和之國",
+                    "光月家"
+                ],
+                "block_icon": "2",
+                "effect": "在規則上，自己擁有《和之國》特徵未持有反擊的角色卡全數持有反擊+1000。 【咚‼×1】【攻擊時】若場上有自己費用5以上擁有《和之國》特徵的角色卡時，這張領航卡，到下一個我方回合開始前，力量值+1000。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-001.png"
+            },
+            {
+                "id": "EB01-001_p1",
+                "number": "EB01-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "光月御田(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紅",
+                    "綠"
+                ],
+                "feature": [
+                    "和之國",
+                    "光月家"
+                ],
+                "block_icon": "2",
+                "effect": "在規則上，自己擁有《和之國》特徵未持有反擊的角色卡全數持有反擊+1000。 【咚‼×1】【攻擊時】若場上有自己費用5以上擁有《和之國》特徵的角色卡時，這張領航卡，到下一個我方回合開始前，力量值+1000。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-001_p1.png"
+            },
+            {
+                "id": "EB01-002",
+                "number": "EB01-002",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "以藏",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "和之國",
+                    "白鬍子海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。 【對方攻擊時】【每回合1次】可以廢棄1張自己的手牌：若自己的領航卡擁有《和之國》或《白鬍子海賊團》特徵時，最多1張對手的領航卡或角色卡，在這個回合，力量值-2000。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-002.png"
+            },
+            {
+                "id": "EB01-003",
+                "number": "EB01-003",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "基德&奇拉",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "超新星",
+                    "基德海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【速攻】(這張卡片在登場的回合即可攻擊) 【攻擊時】若對手的生命值卡在2張以下時，這張角色卡，在這個回合，力量值+2000。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-003.png"
+            },
+            {
+                "id": "EB01-003_p1",
+                "number": "EB01-003",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "基德&奇拉(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "超新星",
+                    "基德海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【速攻】(這張卡片在登場的回合即可攻擊) 【攻擊時】若對手的生命值卡在2張以下時，這張角色卡，在這個回合，力量值+2000。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-003_p1.png"
+            },
+            {
+                "id": "EB01-004",
+                "number": "EB01-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "寇沙",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "2",
+                "effect": "【攻擊時】1張自己活動狀態的領航卡，在這個回合，可以力量值-5000：最多1張對手的角色卡，在這個回合，力量值-3000。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-004.png"
+            },
+            {
+                "id": "EB01-005",
+                "number": "EB01-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "多馬",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "白鬍子海賊團旗下"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-005.png"
+            },
+            {
+                "id": "EB01-006",
+                "number": "EB01-006",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "多尼多尼・喬巴",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "動物",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【咚‼×2】【攻擊時】最多1張對手的角色卡，在這個回合，力量值-3000。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-006.png"
+            },
+            {
+                "id": "EB01-006_p1",
+                "number": "EB01-006",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "多尼多尼・喬巴(異圖卡)",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "動物",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【咚‼×2】【攻擊時】最多1張對手的角色卡，在這個回合，力量值-3000。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-006_p1.png"
+            },
+            {
+                "id": "EB01-006_p2",
+                "number": "EB01-006",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "多尼多尼・喬巴(異圖卡)",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "動物",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【咚‼×2】【攻擊時】最多1張對手的角色卡，在這個回合，力量值-3000。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-006_p2.png"
+            },
+            {
+                "id": "EB01-007",
+                "number": "EB01-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "大和",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "和之國"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】【每回合1次】附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-007.png"
+            },
+            {
+                "id": "EB01-008",
+                "number": "EB01-008",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "小歐斯Jr.",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "巨人族",
+                    "白鬍子海賊團旗下"
+                ],
+                "block_icon": "2",
+                "effect": "【每回合1次】若這張角色卡因為效果即將遭到KO時，可以替換成廢棄1張自己手牌中的事件卡或舞台卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-008.png"
+            },
+            {
+                "id": "EB01-009",
+                "number": "EB01-009",
+                "type": "C",
+                "class": "EVENT",
+                "name": "少囉唆！走吧！",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "磁鼓王國",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【反擊】從自己的卡組上面查看5張卡片，使最多1張費用3以下擁有《動物》特徵的角色卡登場。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-009.png"
+            },
+            {
+                "id": "EB01-010",
+                "number": "EB01-010",
+                "type": "R",
+                "class": "EVENT",
+                "name": "你怎麼可能…打得贏我！",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】KO最多1張對手原本力量值5000以下的角色卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "W7",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【反擊】KO最多1張對手原本力量值6000以下的角色卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-010.png"
+            },
+            {
+                "id": "EB01-011",
+                "number": "EB01-011",
+                "type": "C",
+                "class": "STAGE",
+                "name": "迷你梅利2號",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】可將這張卡片置為休息狀態，並將1張自己原本力量值1000的角色卡放置在卡組下面：抽1張卡片。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-011.png"
+            },
+            {
+                "id": "EB01-012",
+                "number": "EB01-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "卡文迪許",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "超新星",
+                    "貌美海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】/【攻擊時】若自己的領航卡擁有《超新星》特徵，場上沒有自己其他的角色卡「卡文迪許」時，將最多2張自己的咚‼卡置為活動狀態。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-012.png"
+            },
+            {
+                "id": "EB01-012_p1",
+                "number": "EB01-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "卡文迪許(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "超新星",
+                    "貌美海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】/【攻擊時】若自己的領航卡擁有《超新星》特徵，場上沒有自己其他的角色卡「卡文迪許」時，將最多2張自己的咚‼卡置為活動狀態。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-012_p1.png"
+            },
+            {
+                "id": "EB01-013",
+                "number": "EB01-013",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "光月日和",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "和之國",
+                    "光月家"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】可將這張角色卡放置在廢棄區：使最多1張自己手牌中除了「光月日和」以外費用5以下擁有《和之國》特徵的角色卡登場。之後，抽1張卡片。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-013.png"
+            },
+            {
+                "id": "EB01-013_p1",
+                "number": "EB01-013",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "光月日和(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "和之國",
+                    "光月家"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】可將這張角色卡放置在廢棄區：使最多1張自己手牌中除了「光月日和」以外費用5以下擁有《和之國》特徵的角色卡登場。之後，抽1張卡片。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-013_p1.png"
+            },
+            {
+                "id": "EB01-014",
+                "number": "EB01-014",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "香吉士",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "FILM",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【咚‼×1】【我方回合中】自己每有3張休息狀態的咚‼卡，這張角色卡，力量+1000。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-014.png"
+            },
+            {
+                "id": "EB01-015",
+                "number": "EB01-015",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "刮盤人・亞普",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "超新星",
+                    "ONAIR海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】將最多1張對手費用2以下的角色卡置為休息狀態。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-015.png"
+            },
+            {
+                "id": "EB01-016",
+                "number": "EB01-016",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "鬢豪",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "和之國"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】可將這張角色卡置為休息狀態：KO最多1張對手休息狀態費用1以下的角色卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-016.png"
+            },
+            {
+                "id": "EB01-017",
+                "number": "EB01-017",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "布魯諾",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "FILM",
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-017.png"
+            },
+            {
+                "id": "EB01-018",
+                "number": "EB01-018",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "大山",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "動物",
+                    "和之國"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-018.png"
+            },
+            {
+                "id": "EB01-019",
+                "number": "EB01-019",
+                "type": "R",
+                "class": "EVENT",
+                "name": "盾白線",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。之後，從自己的卡組上面查看3張卡片，公開最多1張擁有《唐吉訶德海賊團》特徵的角色卡，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-019.png"
+            },
+            {
+                "id": "EB01-020",
+                "number": "EB01-020",
+                "type": "C",
+                "class": "EVENT",
+                "name": "移植",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "超新星",
+                    "哈特海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】若自己的領航卡擁有《超新星》特徵時，將1張自己的角色卡放回持有者的手牌，並從自己的手牌中，使最多1張和被放回的角色卡不同顏色費用2以下的角色卡登場。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-020.png"
+            },
+            {
+                "id": "EB01-021",
+                "number": "EB01-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "般若拔",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "藍",
+                    "紫"
+                ],
+                "feature": [
+                    "推進城"
+                ],
+                "block_icon": "2",
+                "effect": "【我方回合結束時】可將1張自己費用2以上擁有《推進城》特徵的角色卡放回持有者的手牌：從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-021.png"
+            },
+            {
+                "id": "EB01-021_p1",
+                "number": "EB01-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "般若拔(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "藍",
+                    "紫"
+                ],
+                "feature": [
+                    "推進城"
+                ],
+                "block_icon": "2",
+                "effect": "【我方回合結束時】可將1張自己費用2以上擁有《推進城》特徵的角色卡放回持有者的手牌：從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-021_p1.png"
+            },
+            {
+                "id": "EB01-022",
+                "number": "EB01-022",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "雷電",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "推進城",
+                    "革命軍"
+                ],
+                "block_icon": "2",
+                "effect": "【我方回合結束時】若自己的手牌在2張以下時，抽2張卡片。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-022.png"
+            },
+            {
+                "id": "EB01-022_p1",
+                "number": "EB01-022",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "雷電(異圖卡)",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "推進城",
+                    "革命軍"
+                ],
+                "block_icon": "2",
+                "effect": "【我方回合結束時】若自己的手牌在2張以下時，抽2張卡片。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-022_p1.png"
+            },
+            {
+                "id": "EB01-023",
+                "number": "EB01-023",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "艾德華・衛伯",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】抽1張卡片。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-023.png"
+            },
+            {
+                "id": "EB01-024",
+                "number": "EB01-024",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "哈姆雷特",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "百獸海賊團",
+                    "SMILE"
+                ],
+                "block_icon": "2",
+                "effect": "若自己的手牌在4張以下時，自己擁有《SMILE》特徵的角色卡全數，力量值+1000。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-024.png"
+            },
+            {
+                "id": "EB01-025",
+                "number": "EB01-025",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "佛特黎克斯",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "百獸海賊團",
+                    "SMILE"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-025.png"
+            },
+            {
+                "id": "EB01-026",
+                "number": "EB01-026",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "貝雷特王子",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "推進城"
+                ],
+                "block_icon": "2",
+                "effect": "【咚‼×1】【攻擊時】若自己的手牌在1張以下時，將最多1張費用3以下的角色卡放回持有者的手牌。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-026.png"
+            },
+            {
+                "id": "EB01-027",
+                "number": "EB01-027",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.1(達茲・波涅士)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "2",
+                "effect": "若自己的領航卡擁有包含『B・W』特徵時，自己的廢棄區中每有2張事件卡，這張角色卡，力量值+1000。 【登場時】抽2張卡片，並廢棄1張自己的手牌。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-027.png"
+            },
+            {
+                "id": "EB01-027_p1",
+                "number": "EB01-027",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.1(達茲・波涅士)(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "2",
+                "effect": "若自己的領航卡擁有包含『B・W』特徵時，自己的廢棄區中每有2張事件卡，這張角色卡，力量值+1000。 【登場時】抽2張卡片，並廢棄1張自己的手牌。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-027_p1.png"
+            },
+            {
+                "id": "EB01-028",
+                "number": "EB01-028",
+                "type": "R",
+                "class": "EVENT",
+                "name": "橡膠拳王螺旋彈",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】將最多1張費用3以下的角色卡放回持有者的卡組下面。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "推進城",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【反擊】若自己的領航卡擁有《推進城》特徵時，最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。之後，對手將1張自身活動狀態的角色卡放回持有者的手牌。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-028.png"
+            },
+            {
+                "id": "EB01-029",
+                "number": "EB01-029",
+                "type": "C",
+                "class": "EVENT",
+                "name": "抱歉，我要死了",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】將最多1張費用8以下的角色卡放回持有者的手牌。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "東方藍",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【反擊】公開1張自己卡組上面的卡片，若公開的卡片是費用4以上時，將最多1張自己的角色卡放回持有者的手牌。之後，將公開的卡片放置在卡組下面。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-029.png"
+            },
+            {
+                "id": "EB01-030",
+                "number": "EB01-030",
+                "type": "C",
+                "class": "STAGE",
+                "name": "羅格鎮",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】使這張卡片登場。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "東方藍"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】可將這張卡片和1張自己的手牌依任意順序放置在卡組下面：抽2張卡片。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-030.png"
+            },
+            {
+                "id": "EB01-031",
+                "number": "EB01-031",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "卡莉法",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《W7》特徵時，將最多2張自己廢棄區中費用4以下的角色卡，加入手牌。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-031.png"
+            },
+            {
+                "id": "EB01-031_p1",
+                "number": "EB01-031",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "卡莉法(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《W7》特徵時，將最多2張自己廢棄區中費用4以下的角色卡，加入手牌。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-031_p1.png"
+            },
+            {
+                "id": "EB01-032",
+                "number": "EB01-032",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "軍狼",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "動物",
+                    "推進城"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-032.png"
+            },
+            {
+                "id": "EB01-033",
+                "number": "EB01-033",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "布魯諾",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "W7"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《W7》特徵時，使最多1張自己手牌或廢棄區中除了「布魯諾」以外費用5擁有《W7》特徵的角色卡登場。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-033.png"
+            },
+            {
+                "id": "EB01-034",
+                "number": "EB01-034",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Miss星期三",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【對方攻擊時】【每回合1次】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有包含『B・W』特徵時，從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-034.png"
+            },
+            {
+                "id": "EB01-034_p1",
+                "number": "EB01-034",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Miss星期三(異圖卡)",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【對方攻擊時】【每回合1次】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有包含『B・W』特徵時，從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-034_p1.png"
+            },
+            {
+                "id": "EB01-035",
+                "number": "EB01-035",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Miss星期一",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：使這張卡片登場。",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】若自己的領航卡擁有包含『B・W』特徵時，最多1張自己的領航卡或角色卡，在這個回合，力量值+1000。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-035.png"
+            },
+            {
+                "id": "EB01-036",
+                "number": "EB01-036",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "米諾吉娃娃",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "推進城",
+                    "獄卒獣"
+                ],
+                "block_icon": "2",
+                "effect": "【速攻】(這張卡片在登場的回合即可攻擊) 【KO時】若自己的領航卡擁有《推進城》特徵時，從咚‼卡組追加最多1張休息狀態的咚‼卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-036.png"
+            },
+            {
+                "id": "EB01-037",
+                "number": "EB01-037",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr.9",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "2",
+                "effect": "【對方攻擊時】【每回合1次】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：KO最多1張對手費用2以下的角色卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-037.png"
+            },
+            {
+                "id": "EB01-038",
+                "number": "EB01-038",
+                "type": "C",
+                "class": "EVENT",
+                "name": "人妖道",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】咚‼-1：抽2張卡片。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "2",
+                "effect": "【反擊】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有包含『B・W』特徵時，選擇1張自己的角色卡。攻擊的對象變更為選擇的角色卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-038.png"
+            },
+            {
+                "id": "EB01-039",
+                "number": "EB01-039",
+                "type": "R",
+                "class": "EVENT",
+                "name": "降三世引奈落",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "【觸發器】從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "四皇",
+                    "百獸海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：KO最多1張對手費用8以下的角色卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-039.png"
+            },
+            {
+                "id": "EB01-040",
+                "number": "EB01-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "居魯士",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "黑",
+                    "黃"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】【每回合1次】可將1張自己生命值區上面的卡片翻成正面朝上：KO最多1張對手費用0的角色卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-040.png"
+            },
+            {
+                "id": "EB01-040_p1",
+                "number": "EB01-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "居魯士(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "黑",
+                    "黃"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】【每回合1次】可將1張自己生命值區上面的卡片翻成正面朝上：KO最多1張對手費用0的角色卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-040_p1.png"
+            },
+            {
+                "id": "EB01-041",
+                "number": "EB01-041",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "可樂克斯",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "原羅傑海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-041.png"
+            },
+            {
+                "id": "EB01-042",
+                "number": "EB01-042",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "史卡雷多",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】可將這張角色卡放置在廢棄區：使最多1張自己手牌中除了「史卡雷多」以外費用3以下擁有《多雷斯羅薩》特徵的角色卡以休息狀態登場。之後，最多1張對手的角色卡，在這個回合，費用-2。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-042.png"
+            },
+            {
+                "id": "EB01-043",
+                "number": "EB01-043",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "斯帕達因",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】可將3張自己廢棄區中擁有包含『CP』特徵的卡片依任意順序放置在卡組下面：使最多1張自己廢棄區中除了「斯帕達因」以外費用4以下擁有包含『CP』特徵的角色卡，以休息狀態登場。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-043.png"
+            },
+            {
+                "id": "EB01-044",
+                "number": "EB01-044",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "法古佛立德",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】可將這張角色卡置為休息狀態：最多1張自己的角色卡「斯帕達姆」，在這個回合，力量值+3000。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-044.png"
+            },
+            {
+                "id": "EB01-045",
+                "number": "EB01-045",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "布魯克",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "倫巴海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】若場上有對手費用0的角色卡時，這張角色卡，在這個回合，獲得【速攻】。 (這張卡片在登場的回合即可攻擊)",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-045.png"
+            },
+            {
+                "id": "EB01-046",
+                "number": "EB01-046",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "布魯克",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】/【攻擊時】最多1張對手的角色卡，在這個回合，費用-1。之後，KO最多1張對手費用0的角色卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-046.png"
+            },
+            {
+                "id": "EB01-046_p1",
+                "number": "EB01-046",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "布魯克(異圖卡)",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】/【攻擊時】最多1張對手的角色卡，在這個回合，費用-1。之後，KO最多1張對手費用0的角色卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-046_p1.png"
+            },
+            {
+                "id": "EB01-047",
+                "number": "EB01-047",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "拉布",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "動物"
+                ],
+                "block_icon": "2",
+                "effect": "【每回合1次】角色卡遭到KO時，抽1張卡片，並廢棄1張自己的手牌。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-047.png"
+            },
+            {
+                "id": "EB01-048",
+                "number": "EB01-048",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "拉布",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "動物"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】可將這張角色卡置為休息狀態：最多1張對手的角色卡，在這個回合，費用-4。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-048.png"
+            },
+            {
+                "id": "EB01-048_p1",
+                "number": "EB01-048",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "拉布(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "動物"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】可將這張角色卡置為休息狀態：最多1張對手的角色卡，在這個回合，費用-4。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-048_p1.png"
+            },
+            {
+                "id": "EB01-049",
+                "number": "EB01-049",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "T彭恩",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "W7",
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】KO最多1張對手費用2以下的角色卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-049.png"
+            },
+            {
+                "id": "EB01-049_p1",
+                "number": "EB01-049",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "T彭恩(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "W7",
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】KO最多1張對手費用2以下的角色卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-049_p1.png"
+            },
+            {
+                "id": "EB01-050",
+                "number": "EB01-050",
+                "type": "C",
+                "class": "EVENT",
+                "name": "我想活下去！",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【反擊】若自己廢棄區有30張以上卡片時，將最多1張自己卡組上面的卡片加入生命值區上面。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-050.png"
+            },
+            {
+                "id": "EB01-051",
+                "number": "EB01-051",
+                "type": "R",
+                "class": "EVENT",
+                "name": "指槍",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】可將2張自己卡組上面的卡片放置在廢棄區：KO最多1張對手費用5以下的角色卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-051.png"
+            },
+            {
+                "id": "EB01-052",
+                "number": "EB01-052",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "碧歐菈",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】選擇下列其中一項。 ・查看對手全數的生命值卡，並依任意順序放置。 ・將自己的生命值卡全數翻成背面朝上。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-052.png"
+            },
+            {
+                "id": "EB01-052_p1",
+                "number": "EB01-052",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "碧歐菈(異圖卡)",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】選擇下列其中一項。 ・查看對手全數的生命值卡，並依任意順序放置。 ・將自己的生命值卡全數翻成背面朝上。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-052_p1.png"
+            },
+            {
+                "id": "EB01-053",
+                "number": "EB01-053",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "葛斯提諾",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】合計最多2張對手的領航卡或角色卡，在這個回合，力量值-3000。",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "科学者"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】將最多1張對手費用3以下的角色卡，以正面朝上放置在對手的生命值區上面或下面。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-053.png"
+            },
+            {
+                "id": "EB01-054",
+                "number": "EB01-054",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "甘・福爾",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "空島"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】若對手的生命值卡在1張以下時，KO最多1張對手費用3以下的角色卡。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-054.png"
+            },
+            {
+                "id": "EB01-055",
+                "number": "EB01-055",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "夏洛特・肯珀特",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-055.png"
+            },
+            {
+                "id": "EB01-056",
+                "number": "EB01-056",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "夏洛特・芙蘭佩",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】可將1張自己生命值區上面或下面的卡片加入手牌：抽1張卡片。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-056.png"
+            },
+            {
+                "id": "EB01-056_p1",
+                "number": "EB01-056",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "夏洛特・芙蘭佩(異圖卡)",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】可將1張自己生命值區上面或下面的卡片加入手牌：抽1張卡片。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-056_p1.png"
+            },
+            {
+                "id": "EB01-057",
+                "number": "EB01-057",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "白星",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "人魚族"
+                ],
+                "block_icon": "2",
+                "effect": "這張角色卡因對手的效果遭到KO時，將最多1張自己卡組上面的卡片加入生命值區上面。 【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-057.png"
+            },
+            {
+                "id": "EB01-057_p1",
+                "number": "EB01-057",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "白星(異圖卡)",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "人魚族"
+                ],
+                "block_icon": "2",
+                "effect": "這張角色卡因對手的效果遭到KO時，將最多1張自己卡組上面的卡片加入生命值區上面。 【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-057_p1.png"
+            },
+            {
+                "id": "EB01-058",
+                "number": "EB01-058",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "蒙布朗・庫力凱",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "猿山聯合軍"
+                ],
+                "block_icon": "2",
+                "effect": "【咚‼×1】【我方回合中】若自己的生命值卡在2張以下時，這張角色卡的力量值+2000。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-058.png"
+            },
+            {
+                "id": "EB01-059",
+                "number": "EB01-059",
+                "type": "R",
+                "class": "EVENT",
+                "name": "雷迎",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "【觸發器】KO最多1張對手持有費用在雙方生命值卡合計張數以下的角色卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "空島"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】KO最多1張對手的角色卡。之後，將自己生命值區上面的卡片放置在廢棄區使生命值卡只有1張。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-059.png"
+            },
+            {
+                "id": "EB01-060",
+                "number": "EB01-060",
+                "type": "C",
+                "class": "EVENT",
+                "name": "我乃神是也",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】抽2張卡片，並廢棄1張自己的手牌。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "空島"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】使最多1張自己手牌或廢棄區中費用7以下的「艾涅爾」登場。之後，將自己生命值區上面的卡片放置在廢棄區使生命值卡只有1張。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-060.png"
+            },
+            {
+                "id": "EB01-061",
+                "number": "EB01-061",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Mr.2・馮・克雷(班薩姆)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "前B・W"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】從咚‼卡組追加最多1張活動狀態的咚‼卡。 【攻擊時】選擇最多1張對手的角色卡。這張角色卡原本的力量值，在這個回合，變成和選擇的角色卡的力量值相同。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-061.png"
+            },
+            {
+                "id": "EB01-061_p1",
+                "number": "EB01-061",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Mr.2・馮・克雷(班薩姆)(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "前B・W"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】從咚‼卡組追加最多1張活動狀態的咚‼卡。 【攻擊時】選擇最多1張對手的角色卡。這張角色卡原本的力量值，在這個回合，變成和選擇的角色卡的力量值相同。",
+                "card_set": "回憶收藏【EB-01】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-061_p1.png"
+            }
+        ]
+    }
+}

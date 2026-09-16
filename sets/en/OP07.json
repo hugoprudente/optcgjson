@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556107
+        "set": 556107,
+        "language": "en"
     },
     "data": {
         "code": "OP07",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Dragon",
-                "image_path": "images/500YearsintheFutureOP07/OP07-001.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -38,8 +38,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Dragon (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-001_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -63,7 +62,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Ain",
-                "image_path": "images/500YearsintheFutureOP07/OP07-002.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -89,7 +87,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Outlook III",
-                "image_path": "images/500YearsintheFutureOP07/OP07-003.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -114,7 +111,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Curly.Dadan",
-                "image_path": "images/500YearsintheFutureOP07/OP07-004.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -139,7 +135,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Carina",
-                "image_path": "images/500YearsintheFutureOP07/OP07-005.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -155,7 +150,7 @@
                     "Grantesoro"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-005.png"
             },
@@ -165,7 +160,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Carina (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-005_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -181,7 +175,7 @@
                     "Grantesoro"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Give up to 1 of your opponent's Characters −2000 power during this turn.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-005_p1.png"
             },
@@ -191,7 +185,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sterry",
-                "image_path": "images/500YearsintheFutureOP07/OP07-006.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -216,7 +209,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Dice",
-                "image_path": "images/500YearsintheFutureOP07/OP07-007.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -242,7 +234,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Mr. Tanaka",
-                "image_path": "images/500YearsintheFutureOP07/OP07-008.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -268,7 +259,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Dogura & Magura",
-                "image_path": "images/500YearsintheFutureOP07/OP07-009.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -283,7 +273,7 @@
                     "Mountain Bandits"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] Up to 1 of your red Characters with a cost of 1 gains [Double Attack] during this turn.(This card deals 2 damage.)",
+                "effect": "[On Play] Up to 1 of your red Characters with a cost of 1 gains [Double Attack] during this turn. (This card deals 2 damage.)",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-009.png"
             },
@@ -293,7 +283,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Baccarat",
-                "image_path": "images/500YearsintheFutureOP07/OP07-010.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -309,7 +298,7 @@
                     "Grantesoro"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +2000 power during this battle.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-010.png"
             },
@@ -319,7 +308,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bluejam",
-                "image_path": "images/500YearsintheFutureOP07/OP07-011.png",
                 "cost": "4",
                 "attribute": [
                     "Ranged"
@@ -345,7 +333,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Porchemy",
-                "image_path": "images/500YearsintheFutureOP07/OP07-012.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -371,7 +358,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Masked Deuce",
-                "image_path": "images/500YearsintheFutureOP07/OP07-013.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -396,7 +382,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Moda",
-                "image_path": "images/500YearsintheFutureOP07/OP07-014.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -421,7 +406,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Dragon",
-                "image_path": "images/500YearsintheFutureOP07/OP07-015.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -436,7 +420,7 @@
                     "Revolutionary Army"
                 ],
                 "block_icon": "2",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-015.png"
             },
@@ -446,7 +430,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Dragon (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-015_p1.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -461,7 +444,7 @@
                     "Revolutionary Army"
                 ],
                 "block_icon": "2",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-015_p1.png"
             },
@@ -471,11 +454,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Galaxy Wink",
-                "image_path": "images/500YearsintheFutureOP07/OP07-016.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -496,11 +476,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Dragon Breath",
-                "image_path": "images/500YearsintheFutureOP07/OP07-017.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -521,11 +498,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "KEEP OUT",
-                "image_path": "images/500YearsintheFutureOP07/OP07-018.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Counter] effect.",
                 "power": "-",
                 "counter": "-",
@@ -547,8 +521,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/500YearsintheFutureOP07/OP07-019.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -573,8 +546,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Jewelry Bonney (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-019_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -599,7 +571,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Aladine",
-                "image_path": "images/500YearsintheFutureOP07/OP07-020.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -615,7 +586,7 @@
                     "The Sun Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] If your Leader has the {Fish-Man} type, play up to 1 {Fish-Man} or {Merfolk} type Character card with a cost of 3 or less from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] If your Leader has the {Fish-Man} type, play up to 1 {Fish-Man} or {Merfolk} type Character card with a cost of 3 or less from your hand.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-020.png"
             },
@@ -625,7 +596,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Urouge",
-                "image_path": "images/500YearsintheFutureOP07/OP07-021.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -641,7 +611,7 @@
                     "Fallen Monk Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] Set up to 1 of your DON!! cards as active.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-021.png"
             },
@@ -651,7 +621,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Otama",
-                "image_path": "images/500YearsintheFutureOP07/OP07-022.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -676,7 +645,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Otama (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-022_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -701,7 +669,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Caribou",
-                "image_path": "images/500YearsintheFutureOP07/OP07-023.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -717,7 +684,7 @@
                     "Caribou Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "If you have 6 or more rested DON!! cards, this Character gains +1000 power.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If you have 6 or more rested DON!! cards, this Character gains +1000 power. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-023.png"
             },
@@ -727,7 +694,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Koala",
-                "image_path": "images/500YearsintheFutureOP07/OP07-024.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -742,7 +708,7 @@
                     "Foolshout Island"
                 ],
                 "block_icon": "2",
-                "effect": "[On Your Opponent's Attack] You may rest this Character: Up to 1 of your {Fish-Man} type Characters with a cost of 5 or less gains [Blocker] during this turn.(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "[On Your Opponent's Attack] You may rest this Character: Up to 1 of your {Fish-Man} type Characters with a cost of 5 or less gains [Blocker] during this turn. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-024.png"
             },
@@ -752,7 +718,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Coribou",
-                "image_path": "images/500YearsintheFutureOP07/OP07-025.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -778,7 +743,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/500YearsintheFutureOP07/OP07-026.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -804,7 +768,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Jewelry Bonney (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-026_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -830,7 +793,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jinbe",
-                "image_path": "images/500YearsintheFutureOP07/OP07-027.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -856,7 +818,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Scratchmen Apoo",
-                "image_path": "images/500YearsintheFutureOP07/OP07-028.png",
                 "cost": "6",
                 "attribute": [
                     "Ranged"
@@ -882,7 +843,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Basil Hawkins",
-                "image_path": "images/500YearsintheFutureOP07/OP07-029.png",
                 "cost": "6",
                 "attribute": [
                     "Slash"
@@ -898,7 +858,7 @@
                     "Hawkins Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "If your Leader has the {Supernovas} type, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your opponent's Characters instead.",
+                "effect": "If your Leader has the {Supernovas} type, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your opponent's Characters instead.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-029.png"
             },
@@ -908,7 +868,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Basil Hawkins (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-029_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Slash"
@@ -924,7 +883,7 @@
                     "Hawkins Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "If your Leader has the {Supernovas} type, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your opponent's Characters instead.",
+                "effect": "If your Leader has the {Supernovas} type, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your opponent's Characters instead.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-029_p1.png"
             },
@@ -934,7 +893,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Pappag",
-                "image_path": "images/500YearsintheFutureOP07/OP07-030.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -949,7 +907,7 @@
                     "Animal"
                 ],
                 "block_icon": "2",
-                "effect": "If you have a [Camie] Character, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If you have a [Camie] Character, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-030.png"
             },
@@ -959,7 +917,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Bartolomeo",
-                "image_path": "images/500YearsintheFutureOP07/OP07-031.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -975,7 +932,7 @@
                     "Barto Club"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Your Turn] [Once Per Turn] If a Character is rested by your effect, draw 1 card and trash 1 card from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Your Turn] [Once Per Turn] If a Character is rested by your effect, draw 1 card and trash 1 card from your hand.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-031.png"
             },
@@ -985,7 +942,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Fisher Tiger",
-                "image_path": "images/500YearsintheFutureOP07/OP07-032.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -1001,7 +957,7 @@
                     "The Sun Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "This Character can attack Characters on the turn in which it is played.[On Play] If your Leader has the {Fish-Man} or {Merfolk} type, rest up to 1 of your opponent's Characters with a cost of 6 or less.",
+                "effect": "This Character can attack Characters on the turn in which it is played. [On Play] If your Leader has the {Fish-Man} or {Merfolk} type, rest up to 1 of your opponent's Characters with a cost of 6 or less.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-032.png"
             },
@@ -1011,7 +967,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/500YearsintheFutureOP07/OP07-033.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -1037,7 +992,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/500YearsintheFutureOP07/OP07-034.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -1063,11 +1017,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Karmic Punishment",
-                "image_path": "images/500YearsintheFutureOP07/OP07-035.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -1089,11 +1040,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Demonic Aura Nine-Sword Style Asura Demon Nine Flash",
-                "image_path": "images/500YearsintheFutureOP07/OP07-036.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -1115,11 +1063,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "More Pizza!!",
-                "image_path": "images/500YearsintheFutureOP07/OP07-037.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card.",
                 "power": "-",
                 "counter": "-",
@@ -1141,8 +1086,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Boa Hancock",
-                "image_path": "images/500YearsintheFutureOP07/OP07-038.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -1167,8 +1111,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Boa Hancock (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-038_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -1193,7 +1136,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Edward Weevil",
-                "image_path": "images/500YearsintheFutureOP07/OP07-039.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1218,7 +1160,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Crocodile",
-                "image_path": "images/500YearsintheFutureOP07/OP07-040.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1244,7 +1185,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Gloriosa (Grandma Nyon)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-041.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1269,7 +1209,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Gecko Moria",
-                "image_path": "images/500YearsintheFutureOP07/OP07-042.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1295,7 +1234,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Salome",
-                "image_path": "images/500YearsintheFutureOP07/OP07-043.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -1321,7 +1259,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Dracule Mihawk",
-                "image_path": "images/500YearsintheFutureOP07/OP07-044.png",
                 "cost": "8",
                 "attribute": [
                     "Slash"
@@ -1346,7 +1283,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Jinbe",
-                "image_path": "images/500YearsintheFutureOP07/OP07-045.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1373,7 +1309,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Jinbe (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-045_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1400,7 +1335,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Sengoku",
-                "image_path": "images/500YearsintheFutureOP07/OP07-046.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1425,7 +1359,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Sengoku (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-046_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1450,7 +1383,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/500YearsintheFutureOP07/OP07-047.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1476,7 +1408,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-047_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1502,7 +1433,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Donquixote Doflamingo",
-                "image_path": "images/500YearsintheFutureOP07/OP07-048.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -1528,7 +1458,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Buckin",
-                "image_path": "images/500YearsintheFutureOP07/OP07-049.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -1553,7 +1482,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Boa Sandersonia",
-                "image_path": "images/500YearsintheFutureOP07/OP07-050.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1578,7 +1506,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Boa Hancock",
-                "image_path": "images/500YearsintheFutureOP07/OP07-051.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -1604,7 +1531,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Boa Hancock (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-051_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -1630,7 +1556,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Boa Hancock (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-051_p2.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -1656,7 +1581,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Boa Marigold",
-                "image_path": "images/500YearsintheFutureOP07/OP07-052.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1681,7 +1605,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Portgas.D.Ace",
-                "image_path": "images/500YearsintheFutureOP07/OP07-053.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1696,7 +1619,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Draw 2 cards and place 2 cards from your hand at the top or bottom of your deck in any order.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Draw 2 cards and place 2 cards from your hand at the top or bottom of your deck in any order.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-053.png"
             },
@@ -1706,7 +1629,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Marguerite",
-                "image_path": "images/500YearsintheFutureOP07/OP07-054.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -1721,7 +1643,7 @@
                     "Amazon Lily"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Draw 1 card.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Draw 1 card.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-054.png"
             },
@@ -1731,11 +1653,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Snake Dance",
-                "image_path": "images/500YearsintheFutureOP07/OP07-055.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] You may return 1 of your Characters to the owner's hand: Return up to 1 of your opponent's Characters with a cost of 5 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -1756,11 +1675,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Slave Arrow",
-                "image_path": "images/500YearsintheFutureOP07/OP07-056.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order.",
                 "power": "-",
                 "counter": "-",
@@ -1782,11 +1698,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Perfume Femur",
-                "image_path": "images/500YearsintheFutureOP07/OP07-057.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card.",
                 "power": "-",
                 "counter": "-",
@@ -1808,11 +1721,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Island of Women",
-                "image_path": "images/500YearsintheFutureOP07/OP07-058.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1833,8 +1743,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Foxy",
-                "image_path": "images/500YearsintheFutureOP07/OP07-059.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -1858,8 +1767,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Foxy (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-059_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -1883,7 +1791,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Itomimizu",
-                "image_path": "images/500YearsintheFutureOP07/OP07-060.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -1908,7 +1815,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Sanji",
-                "image_path": "images/500YearsintheFutureOP07/OP07-061.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -1934,7 +1840,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Reiju",
-                "image_path": "images/500YearsintheFutureOP07/OP07-062.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -1960,7 +1865,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Capote",
-                "image_path": "images/500YearsintheFutureOP07/OP07-063.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1986,7 +1890,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/500YearsintheFutureOP07/OP07-064.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -2001,7 +1904,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "If the number of DON!! cards on your field is at least 2 less than the number on your opponent's field, give this card in your hand −3 cost.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If the number of DON!! cards on your field is at least 2 less than the number on your opponent's field, give this card in your hand −3 cost. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-064.png"
             },
@@ -2011,7 +1914,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sanji (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-064_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -2026,7 +1928,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "If the number of DON!! cards on your field is at least 2 less than the number on your opponent's field, give this card in your hand −3 cost.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If the number of DON!! cards on your field is at least 2 less than the number on your opponent's field, give this card in your hand −3 cost. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-064_p1.png"
             },
@@ -2036,7 +1938,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Gina",
-                "image_path": "images/500YearsintheFutureOP07/OP07-065.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -2061,7 +1962,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/500YearsintheFutureOP07/OP07-066.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -2077,7 +1977,7 @@
                     "Foxy Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-066.png"
             },
@@ -2087,7 +1987,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Tonjit",
-                "image_path": "images/500YearsintheFutureOP07/OP07-067.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -2112,7 +2011,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Hamburg",
-                "image_path": "images/500YearsintheFutureOP07/OP07-068.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -2137,7 +2035,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Pickles",
-                "image_path": "images/500YearsintheFutureOP07/OP07-069.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -2162,7 +2059,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Big Bun",
-                "image_path": "images/500YearsintheFutureOP07/OP07-070.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -2189,7 +2085,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Foxy",
-                "image_path": "images/500YearsintheFutureOP07/OP07-071.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -2204,7 +2099,7 @@
                     "Foxy Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Opponent's Turn] If your Leader has the {Foxy Pirates} type, give all of your opponent's Characters −1000 power.[Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
+                "effect": "[Opponent's Turn] If your Leader has the {Foxy Pirates} type, give all of your opponent's Characters −1000 power. [Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-071.png"
             },
@@ -2214,7 +2109,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Foxy (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-071_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -2229,7 +2123,7 @@
                     "Foxy Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Opponent's Turn] If your Leader has the {Foxy Pirates} type, give all of your opponent's Characters −1000 power.[Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
+                "effect": "[Opponent's Turn] If your Leader has the {Foxy Pirates} type, give all of your opponent's Characters −1000 power. [Activate: Main] [Once Per Turn] Add up to 1 DON!! card from your DON!! deck and rest it.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-071_p1.png"
             },
@@ -2239,7 +2133,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Porche",
-                "image_path": "images/500YearsintheFutureOP07/OP07-072.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -2264,7 +2157,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Porche (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-072_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -2289,7 +2181,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/500YearsintheFutureOP07/OP07-073.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -2314,7 +2205,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Monda",
-                "image_path": "images/500YearsintheFutureOP07/OP07-074.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -2340,11 +2230,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Slow-Slow Beam",
-                "image_path": "images/500YearsintheFutureOP07/OP07-075.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -2365,11 +2252,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Slow-Slow Beam Sword",
-                "image_path": "images/500YearsintheFutureOP07/OP07-076.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "power": "-",
                 "counter": "-",
@@ -2390,11 +2274,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "We're Going to Claim the One Piece!!!",
-                "image_path": "images/500YearsintheFutureOP07/OP07-077.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -2416,11 +2297,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Megaton Nine-Tails Rush",
-                "image_path": "images/500YearsintheFutureOP07/OP07-078.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "power": "-",
                 "counter": "-",
@@ -2441,8 +2319,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Rob Lucci",
-                "image_path": "images/500YearsintheFutureOP07/OP07-079.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -2466,8 +2343,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Rob Lucci (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-079_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -2491,7 +2367,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kaku",
-                "image_path": "images/500YearsintheFutureOP07/OP07-080.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2516,7 +2391,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kalifa",
-                "image_path": "images/500YearsintheFutureOP07/OP07-081.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2541,7 +2415,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Captain John",
-                "image_path": "images/500YearsintheFutureOP07/OP07-082.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -2567,7 +2440,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Gecko Moria",
-                "image_path": "images/500YearsintheFutureOP07/OP07-083.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2583,7 +2455,7 @@
                     "Thriller Bark Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Activate: Main] You may place 4 {Thriller Bark Pirates} type cards from your trash at the bottom of your deck in any order: This Character gains [Banish] and +1000 power during this turn.(When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "effect": "[Activate: Main] You may place 4 {Thriller Bark Pirates} type cards from your trash at the bottom of your deck in any order: This Character gains [Banish] and +1000 power during this turn. (When this card deals damage, the target card is trashed without activating its Trigger.)",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-083.png"
             },
@@ -2593,7 +2465,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Gismonda",
-                "image_path": "images/500YearsintheFutureOP07/OP07-084.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -2618,7 +2489,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Stussy",
-                "image_path": "images/500YearsintheFutureOP07/OP07-085.png",
                 "cost": "9",
                 "attribute": [
                     "Special"
@@ -2643,7 +2513,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Stussy (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-085_p1.png",
                 "cost": "9",
                 "attribute": [
                     "Special"
@@ -2668,7 +2537,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Spandam",
-                "image_path": "images/500YearsintheFutureOP07/OP07-086.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -2693,7 +2561,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Baskerville",
-                "image_path": "images/500YearsintheFutureOP07/OP07-087.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -2718,7 +2585,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Hattori",
-                "image_path": "images/500YearsintheFutureOP07/OP07-088.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -2744,7 +2610,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Maha",
-                "image_path": "images/500YearsintheFutureOP07/OP07-089.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -2769,7 +2634,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Morgans",
-                "image_path": "images/500YearsintheFutureOP07/OP07-090.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -2794,7 +2658,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/500YearsintheFutureOP07/OP07-091.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2819,7 +2682,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Joseph",
-                "image_path": "images/500YearsintheFutureOP07/OP07-092.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -2844,7 +2706,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Rob Lucci",
-                "image_path": "images/500YearsintheFutureOP07/OP07-093.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -2869,11 +2730,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Shave",
-                "image_path": "images/500YearsintheFutureOP07/OP07-094.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 of your Characters to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -2894,11 +2752,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Iron Body",
-                "image_path": "images/500YearsintheFutureOP07/OP07-095.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -2919,11 +2774,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Tempest Kick",
-                "image_path": "images/500YearsintheFutureOP07/OP07-096.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
                 "power": "-",
                 "counter": "-",
@@ -2944,8 +2796,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Vegapunk",
-                "image_path": "images/500YearsintheFutureOP07/OP07-097.png",
-                "cost": "Life2",
+                "cost": "2",
                 "attribute": [
                     "Wisdom"
                 ],
@@ -2960,7 +2811,7 @@
                     "Egghead"
                 ],
                 "block_icon": "2",
-                "effect": "This Leader cannot attack.[Activate: Main] [Once Per Turn] ① (You may rest the specified number of DON!! cards in your cost area.): Select up to 1 {Egghead} type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
+                "effect": "This Leader cannot attack. [Activate: Main] [Once Per Turn] ① (You may rest the specified number of DON!! cards in your cost area.): Select up to 1 {Egghead} type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-097.png"
             },
@@ -2970,8 +2821,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Vegapunk (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-097_p1.png",
-                "cost": "Life2",
+                "cost": "2",
                 "attribute": [
                     "Wisdom"
                 ],
@@ -2986,7 +2836,7 @@
                     "Egghead"
                 ],
                 "block_icon": "2",
-                "effect": "This Leader cannot attack.[Activate: Main] [Once Per Turn] ① (You may rest the specified number of DON!! cards in your cost area.): Select up to 1 {Egghead} type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
+                "effect": "This Leader cannot attack. [Activate: Main] [Once Per Turn] ① (You may rest the specified number of DON!! cards in your cost area.): Select up to 1 {Egghead} type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-097_p1.png"
             },
@@ -2996,7 +2846,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Atlas",
-                "image_path": "images/500YearsintheFutureOP07/OP07-098.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -3022,7 +2871,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Usopp",
-                "image_path": "images/500YearsintheFutureOP07/OP07-099.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -3048,7 +2896,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Edison",
-                "image_path": "images/500YearsintheFutureOP07/OP07-100.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -3074,7 +2921,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Shaka",
-                "image_path": "images/500YearsintheFutureOP07/OP07-101.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -3100,7 +2946,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jinbe",
-                "image_path": "images/500YearsintheFutureOP07/OP07-102.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3127,7 +2972,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/500YearsintheFutureOP07/OP07-103.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -3154,7 +2998,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/500YearsintheFutureOP07/OP07-104.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -3180,7 +3023,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Pythagoras",
-                "image_path": "images/500YearsintheFutureOP07/OP07-105.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -3206,7 +3048,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Fuza",
-                "image_path": "images/500YearsintheFutureOP07/OP07-106.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -3232,7 +3073,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Franky",
-                "image_path": "images/500YearsintheFutureOP07/OP07-107.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -3258,7 +3098,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Franky (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-107_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -3284,7 +3123,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vega Force 01",
-                "image_path": "images/500YearsintheFutureOP07/OP07-108.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -3309,7 +3147,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/500YearsintheFutureOP07/OP07-109.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3336,7 +3173,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-109_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3363,7 +3199,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "York",
-                "image_path": "images/500YearsintheFutureOP07/OP07-110.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -3389,7 +3224,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Lilith",
-                "image_path": "images/500YearsintheFutureOP07/OP07-111.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -3415,7 +3249,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Lilith (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-111_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -3441,7 +3274,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Lucy",
-                "image_path": "images/500YearsintheFutureOP07/OP07-112.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -3467,7 +3299,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/500YearsintheFutureOP07/OP07-113.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -3493,11 +3324,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "He Possesses the World's Most Brilliant Mind",
-                "image_path": "images/500YearsintheFutureOP07/OP07-114.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card.",
                 "power": "-",
                 "counter": "-",
@@ -3519,11 +3347,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "I Re-Quasar Helllp!!",
-                "image_path": "images/500YearsintheFutureOP07/OP07-115.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Play up to 1 of your {Egghead} type Character cards with a cost of 5 or less from your trash.",
                 "power": "-",
                 "counter": "-",
@@ -3545,11 +3370,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Blaze Slice",
-                "image_path": "images/500YearsintheFutureOP07/OP07-116.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -3571,11 +3393,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Egghead",
-                "image_path": "images/500YearsintheFutureOP07/OP07-117.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Play this card.",
                 "power": "-",
                 "counter": "-",
@@ -3596,7 +3415,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Sabo",
-                "image_path": "images/500YearsintheFutureOP07/OP07-118.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -3621,7 +3439,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Sabo (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-118_p1.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -3646,7 +3463,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Portgas.D.Ace",
-                "image_path": "images/500YearsintheFutureOP07/OP07-119.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -3661,7 +3477,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] Add up to 1 card from the top of your deck to the top of your Life cards. Then, if you have 2 or less Life cards, this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] Add up to 1 card from the top of your deck to the top of your Life cards. Then, if you have 2 or less Life cards, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-119.png"
             },
@@ -3671,7 +3487,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Portgas.D.Ace (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP07-119_p1.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -3686,7 +3501,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] Add up to 1 card from the top of your deck to the top of your Life cards. Then, if you have 2 or less Life cards, this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] Add up to 1 card from the top of your deck to the top of your Life cards. Then, if you have 2 or less Life cards, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-119_p1.png"
             },
@@ -3696,7 +3511,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Okiku (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP01-035_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -3722,7 +3536,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Donquixote Doflamingo (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP01-073_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -3738,7 +3551,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-073_p2.png"
             },
@@ -3748,7 +3561,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Izo (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP03-003_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -3774,7 +3586,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Issho (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP03-078_p2.png",
                 "cost": "8",
                 "attribute": [
                     "Slash"
@@ -3789,7 +3600,7 @@
                     "Navy"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x1] [Your Turn] Give all of your opponent's Characters −3 cost.[On Play] If your opponent has 6 or more cards in their hand, trash 2 cards from your opponent's hand.",
+                "effect": "[DON!! x1] [Your Turn] Give all of your opponent's Characters −3 cost. [On Play] If your opponent has 6 or more cards in their hand, trash 2 cards from your opponent's hand.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP03-078_p2.png"
             },
@@ -3799,7 +3610,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP05-074_p3.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -3814,7 +3624,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-074_p3.png"
             },
@@ -3824,7 +3634,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "O-Nami (Parallel)",
-                "image_path": "images/500YearsintheFutureOP07/OP06-101_p2.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -3839,7 +3648,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] Up to 1 of your Leader or Character cards gains [Banish] during this turn.(When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "effect": "[On Play] Up to 1 of your Leader or Character cards gains [Banish] during this turn. (When this card deals damage, the target card is trashed without activating its Trigger.)",
                 "card_set": "-500 Years in the Future- [OP-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-101_p2.png"
             }

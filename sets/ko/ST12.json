@@ -1,0 +1,424 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 1956652130,
+        "language": "ko"
+    },
+    "data": {
+        "code": "ST12",
+        "cards": [
+            {
+                "id": "ST12-001",
+                "number": "ST12-001",
+                "type": "L",
+                "class": "리더",
+                "name": "롤로노아 조로 & 상디",
+                "cost": "4",
+                "attribute": [
+                    "참격",
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "N/A",
+                "color": [
+                    "녹색",
+                    "청색",
+                    "다색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】【턴 1회】자신의 코스트 2 이상인 캐릭터 1장을 주인의 패로 되돌릴 수 있다: 자신의 파워 7000 이하인 캐릭터를 1장까지 액티브로 한다.",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200619373580"
+            },
+            {
+                "id": "ST12-002",
+                "number": "ST12-002",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "쿠이나",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "시모츠키 마을"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 레스트할 수 있다: 상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200620449610"
+            },
+            {
+                "id": "ST12-003",
+                "number": "ST12-003",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "쥬라큘 미호크",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "스파다우 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 캐릭터가 2장 이하인 경우, 자신의 패에서 「쥬라큘 미호크」 이외의 코스트 4 이하인 《스파다우 왕국》 특징이나 <참격> 속성을 가진 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다.",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200620550638"
+            },
+            {
+                "id": "ST12-004",
+                "number": "ST12-004",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "휴먼드릴",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "동물",
+                    "스파다우 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200621061692"
+            },
+            {
+                "id": "ST12-005",
+                "number": "ST12-005",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "페로나",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "스파다우 왕국",
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200621208294"
+            },
+            {
+                "id": "ST12-006",
+                "number": "ST12-006",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "요삭 & 조니",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】아래에서 하나를 선택한다.\r\n・상대의 코스트 2 이하인 캐릭터를 1장까지 레스트로 한다.\r\n・상대의 레스트 상태이고 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200621352636"
+            },
+            {
+                "id": "ST12-007",
+                "number": "ST12-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "리카",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】②(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 상대의 라이프가 3장 이상인 경우, 자신의 코스트 4 이하인 <참격> 속성을 가진 캐릭터를 1장까지 액티브로 한다.",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200622011912"
+            },
+            {
+                "id": "ST12-008",
+                "number": "ST12-008",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "롤로노아 조로",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】상대의 코스트 6 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200622219323"
+            },
+            {
+                "id": "ST12-009",
+                "number": "ST12-009",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "엘리펀트 참다랑어",
+                "cost": "1",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "동물"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200622343417"
+            },
+            {
+                "id": "ST12-010",
+                "number": "ST12-010",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "엠포리오 이반코프",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "임펠 다운",
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 1장을 공개하고, 코스트 2인 캐릭터 카드를 1장까지 등장시킨다. 그 후, 남은 카드를 덱 맨 위나 아래로 되돌린다.\r\n【어택 시】【턴 1회】자신의 패가 6장 이하인 경우, 카드를 1장 뽑는다.",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200622479359"
+            },
+            {
+                "id": "ST12-011",
+                "number": "ST12-011",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "상디",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】자신의 패가 5장 이하인 경우, 다음 자신의 턴 개시 시까지 이 캐릭터의 파워 +2000.",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200623234243"
+            },
+            {
+                "id": "ST12-012",
+                "number": "ST12-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샬롯 푸딩",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 주인의 패로 되돌린다.",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200623410033"
+            },
+            {
+                "id": "ST12-013",
+                "number": "ST12-013",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "제프",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 3장을 보고, 원하는 순서대로 덱 맨 위나 아래로 되돌린다.\r\n【어택 시】자신의 덱 위에서 1장을 공개하고, 코스트 2인 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다. 그 후, 남은 카드를 덱 맨 위나 아래로 되돌린다.",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200624108105"
+            },
+            {
+                "id": "ST12-014",
+                "number": "ST12-014",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "듀발",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "날치 라이더즈"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 덱 위에서 3장을 보고, 원하는 순서대로 덱 맨 위나 아래로 되돌린다.",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200624236156"
+            },
+            {
+                "id": "ST12-015",
+                "number": "ST12-015",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "파티 & 카르네",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200624366829"
+            },
+            {
+                "id": "ST12-016",
+                "number": "ST12-016",
+                "type": "C",
+                "class": "이벤트",
+                "name": "사자의 노래",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】효과를 발동한다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】/【카운터】상대의 리더 또는 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200624476991"
+            },
+            {
+                "id": "ST12-017",
+                "number": "ST12-017",
+                "type": "C",
+                "class": "이벤트",
+                "name": "정형 쇼트",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000. 그 후, 자신의 덱 위에서 1장을 공개하고, 코스트 2인 캐릭터 카드를 1장까지 등장시킨다. 그 후, 남은 카드를 덱 맨 위나 아래로 되돌린다.",
+                "card_set": "[STK-12] 스타트 덱 조로 & 상디",
+                "image_url": "/fileDownload?downname=202503200624593436"
+            }
+        ]
+    }
+}

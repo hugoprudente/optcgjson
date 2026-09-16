@@ -1,0 +1,418 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 434565413,
+        "language": "ko"
+    },
+    "data": {
+        "code": "ST04",
+        "cards": [
+            {
+                "id": "ST04-001",
+                "number": "ST04-001",
+                "type": "L",
+                "class": "리더",
+                "name": "카이도",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "사황",
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】【턴 1회】두웅‼-7(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 라이프를 위에서 1장까지 트래시로 보낸다.",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090721492592"
+            },
+            {
+                "id": "ST04-002",
+                "number": "ST04-002",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "울티",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 패에서 코스트 4 이하인 「페이지 원」을 1장까지 등장시킨다.",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090721238732"
+            },
+            {
+                "id": "ST04-003",
+                "number": "ST04-003",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "카이도",
+                "cost": "9",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "사황",
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】두웅!!-5(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 6 이하인 캐릭터를 1장까지 KO시키고, 이번 턴 동안 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090721109420"
+            },
+            {
+                "id": "ST04-004",
+                "number": "ST04-004",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "킹",
+                "cost": "6",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 4 이하인 캐릭터를 1장까지 KO시킨다.",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090720500033"
+            },
+            {
+                "id": "ST04-005",
+                "number": "ST04-005",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "퀸",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트하고 어택 대상을 이 카드로 할 수 있다)<br>\r\n【등장 시】 두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 카드를 2장 뽑고, 자신의 패를 1장 버린다.",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090720318012"
+            },
+            {
+                "id": "ST04-006",
+                "number": "ST04-006",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "사사키",
+                "cost": "3",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "백수 해적"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】 두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 카드를 1장 뽑는다.",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090720104177"
+            },
+            {
+                "id": "ST04-007",
+                "number": "ST04-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "시프스 헤드",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "백수 해적단",
+                    "SMILE"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090719499847"
+            },
+            {
+                "id": "ST04-008",
+                "number": "ST04-008",
+                "type": "C",
+                "class": "N/A",
+                "name": "잭",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】 자신의 패를 1장 버릴 수 있다: 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090719332218"
+            },
+            {
+                "id": "ST04-009",
+                "number": "ST04-009",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "진라미",
+                "cost": "1",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "백수 해적단",
+                    "SMILE"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090719178490"
+            },
+            {
+                "id": "ST04-010",
+                "number": "ST04-010",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "후즈 후",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】 두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 3 이하인 캐릭터를 1장까지 KO시킨다.",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090719025757"
+            },
+            {
+                "id": "ST04-011",
+                "number": "ST04-011",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "블랙마리아",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트하고 어택 대상을 이 카드로 할 수 있다)",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090718484673"
+            },
+            {
+                "id": "ST04-012",
+                "number": "ST04-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "페이지 원",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090718340978"
+            },
+            {
+                "id": "ST04-013",
+                "number": "ST04-013",
+                "type": "C",
+                "class": "N/A",
+                "name": "X 드레이크",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "해군",
+                    "드레이크 해적단",
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090718214778"
+            },
+            {
+                "id": "ST04-014",
+                "number": "ST04-014",
+                "type": "C",
+                "class": "이벤트",
+                "name": "대간판\"재해\"",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】 카드를 1장 뽑고, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090717579088"
+            },
+            {
+                "id": "ST04-015",
+                "number": "ST04-015",
+                "type": "C",
+                "class": "이벤트",
+                "name": "브라키오 봄버",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】 상대의 코스트 6 이하인 캐릭터를 1장까지 KO시키고, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090717462336"
+            },
+            {
+                "id": "ST04-016",
+                "number": "ST04-016",
+                "type": "C",
+                "class": "이벤트",
+                "name": "보로 브레스",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "사황",
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】 두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 이번 배틀 중, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000.",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090717245156"
+            },
+            {
+                "id": "ST04-017",
+                "number": "ST04-017",
+                "type": "C",
+                "class": "스테이지",
+                "name": "오니가시마",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】 이 스테이지를 레스트할 수 있다: 자신의 리더가 《백수 해적단》 특징을 가진 경우, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[STK-04] 스타트 덱 백수 해적단",
+                "image_url": "/fileDownload?downname=202404090717097077"
+            }
+        ]
+    }
+}

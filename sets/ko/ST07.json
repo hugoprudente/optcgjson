@@ -1,0 +1,422 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 709197963,
+        "language": "ko"
+    },
+    "data": {
+        "code": "ST07",
+        "cards": [
+            {
+                "id": "ST07-001",
+                "number": "ST07-001",
+                "type": "L",
+                "class": "리더",
+                "name": "샬롯 링링",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "사황",
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅‼×2】【어택 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 자신의 라이프가 2장 이하인 경우, 자신의 패를 1장까지 라이프 맨 위에 더한다.",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231028112461"
+            },
+            {
+                "id": "ST07-002",
+                "number": "ST07-002",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샬롯 아나나",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231028283013"
+            },
+            {
+                "id": "ST07-003",
+                "number": "ST07-003",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "샬롯 카타쿠리",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신 또는 상대의 라이프 위에서 1장까지를 보고, 라이프 맨 위 나 아래로 되돌린다. 그 후, 자신의 라이프 수가 상대보다 적을 경우, 이번 턴 동안, 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231028447836"
+            },
+            {
+                "id": "ST07-004",
+                "number": "ST07-004",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샬롯 스낵",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】【어택 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 이번 배틀 동안, 이 캐릭터는 【배니시】를 얻고, 파워+1000.<BR>\r\n(이 카드가 대미지를 주었을 경우, 트리거는 발동하지 않으며 그 카드는 트래시로 보내진다)",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231028558793"
+            },
+            {
+                "id": "ST07-005",
+                "number": "ST07-005",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샬롯 다이후쿠",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】【어택 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231029076888"
+            },
+            {
+                "id": "ST07-006",
+                "number": "ST07-006",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샬롯 플랑페",
+                "cost": "2",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231029189309"
+            },
+            {
+                "id": "ST07-007",
+                "number": "ST07-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샬롯 브륄레",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231029299150"
+            },
+            {
+                "id": "ST07-008",
+                "number": "ST07-008",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샬롯 푸딩",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신 또는 상대의 라이프 위에서 1장까지를 보고, 라이프 맨 위나 아래로 되돌린다.",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231029509553"
+            },
+            {
+                "id": "ST07-009",
+                "number": "ST07-009",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샬롯 몽도르",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "자신의 패 1장을 버릴 수 있다: 이 카드를 등장시킨다.",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】이 캐릭터를 레스트 하고, 자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 상대의 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231030375584"
+            },
+            {
+                "id": "ST07-010",
+                "number": "ST07-010",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "샬롯 링링",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "사황",
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】상대는 아래에서 하나를 선택한다.<BR>\r\n・상대의 라이프 위에서 1장을 트래시로 보낸다.<BR>\r\n・자신의 덱 위에서 1장을 라이프 맨 위에 더한다.",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231032096940"
+            },
+            {
+                "id": "ST07-011",
+                "number": "ST07-011",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "제우스",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단",
+                    "호미즈"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】이 캐릭터를 레스트 할 수 있다: 이번 턴 동안, 자신의 「샬롯 링링」 1장까지는 【배니시】를 얻는다.<BR>\r\n(이 카드가 대미지를 주었을 경우, 트리거는 발동하지 않으며 그 카드는 트래시로 보내진다)",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231032272217"
+            },
+            {
+                "id": "ST07-012",
+                "number": "ST07-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "타마고 남작",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231032391375"
+            },
+            {
+                "id": "ST07-013",
+                "number": "ST07-013",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "프로메테우스",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단",
+                    "호미즈"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】이 캐릭터를 레스트 할 수 있다: 이번 턴 동안, 자신의 「샬롯 링링」1장까지는 【더블 어택】을 얻는다.<BR>\r\n(이 카드가 주는 대미지는 2가 된다)",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231032524450"
+            },
+            {
+                "id": "ST07-014",
+                "number": "ST07-014",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "페콤즈",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "밍크족",
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231033060452"
+            },
+            {
+                "id": "ST07-015",
+                "number": "ST07-015",
+                "type": "C",
+                "class": "이벤트",
+                "name": "소울 포커스",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "N/A",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "사황",
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】상대는 아래에서 하나를 선택한다.<BR>\r\n・상대의 라이프 위에서 1장을 트래시로 보낸다.<BR>\r\n・자신의 덱 위에서 1장을 라이프 맨 위에 더한다.",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231033282607"
+            },
+            {
+                "id": "ST07-016",
+                "number": "ST07-016",
+                "type": "C",
+                "class": "이벤트",
+                "name": "생생떡",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "카드를 1장 뽑고, 자신 또는 상대의 라이프 위에서 1장까지를 보고, 라이프 맨 위나 아래로 되돌린다.",
+                "power": "N/A",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】자신 또는 상대의 라이프 위에서 1장까지를 보고, 라이프 맨 위나 아래로 되돌린다. 그 후, 이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000.",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231033416125"
+            },
+            {
+                "id": "ST07-017",
+                "number": "ST07-017",
+                "type": "C",
+                "class": "스테이지",
+                "name": "퀸 마마 샹테 호",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "N/A",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빅 맘 해적단",
+                    "호미즈"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】 이 스테이지를 레스트 하고, 자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 자신의 코스트 3인 캐릭터를 1장까지 주인의 라이프 맨 위에 앞면으로 더한다.",
+                "card_set": "[STK-07] 스타트 덱 빅 맘 해적단",
+                "image_url": "/fileDownload?downname=202408231033565596"
+            }
+        ]
+    }
+}

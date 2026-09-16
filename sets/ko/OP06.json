@@ -1,0 +1,3679 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 1575541755,
+        "language": "ko"
+    },
+    "data": {
+        "code": "OP06",
+        "cards": [
+            {
+                "id": "OP06-001",
+                "number": "OP06-001",
+                "type": "L",
+                "class": "리더",
+                "name": "우타",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "N/A",
+                "color": [
+                    "적색",
+                    "자색",
+                    "다색"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】자신의 패에서 《FILM》 특징을 가진 카드 1장을 버릴 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -2000. 그 후, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171043_861ce50353"
+            },
+            {
+                "id": "OP06-001_P1",
+                "number": "OP06-001",
+                "type": "L",
+                "class": "리더",
+                "name": "우타",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "N/A",
+                "color": [
+                    "적색",
+                    "자색",
+                    "다색"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】자신의 패에서 《FILM》 특징을 가진 카드 1장을 버릴 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -2000. 그 후, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171103_ca85cb7aa4"
+            },
+            {
+                "id": "OP06-002",
+                "number": "OP06-002",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "이나즈마",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "이 캐릭터의 파워가 7000 이상인 경우, 이 캐릭터는 【배니시】를 얻는다.\r\n(이 카드가 대미지를 주었을 경우, 트리거는 발동하지 않으며 그 카드는 트래시로 보내진다)",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171123_c7bf43f4d4"
+            },
+            {
+                "id": "OP06-003",
+                "number": "OP06-003",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "엠포리오 이반코프",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "N/A",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 3장을 보고, 파워 5000 이하인 《혁명군》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171135_cb0fc81ad1"
+            },
+            {
+                "id": "OP06-004",
+                "number": "OP06-004",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "오마츠리 남작",
+                "cost": "2",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "오마츠리섬"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패에서 「릴리 카네이션」을 1장까지 등장시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171157_2c68662eab"
+            },
+            {
+                "id": "OP06-005",
+                "number": "OP06-005",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "가스파데",
+                "cost": "6",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "전 해군",
+                    "가스파데 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171208_a82c28f2f1"
+            },
+            {
+                "id": "OP06-006",
+                "number": "OP06-006",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "사가",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "아스카섬"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】다음 자신의 턴 개시 시까지, 이 캐릭터의 파워 +1000. 그 후, 이번 턴 종료 시, 자신의 《FILM》 특징을 가진 캐릭터 1장을 트래시에 놓는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171221_9abb773d58"
+            },
+            {
+                "id": "OP06-007",
+                "number": "OP06-007",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "샹크스",
+                "cost": "10",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "N/A",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "사황",
+                    "빨간 머리 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 파워 10000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171231_20d9a54e08"
+            },
+            {
+                "id": "OP06-007_P1",
+                "number": "OP06-007",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "샹크스",
+                "cost": "10",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "N/A",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "사황",
+                    "빨간 머리 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 파워 10000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171242_8d1fddc7d4"
+            },
+            {
+                "id": "OP06-008",
+                "number": "OP06-008",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "슈나이더",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "밀짚모자 체이스"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171256_4def202093"
+            },
+            {
+                "id": "OP06-009",
+                "number": "OP06-009",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "슬라이어",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "항구 마을"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【어택 시】/【블록 시】【턴 1회】다음 자신의 턴 개시 시까지, 이 캐릭터의 원래 파워는 상대의 리더와 동일한 파워가 된다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171338_b337ca8e34"
+            },
+            {
+                "id": "OP06-009_P1",
+                "number": "OP06-009",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "슬라이어",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "항구 마을"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【어택 시】/【블록 시】【턴 1회】다음 자신의 턴 개시 시까지, 이 캐릭터의 원래 파워는 상대의 리더와 동일한 파워가 된다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171358_6fe142e2c5"
+            },
+            {
+                "id": "OP06-010",
+                "number": "OP06-010",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "더글라스 불릿",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "해적 박람회"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 리더가 《FILM》 특징을 가진 경우, 이 캐릭터는 【블로커】를 얻는다.\r\n(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171411_7cb40c61de"
+            },
+            {
+                "id": "OP06-011",
+                "number": "OP06-011",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "토트 무지카",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 「우타」 1장을 레스트할 수 있다: 이번 턴 동안, 이 캐릭터의 파워 +5000.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171422_938f0c288c"
+            },
+            {
+                "id": "OP06-012",
+                "number": "OP06-012",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "베어 킹",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "트럼프 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "상대의 원래 파워가 6000 이상인 리더 또는 캐릭터가 있을 경우, 이 캐릭터는 배틀에서 KO 당하지 않는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171436_e4bc4e6d2d"
+            },
+            {
+                "id": "OP06-013",
+                "number": "OP06-013",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "이 카드의 【등장 시】 효과를 발동한다.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 3장을 보고, 《FILM》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_171517_98d2bf5341"
+            },
+            {
+                "id": "OP06-013_P1",
+                "number": "OP06-013",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "이 카드의 【등장 시】 효과를 발동한다.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 3장을 보고, 《FILM》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172520_b04ce443b6"
+            },
+            {
+                "id": "OP06-014",
+                "number": "OP06-014",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "라체트",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "메카섬"
+                ],
+                "block_icon": "2",
+                "effect": "【상대의 어택 시】자신의 패에서 《FILM》 특징을 가진 카드를 원하는 수만큼 버릴 수 있다. 버린 카드 1장당, 이번 배틀 동안, 자신의 리더 또는 캐릭터 1장의 파워 +1000.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172532_6a428b2cc8"
+            },
+            {
+                "id": "OP06-015",
+                "number": "OP06-015",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "릴리 카네이션",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "오마츠리섬"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 파워 6000 이상인 캐릭터 1장을 트래시에 놓을 수 있다: 자신의 트래시에서 파워 2000에서 5000인 《FILM》 특징을 가진 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172542_daa8c6ab97"
+            },
+            {
+                "id": "OP06-016",
+                "number": "OP06-016",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "레이즈 맥스",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "N/A",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 주인의 덱 맨 아래로 되돌릴 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -3000.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172607_1521526d05"
+            },
+            {
+                "id": "OP06-017",
+                "number": "OP06-017",
+                "type": "C",
+                "class": "이벤트",
+                "name": "사랑의 메테오 스트라이크",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】/【카운터】자신의 라이프 1장을 패에 더할 수 있다: 이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +3000.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172639_46f9e59dc9"
+            },
+            {
+                "id": "OP06-018",
+                "number": "OP06-018",
+                "type": "R",
+                "class": "이벤트",
+                "name": "고무고무 킹 콩 개틀링",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "상대의 파워 5000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +3000. 그 후, 상대의 파워 7000 이상인 캐릭터가 있을 경우, 이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +1000.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172659_a4b888900d"
+            },
+            {
+                "id": "OP06-019",
+                "number": "OP06-019",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "청룡인 유수",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "상대의 파워 4000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】상대의 파워 5000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172710_42fb3a46ba"
+            },
+            {
+                "id": "OP06-020",
+                "number": "OP06-020",
+                "type": "L",
+                "class": "리더",
+                "name": "호디 존스",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "신 어인 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 리더를 레스트할 수 있다: 상대의 코스트 3 이하인 캐릭터 또는 두웅!!을 1장까지 레스트로 한다. 그 후, 이번 턴 동안, 자신은 자신의 효과로 라이프를 패에 더할 수 없다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172716_205c49e7c6"
+            },
+            {
+                "id": "OP06-020_P1",
+                "number": "OP06-020",
+                "type": "L",
+                "class": "리더",
+                "name": "호디 존스",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "신 어인 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 리더를 레스트할 수 있다: 상대의 코스트 3 이하인 캐릭터 또는 두웅!!을 1장까지 레스트로 한다. 그 후, 이번 턴 동안, 자신은 자신의 효과로 라이프를 패에 더할 수 없다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172725_d53d6872e3"
+            },
+            {
+                "id": "OP06-021",
+                "number": "OP06-021",
+                "type": "L",
+                "class": "리더",
+                "name": "페로나",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "녹색",
+                    "흑색",
+                    "다색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】아래에서 하나를 선택한다.\r\n・상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.\r\n・이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -1.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172756_663cdf64eb"
+            },
+            {
+                "id": "OP06-021_P1",
+                "number": "OP06-021",
+                "type": "L",
+                "class": "리더",
+                "name": "페로나",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "녹색",
+                    "흑색",
+                    "다색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】아래에서 하나를 선택한다.\r\n・상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.\r\n・이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -1.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172805_b248c93166"
+            },
+            {
+                "id": "OP06-022",
+                "number": "OP06-022",
+                "type": "L",
+                "class": "리더",
+                "name": "야마토",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "2",
+                "effect": "【더블 어택】(이 카드가 주는 대미지는 2가 된다)\r\n【기동: 메인】【턴 1회】상대의 라이프가 3장 이하인 경우, 자신의 캐릭터 1장에게 레스트 상태인 두웅!!을 2장까지 부여한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172904_2d0bb6430a"
+            },
+            {
+                "id": "OP06-022_P1",
+                "number": "OP06-022",
+                "type": "L",
+                "class": "리더",
+                "name": "야마토",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "2",
+                "effect": "【더블 어택】(이 카드가 주는 대미지는 2가 된다)\r\n【기동: 메인】【턴 1회】상대의 라이프가 3장 이하인 경우, 자신의 캐릭터 1장에게 레스트 상태인 두웅!!을 2장까지 부여한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172911_af99ce1031"
+            },
+            {
+                "id": "OP06-023",
+                "number": "OP06-023",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "아론",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "【트리거】상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "power": "6000",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "이스트 블루",
+                    "아론 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패 1장을 버릴 수 있다: 상대의 레스트 상태인 리더 1장까지는, 다음 상대의 턴 종료 시까지 어택할 수 없다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172932_5cc770f60f"
+            },
+            {
+                "id": "OP06-024",
+                "number": "OP06-024",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "이카로스 뭇히",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "신 어인 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 리더가 《신 어인 해적단》 특징을 가진 경우, 자신의 패에서 코스트 4 이하인 《어인족》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다. 그 후, 자신의 라이프 위에서 1장을 패에 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_172955_f72bffd6d0"
+            },
+            {
+                "id": "OP06-025",
+                "number": "OP06-025",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "케이미",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "인어족"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 4장을 보고, 「케이미」 이외의 《어인족》 또는 《인어족》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173015_5ed621a71e"
+            },
+            {
+                "id": "OP06-025_P1",
+                "number": "OP06-025",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "케이미",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "인어족"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 4장을 보고, 「케이미」 이외의 《어인족》 또는 《인어족》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173021_ee3ce456fc"
+            },
+            {
+                "id": "OP06-026",
+                "number": "OP06-026",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "코시로",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "시모츠키 마을"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 코스트 4 이하인 <참격> 속성을 가진 캐릭터를 1장까지 액티브로 한다. 그 후, 이번 턴 동안, 자신은 리더를 어택할 수 없다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173028_926edfc22c"
+            },
+            {
+                "id": "OP06-027",
+                "number": "OP06-027",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "자이로",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "자이로 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【KO 시】상대의 코스트 3 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173042_836efc830a"
+            },
+            {
+                "id": "OP06-028",
+                "number": "OP06-028",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "제오",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "신 어인 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】자신의 리더가 《신 어인 해적단》 특징을 가진 경우, 자신의 두웅!!을 1장까지 액티브로 하고, 이번 턴 동안, 이 캐릭터의 파워 +1000. 그 후, 자신의 라이프 위에서 1장을 패에 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173058_1c489fef97"
+            },
+            {
+                "id": "OP06-029",
+                "number": "OP06-029",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "달마",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "신 어인 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】【턴 1회】자신의 리더가 《신 어인 해적단》 특징을 가진 경우, 이 캐릭터를 액티브로 하고, 이번 턴 동안, 이 캐릭터의 파워 +1000. 그 후, 자신의 라이프 위에서 1장을 패에 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173107_adcb2bbb4f"
+            },
+            {
+                "id": "OP06-030",
+                "number": "OP06-030",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "도슨",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "신 어인 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】자신의 리더가 《신 어인 해적단》 특징을 가진 경우, 다음 자신의 턴 개시 시까지, 이 캐릭터는 배틀에서는 KO 당하지 않으며 파워 +2000. 그 후, 자신의 라이프 위에서 1장을 패에 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173125_70de2eb23f"
+            },
+            {
+                "id": "OP06-031",
+                "number": "OP06-031",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "핫짱",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "자신의 패에서 코스트 3 이하인 《어인족》 또는 《인어족》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "전 아론 일당"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173135_223335b5a3"
+            },
+            {
+                "id": "OP06-032",
+                "number": "OP06-032",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "하몬드",
+                "cost": "2",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "신 어인 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173148_d2a66c4dfb"
+            },
+            {
+                "id": "OP06-033",
+                "number": "OP06-033",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "반더 덱켄 9세",
+                "cost": "2",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "플라잉 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패에서 《어인족》 특징을 가진 카드 1장을 버리거나, 자신의 패 또는 필드의 「방주 노아」 1장을 트래시에 놓을 수 있다: 상대의 레스트 상태인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173219_65096410e5"
+            },
+            {
+                "id": "OP06-034",
+                "number": "OP06-034",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "효조",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "인어족"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 하고, 이번 턴 동안, 이 캐릭터의 파워 +1000. 그 후, 자신의 라이프 위에서 1장을 패에 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173229_e16e55cba7"
+            },
+            {
+                "id": "OP06-035",
+                "number": "OP06-035",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "호디 존스",
+                "cost": "7",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "신 어인 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)\r\n【등장 시】상대의 캐릭터 또는 두웅!!을 합계 2장까지 레스트로 한다. 그 후, 자신의 라이프 위에서 1장을 패에 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173240_4f6ce12d2d"
+            },
+            {
+                "id": "OP06-035_P1",
+                "number": "OP06-035",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "호디 존스",
+                "cost": "7",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "신 어인 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)\r\n【등장 시】상대의 캐릭터 또는 두웅!!을 합계 2장까지 레스트로 한다. 그 후, 자신의 라이프 위에서 1장을 패에 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173247_e4259fc369"
+            },
+            {
+                "id": "OP06-036",
+                "number": "OP06-036",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "류마",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】/【KO 시】상대의 레스트 상태이고 코스트 4 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173254_e224f1c900"
+            },
+            {
+                "id": "OP06-037",
+                "number": "OP06-037",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "와다츠미",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "플라잉 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173304_29719200b4"
+            },
+            {
+                "id": "OP06-038",
+                "number": "OP06-038",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "일대·삼천·대천·세계",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "상대의 레스트 상태이고 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "밀짚모자 일당",
+                    "드레스로자"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000. 그 후, 자신의 레스트 상태인 카드가 8장 이상인 경우, 이번 배틀 동안, 그 카드의 파워 +2000.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173311_a54fe8faa7"
+            },
+            {
+                "id": "OP06-039",
+                "number": "OP06-039",
+                "type": "R",
+                "class": "이벤트",
+                "name": "너로는 심심풀이도 되지 않는다!!!",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】아래에서 하나를 선택한다.\r\n・상대의 코스트 6 이하인 캐릭터를 1장까지 레스트로 한다.\r\n・상대의 레스트 상태이고 코스트 6 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173319_ed585d8452"
+            },
+            {
+                "id": "OP06-040",
+                "number": "OP06-040",
+                "type": "C",
+                "class": "이벤트",
+                "name": "수시교",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "신 어인 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】상대의 레스트 상태이고 코스트 3 이하인 캐릭터를 2장까지 KO 시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173327_4f58adc959"
+            },
+            {
+                "id": "OP06-041",
+                "number": "OP06-041",
+                "type": "C",
+                "class": "스테이지",
+                "name": "방주 노아",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인섬"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 모든 캐릭터를 레스트로 한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173340_83f0810d0e"
+            },
+            {
+                "id": "OP06-042",
+                "number": "OP06-042",
+                "type": "L",
+                "class": "리더",
+                "name": "빈스모크 레이주",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색",
+                    "자색",
+                    "다색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【턴 1회】자신 필드의 두웅!!이 두웅!! 덱으로 되돌려졌을 때, 카드를 1장 뽑는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173406_6cceeb5125"
+            },
+            {
+                "id": "OP06-042_P1",
+                "number": "OP06-042",
+                "type": "L",
+                "class": "리더",
+                "name": "빈스모크 레이주",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색",
+                    "자색",
+                    "다색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【턴 1회】자신 필드의 두웅!!이 두웅!! 덱으로 되돌려졌을 때, 카드를 1장 뽑는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173413_281026bb4a"
+            },
+            {
+                "id": "OP06-043",
+                "number": "OP06-043",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "아라마키",
+                "cost": "8",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【기동: 메인】【턴 1회】자신의 패 1장을 버리고, 코스트 2 이하인 캐릭터 1장을 주인의 덱 맨 아래로 되돌릴 수 있다: 이번 턴 동안, 이 캐릭터의 파워 +3000.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173422_8d24b64b3f"
+            },
+            {
+                "id": "OP06-043_P1",
+                "number": "OP06-043",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "아라마키",
+                "cost": "8",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【기동: 메인】【턴 1회】자신의 패 1장을 버리고, 코스트 2 이하인 캐릭터 1장을 주인의 덱 맨 아래로 되돌릴 수 있다: 이번 턴 동안, 이 캐릭터의 파워 +3000.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173430_bf655a859c"
+            },
+            {
+                "id": "OP06-044",
+                "number": "OP06-044",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "기온",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【턴 1회】상대가 이벤트를 발동했을 때, 상대는 자신의 패 1장을 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173441_50e527fc7f"
+            },
+            {
+                "id": "OP06-045",
+                "number": "OP06-045",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "쿠잔",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】카드 2장을 뽑고, 자신의 패 2장을 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173453_d71092acce"
+            },
+            {
+                "id": "OP06-046",
+                "number": "OP06-046",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "사카즈키",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】코스트 2 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173509_f617127b0e"
+            },
+            {
+                "id": "OP06-047",
+                "number": "OP06-047",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "샬롯 푸딩",
+                "cost": "4",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대는 자신의 모든 패를 덱으로 되돌리고 섞는다. 그 후, 상대는 카드를 5장 뽑는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173518_461a0ed385"
+            },
+            {
+                "id": "OP06-048",
+                "number": "OP06-048",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "제프",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】상대가 【블로커】 또는 이벤트를 발동했을 때, 자신의 리더가 《이스트 블루》 특징을 가진 경우, 자신의 덱 위에서 4장을 트래시에 놓을 수 있다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173526_d976d422e1"
+            },
+            {
+                "id": "OP06-049",
+                "number": "OP06-049",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "센고쿠",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173544_07ea544253"
+            },
+            {
+                "id": "OP06-050",
+                "number": "OP06-050",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "타시기",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「타시기」 이외의 《해군》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173621_46c3bcc13d"
+            },
+            {
+                "id": "OP06-050_P1",
+                "number": "OP06-050",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "타시기",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「타시기」 이외의 《해군》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173631_d8a3e4f96f"
+            },
+            {
+                "id": "OP06-051",
+                "number": "OP06-051",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "츠루",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패 2장을 버릴 수 있다: 상대는 자신의 캐릭터 1장을 주인의 패로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173639_5306028886"
+            },
+            {
+                "id": "OP06-052",
+                "number": "OP06-052",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "토키카케",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】자신의 패가 4장 이하인 경우, 이 캐릭터는 배틀에서는 KO 당하지 않는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173647_a4ee9675f1"
+            },
+            {
+                "id": "OP06-053",
+                "number": "OP06-053",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "하그왈 D. 사우로",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "거인족",
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【KO 시】코스트 2 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173700_257358335a"
+            },
+            {
+                "id": "OP06-054",
+                "number": "OP06-054",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "볼사리노",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 패가 5장 이하인 경우, 이 캐릭터는 【블로커】를 얻는다.\r\n(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173712_e58268b372"
+            },
+            {
+                "id": "OP06-055",
+                "number": "OP06-055",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "몽키 D. 가프",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×2】【어택 시】자신의 패가 4장 이하인 경우, 이번 배틀 동안, 상대는 【블로커】를 발동할 수 없다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173729_146d349b76"
+            },
+            {
+                "id": "OP06-056",
+                "number": "OP06-056",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "천총운검",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】상대의 코스트 2 이하인 캐릭터 1장까지와 코스트 1 이하인 캐릭터를 1장까지 원하는 순서대로 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173741_dbc33ac7a8"
+            },
+            {
+                "id": "OP06-057",
+                "number": "OP06-057",
+                "type": "C",
+                "class": "이벤트",
+                "name": "난 여자의 눈물을 의심하지 않앗!!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "자신의 패에서 코스트 2인 캐릭터 카드를 1장까지 등장시킨다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "드레스로자",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +1000. 그 후, 자신의 덱 위에서 1장을 공개하고 코스트 2인 캐릭터 카드를 1장까지 등장시키고 남은 카드를 덱 맨 위나 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173755_15a7ca670c"
+            },
+            {
+                "id": "OP06-058",
+                "number": "OP06-058",
+                "type": "R",
+                "class": "이벤트",
+                "name": "중력도 맹호",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "코스트 5 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】코스트 6 이하인 캐릭터를 2장까지 원하는 순서대로 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173808_624f910259"
+            },
+            {
+                "id": "OP06-059",
+                "number": "OP06-059",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "화이트 스네이크",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "자신의 덱 위에서 5장을 보고, 원하는 순서대로 덱 맨 위나 아래로 되돌린다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +1000 하고, 카드를 1장 뽑는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173837_3694d41f82"
+            },
+            {
+                "id": "OP06-060",
+                "number": "OP06-060",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "빈스모크 이치디",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다), 이 캐릭터를 트래시에 놓을 수 있다: 자신의 리더가 《제르마 66》 특징을 가진 경우, 자신의 패 또는 트래시에서 코스트 7인 「빈스모크 이치디」를 1장까지 등장시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173853_250120d5b9"
+            },
+            {
+                "id": "OP06-061",
+                "number": "OP06-061",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "빈스모크 이치디",
+                "cost": "7",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "N/A",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -2000 하고, 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173914_d85c250319"
+            },
+            {
+                "id": "OP06-061_P1",
+                "number": "OP06-061",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "빈스모크 이치디",
+                "cost": "7",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "N/A",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -2000 하고, 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173926_3122a61174"
+            },
+            {
+                "id": "OP06-062",
+                "number": "OP06-062",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "빈스모크 저지",
+                "cost": "8",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "N/A",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다), 자신의 패 2장을 버릴 수 있다: 자신의 트래시에서 카드명이 다른 파워 4000 이하인 《제르마 66》 특징을 가진 캐릭터 카드를 4장까지 등장시킨다.\r\n【기동: 메인】【턴 1회】두웅!!-1: 상대의 두웅!!을 1장까지 레스트로 한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173940_1789d7ae23"
+            },
+            {
+                "id": "OP06-062_P1",
+                "number": "OP06-062",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "빈스모크 저지",
+                "cost": "8",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "N/A",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다), 자신의 패 2장을 버릴 수 있다: 자신의 트래시에서 카드명이 다른 파워 4000 이하인 《제르마 66》 특징을 가진 캐릭터 카드를 4장까지 등장시킨다.\r\n【기동: 메인】【턴 1회】두웅!!-1: 상대의 두웅!!을 1장까지 레스트로 한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_173953_929ffe60cc"
+            },
+            {
+                "id": "OP06-063",
+                "number": "OP06-063",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "빈스모크 소라",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패 1장을 버릴 수 있다: 자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 자신의 트래시에서 파워 4000 이하인 《빈스모크 가문》 특징을 가진 캐릭터 카드를 1장까지 패에 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250425_094315_9611892bb1"
+            },
+            {
+                "id": "OP06-064",
+                "number": "OP06-064",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "빈스모크 니디",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다), 이 캐릭터를 트래시에 놓을 수 있다: 자신의 리더가 《제르마 66》 특징을 가진 경우, 자신의 패 또는 트래시에서 코스트 5인 「빈스모크 니디」를 1장까지 등장시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174017_fd07186eb4"
+            },
+            {
+                "id": "OP06-065",
+                "number": "OP06-065",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "빈스모크 니디",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 아래에서 하나를 선택한다.\r\n・상대의 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.\r\n・상대의 코스트 4 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174027_b2772a2e7b"
+            },
+            {
+                "id": "OP06-066",
+                "number": "OP06-066",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "빈스모크 욘디",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다), 이 캐릭터를 트래시에 놓을 수 있다: 자신의 리더가 《제르마 66》 특징을 가진 경우, 자신의 패 또는 트래시에서 코스트 4인 「빈스모크 욘디」를 1장까지 등장시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174039_92701120fb"
+            },
+            {
+                "id": "OP06-067",
+                "number": "OP06-067",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "빈스모크 욘디",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 이 캐릭터의 파워 +1000.\r\n【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174105_402327a668"
+            },
+            {
+                "id": "OP06-068",
+                "number": "OP06-068",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "빈스모크 레이주",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다), 이 캐릭터를 트래시에 놓을 수 있다: 자신의 리더가 《제르마 66》 특징을 가진 경우, 자신의 패 또는 트래시에서 코스트 4인 「빈스모크 레이주」를 1장까지 등장시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174114_e5d506cf81"
+            },
+            {
+                "id": "OP06-069",
+                "number": "OP06-069",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "빈스모크 레이주",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하이고, 자신의 패가 5장 이하인 경우, 카드를 2장 뽑는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174124_ecc4fa53ad"
+            },
+            {
+                "id": "OP06-069_P1",
+                "number": "OP06-069",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "빈스모크 레이주",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하이고, 자신의 패가 5장 이하인 경우, 카드를 2장 뽑는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174144_d57897327b"
+            },
+            {
+                "id": "OP06-070",
+                "number": "OP06-070",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "엘도라고",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "엘도라고 일당"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174154_378573a592"
+            },
+            {
+                "id": "OP06-071",
+                "number": "OP06-071",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "길드 테소로",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "그랑 테소로"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 리더가 《FILM》 특징을 가진 경우, 자신의 트래시에서 《FILM》 특징을 가진 코스트 4 이하인 캐릭터 카드를 2장까지 패에 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174204_544e58e8f8"
+            },
+            {
+                "id": "OP06-072",
+                "number": "OP06-072",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "코제트",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "제르마 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 리더가 《제르마 66》 특징을 가지고, 자신 필드의 두웅!! 수가 상대보다 2장 이상 적을 경우, 이 캐릭터는 【블로커】를 얻는다.\r\n(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174529_ead077d840"
+            },
+            {
+                "id": "OP06-073",
+                "number": "OP06-073",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "시키",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "금사자 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신 필드의 두웅!!이 8장 이상인 경우, 카드를 1장 뽑고, 자신의 패 1장을 버린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174548_cbb29b28c4"
+            },
+            {
+                "id": "OP06-074",
+                "number": "OP06-074",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "제파",
+                "cost": "7",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "N/A",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 이번 턴 동안, 상대의 캐릭터 1장까지의 효과를 무효로 한다. 그 후, 그 캐릭터의 파워가 5000 이하인 경우, KO 시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174607_28ee81e947"
+            },
+            {
+                "id": "OP06-075",
+                "number": "OP06-075",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "버틀러 백작",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "왕관섬"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 2 이하인 캐릭터를 2장까지 레스트로 한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174804_710cd33274"
+            },
+            {
+                "id": "OP06-076",
+                "number": "OP06-076",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "살인귀 카마조",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "초신성",
+                    "키드 해적단",
+                    "SMILE"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【턴 1회】자신 필드의 두웅!!이 두웅!! 덱으로 되돌려졌을 때, 상대의 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174840_00a68f7e4b"
+            },
+            {
+                "id": "OP06-077",
+                "number": "OP06-077",
+                "type": "R",
+                "class": "이벤트",
+                "name": "블랙 버그",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "상대의 코스트 4 이하인 캐릭터를 1장까지 주인이 덱 맨 아래로 되돌린다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 상대의 코스트 5 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174915_1687349aad"
+            },
+            {
+                "id": "OP06-078",
+                "number": "OP06-078",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "제르마 66",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "카드를 1장 뽑는다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】자신의 덱 위에서 5장을 보고, 「제르마 66」 이외의 『제르마』를 포함한 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_174923_fe4f982456"
+            },
+            {
+                "id": "OP06-079",
+                "number": "OP06-079",
+                "type": "C",
+                "class": "스테이지",
+                "name": "제르마 왕국",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "제르마 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】자신의 패 1장을 버리고, 이 스테이지를 레스트할 수 있다: 자신의 덱 위에서 3장을 보고, 『제르마』를 포함한 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175020_9d3671ed82"
+            },
+            {
+                "id": "OP06-080",
+                "number": "OP06-080",
+                "type": "L",
+                "class": "리더",
+                "name": "겟코 모리아",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】②(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 자신의 패 1장을 버릴 수 있다: 자신의 덱 위에서 2장을 트래시에 놓고, 자신의 트래시에서 코스트 4 이하인 《스릴러 바크 해적단》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175030_8c492846ba"
+            },
+            {
+                "id": "OP06-080_P1",
+                "number": "OP06-080",
+                "type": "L",
+                "class": "리더",
+                "name": "겟코 모리아",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】②(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 자신의 패 1장을 버릴 수 있다: 자신의 덱 위에서 2장을 트래시에 놓고, 자신의 트래시에서 코스트 4 이하인 《스릴러 바크 해적단》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175037_8f87cb9cb2"
+            },
+            {
+                "id": "OP06-081",
+                "number": "OP06-081",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "압살롬",
+                "cost": "4",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 트래시에서 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175128_225995c10b"
+            },
+            {
+                "id": "OP06-081_P1",
+                "number": "OP06-081",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "압살롬",
+                "cost": "4",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 트래시에서 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175136_b921110642"
+            },
+            {
+                "id": "OP06-082",
+                "number": "OP06-082",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "개펭귄",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】/【KO 시】자신의 리더가 《스릴러 바크 해적단》 특징을 가진 경우, 카드를 2장 뽑고, 자신의 패 2장을 버린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175147_4ec906f0b3"
+            },
+            {
+                "id": "OP06-083",
+                "number": "OP06-083",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "오즈",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "거인족",
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "이 캐릭터는 어택할 수 없다.\r\n【기동: 메인】자신의 《스릴러 바크 해적단》 특징을 가진 캐릭터 1장을 KO 시킬 수 있다: 이번 턴 동안, 이 캐릭터의 효과를 무효로 한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175153_70be672dde"
+            },
+            {
+                "id": "OP06-084",
+                "number": "OP06-084",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "바람의 지고로",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【KO 시】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +1000.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175347_f09c5dd890"
+            },
+            {
+                "id": "OP06-085",
+                "number": "OP06-085",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "쿠마시",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×2】【자신의 턴 동안】자신의 트래시에 있는 카드 5장당, 이 캐릭터의 파워 +1000.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175358_47b3deb35d"
+            },
+            {
+                "id": "OP06-086",
+                "number": "OP06-086",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "겟코 모리아",
+                "cost": "8",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 트래시에서 코스트 4 이하인 캐릭터 카드 1장까지와 코스트 2 이하인 캐릭터 카드를 1장까지 선택해 1장을 등장시키고 나머지는 레스트 상태로 등장시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175552_a84835f7bc"
+            },
+            {
+                "id": "OP06-086_P1",
+                "number": "OP06-086",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "겟코 모리아",
+                "cost": "8",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 트래시에서 코스트 4 이하인 캐릭터 카드 1장까지와 코스트 2 이하인 캐릭터 카드를 1장까지 선택해 1장을 등장시키고 나머지는 레스트 상태로 등장시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175600_e818415135"
+            },
+            {
+                "id": "OP06-087",
+                "number": "OP06-087",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "케르베로스",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175608_6e2d87890a"
+            },
+            {
+                "id": "OP06-088",
+                "number": "OP06-088",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "사이",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "드레스로자",
+                    "팔보수군"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 리더가 《드레스로자》 특징을 가지고, 자신의 리더가 액티브 상태인 경우, 이 캐릭터의 파워 +2000.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175625_32955f4aa4"
+            },
+            {
+                "id": "OP06-089",
+                "number": "OP06-089",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "타라란",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】/【KO 시】자신의 덱 위에서 3장을 트래시에 놓는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175635_71861de366"
+            },
+            {
+                "id": "OP06-090",
+                "number": "OP06-090",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "Dr. 호그백",
+                "cost": "4",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 트래시에서 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 자신의 트래시에서 「Dr. 호그백」 이외의 《스릴러 바크 해적단》 특징을 가진 카드를 1장까지 패에 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175644_f98d71f7eb"
+            },
+            {
+                "id": "OP06-091",
+                "number": "OP06-091",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "빅토리아 신드리",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 리더가 《스릴러 바크 해적단》 특징을 가진 경우, 덱 위에서 5장을 트래시에 놓는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175707_aa4f217c47"
+            },
+            {
+                "id": "OP06-092",
+                "number": "OP06-092",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "브룩",
+                "cost": "6",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "전 룸바 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】아래에서 하나를 선택한다.\r\n・상대의 코스트 4 이하인 캐릭터를 1장까지 트래시로 보낸다.\r\n・상대는 자신의 트래시에서 카드 3장을 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175718_c0c477f944"
+            },
+            {
+                "id": "OP06-093",
+                "number": "OP06-093",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "페로나",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 패가 5장 이상인 경우, 아래에서 하나를 선택한다.\r\n・상대는 자신의 패 1장을 버린다.\r\n・이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -3.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175746_061842981d"
+            },
+            {
+                "id": "OP06-093_P1",
+                "number": "OP06-093",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "페로나",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 패가 5장 이상인 경우, 아래에서 하나를 선택한다.\r\n・상대는 자신의 패 1장을 버린다.\r\n・이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -3.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175754_d211c932b2"
+            },
+            {
+                "id": "OP06-094",
+                "number": "OP06-094",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "로라",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175802_4f1fe03fdd"
+            },
+            {
+                "id": "OP06-095",
+                "number": "OP06-095",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "섀도우즈 아스가르드",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "카드를 2장 뽑고, 자신의 패 1장을 버린다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】/【카운터】이번 턴 동안, 자신의 리더의 파워 +1000. 그 후, 자신의 코스트 2 이하인 《스릴러 바크 해적단》 특징을 가진 캐릭터를 원하는 수만큼 KO 시킬 수 있다. 이번 턴 동안, KO 시킨 캐릭터 1장당 자신의 리더의 파워 +1000.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175811_ad42e000fb"
+            },
+            {
+                "id": "OP06-096",
+                "number": "OP06-096",
+                "type": "C",
+                "class": "이벤트",
+                "name": "…아무 일!!! 없었다…!!!!",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "이 카드의 【카운터】 효과를 발동한다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】자신의 라이프 위에서 1장을 패에 더할 수 있다: 이번 턴 동안, 자신의 코스트 7 이하인 모든 캐릭터는 배틀에서는 KO 당하지 않는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175818_72a7ad2d52"
+            },
+            {
+                "id": "OP06-097",
+                "number": "OP06-097",
+                "type": "R",
+                "class": "이벤트",
+                "name": "네거티브 홀로우",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】상대의 패 1장을 버린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175826_b54b2bf138"
+            },
+            {
+                "id": "OP06-098",
+                "number": "OP06-098",
+                "type": "C",
+                "class": "스테이지",
+                "name": "스릴러 바크",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 이 스테이지를 레스트할 수 있다: 자신의 리더가 《스릴러 바크 해적단》 특징을 가진 경우, 자신의 트래시에서 코스트 2 이하인 《스릴러 바크 해적단》 특징을 가진 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175833_02caf563c0"
+            },
+            {
+                "id": "OP06-099",
+                "number": "OP06-099",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "아이사",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신 또는 상대의 라이프 위에서 1장까지를 보고, 라이프 맨 위나 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175840_a7d98c270e"
+            },
+            {
+                "id": "OP06-100",
+                "number": "OP06-100",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "이누아라시",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "상대의 라이프가 3장 이하인 경우, 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "밍크족",
+                    "와노쿠니",
+                    "아카자야 9남자"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×2】【어택 시】자신의 패 1장을 버릴 수 있다: 상대의 라이프 수 이하의 코스트를 가진 상대의 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175847_ed862a94d5"
+            },
+            {
+                "id": "OP06-101",
+                "number": "OP06-101",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "오나미",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "상대의 코스트 5 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지는 【배니시】를 얻는다.\r\n(이 카드가 대미지를 주었을 경우, 트리거는 발동하지 않으며 그 카드는 트래시로 보내진다)",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175858_c275d76093"
+            },
+            {
+                "id": "OP06-101_P1",
+                "number": "OP06-101",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "오나미",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "상대의 코스트 5 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지는 【배니시】를 얻는다.\r\n(이 카드가 대미지를 주었을 경우, 트리거는 발동하지 않으며 그 카드는 트래시로 보내진다)",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175915_2a253200ae"
+            },
+            {
+                "id": "OP06-102",
+                "number": "OP06-102",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "카마키리",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "자신의 라이프가 2장 이하인 경우, 이 카드를 등장시킨다.",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬",
+                    "샨도라의 전사"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】코스트 1인 스테이지 1장을 주인의 덱 맨 아래로 되돌릴 수 있다: 상대의 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175924_0ed6668733"
+            },
+            {
+                "id": "OP06-103",
+                "number": "OP06-103",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "카와마츠",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "상대의 라이프가 3장 이하인 경우, 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "어인족",
+                    "와노쿠니",
+                    "아카자야 9남자"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】자신의 패 2장을 버릴 수 있다: 자신의 파워 0인 캐릭터를 1장까지 주인의 라이프 맨 위나 아래에 앞면으로 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175933_8ed1d71612"
+            },
+            {
+                "id": "OP06-104",
+                "number": "OP06-104",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "키쿠노죠",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "상대의 라이프가 3장 이하인 경우, 이 카드를 등장시킨다.",
+                "power": "6000",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "아카자야 9남자"
+                ],
+                "block_icon": "2",
+                "effect": "【KO 시】상대의 라이프가 3장 이하인 경우, 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175940_5517685491"
+            },
+            {
+                "id": "OP06-105",
+                "number": "OP06-105",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "겐보우",
+                "cost": "3",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬",
+                    "샨도라의 전사"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_175949_a8bd9e2c75"
+            },
+            {
+                "id": "OP06-106",
+                "number": "OP06-106",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "코즈키 히요리",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "코즈키 가문"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 라이프의 위나 아래에서 1장을 패에 더할 수 있다: 자신의 패 1장까지를 라이프 맨 위에 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180016_2bd229bcc9"
+            },
+            {
+                "id": "OP06-106_P1",
+                "number": "OP06-106",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "코즈키 히요리",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "코즈키 가문"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 라이프의 위나 아래에서 1장을 패에 더할 수 있다: 자신의 패 1장까지를 라이프 맨 위에 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180022_f829b8c6b8"
+            },
+            {
+                "id": "OP06-107",
+                "number": "OP06-107",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "코즈키 모모노스케",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "코즈키 가문"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 「코즈키 모모노스케」 이외의 《와노쿠니》 특징을 가진 캐릭터를 1장까지 주인의 라이프 맨 위나 아래에 앞면으로 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180242_f02ab12c53"
+            },
+            {
+                "id": "OP06-107_P1",
+                "number": "OP06-107",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "코즈키 모모노스케",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "코즈키 가문"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 「코즈키 모모노스케」 이외의 《와노쿠니》 특징을 가진 캐릭터를 1장까지 주인의 라이프 맨 위나 아래에 앞면으로 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180249_be4155b8b4"
+            },
+            {
+                "id": "OP06-108",
+                "number": "OP06-108",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "텐구야마 히테츠",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "이번 턴 동안, 자신의 《와노쿠니》 특징을 가진 리더 또는 캐릭터 1장까지의 파워 +2000.",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "코즈키 가문"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180256_2cebdacdae"
+            },
+            {
+                "id": "OP06-109",
+                "number": "OP06-109",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "덴지로",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "상대의 라이프가 3장 이하인 경우, 이 카드를 등장시킨다.",
+                "power": "6000",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "아카자야 9남자"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×2】상대의 라이프가 3장 이하인 경우, 이 캐릭터는 효과로는 KO 당하지 않는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180317_b7a6d41092"
+            },
+            {
+                "id": "OP06-110",
+                "number": "OP06-110",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "네코마무시",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "상대의 라이프가 3장 이하인 경우, 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "밍크족",
+                    "와노쿠니",
+                    "아카자야 9남자"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×2】이 캐릭터는 상대의 액티브 상태인 캐릭터도 어택할 수 있다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180326_501e191efe"
+            },
+            {
+                "id": "OP06-111",
+                "number": "OP06-111",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "브라함",
+                "cost": "3",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "자신의 라이프가 2장 이하인 경우, 이 카드를 등장시킨다.",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬",
+                    "샨도라의 전사"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】코스트 1인 스테이지 1장을 주인의 덱 맨 아래로 되돌릴 수 있다: 상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180335_374f2e369e"
+            },
+            {
+                "id": "OP06-112",
+                "number": "OP06-112",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "라이조",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "상대의 라이프가 3장 이하인 경우, 이 카드를 등장시킨다.",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "아카자야 9남자"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】자신의 패 1장을 버릴 수 있다: 상대의 두웅!!을 1장까지 레스트로 한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180344_dd47c7744b"
+            },
+            {
+                "id": "OP06-113",
+                "number": "OP06-113",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "라키",
+                "cost": "1",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬",
+                    "샨도라의 전사"
+                ],
+                "block_icon": "2",
+                "effect": "「라키」 이외의 자신의 《샨도라의 전사》 특징을 가진 캐릭터가 있을 경우, 이 캐릭터는 【블로커】를 얻는다.\r\n(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180352_cdd87a52ff"
+            },
+            {
+                "id": "OP06-114",
+                "number": "OP06-114",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "와이퍼",
+                "cost": "5",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬",
+                    "샨도라의 전사"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】코스트 1인 스테이지 1장을 주인의 덱 맨 아래로 되돌릴 수 있다: 자신의 덱 위에서 5장을 보고, 「어퍼 야드」 또는 《샨도라의 전사》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180359_8e63194d09"
+            },
+            {
+                "id": "OP06-115",
+                "number": "OP06-115",
+                "type": "R",
+                "class": "이벤트",
+                "name": "네가 꺼져라.",
+                "cost": "0",
+                "attribute": [],
+                "trigger": "자신의 라이프가 0장인 경우, 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다. 그 후, 자신의 패 1장을 버린다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】자신의 패 1장을 버릴 수 있다: 이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +3000.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180408_7fdf089ad0"
+            },
+            {
+                "id": "OP06-116",
+                "number": "OP06-116",
+                "type": "R",
+                "class": "이벤트",
+                "name": "리젝트",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "카드를 1장 뽑는다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬",
+                    "샨도라의 전사"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】아래에서 하나를 선택한다.\r\n・상대의 코스트 5 이하인 캐릭터를 1장까지 KO 시킨다.\r\n・상대의 라이프가 1장인 경우, 상대에게 1 대미지를 준다. 그 후, 자신의 라이프 위에서 1장을 패에 더한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180429_4680941627"
+            },
+            {
+                "id": "OP06-117",
+                "number": "OP06-117",
+                "type": "C",
+                "class": "N/A",
+                "name": "방주 맥심",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】이 카드와 자신의 「에넬」 1장을 레스트할 수 있다: 상대의 코스트 2 이하인 모든 캐릭터를 KO 시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180437_dd157e669a"
+            },
+            {
+                "id": "OP06-118",
+                "number": "OP06-118",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "롤로노아 조로",
+                "cost": "9",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】【턴 1회】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 이 캐릭터를 액티브로 한다.\r\n【기동: 메인】【턴 1회】②(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 이 캐릭터를 액티브로 한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180446_9508bc1614"
+            },
+            {
+                "id": "OP06-118_P1",
+                "number": "OP06-118",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "롤로노아 조로",
+                "cost": "9",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】【턴 1회】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 이 캐릭터를 액티브로 한다.\r\n【기동: 메인】【턴 1회】②(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 이 캐릭터를 액티브로 한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180506_43234a7afd"
+            },
+            {
+                "id": "OP06-118_P2",
+                "number": "OP06-118",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "롤로노아 조로",
+                "cost": "9",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】【턴 1회】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 이 캐릭터를 액티브로 한다.\r\n【기동: 메인】【턴 1회】②(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 이 캐릭터를 액티브로 한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180514_dfbb6c277c"
+            },
+            {
+                "id": "OP06-119",
+                "number": "OP06-119",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "상디",
+                "cost": "9",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 1장을 공개하고 「상디」 이외의 코스트 9 이하인 캐릭터를 1장까지 등장시킨다. 그 후, 남은 카드를 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180522_f8f13f1624"
+            },
+            {
+                "id": "OP06-119_P1",
+                "number": "OP06-119",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "상디",
+                "cost": "9",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 1장을 공개하고 「상디」 이외의 코스트 9 이하인 캐릭터를 1장까지 등장시킨다. 그 후, 남은 카드를 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180528_57dabb28f6"
+            },
+            {
+                "id": "OP03-008_P1",
+                "number": "OP03-008",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "버기",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "N/A",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "버기 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "이 캐릭터는 <참격> 속성을 가진 카드와의 배틀에서는 KO 당하지 않는다.\r\n【등장 시】자신의 덱 위에서 5장을 보고, 적색 이벤트를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180553_c47f7ff8dd"
+            },
+            {
+                "id": "OP03-114_P2",
+                "number": "OP03-114",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "샬롯 링링",
+                "cost": "10",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "사황",
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 리더가 《빅 맘 해적단》 특징을 가진 경우, 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다. 그 후, 상대의 라이프 위에서 1장까지를 트래시에 놓는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180638_9a30581e4b"
+            },
+            {
+                "id": "OP04-024_P2",
+                "number": "OP04-024",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "슈거",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【상대의 턴 동안】【턴 1회】상대가 캐릭터를 등장시켰을 때, 자신의 리더가 《돈키호테 해적단》 특징을 가진 경우, 상대의 캐릭터를 1장까지 레스트로 한다. 그 후, 이 캐릭터를 레스트 한다.\r\n【등장 시】상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180602_76883bd239"
+            },
+            {
+                "id": "OP04-064_P2",
+                "number": "OP04-064",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "미스 올 선데이",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "두웅!!-2(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "N/A",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "바로크 워크스"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다. 그 후, 자신 필드에 두웅!!이 6장 이상인 경우, 카드를 1장 뽑는다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180620_9eb64d57c2"
+            },
+            {
+                "id": "OP05-051_P2",
+                "number": "OP05-051",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "볼사리노",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "N/A",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】코스트 4 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180612_9f414653e0"
+            },
+            {
+                "id": "OP05-091_P2",
+                "number": "OP05-091",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "레베카",
+                "cost": "4",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "드레스로자"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 트래시에서 「레베카」 이외의 코스트 3에서 7인 흑색 캐릭터 카드를 1장까지 패에 더한다. 그 후, 자신의 패에서 코스트 3 이하인 흑색 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다.",
+                "card_set": "[OPK-06] 부스터 팩 쌍벽의 패자",
+                "image_url": "/fileDownload?downname=20250424_180630_7b586a8df1"
+            }
+        ]
+    }
+}

@@ -1,0 +1,3413 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 554106,
+        "language": "zh-Hant"
+    },
+    "data": {
+        "code": "OP06",
+        "cards": [
+            {
+                "id": "OP06-001",
+                "number": "OP06-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "美音",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紅",
+                    "紫"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "【攻擊時】可以廢棄1張自己手牌中擁有《FILM》特徵的卡片：最多1張對手的角色卡，在這個回合，力量值-2000。之後，從咚‼卡組追加最多1張休息狀態的咚‼卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-001.png"
+            },
+            {
+                "id": "OP06-001_p1",
+                "number": "OP06-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "美音(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紅",
+                    "紫"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "【攻擊時】可以廢棄1張自己手牌中擁有《FILM》特徵的卡片：最多1張對手的角色卡，在這個回合，力量值-2000。之後，從咚‼卡組追加最多1張休息狀態的咚‼卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-001_p1.png"
+            },
+            {
+                "id": "OP06-002",
+                "number": "OP06-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "雷電",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "革命軍"
+                ],
+                "block_icon": "2",
+                "effect": "若這張角色卡的力量值7000以上時，這張角色卡獲得【消失】。 (若這張卡片造成傷害時，觸發器不會發動且該張卡片即放置到廢棄區)",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-002.png"
+            },
+            {
+                "id": "OP06-003",
+                "number": "OP06-003",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "艾波利歐・伊娃柯夫",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "革命軍"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】從自己的卡組上面查看3張卡片，使最多1張力量值5000以下擁有《革命軍》特徵的角色卡登場。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-003.png"
+            },
+            {
+                "id": "OP06-004",
+                "number": "OP06-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "祭典男爵",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "祭典島"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】使最多1張自己手牌中的「莉莉康乃馨」登場。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-004.png"
+            },
+            {
+                "id": "OP06-005",
+                "number": "OP06-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "嘉斯帕德",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "前海軍",
+                    "嘉斯帕德海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-005.png"
+            },
+            {
+                "id": "OP06-006",
+                "number": "OP06-006",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "薩卡",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "阿斯卡島"
+                ],
+                "block_icon": "2",
+                "effect": "【咚‼×1】【攻擊時】這張角色卡，到下一個我方回合開始前，力量值+1000。之後，這回合結束時，將1張自己擁有《FILM》特徵的角色卡放置到廢棄區。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-006.png"
+            },
+            {
+                "id": "OP06-007",
+                "number": "OP06-007",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "傑克",
+                "cost": "10",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "四皇",
+                    "紅髮海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】KO最多1張對手力量值10000以下的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-007.png"
+            },
+            {
+                "id": "OP06-007_p1",
+                "number": "OP06-007",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "傑克(異圖卡)",
+                "cost": "10",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "四皇",
+                    "紅髮海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】KO最多1張對手力量值10000以下的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-007_p1.png"
+            },
+            {
+                "id": "OP06-008",
+                "number": "OP06-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "舒奈德",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "追逐草帽大冒險"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-008.png"
+            },
+            {
+                "id": "OP06-009",
+                "number": "OP06-009",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "蕭萊亞",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "造船町"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【攻擊時】/【防禦時】【每回合1次】這張角色卡，到下一個我方回合開始前，力量值變成和對手的領航卡相同。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-009.png"
+            },
+            {
+                "id": "OP06-009_p1",
+                "number": "OP06-009",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "蕭萊亞(異圖卡)",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "造船町"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【攻擊時】/【防禦時】【每回合1次】這張角色卡，到下一個我方回合開始前，力量值變成和對手的領航卡相同。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-009_p1.png"
+            },
+            {
+                "id": "OP06-010",
+                "number": "OP06-010",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "道格拉斯・巴列德",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "海賊萬博會"
+                ],
+                "block_icon": "2",
+                "effect": "若自己的領航卡擁有《FILM》特徵時，這張角色卡獲得【防禦】。 (對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-010.png"
+            },
+            {
+                "id": "OP06-011",
+                "number": "OP06-011",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "消逝之歌",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】【每回合1次】可將1張自己的「美音」置為休息狀態：這張角色卡，在這個回合，力量值+5000。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-011.png"
+            },
+            {
+                "id": "OP06-012",
+                "number": "OP06-012",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "大熊王",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "撲克牌海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "若場上有對手原本力量值6000以上的領航卡或角色卡時，這張角色卡在對戰中不會遭到KO。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-012.png"
+            },
+            {
+                "id": "OP06-013",
+                "number": "OP06-013",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "蒙其・D・魯夫",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【登場時】效果。",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】從自己的卡組上面查看3張卡片，公開最多1張擁有《FILM》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-013.png"
+            },
+            {
+                "id": "OP06-013_p1",
+                "number": "OP06-013",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "蒙其・D・魯夫(異圖卡)",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【登場時】效果。",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】從自己的卡組上面查看3張卡片，公開最多1張擁有《FILM》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-013_p1.png"
+            },
+            {
+                "id": "OP06-014",
+                "number": "OP06-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "拉傑特",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "機關島"
+                ],
+                "block_icon": "2",
+                "effect": "【對方攻擊時】可以廢棄自己手牌中擁有《FILM》特徵任意張數的卡片。每廢棄1張卡片，1張自己的領航卡或角色卡，在這場對戰中，力量值+1000。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-014.png"
+            },
+            {
+                "id": "OP06-015",
+                "number": "OP06-015",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "莉莉康乃馨",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "祭典島"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】【每回合1次】可將1張自己力量值6000以上的角色卡放置到廢棄區：使最多1張自己廢棄區中力量值2000至5000擁有《FILM》特徵的角色卡，以休息狀態登。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-015.png"
+            },
+            {
+                "id": "OP06-016",
+                "number": "OP06-016",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "雷茲・馬克斯",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "革命軍"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】可將這張角色卡放置在持有者的卡組下面：最多1張對手的角色卡，在這個回合，力量值-3000。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-016.png"
+            },
+            {
+                "id": "OP06-017",
+                "number": "OP06-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "戀愛之流星飛踢",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】/【反擊】可將1張自己的生命值卡加入手牌：最多1張自己的領航卡或角色卡，在這個回合，力量值+3000。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-017.png"
+            },
+            {
+                "id": "OP06-018",
+                "number": "OP06-018",
+                "type": "R",
+                "class": "EVENT",
+                "name": "橡膠大猿王槍亂打",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】KO最多1張對手力量值5000以下的角色卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】最多1張自己的領航卡或角色卡，在這個回合，力量值+3000。之後，若場上有對手力量值7000以上的角色卡時，最多1張自己的領航卡或角色卡，在這個回合，力量值+1000。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-018.png"
+            },
+            {
+                "id": "OP06-019",
+                "number": "OP06-019",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "青龍印・流水",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】KO最多1張對手力量值4000以下的角色卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】KO最多1張對手力量值5000以下的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-019.png"
+            },
+            {
+                "id": "OP06-020",
+                "number": "OP06-020",
+                "type": "L",
+                "class": "LEADER",
+                "name": "荷帝・瓊斯",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "新魚人海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】可將這張領航卡置為休息狀態：將最多1張對手費用3以下的角色卡或咚‼卡置為休息狀態。之後，在這個回合，自己無法以自己的效果將生命值卡加入手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-020.png"
+            },
+            {
+                "id": "OP06-020_p1",
+                "number": "OP06-020",
+                "type": "L",
+                "class": "LEADER",
+                "name": "荷帝・瓊斯(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "新魚人海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】可將這張領航卡置為休息狀態：將最多1張對手費用3以下的角色卡或咚‼卡置為休息狀態。之後，在這個回合，自己無法以自己的效果將生命值卡加入手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-020_p1.png"
+            },
+            {
+                "id": "OP06-021",
+                "number": "OP06-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "培羅娜",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠",
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】【每回合1次】選擇下列其中一項。 ・將最多1張對手費用4以下的角色卡置為休息狀態。 ・最多1張對手的角色卡，在這個回合，費用-1。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-021.png"
+            },
+            {
+                "id": "OP06-021_p1",
+                "number": "OP06-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "培羅娜(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠",
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】【每回合1次】選擇下列其中一項。 ・將最多1張對手費用4以下的角色卡置為休息狀態。 ・最多1張對手的角色卡，在這個回合，費用-1。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-021_p1.png"
+            },
+            {
+                "id": "OP06-022",
+                "number": "OP06-022",
+                "type": "L",
+                "class": "LEADER",
+                "name": "大和",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠",
+                    "黃"
+                ],
+                "feature": [
+                    "和之國"
+                ],
+                "block_icon": "2",
+                "effect": "【雙重攻擊】(這張卡片造成的傷害為2) 【啟動主要】【每回合1次】若對手的生命值卡在3張以下時，附加最多2張休息狀態的咚‼卡在1張自己的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-022.png"
+            },
+            {
+                "id": "OP06-022_p1",
+                "number": "OP06-022",
+                "type": "L",
+                "class": "LEADER",
+                "name": "大和(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠",
+                    "黃"
+                ],
+                "feature": [
+                    "和之國"
+                ],
+                "block_icon": "2",
+                "effect": "【雙重攻擊】(這張卡片造成的傷害為2) 【啟動主要】【每回合1次】若對手的生命值卡在3張以下時，附加最多2張休息狀態的咚‼卡在1張自己的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-022_p1.png"
+            },
+            {
+                "id": "OP06-023",
+                "number": "OP06-023",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "惡龍",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】將最多1張對手費用4以下的角色卡置為休息狀態。",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "東方藍",
+                    "惡龍海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】可以廢棄1張自己的手牌：最多1張對手休息狀態的領航卡，在下一個對手回合結束前，無法進行攻擊。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-023.png"
+            },
+            {
+                "id": "OP06-024",
+                "number": "OP06-024",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "伊卡洛斯・穆希",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "新魚人海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】若自己的領航卡擁有《新魚人海賊團》特徵時，使最多1張自己手牌中費用4以下擁有《魚人族》特徵的角色卡登場。之後，將1張自己生命值區最上面的卡片加入手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-024.png"
+            },
+            {
+                "id": "OP06-025",
+                "number": "OP06-025",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "海咪",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "人魚族"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】從自己的卡組上面查看4張卡片，公開最多1張除了「海咪」以外擁有《魚人族》或《人魚族》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-025.png"
+            },
+            {
+                "id": "OP06-025_p1",
+                "number": "OP06-025",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "海咪(異圖卡)",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "人魚族"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】從自己的卡組上面查看4張卡片，公開最多1張除了「海咪」以外擁有《魚人族》或《人魚族》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-025_p1.png"
+            },
+            {
+                "id": "OP06-026",
+                "number": "OP06-026",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "耕四郎",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "西摩志基村"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】將最多1張自己費用4以下擁有(斬)屬性的角色卡，置為活動狀態。之後，在這個回合，自己無法攻擊領航卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-026.png"
+            },
+            {
+                "id": "OP06-027",
+                "number": "OP06-027",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "甲羅",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "甲羅海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【KO時】將最多1張對手費用3以下的角色卡置為休息狀態。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-027.png"
+            },
+            {
+                "id": "OP06-028",
+                "number": "OP06-028",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "傑歐",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "新魚人海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【咚‼×1】【攻擊時】若自己的領航卡擁有《新魚人海賊團》特徵時，將最多1張自己的咚‼卡置為活動狀態，這張角色卡，在這個回合，力量值＋1000。之後，將1張自己生命值區最上面的卡片加入手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-028.png"
+            },
+            {
+                "id": "OP06-029",
+                "number": "OP06-029",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "達摩",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "新魚人海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【咚‼×1】【攻擊時】【每回合1次】若自己的領航卡擁有《新魚人海賊團》特徵時，將這張角色卡置為活動狀態，這張角色卡，在這個回合，力量值＋1000。之後，將1張自己生命值區上面的卡片加入手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-029.png"
+            },
+            {
+                "id": "OP06-030",
+                "number": "OP06-030",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "托斯",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "新魚人海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【攻擊時】若自己的領航卡擁有《新魚人海賊團》特徵時，這張角色卡，到下一個我方回合開始前，在對戰中不會遭到KO、力量值＋2000。之後，將1張自己生命值區上面的卡片加入手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-030.png"
+            },
+            {
+                "id": "OP06-031",
+                "number": "OP06-031",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "小八",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】使最多1張自己手牌中費用3以下擁有《魚人族》或《人魚族》特徵的角色卡登場。",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "原惡龍海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-031.png"
+            },
+            {
+                "id": "OP06-032",
+                "number": "OP06-032",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "哈莫特",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "新魚人海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-032.png"
+            },
+            {
+                "id": "OP06-033",
+                "number": "OP06-033",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "班塔・戴肯九世",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "飛行海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】可以廢棄1張自己手牌中擁有《魚人族》特徵的卡片、或將1張自己手牌中或場上的「方舟諾亞」放置到廢棄區：KO最多1張對手休息狀態的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-033.png"
+            },
+            {
+                "id": "OP06-034",
+                "number": "OP06-034",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "藍藏",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】【每回合1次】將最多1張對手費用4以下的角色卡置為休息狀態，這張角色卡，在這個回合，力量值＋1000。之後，將1張自己生命值區最上面的卡片加入手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-034.png"
+            },
+            {
+                "id": "OP06-035",
+                "number": "OP06-035",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "荷帝・瓊斯",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "新魚人海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【速攻】(這張卡片在登場的回合即可攻擊) 【登場時】將合計最多2張對手的角色卡或咚‼卡置為休息狀態。之後，將1張自己生命值區最上面的卡片加入手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-035.png"
+            },
+            {
+                "id": "OP06-035_p1",
+                "number": "OP06-035",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "荷帝・瓊斯(異圖卡)",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "新魚人海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【速攻】(這張卡片在登場的回合即可攻擊) 【登場時】將合計最多2張對手的角色卡或咚‼卡置為休息狀態。之後，將1張自己生命值區最上面的卡片加入手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-035_p1.png"
+            },
+            {
+                "id": "OP06-036",
+                "number": "OP06-036",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "龍馬",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "和之國",
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】/【KO時】KO最多1張對手休息狀態費用4以下的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-036.png"
+            },
+            {
+                "id": "OP06-037",
+                "number": "OP06-037",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "海神",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "飛行海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-037.png"
+            },
+            {
+                "id": "OP06-038",
+                "number": "OP06-038",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "一大・三千・大千世界",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】KO最多1張對手休息狀態費用3以下的角色卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "草帽一行人",
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "2",
+                "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。之後，若自己休息狀態的卡片有8張以上時，該張卡片，在這場對戰中，力量值+2000。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-038.png"
+            },
+            {
+                "id": "OP06-039",
+                "number": "OP06-039",
+                "type": "R",
+                "class": "EVENT",
+                "name": "你連讓我消磨時間的資格都沒有！",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】選擇下列其中一項。 ・將最多1張對手費用6以下的角色卡置為休息狀態。 ・KO最多1張對手休息狀態費用6以下的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-039.png"
+            },
+            {
+                "id": "OP06-040",
+                "number": "OP06-040",
+                "type": "C",
+                "class": "EVENT",
+                "name": "矢武鮫",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "新魚人海賊団"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】KO最多2張對手休息狀態費用3以下的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-040.png"
+            },
+            {
+                "id": "OP06-041",
+                "number": "OP06-041",
+                "type": "C",
+                "class": "STAGE",
+                "name": "方舟諾亞",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "【觸發器】使這張卡片登場。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人島"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】將對手的角色卡全數置為休息狀態。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-041.png"
+            },
+            {
+                "id": "OP06-042",
+                "number": "OP06-042",
+                "type": "L",
+                "class": "LEADER",
+                "name": "賓什莫克・麗珠",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "藍",
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【我方回合中】【每回合1次】自己場上的咚‼卡被放回咚‼卡組時，抽1張卡片。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-042.png"
+            },
+            {
+                "id": "OP06-042_p1",
+                "number": "OP06-042",
+                "type": "L",
+                "class": "LEADER",
+                "name": "賓什莫克・麗珠(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "藍",
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【我方回合中】【每回合1次】自己場上的咚‼卡被放回咚‼卡組時，抽1張卡片。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-042_p1.png"
+            },
+            {
+                "id": "OP06-043",
+                "number": "OP06-043",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "荒卷",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【啟動主要】【每回合1次】可以廢棄1張自己的手牌，將1張費用2以下的角色卡放置在持有者的卡組下面：這張角色卡，在這個回合，力量值＋3000。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-043.png"
+            },
+            {
+                "id": "OP06-043_p1",
+                "number": "OP06-043",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "荒卷(異圖卡)",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【啟動主要】【每回合1次】可以廢棄1張自己的手牌，將1張費用2以下的角色卡放置在持有者的卡組下面：這張角色卡，在這個回合，力量值＋3000。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-043_p1.png"
+            },
+            {
+                "id": "OP06-044",
+                "number": "OP06-044",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "邸園",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【我方回合中】【每回合1次】對手發動事件卡時，對手將1張自身的手牌放置到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-044.png"
+            },
+            {
+                "id": "OP06-045",
+                "number": "OP06-045",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "庫山",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】抽2張卡片，並將2張自己的手牌依任意順序放置在卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-045.png"
+            },
+            {
+                "id": "OP06-046",
+                "number": "OP06-046",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "盃",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】將最多1張費用2以下的角色卡放置在持有者的卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-046.png"
+            },
+            {
+                "id": "OP06-047",
+                "number": "OP06-047",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "夏洛特・普琳",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】對手將自身的手牌全部放回卡組並洗牌。之後，對手抽5張卡片。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-047.png"
+            },
+            {
+                "id": "OP06-048",
+                "number": "OP06-048",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "哲普",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "東方藍"
+                ],
+                "block_icon": "2",
+                "effect": "【我方回合中】對手發動【防禦】或事件卡時，若自己的領航卡擁有《東方藍》特徵時，可將4張自己卡組上面的卡片放置到廢棄區。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-048.png"
+            },
+            {
+                "id": "OP06-049",
+                "number": "OP06-049",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "戰國",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-049.png"
+            },
+            {
+                "id": "OP06-050",
+                "number": "OP06-050",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "達絲琪",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】從自己的卡組上面查看5張卡片，公開最多1張除了「達絲琪」以外擁有《海軍》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-050.png"
+            },
+            {
+                "id": "OP06-050_p1",
+                "number": "OP06-050",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "達絲琪(異圖卡)",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】從自己的卡組上面查看5張卡片，公開最多1張除了「達絲琪」以外擁有《海軍》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-050_p1.png"
+            },
+            {
+                "id": "OP06-051",
+                "number": "OP06-051",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "阿鶴",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】可以廢棄2張自己的手牌：對手將1張自身的角色卡放回持有者的手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-051.png"
+            },
+            {
+                "id": "OP06-052",
+                "number": "OP06-052",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "TOKIO KAKERU",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【咚‼×1】若自己的手牌在4張以下時，這張角色卡在對戰中不會遭到KO。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-052.png"
+            },
+            {
+                "id": "OP06-053",
+                "number": "OP06-053",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "哈古瓦爾・D・薩烏羅",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "巨人族",
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【KO時】將最多1張費用2以下的角色卡放置在持有者的卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-053.png"
+            },
+            {
+                "id": "OP06-054",
+                "number": "OP06-054",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "波爾薩利諾",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "若自己的手牌在5張以下時，這張角色卡獲得【防禦】。 (對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-054.png"
+            },
+            {
+                "id": "OP06-055",
+                "number": "OP06-055",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "蒙其・D・卡普",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【咚‼×2】【攻擊時】若自己的手牌在4張以下時，對手在這場對戰中，無法發動【防禦】。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-055.png"
+            },
+            {
+                "id": "OP06-056",
+                "number": "OP06-056",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "天叢雲劍",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】將對手最多1張費用2以下的角色卡和最多1張費用1以下的角色卡，依任意順序放置到持有者的卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-056.png"
+            },
+            {
+                "id": "OP06-057",
+                "number": "OP06-057",
+                "type": "C",
+                "class": "EVENT",
+                "name": "我絕對不會懷疑女人的眼淚！",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】使最多1張自己手牌中費用2的角色卡登場。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】最多1張自己的領航卡或角色卡，在這個回合，力量值+1000。之後，公開1張自己卡組上面的卡片，並使最多1張費用2的角色卡登場，其餘卡片則放到卡組上面或下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-057.png"
+            },
+            {
+                "id": "OP06-058",
+                "number": "OP06-058",
+                "type": "R",
+                "class": "EVENT",
+                "name": "重力刀　猛虎",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "【觸發器】將最多1張費用5以下的角色卡，放置到持有者的卡組下面。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】將最多2張費用6以下的角色卡，依任意順序放置到持有者的卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-058.png"
+            },
+            {
+                "id": "OP06-059",
+                "number": "OP06-059",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "乳白毒蛇",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】從自己的卡組上面查看5張卡片，並任意變換排列順序放到卡組上面或下面。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【反擊】最多1張自己的領航卡或角色卡，在這個回合，力量值+1000，並抽1張卡片。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-059.png"
+            },
+            {
+                "id": "OP06-060",
+                "number": "OP06-060",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "賓什莫克・伊吉士",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組),可將這張角色卡放置在廢棄區：若自己的領航卡擁有《杰爾馬66》特徵時，使最多1張自己手牌或廢棄區中費用7的「賓什莫克・伊吉士」登場。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-060.png"
+            },
+            {
+                "id": "OP06-061",
+                "number": "OP06-061",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "賓什莫克・伊吉士",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】若自己場上的咚‼卡少於等於對手場上的咚‼卡時，最多1張對手的角色卡，在這個回合，力量值-2000，這張角色卡獲得【速攻】。 (這張卡片在登場的回合即可攻擊)",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-061.png"
+            },
+            {
+                "id": "OP06-061_p1",
+                "number": "OP06-061",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "賓什莫克・伊吉士(異圖卡)",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】若自己場上的咚‼卡少於等於對手場上的咚‼卡時，最多1張對手的角色卡，在這個回合，力量值-2000，這張角色卡獲得【速攻】。 (這張卡片在登場的回合即可攻擊)",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-061_p1.png"
+            },
+            {
+                "id": "OP06-062",
+                "number": "OP06-062",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "賓什莫克・賈吉士",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組),可以廢棄2張自己的手牌：使最多4張自己廢棄區中卡片名稱不同力量值4000以下擁有《杰爾馬66》特徵的卡片登場。 【啟動主要】【每回合1次】咚‼-1：將最多1張對手的咚‼卡置為休息狀態。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-062.png"
+            },
+            {
+                "id": "OP06-062_p1",
+                "number": "OP06-062",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "賓什莫克・賈吉士(異圖卡)",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組),可以廢棄2張自己的手牌：使最多4張自己廢棄區中卡片名稱不同力量值4000以下擁有《杰爾馬66》特徵的卡片登場。 【啟動主要】【每回合1次】咚‼-1：將最多1張對手的咚‼卡置為休息狀態。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-062_p1.png"
+            },
+            {
+                "id": "OP06-063",
+                "number": "OP06-063",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "賓什莫克・索菈",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬王國"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】可以廢棄1張自己的手牌：若自己場上的咚‼卡少於等於對手場上的咚‼卡時，將最多1張自己廢棄區中力量值4000以下擁有《賓什莫克家》特徵的角色卡，加入手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-063.png"
+            },
+            {
+                "id": "OP06-064",
+                "number": "OP06-064",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "賓什莫克・尼吉士",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組),可將這張角色卡放置在廢棄區：若自己的領航卡擁有《杰爾馬66》特徵時，使最多1張自己手牌或廢棄區中費用5的「賓什莫克・尼吉士」登場。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-064.png"
+            },
+            {
+                "id": "OP06-065",
+                "number": "OP06-065",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "賓什莫克・尼吉士",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】若自己場上的咚‼卡少於等於對手場上的咚‼卡時，選擇下列其中一項。 ・KO最多1張對手費用2以下的角色卡。 ・將最多1張對手費用4以下的角色卡放回持有者的手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-065.png"
+            },
+            {
+                "id": "OP06-066",
+                "number": "OP06-066",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "賓什莫克・約吉士",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組),可將這張角色卡放置在廢棄區：若自己的領航卡擁有《杰爾馬66》特徵時，使最多1張自己手牌或廢棄區中費用4的「賓什莫克・約吉士」登場。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-066.png"
+            },
+            {
+                "id": "OP06-067",
+                "number": "OP06-067",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "賓什莫克・約吉士",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "若自己場上的咚‼卡少於等於對手場上的咚‼卡時，這張角色卡的力量值+1000。 【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-067.png"
+            },
+            {
+                "id": "OP06-068",
+                "number": "OP06-068",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "賓什莫克・麗珠",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組),可將這張角色卡放置在廢棄區：若自己的領航卡擁有《杰爾馬66》特徵時，使最多1張自己手牌或廢棄區中費用4的「賓什莫克・麗珠」登場。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-068.png"
+            },
+            {
+                "id": "OP06-069",
+                "number": "OP06-069",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "賓什莫克・麗珠",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】若自己場上的咚‼卡少於等於對手場上的咚‼卡，並且自己的手牌在5張以下時，抽2張卡片。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-069.png"
+            },
+            {
+                "id": "OP06-069_p1",
+                "number": "OP06-069",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "賓什莫克・麗珠(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】若自己場上的咚‼卡少於等於對手場上的咚‼卡，並且自己的手牌在5張以下時，抽2張卡片。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-069_p1.png"
+            },
+            {
+                "id": "OP06-070",
+                "number": "OP06-070",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "艾拉德哥",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "FILM",
+                    "艾拉德哥海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-070.png"
+            },
+            {
+                "id": "OP06-071",
+                "number": "OP06-071",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "基爾德・泰佐羅",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "FILM",
+                    "GRAN TESORO"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《FILM》特徵時，將最多2張自己廢棄區中擁有《FILM》特徵費用4以下的角色卡，加入手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-071.png"
+            },
+            {
+                "id": "OP06-072",
+                "number": "OP06-072",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "珂婕特",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "杰爾馬王國"
+                ],
+                "block_icon": "2",
+                "effect": "若自己的領航卡特徵是《杰爾馬66》，並且自己場上的咚‼卡比對手少2張以上時，這張角色卡獲得【防禦】。 (對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-072.png"
+            },
+            {
+                "id": "OP06-073",
+                "number": "OP06-073",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "獅鬼",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "FILM",
+                    "金獅子海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】若自己的場上有8張以上咚‼卡時，抽1張卡片，並廢棄1張自己的手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-073.png"
+            },
+            {
+                "id": "OP06-074",
+                "number": "OP06-074",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "捷風",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "FILM",
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：最多1張對手的角色卡，在這個回合，效果無效。之後，若該張角色卡的力量值在5000以下時，即KO該張角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-074.png"
+            },
+            {
+                "id": "OP06-075",
+                "number": "OP06-075",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "巴特拉伯爵",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "FILM",
+                    "王冠島"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：將最多2張對手費用2以下的角色卡置為休息狀態。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-075.png"
+            },
+            {
+                "id": "OP06-076",
+                "number": "OP06-076",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "砍人鐮藏",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "超新星",
+                    "基德海賊團",
+                    "SMILE"
+                ],
+                "block_icon": "2",
+                "effect": "【我方回合中】【每回合1次】自己場上的咚‼卡被放回咚‼卡組時，KO最多1張對手費用2以下的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-076.png"
+            },
+            {
+                "id": "OP06-077",
+                "number": "OP06-077",
+                "type": "R",
+                "class": "EVENT",
+                "name": "混色潰擊",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】將最多1張對手費用4以下的角色卡，放置到持有者的卡組下面。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】若自己場上的咚‼卡少於等於對手場上的咚‼卡時，將最多1張對手費用5以下的角色卡，放置到持有者的卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-077.png"
+            },
+            {
+                "id": "OP06-078",
+                "number": "OP06-078",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "杰爾馬66",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】抽1張卡片。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】從自己的卡組上面查看5張卡片，公開最多1張除了「杰爾馬66」以外擁有包含『杰爾馬』特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-078.png"
+            },
+            {
+                "id": "OP06-079",
+                "number": "OP06-079",
+                "type": "C",
+                "class": "STAGE",
+                "name": "杰爾馬王國",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "杰爾馬王國"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】可以廢棄1張自己的手牌，將這張舞台卡置為休息狀態：從自己的卡組上面查看3張卡片，公開最多1張擁有包含『杰爾馬』特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-079.png"
+            },
+            {
+                "id": "OP06-080",
+                "number": "OP06-080",
+                "type": "L",
+                "class": "LEADER",
+                "name": "月光・摩利亞",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【咚‼×1】【攻擊時】➁(可將費用區的咚‼卡依指定的數量置為休息狀態),可以廢棄1張自己的手牌：將2張自己卡組上面的卡片放置到廢棄區，使最多1張自己廢棄區中費用4以下擁有《恐怖三桅帆船海賊團》特徵的角色卡登場。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-080.png"
+            },
+            {
+                "id": "OP06-080_p1",
+                "number": "OP06-080",
+                "type": "L",
+                "class": "LEADER",
+                "name": "月光・摩利亞(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【咚‼×1】【攻擊時】➁(可將費用區的咚‼卡依指定的數量置為休息狀態),可以廢棄1張自己的手牌：將2張自己卡組上面的卡片放置到廢棄區，使最多1張自己廢棄區中費用4以下擁有《恐怖三桅帆船海賊團》特徵的角色卡登場。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-080_p1.png"
+            },
+            {
+                "id": "OP06-081",
+                "number": "OP06-081",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "阿布薩羅姆",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】可將2張自己廢棄區中的卡片依任意順序放回卡組下面：KO最多1張費用2以下的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-081.png"
+            },
+            {
+                "id": "OP06-081_p1",
+                "number": "OP06-081",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "阿布薩羅姆(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】可將2張自己廢棄區中的卡片依任意順序放回卡組下面：KO最多1張費用2以下的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-081_p1.png"
+            },
+            {
+                "id": "OP06-082",
+                "number": "OP06-082",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "狗企鵝",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】/【KO時】若自己的領航卡擁有《恐怖三桅帆船海賊團》特徵時，抽2張卡片，並廢棄2張自己的手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-082.png"
+            },
+            {
+                "id": "OP06-083",
+                "number": "OP06-083",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "歐斯",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "巨人族",
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "這張角色卡無法進行攻擊。 【啟動主要】可以KO1張自己擁有《恐怖三桅帆船海賊團》特徵的角色卡：這張角色卡，在這個回合，效果無效。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-083.png"
+            },
+            {
+                "id": "OP06-084",
+                "number": "OP06-084",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "風之治五郎",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【KO時】最多1張自己的領航卡或角色卡，在這個回合，力量值+1000。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-084.png"
+            },
+            {
+                "id": "OP06-085",
+                "number": "OP06-085",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "庫馬希",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【咚‼×2】【我方回合中】自己的廢棄區中每有5張卡片，這張角色卡的力量值+1000。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-085.png"
+            },
+            {
+                "id": "OP06-086",
+                "number": "OP06-086",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "月光・摩利亞",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】選擇自己廢棄區中最多1張費用4以下的角色卡，和最多1張費用2以下的角色卡，並使其中1張登場，其餘卡片以休息狀態登場。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-086.png"
+            },
+            {
+                "id": "OP06-086_p1",
+                "number": "OP06-086",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "月光・摩利亞(異圖卡)",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】選擇自己廢棄區中最多1張費用4以下的角色卡，和最多1張費用2以下的角色卡，並使其中1張登場，其餘卡片以休息狀態登場。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-086_p1.png"
+            },
+            {
+                "id": "OP06-087",
+                "number": "OP06-087",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "塞伯拉斯",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-087.png"
+            },
+            {
+                "id": "OP06-088",
+                "number": "OP06-088",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "雜菜",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "八寶水軍"
+                ],
+                "block_icon": "2",
+                "effect": "若自己的領航卡擁有《多雷斯羅薩》特徵、自己的領航卡為活動狀態時，這張角色卡的力量值+2000。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-088.png"
+            },
+            {
+                "id": "OP06-089",
+                "number": "OP06-089",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "塔拉拉",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】/【KO時】將3張自己卡組上面的卡片放置到廢棄區。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-089.png"
+            },
+            {
+                "id": "OP06-090",
+                "number": "OP06-090",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "赫古巴庫醫生",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】可將2張自己廢棄區中的卡片依任意順序放回卡組下面：將最多1張自己廢棄區中除了「赫古巴庫醫生」以外擁有《恐怖三桅帆船海賊團》特徵的卡片，加入手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-090.png"
+            },
+            {
+                "id": "OP06-091",
+                "number": "OP06-091",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "維多莉亞・辛朵莉",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】若自己的領航卡擁有《恐怖三桅帆船海賊團》特徵時，將5張卡組上面的卡片放置到廢棄區。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-091.png"
+            },
+            {
+                "id": "OP06-092",
+                "number": "OP06-092",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "布魯克",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "原倫巴海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】選擇下列其中一項。 ・將最多1張對手費用4以下的角色卡放置到廢棄區。 ・對手將3張自身廢棄區中的卡片依任意順序放置到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-092.png"
+            },
+            {
+                "id": "OP06-093",
+                "number": "OP06-093",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "培羅娜",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】若對手的手牌有5張以上時，選擇下列其中一項。 ・對手廢棄1張自身的手牌。 ・最多1張對手的角色卡，在這個回合，費用-3。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-093.png"
+            },
+            {
+                "id": "OP06-093_p1",
+                "number": "OP06-093",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "培羅娜(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】若對手的手牌有5張以上時，選擇下列其中一項。 ・對手廢棄1張自身的手牌。 ・最多1張對手的角色卡，在這個回合，費用-3。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-093_p1.png"
+            },
+            {
+                "id": "OP06-094",
+                "number": "OP06-094",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "羅拉",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-094.png"
+            },
+            {
+                "id": "OP06-095",
+                "number": "OP06-095",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "影子集合地",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】抽2張卡片，並廢棄1張自己的手牌。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】/【反擊】自己的領航卡，在這個回合，力量值+1000。之後，可以KO自己費用2以下擁有《恐怖三桅帆船海賊團》特徵任意張數的角色卡。每KO1張角色卡，自己的領航卡，在這個回合，力量值+1000。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-095.png"
+            },
+            {
+                "id": "OP06-096",
+                "number": "OP06-096",
+                "type": "C",
+                "class": "EVENT",
+                "name": "什麼事…都沒發生過！",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【反擊】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【反擊】可將1張自己生命值區上面的卡片加入手牌：自己費用7以下的角色卡全數，在這個回合，在對戰中不會遭到KO。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-096.png"
+            },
+            {
+                "id": "OP06-097",
+                "number": "OP06-097",
+                "type": "R",
+                "class": "EVENT",
+                "name": "悲觀鬼魂",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】廢棄1張對手的手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-097.png"
+            },
+            {
+                "id": "OP06-098",
+                "number": "OP06-098",
+                "type": "C",
+                "class": "STAGE",
+                "name": "恐怖三桅帆船",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】➀(可將費用區的咚‼卡依指定的數量置為休息狀態),可將這張舞台卡置為休息狀態：若自己的領航卡擁有《恐怖三桅帆船海賊團》特徵時，使最多1張自己廢棄區中費用2以下擁有《恐怖三桅帆船海賊團》特徵的角色卡，以休息狀態登場。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-098.png"
+            },
+            {
+                "id": "OP06-099",
+                "number": "OP06-099",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "愛紗",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "空島"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】查看最多1張自己或對手生命值區上面的卡片，並放置在生命值區的上面或下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-099.png"
+            },
+            {
+                "id": "OP06-100",
+                "number": "OP06-100",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "犬嵐",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】若對手的生命值卡在3張以下時，使這張卡片登場。",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "純毛族",
+                    "和之國",
+                    "紅鞘九人眾"
+                ],
+                "block_icon": "2",
+                "effect": "【咚‼×2】【攻擊時】可以廢棄1張自己的手牌：KO最多1張對手費用數值在對手的生命值卡張數以下的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-100.png"
+            },
+            {
+                "id": "OP06-101",
+                "number": "OP06-101",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "阿娜",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】KO最多1張對手費用5以下的角色卡。",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】最多1張自己的領航卡或角色卡，在這個回合，獲得【消失】。 (若這張卡片造成傷害時，觸發器不會發動且該張卡片即放置到廢棄區)",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-101.png"
+            },
+            {
+                "id": "OP06-101_p1",
+                "number": "OP06-101",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "阿娜(異圖卡)",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】KO最多1張對手費用5以下的角色卡。",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】最多1張自己的領航卡或角色卡，在這個回合，獲得【消失】。 (若這張卡片造成傷害時，觸發器不會發動且該張卡片即放置到廢棄區)",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-101_p1.png"
+            },
+            {
+                "id": "OP06-102",
+                "number": "OP06-102",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "卡馬奇利",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】若自己的生命值卡在2張以下時，使這張卡片登場。",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "空島",
+                    "香朵拉的戰士"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】【每回合1次】可將1張費用1的舞台卡放置在持有者的卡組下面：KO最多1張對手費用2以下的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-102.png"
+            },
+            {
+                "id": "OP06-103",
+                "number": "OP06-103",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "河松",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】若對手的生命值卡在3張以下時，使這張卡片登場。",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "魚人族",
+                    "和之國",
+                    "紅鞘九人眾"
+                ],
+                "block_icon": "2",
+                "effect": "【攻擊時】可以廢棄2張自己的手牌：將最多1張自己力量值0的角色卡，以正面朝上放置在持有者的生命值區上面或下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-103.png"
+            },
+            {
+                "id": "OP06-104",
+                "number": "OP06-104",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "菊之丞",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】若對手的生命值卡在3張以下時，使這張卡片登場。",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國",
+                    "紅鞘九人眾"
+                ],
+                "block_icon": "2",
+                "effect": "【KO時】若對手的生命值卡在3張以下時，將最多1張自己卡組上面的卡片加入生命值區上面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-104.png"
+            },
+            {
+                "id": "OP06-105",
+                "number": "OP06-105",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "捷寶",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "空島",
+                    "香朵拉的戰士"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-105.png"
+            },
+            {
+                "id": "OP06-106",
+                "number": "OP06-106",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "光月日和",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國",
+                    "光月家"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】可將1張自己生命值區上面或下面的卡片加入手牌：將最多1張自己的手牌加入生命值區上面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-106.png"
+            },
+            {
+                "id": "OP06-106_p1",
+                "number": "OP06-106",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "光月日和(異圖卡)",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國",
+                    "光月家"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】可將1張自己生命值區上面或下面的卡片加入手牌：將最多1張自己的手牌加入生命值區上面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-106_p1.png"
+            },
+            {
+                "id": "OP06-107",
+                "number": "OP06-107",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "光月桃之助",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國",
+                    "光月家"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】將最多1張自己除了「光月桃之助」以外擁有《和之國》特徵的角色卡，以正面朝上放置在持有者的生命值區上面或下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-107.png"
+            },
+            {
+                "id": "OP06-107_p1",
+                "number": "OP06-107",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "光月桃之助(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國",
+                    "光月家"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】將最多1張自己除了「光月桃之助」以外擁有《和之國》特徵的角色卡，以正面朝上放置在持有者的生命值區上面或下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-107_p1.png"
+            },
+            {
+                "id": "OP06-108",
+                "number": "OP06-108",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "天狗山飛徹",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】最多1張自己擁有《和之國》特徵的領航卡或角色卡，在這個回合，力量值+2000。",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國",
+                    "光月家"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-108.png"
+            },
+            {
+                "id": "OP06-109",
+                "number": "OP06-109",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "傳二郎",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "【觸發器】若對手的生命值卡在3張以下時，使這張卡片登場。",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國",
+                    "紅鞘九人眾"
+                ],
+                "block_icon": "2",
+                "effect": "【咚‼×2】若對手的生命值卡在3張以下時，這張角色卡不會因效果而遭到KO。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-109.png"
+            },
+            {
+                "id": "OP06-110",
+                "number": "OP06-110",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "貓蝮蛇",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】若對手的生命值卡在3張以下時，使這張卡片登場。",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "純毛族",
+                    "和之國",
+                    "紅鞘九人眾"
+                ],
+                "block_icon": "2",
+                "effect": "【咚‼×2】這張角色卡可以攻擊對手活動狀態的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-110.png"
+            },
+            {
+                "id": "OP06-111",
+                "number": "OP06-111",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "布拉哈姆",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】若自己的生命值卡在2張以下時，使這張卡片登場。",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "空島",
+                    "香朵拉的戰士"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】【每回合1次】可將1張費用1的舞台卡放置在持有者的卡組下面：將最多1張對手費用4以下的角色卡置為休息狀態。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-111.png"
+            },
+            {
+                "id": "OP06-112",
+                "number": "OP06-112",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "雷藏",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】若對手的生命值卡在3張以下時，使這張卡片登場。",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國",
+                    "紅鞘九人眾"
+                ],
+                "block_icon": "2",
+                "effect": "【攻擊時】可以廢棄1張自己的手牌：將最多1張對手的咚‼卡置為休息狀態。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-112.png"
+            },
+            {
+                "id": "OP06-113",
+                "number": "OP06-113",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "蘭奇",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "空島",
+                    "香朵拉的戰士"
+                ],
+                "block_icon": "2",
+                "effect": "若場上有除了「蘭奇」以外自己擁有《香朵拉的戰士》特徵的角色卡時，這張角色卡獲得【防禦】。 (對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-113.png"
+            },
+            {
+                "id": "OP06-114",
+                "number": "OP06-114",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "瓦夷帕",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "空島",
+                    "香朵拉的戰士"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】可將1張費用1的舞台卡放置在持有者的卡組下面：從自己的卡組上面查看5張卡片，公開最多1張「神之島」或擁有《香朵拉的戰士》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-114.png"
+            },
+            {
+                "id": "OP06-115",
+                "number": "OP06-115",
+                "type": "R",
+                "class": "EVENT",
+                "name": "那就你消失吧",
+                "cost": "-",
+                "attribute": [],
+                "trigger": "【觸發器】若自己的生命值卡為0張時，將最多1張自己卡組上面的卡片加入生命值區上面。之後，廢棄1張自己的手牌。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "空島"
+                ],
+                "block_icon": "2",
+                "effect": "【反擊】可以廢棄1張自己的手牌：最多1張自己的領航卡或角色卡，在這場對戰中，力量值+3000。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-115.png"
+            },
+            {
+                "id": "OP06-116",
+                "number": "OP06-116",
+                "type": "R",
+                "class": "EVENT",
+                "name": "排擊",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】抽1張卡片。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "空島",
+                    "香朵拉的戰士"
+                ],
+                "block_icon": "2",
+                "effect": "【主要】選擇下列其中一項。 ・KO最多1張對手費用5以下的角色卡。 ・若對手的生命值卡為1張時，造成對手1傷害。之後，將自己生命值區最上面的1張卡片加入手牌。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-116.png"
+            },
+            {
+                "id": "OP06-117",
+                "number": "OP06-117",
+                "type": "C",
+                "class": "STAGE",
+                "name": "方舟箴言",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "空島"
+                ],
+                "block_icon": "2",
+                "effect": "【啟動主要】【每回合1次】可將這張卡片和1張自己的「艾涅爾」置為休息狀態：KO全數對手費用2以下的角色卡。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-117.png"
+            },
+            {
+                "id": "OP06-118",
+                "number": "OP06-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "羅羅亞・索隆",
+                "cost": "9",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【攻擊時】【每回合1次】➀(可將費用區的咚‼卡依指定的數量置為休息狀態)：將這張角色卡置為活動狀態。 【啟動主要】【每回合1次】➁(可將費用區的咚‼卡依指定的數量置為休息狀態)：將這張角色卡置為活動狀態。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-118.png"
+            },
+            {
+                "id": "OP06-118_p1",
+                "number": "OP06-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "羅羅亞・索隆(異圖卡)",
+                "cost": "9",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【攻擊時】【每回合1次】➀(可將費用區的咚‼卡依指定的數量置為休息狀態)：將這張角色卡置為活動狀態。 【啟動主要】【每回合1次】➁(可將費用區的咚‼卡依指定的數量置為休息狀態)：將這張角色卡置為活動狀態。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-118_p1.png"
+            },
+            {
+                "id": "OP06-118_p2",
+                "number": "OP06-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "羅羅亞・索隆(異圖卡)",
+                "cost": "9",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【攻擊時】【每回合1次】➀(可將費用區的咚‼卡依指定的數量置為休息狀態)：將這張角色卡置為活動狀態。 【啟動主要】【每回合1次】➁(可將費用區的咚‼卡依指定的數量置為休息狀態)：將這張角色卡置為活動狀態。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-118_p2.png"
+            },
+            {
+                "id": "OP06-119",
+                "number": "OP06-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "香吉士",
+                "cost": "9",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】公開1張自己卡組上面的卡片，並使最多1張除了「香吉士」以外費用9以下的角色卡登場。之後，將其餘卡片放到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-119.png"
+            },
+            {
+                "id": "OP06-119_p1",
+                "number": "OP06-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "香吉士(異圖卡)",
+                "cost": "9",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】公開1張自己卡組上面的卡片，並使最多1張除了「香吉士」以外費用9以下的角色卡登場。之後，將其餘卡片放到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-119_p1.png"
+            },
+            {
+                "id": "OP03-008_p1",
+                "number": "OP03-008",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "巴其(異圖卡)",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "巴其海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "這張角色卡在和擁有(斬)屬性的卡片對戰中，不會遭到KO。 【登場時】從自己的卡組上面查看5張卡片，公開最多1張紅色的事件卡，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP03-008_p1.png"
+            },
+            {
+                "id": "OP03-114_p2",
+                "number": "OP03-114",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "夏洛特・莉莉(異圖卡)",
+                "cost": "10",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "四皇",
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】若自己的領航卡擁有《BIG MOM海賊團》特徵時，將最多1張自己卡組上面的卡片加入生命值區上面。之後，將最多1張對手生命值區上面的卡片放置到廢棄區。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP03-114_p2.png"
+            },
+            {
+                "id": "OP04-024_p2",
+                "number": "OP04-024",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "砂糖(異圖卡)",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【對方回合中】【每回合1次】對手使角色卡登場時，若自己的領航卡擁有《唐吉訶德海賊團》特徵時，將最多1張對手的角色卡置為休息狀態。之後，將這張角色卡置為休息狀態。 【登場時】將最多1張對手費用4以下的角色卡置為休息狀態。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-024_p2.png"
+            },
+            {
+                "id": "OP04-064_p2",
+                "number": "OP04-064",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "Miss All星期天(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "【觸發器】咚‼-2(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：使這張卡片登場。",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】從咚‼卡組追加最多1張休息狀態的咚‼卡。之後，若自己的場上有6張以上咚‼卡時，抽1張卡片。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-064_p2.png"
+            },
+            {
+                "id": "OP05-051_p2",
+                "number": "OP05-051",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "波爾薩利諾(異圖卡)",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】將最多1張費用4以下的角色卡放置在持有者的卡組下面。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP05-051_p2.png"
+            },
+            {
+                "id": "OP05-091_p2",
+                "number": "OP05-091",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "蕾貝卡(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "2",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】將最多1張自己廢棄區中除了「蕾貝卡」以外費用3至7黑色的角色卡加入手牌。之後，使最多1張自己手牌中費用3以下黑色的角色卡，以休息狀態登場。",
+                "card_set": "雙壁的霸者【OP-06】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP05-091_p2.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,3718 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563110,
+        "language": "th"
+    },
+    "data": {
+        "code": "OP10",
+        "cards": [
+            {
+                "id": "OP10-001",
+                "number": "OP10-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Smoker",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "เขียว"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[ในเทิร์นของคู่แข่ง] คาแรกเตอร์ของฝ่ายเรา ทั้งหมด ที่มีคุณสมบัติ < กองทัพเรือ > หรือ < พังค์ฮาซาร์ด >, จะมีพาวเวอร์ +1000. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าเรามีคาแรกเตอร์ ที่มีพาวเวอร์ 7000 หรือสูงกว่าอยู่ละก็, ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 2 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-001.png"
+            },
+            {
+                "id": "OP10-001_p1",
+                "number": "OP10-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Smoker",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "เขียว"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[ในเทิร์นของคู่แข่ง] คาแรกเตอร์ของฝ่ายเรา ทั้งหมด ที่มีคุณสมบัติ < กองทัพเรือ > หรือ < พังค์ฮาซาร์ด  >, จะมีพาวเวอร์ +1000. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าเรามีคาแรกเตอร์ ที่มีพาวเวอร์ 7000 หรือสูงกว่าอยู่ละก็, ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 2 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-001_p1.png"
+            },
+            {
+                "id": "OP10-002",
+                "number": "OP10-002",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Caesar Clown",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "นักวิทยาศาสตร์",
+                    "พังค์ฮาซาร์ด"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 2] [เมื่อโจมตี] สามารถนำ คาแรกเตอร์ของเรา ที่มีคอสต์ 2 หรือสูงกว่า และมีคุณสมบัติ < พังค์ฮาซาร์ด > จำนวน 1 ใบ, กลับขึ้นมือเจ้าของ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 4000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-002.png"
+            },
+            {
+                "id": "OP10-002_p1",
+                "number": "OP10-002",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Caesar Clown",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "นักวิทยาศาสตร์",
+                    "พังค์ฮาซาร์ด"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 2] [เมื่อโจมตี] สามารถนำ คาแรกเตอร์ของเรา ที่มีคอสต์ 2 หรือสูงกว่า และมีคุณสมบัติ < พังค์ฮาซาร์ด > จำนวน 1 ใบ, กลับขึ้นมือเจ้าของ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 4000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-002_p1.png"
+            },
+            {
+                "id": "OP10-003",
+                "number": "OP10-003",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Sugar",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อจบเทิร์นของเรา] ถ้าเรามีคาแรกเตอร์ ที่มีพาวเวอร์ 6000 หรือสูงกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > อยู่ละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ. [ในเทิร์นของคู่แข่ง] [เทิร์นละ 1 ครั้ง] เมื่อเราสั่งใช้งาน อีเวนต์, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-003.png"
+            },
+            {
+                "id": "OP10-003_p1",
+                "number": "OP10-003",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Sugar",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อจบเทิร์นของเรา] ถ้าเรามีคาแรกเตอร์ ที่มีพาวเวอร์ 6000 หรือสูงกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > อยู่ละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ. [ในเทิร์นของคู่แข่ง] [เทิร์นละ 1 ครั้ง] เมื่อเราสั่งใช้งาน อีเวนต์, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-003_p1.png"
+            },
+            {
+                "id": "OP10-004",
+                "number": "OP10-004",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Vergo",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < พังค์ฮาซาร์ด > นอกเหนือจาก [Vergo] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-004.png"
+            },
+            {
+                "id": "OP10-005",
+                "number": "OP10-005",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นตัวเอง] คาแรกเตอร์นี้ จะมีพาวเวอร์ +3000. [เมื่อถูก KO] จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-005.png"
+            },
+            {
+                "id": "OP10-005_p1",
+                "number": "OP10-005",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นตัวเอง] คาแรกเตอร์นี้ จะมีพาวเวอร์ +3000. [เมื่อถูก KO] จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-005_p1.png"
+            },
+            {
+                "id": "OP10-006",
+                "number": "OP10-006",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Caesar Clown",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "นักวิทยาศาสตร์",
+                    "พังค์ฮาซาร์ด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำ [Smiley] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, และนำ [Smiley] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-006.png"
+            },
+            {
+                "id": "OP10-007",
+                "number": "OP10-007",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Ceaser Soldier",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 2 หรือต่ำกว่า และมีคุณสมบัติ < พังค์ฮาซาร์ด > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-007.png"
+            },
+            {
+                "id": "OP10-008",
+                "number": "OP10-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Scotch",
+                "cost": "2",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้าเราไม่มี [Rock] อยู่ด้วยละก็, ให้นำ [Rock] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-008.png"
+            },
+            {
+                "id": "OP10-009",
+                "number": "OP10-009",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Smiley",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "อาวุธชีวภาพ",
+                    "พังค์ฮาซาร์ด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < พังค์ฮาซาร์ด > ละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -3000.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-009.png"
+            },
+            {
+                "id": "OP10-010",
+                "number": "OP10-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Chadros.Higelyges (Brownbeard)",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กลุ่มโจรสลัดหนวดน้ำตาล"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] ถ้าเรามีคาแรกเตอร์ ที่มีพาวเวอร์ 6000 หรือมากกว่า จำนวน 1 ใบ หรือน้อยกว่าอยู่ละก็, ในเทิร์นนี้, คาแรกเตอร์นี้, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-010.png"
+            },
+            {
+                "id": "OP10-011",
+                "number": "OP10-011",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ในเทิร์นของคู่แข่ง] คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-011.png"
+            },
+            {
+                "id": "OP10-012",
+                "number": "OP10-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Dragon Number Thirteen",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "อาวุธชีวภาพ",
+                    "พังค์ฮาซาร์ด"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-012.png"
+            },
+            {
+                "id": "OP10-013",
+                "number": "OP10-013",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-013.png"
+            },
+            {
+                "id": "OP10-014",
+                "number": "OP10-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "พังค์ฮาซาร์ด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-014.png"
+            },
+            {
+                "id": "OP10-015",
+                "number": "OP10-015",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Mocha",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -1000.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-015.png"
+            },
+            {
+                "id": "OP10-016",
+                "number": "OP10-016",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monet",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 2 ใบ, มาใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -1000.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-016.png"
+            },
+            {
+                "id": "OP10-016_p1",
+                "number": "OP10-016",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monet",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 2 ใบ, มาใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -1000.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-016_p1.png"
+            },
+            {
+                "id": "OP10-017",
+                "number": "OP10-017",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Rock",
+                "cost": "2",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเราไม่มี [Scotch] อยู่ด้วยละก็, ให้นำ [Scotch] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-017.png"
+            },
+            {
+                "id": "OP10-018",
+                "number": "OP10-018",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Ten-Layer Igloo",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000. จากนั้น, ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -2000.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-018.png"
+            },
+            {
+                "id": "OP10-019",
+                "number": "OP10-019",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Divine Departure",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 5 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 8000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. [เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-019.png"
+            },
+            {
+                "id": "OP10-019_p1",
+                "number": "OP10-019",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Divine Departure",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 5 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 8000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. [เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-019_p1.png"
+            },
+            {
+                "id": "OP10-020",
+                "number": "OP10-020",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Gum-Gum UFO",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 3000 หรือน้อยกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -4000. จากนั้น, ถ้าเรามีไลฟ์อยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-020.png"
+            },
+            {
+                "id": "OP10-021",
+                "number": "OP10-021",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Punk Hazard",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ สเตจนี้ : ถ้าลีดเดอร์ของเราคือ [Caesar Clown] ละก็, นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา, จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-021.png"
+            },
+            {
+                "id": "OP10-022",
+                "number": "OP10-022",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Trafalgar Law",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 1] [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าค่าคอสต์ของ คาแรกเตอร์ของฝ่ายเรา ทั้งหมด มีผลรวมเท่ากับ 5 หรือสูงกว่าละก็, จะสามารถนำคาแรกเตอร์ของเรา จำนวน 1 ใบ, กลับขึ้นมือเจ้าของ : นำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ มาแสดงให้ดู, แล้วถ้าการ์ดใบนั้นเป็นคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < ซูเปอร์โนวา > ละก็, จะนำลงสนามก็ได้.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-022.png"
+            },
+            {
+                "id": "OP10-022_p1",
+                "number": "OP10-022",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Trafalgar Law",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 1] [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าค่าคอสต์ของ คาแรกเตอร์ของฝ่ายเรา ทั้งหมด มีผลรวมเท่ากับ 5 หรือสูงกว่าละก็, จะสามารถนำคาแรกเตอร์ของเรา จำนวน 1 ใบ, กลับขึ้นมือเจ้าของ : นำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ มาแสดงให้ดู, แล้วถ้าการ์ดใบนั้นเป็นคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < ซูเปอร์โนวา > ละก็, จะนำลงสนามก็ได้.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-022_p1.png"
+            },
+            {
+                "id": "OP10-023",
+                "number": "OP10-023",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Issho",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กองทัพเรือ > ละก็, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 2 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-023.png"
+            },
+            {
+                "id": "OP10-024",
+                "number": "OP10-024",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Edward.Newgate",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากกว่าละก็, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. จากนั้น, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-024.png"
+            },
+            {
+                "id": "OP10-025",
+                "number": "OP10-025",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Enel",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "เกาะแห่งท้องฟ้า"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากกว่าละก็, จะต้องจั่วการ์ด จำนวน 3 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-025.png"
+            },
+            {
+                "id": "OP10-026",
+                "number": "OP10-026",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kin'emon",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "วาโนะคุนิ",
+                    "เก้าปลอกดาบแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถนำ คาแรกเตอร์นี้ กับ [Kin’emon] ที่มีพาวเวอร์ 0 จากในแทรชของเรา จำนวน 1 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค : นำ [Kin’emon] ที่มีคอสต์ 6 จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-026.png"
+            },
+            {
+                "id": "OP10-027",
+                "number": "OP10-027",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Kin'emon",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "วาโนะคุนิ",
+                    "เก้าปลอกดาบแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถนำ คาแรกเตอร์นี้ กับ [Kin’emon] ที่มีพาวเวอร์ 1000 จากในแทรชของเรา จำนวน 1 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค : นำ [Kin’emon] ที่มีคอสต์ 6 จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-027.png"
+            },
+            {
+                "id": "OP10-028",
+                "number": "OP10-028",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Kouzuki Momonosuke",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "วาโนะคุนิ",
+                    "ตระกูลโคสึกิ"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 2 ใบ, และนำคาแรกเตอร์นี้ ไปวางที่แทรช : ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < เก้าปลอกดาบแดง > จำนวนไม่เกิน 2 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-028.png"
+            },
+            {
+                "id": "OP10-029",
+                "number": "OP10-029",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Dracule Mihawk",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "เจ็ดเทพโจรสลัด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากกว่าละก็, จะทำให้ คาแรกเตอร์ของเรา ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < ODYSSEY > ซึ่งกำลังเรสต์อยู่ จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-029.png"
+            },
+            {
+                "id": "OP10-030",
+                "number": "OP10-030",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Smoker",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[แบนนิช] (ถ้าการ์ดใบนี้ทำดาเมจได้, การ์ดใบนั้นจะถูกนำไปวางที่แทรช, และทริกเกอร์จะไม่ทำงาน) [ใช้งาน : เมน] ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ. จากนั้น, ในเทิร์นนี้, เราจะไม่สามารถ แอ็คทีฟ ด้ง!! ด้วยความสามารถของคาแรกเตอร์อีก.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-030.png"
+            },
+            {
+                "id": "OP10-030_p1",
+                "number": "OP10-030",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Smoker",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[แบนนิช] (ถ้าการ์ดใบนี้ทำดาเมจได้, การ์ดใบนั้นจะถูกนำไปวางที่แทรช, และทริกเกอร์จะไม่ทำงาน) [ใช้งาน : เมน] ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ. จากนั้น, ในเทิร์นนี้, เราจะไม่สามารถ แอ็คทีฟ ด้ง!! ด้วยความสามารถของคาแรกเตอร์อีก.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-030_p1.png"
+            },
+            {
+                "id": "OP10-031",
+                "number": "OP10-031",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sengoku",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-031.png"
+            },
+            {
+                "id": "OP10-032",
+                "number": "OP10-032",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Tashigi",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าคาแรกเตอร์ ธีมสีเขียว ของเรา นอกเหนือจาก [Tashigi] กำลังจะถูกนำออกจากสนาม โดยความสามารถของฝ่ายคู่แข่ง, จะสามารถ เรสต์ คาแรกเตอร์นี้ แทนได้.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-032.png"
+            },
+            {
+                "id": "OP10-032_p1",
+                "number": "OP10-032",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Tashigi",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าคาแรกเตอร์ ธีมสีเขียว ของเรา นอกเหนือจาก [Tashigi] กำลังจะถูกนำออกจากสนาม โดยความสามารถของฝ่ายคู่แข่ง, จะสามารถ เรสต์ คาแรกเตอร์นี้ แทนได้.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-032_p1.png"
+            },
+            {
+                "id": "OP10-033",
+                "number": "OP10-033",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่มีคุณสมบัติ < ODYSSEY > ซึ่งกำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากว่าละก็, จะทำให้ ด้ง!! ของคู่แข่ง ที่กำลังเรสต์อยู่ จำนวนไม่เกิน 1 ใบ, จะไม่ถูกเปลี่ยนเป็น แอ็คทีฟ ในช่วงรีเฟรชเฟสของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-033.png"
+            },
+            {
+                "id": "OP10-034",
+                "number": "OP10-034",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์นี้ กำลังจะถูก KO จากการแบทเทิล, จะสามารถนำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ แทนก็ได้.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-034.png"
+            },
+            {
+                "id": "OP10-035",
+                "number": "OP10-035",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อถูก KO] ทำการ เรสต์ ลีดเดอร์ หรือ คาแรกเตอร์ ของคูแข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-035.png"
+            },
+            {
+                "id": "OP10-036",
+                "number": "OP10-036",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Perona",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "ราชอาณาจักรชิคเคะอารุ",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อมีคาแรกเตอร์ของใครก็ตาม ถูกทำให้ เรสต์ โดยความสามารถของฝ่ายเรา, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-036.png"
+            },
+            {
+                "id": "OP10-037",
+                "number": "OP10-037",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Lim",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์นี้ กำลังจะถูกนำออกจากสนาม โดยความสามารถของฝ่ายคู่แข่ง, จะสามารถ เรสต์ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < ODYSSEY > จำนวน 1 ใบ แทนได้. [เมื่อจบเทิร์นของเรา] จะทำให้ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < ODYSSEY > จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-037.png"
+            },
+            {
+                "id": "OP10-037_p1",
+                "number": "OP10-037",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Lim",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์นี้ กำลังจะถูกนำออกจากสนาม โดยความสามารถของฝ่ายคู่แข่ง, จะสามารถ เรสต์ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < ODYSSEY > จำนวน 1 ใบ แทนได้. [เมื่อจบเทิร์นของเรา] จะทำให้ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < ODYSSEY > จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-037_p1.png"
+            },
+            {
+                "id": "OP10-038",
+                "number": "OP10-038",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ในเทิร์นของคู่แข่ง] ถ้าเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-038.png"
+            },
+            {
+                "id": "OP10-039",
+                "number": "OP10-039",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Gum-Gum Dragon Fire Pistol Twister Star",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ODYSSEY > ละก็, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < ODYSSEY > จำนวนไม่เกิน 2 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-039.png"
+            },
+            {
+                "id": "OP10-040",
+                "number": "OP10-040",
+                "type": "C",
+                "class": "EVENT",
+                "name": "The Weak Do Not Have the Right to Choose How They Die",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] / [เคาน์เตอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 7 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-040.png"
+            },
+            {
+                "id": "OP10-041",
+                "number": "OP10-041",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Radio Knife",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 6 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. จากนั้น, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-041.png"
+            },
+            {
+                "id": "OP10-042",
+                "number": "OP10-042",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Usopp",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า",
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์ของฝ่ายเรา ที่มีคอสต์ 2 หรือสูงกว่า และมีคุณสมบัติ < เดรสโรซ่า > ทั้งหมด, จะมีคอสต์ +1. [ในเทิร์นของคู่แข่ง] [เทิร์นละ 1 ครั้ง] เมื่อคาแรกเตอร์ของเรา ที่มีคุณสมบัติ < เดรสโรซ่า > ถูกนำออกจากสนามโดยความสามารถของคู่แข่ง หรือว่าถูก KO, จะสามารถสั่งใช้งาน. ถ้าเรามีการ์ดบนมืออยู่ จำนวน 5 ใบ หรือน้อยกว่าละก็, จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-042.png"
+            },
+            {
+                "id": "OP10-042_p1",
+                "number": "OP10-042",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Usopp",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า",
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์ของฝ่ายเรา ที่มีคอสต์ 2 หรือสูงกว่า และมีคุณสมบัติ < เดรสโรซ่า > ทั้งหมด, จะมีคอสต์ +1. [ในเทิร์นของคู่แข่ง] [เทิร์นละ 1 ครั้ง] เมื่อคาแรกเตอร์ของเรา ที่มีคุณสมบัติ < เดรสโรซ่า > ถูกนำออกจากสนามโดยความสามารถของคู่แข่ง หรือว่าถูก KO, จะสามารถสั่งใช้งาน. ถ้าเรามีการ์ดบนมืออยู่ จำนวน 5 ใบ หรือน้อยกว่าละก็, จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-042_p1.png"
+            },
+            {
+                "id": "OP10-043",
+                "number": "OP10-043",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Moocy",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถ เรสต์ ลีดเดอร์ หรือ สเตจ ของเรา, ที่มีคุณสมบัติ < เดรสโรซ่า > จำนวน 1 ใบ : ในเทิร์นนี้, คาแรกเตอร์ [Monkey.D.Luffy] ของเรา จำนวนไม่เกิน 1 ใบ, จะได้รับ [แบนนิช]. (ถ้าการ์ดใบนี้ทำดาเมจได้, การ์ดใบนั้นจะถูกนำไปวางที่แทรช, และทริกเกอร์จะไม่ทำงาน)",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-043.png"
+            },
+            {
+                "id": "OP10-044",
+                "number": "OP10-044",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Cub",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่าทอนทัตตะ",
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถ เรสต์ ลีดเดอร์ หรือ สเตจ ของเรา, ที่มีคุณสมบัติ < เดรสโรซ่า > จำนวน 1 ใบ : นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-044.png"
+            },
+            {
+                "id": "OP10-045",
+                "number": "OP10-045",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Cavendish",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กลุ่มโจรสลัดงดงาม"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] [เทิร์นละ 1 ครั้ง] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-045.png"
+            },
+            {
+                "id": "OP10-045_p1",
+                "number": "OP10-045",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Cavendish",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กลุ่มโจรสลัดงดงาม"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] [เทิร์นละ 1 ครั้ง] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-045_p1.png"
+            },
+            {
+                "id": "OP10-046",
+                "number": "OP10-046",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kyros",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-046.png"
+            },
+            {
+                "id": "OP10-046_p1",
+                "number": "OP10-046",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kyros",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-046_p1.png"
+            },
+            {
+                "id": "OP10-047",
+                "number": "OP10-047",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Koala",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] สามารถนำ คาแรกเตอร์ของเรา ที่มีคอสต์ 3 หรือสูงกว่า และมีคุณสมบัติ < กองทัพปฏิวัติ > กลับขึ้นมือของเจ้าของ : ในเทิร์นนี้, คาแรกเตอร์นี้ จะมีพาวเวอร์ +3000.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-047.png"
+            },
+            {
+                "id": "OP10-048",
+                "number": "OP10-048",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sai",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กองเรือฮัปโป"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถ เรสต์ ลีดเดอร์ หรือ สเตจ ของเรา, ที่มีคุณสมบัติ < เดรสโรซ่า > จำนวน 1 ใบ : นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-048.png"
+            },
+            {
+                "id": "OP10-049",
+                "number": "OP10-049",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Sabo",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าคาแรกเตอร์ของเรา ที่มีคอสต์ตั้งต้น 7 หรือต่ำกว่า นอกเหนือจาก [Sabo] กำลังจะถูกนำออกจากสนาม โดยความสามารถของฝ่ายคู่แข่ง, จะสามารถนำ คาแรกเตอร์นี้ กลับขึ้นมือของเจ้าของ แทนได้.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-049.png"
+            },
+            {
+                "id": "OP10-050",
+                "number": "OP10-050",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Hajrudin",
+                "cost": "7",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่าคนยักษ์",
+                    "เดรสโรซ่า",
+                    "กลุ่มโจรสลัดคนยักษ์ใหม่"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-050.png"
+            },
+            {
+                "id": "OP10-051",
+                "number": "OP10-051",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Hack",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เดรสโรซ่า",
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < กองทัพปฏิวัติ > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-051.png"
+            },
+            {
+                "id": "OP10-052",
+                "number": "OP10-052",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bartolomeo",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "บาร์โธคลับ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 1 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-052.png"
+            },
+            {
+                "id": "OP10-053",
+                "number": "OP10-053",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bian",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่าทอนทัตตะ",
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าเรามีคาแรกเตอร์ ที่มีคุณสมบัติ < เผ่าทอนทัตตะ > นอกเหนือจาก [Bian] อยู่ด้วยละก็, คาแรกเตอร์นี้ จะได้รับ [บล็อกเกอร์]. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-053.png"
+            },
+            {
+                "id": "OP10-054",
+                "number": "OP10-054",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Blue Gilly",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-054.png"
+            },
+            {
+                "id": "OP10-055",
+                "number": "OP10-055",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Marco",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO] นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-055.png"
+            },
+            {
+                "id": "OP10-056",
+                "number": "OP10-056",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Mansherry",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่าทอนทัตตะ",
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถ เรสต์ ลีดเดอร์ หรือ สเตจ ของเรา, ที่มีคุณสมบัติ < เดรสโรซ่า > จำนวน 1 ใบ, และนำคาแรกเตอร์ของเรา ที่มีคอสต์ 4 หรือสูงกว่า และมีคุณสมบัติ < เดรสโรซ่า > จำนวน 1 ใบ, กลับขึ้นมือของเจ้าของ : นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-056.png"
+            },
+            {
+                "id": "OP10-057",
+                "number": "OP10-057",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Leo",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่าทอนทัตตะ",
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถ เรสต์ ลีดเดอร์ หรือ สเตจ ของเรา, จำนวน 1 ใบ : ถ้าลีดเดอร์ของเราคือ [Usopp] ละก็, จะได้ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < เดรสโรซ่า > นอกเหนือจาก [Leo] จำนวนไม่เกิน 2 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, และจะต้องทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-057.png"
+            },
+            {
+                "id": "OP10-058",
+                "number": "OP10-058",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Rebecca",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 8 หรือสูงกว่า อยู่ละก็, จั่วการ์ด จำนวน 1 ใบ. จากนั้น, นำคาแรกเตอร์การ์ด ที่มีคอสต์ 7 หรือต่ำว่า และมีคุณสมบัติ < เดรสโรซ่า > นอกเหนือจาก [Rebecca], จากบนมือของเรา จำนวนไม่เกิน 2 ใบ มาแสดงให้ดู. นำการ์ดจากที่แสดงให้ดู จำนวน 1 ใบ ลงสนาม, และถ้าที่เหลืออยู่ (อีก 1 ใบ) มีคอสต์ 4 หรือต่ำกว่า จะถูกนำลงสนามในสภาพ เรสต์.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-058.png"
+            },
+            {
+                "id": "OP10-058_p1",
+                "number": "OP10-058",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Rebecca",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 8 หรือสูงกว่า อยู่ละก็, จั่วการ์ด จำนวน 1 ใบ. จากนั้น, นำคาแรกเตอร์การ์ด ที่มีคอสต์ 7 หรือต่ำว่า และมีคุณสมบัติ < เดรสโรซ่า > นอกเหนือจาก [Rebecca], จากบนมือของเรา จำนวนไม่เกิน 2 ใบ มาแสดงให้ดู. นำการ์ดจากที่แสดงให้ดู จำนวน 1 ใบ ลงสนาม, และถ้าที่เหลืออยู่ (อีก 1 ใบ) มีคอสต์ 4 หรือต่ำกว่า จะถูกนำลงสนามในสภาพ เรสต์.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-058_p1.png"
+            },
+            {
+                "id": "OP10-059",
+                "number": "OP10-059",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Fo...llow...Me...and...I...Will...Gui...de...You",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < เดรสโรซ่า > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-059.png"
+            },
+            {
+                "id": "OP10-060",
+                "number": "OP10-060",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Barrier-Barrier Pistol",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "บาร์โธคลับ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] นำคาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 6000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-060.png"
+            },
+            {
+                "id": "OP10-061",
+                "number": "OP10-061",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Special Long-Range Attack!! Bagworm",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 2 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] จั่วการ์ด จำนวน 1 ใบ. จากนั้น, นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-061.png"
+            },
+            {
+                "id": "OP10-062",
+                "number": "OP10-062",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Violet",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > ละก็, จะได้นำ อีเวนต์ ธีมสีม่วง จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-062.png"
+            },
+            {
+                "id": "OP10-063",
+                "number": "OP10-063",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Vinsmoke Sanji",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "ราชอาณาจักรเจอร์ม่า",
+                    "ตระกูลวินสโมค"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา ระบุคำว่า [เจอร์ม่า] รวมอยู่ในคุณสมบัติละก็, จะได้ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่ระบุคำว่า [เจอร์ม่า] รวมอยู่ในคุณสมบัติ จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-063.png"
+            },
+            {
+                "id": "OP10-064",
+                "number": "OP10-064",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Clone Soldier",
+                "cost": "2",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "ราชอาณาจักรเจอร์ม่า"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-064.png"
+            },
+            {
+                "id": "OP10-065",
+                "number": "OP10-065",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Sugar",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ, และ เรสต์ คาแรกเตอร์นี้ : ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > ไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-065.png"
+            },
+            {
+                "id": "OP10-066",
+                "number": "OP10-066",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Giolla",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 2 ใบ : ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-066.png"
+            },
+            {
+                "id": "OP10-067",
+                "number": "OP10-067",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Senor Pink",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำ อีเวนต์ ธีมสีม่วง ที่มีคอสต์ 5 หรือต่ำกว่า จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, เพิ่มขึ้นสู่บนมือ. จากนั้น, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-067.png"
+            },
+            {
+                "id": "OP10-067_p1",
+                "number": "OP10-067",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Senor Pink",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำ อีเวนต์ ธีมสีม่วง ที่มีคอสต์ 5 หรือต่ำกว่า จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, เพิ่มขึ้นสู่บนมือ. จากนั้น, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-067_p1.png"
+            },
+            {
+                "id": "OP10-068",
+                "number": "OP10-068",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Diamante",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-068.png"
+            },
+            {
+                "id": "OP10-069",
+                "number": "OP10-069",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Fighting Fish",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-069.png"
+            },
+            {
+                "id": "OP10-070",
+                "number": "OP10-070",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Trebol",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] คาแรกเตอร์ของฝ่ายเรา ทั้งหมด ที่มีพาวเวอร์ตั้งต้น 1000 หรือต่ำกว่า, จะไม่ถูก KO โดยความสามารถของฝ่ายคู่แข่ง, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-070.png"
+            },
+            {
+                "id": "OP10-071",
+                "number": "OP10-071",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Donquixote Doflamingo",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-071.png"
+            },
+            {
+                "id": "OP10-071_p1",
+                "number": "OP10-071",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Donquixote Doflamingo",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-071_p1.png"
+            },
+            {
+                "id": "OP10-072",
+                "number": "OP10-072",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Donquixote Rosinante",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้ง อีเวนต์ จากบนมือของเรา จำนวน 1 ใบ : จั่วการ์ด จำนวน 2 ใบ. [เมื่อจบเทิร์นของเรา] ถ้าในสนามของเรามี ด้ง!! อยู่ จำนวน 7 ใบ หรือมากกว่าละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 2 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-072.png"
+            },
+            {
+                "id": "OP10-072_p1",
+                "number": "OP10-072",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Donquixote Rosinante",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้ง อีเวนต์ จากบนมือของเรา จำนวน 1 ใบ : จั่วการ์ด จำนวน 2 ใบ. [เมื่อจบเทิร์นของเรา] ถ้าในสนามของเรามี ด้ง!! อยู่ จำนวน 7 ใบ หรือมากกว่าละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 2 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-072_p1.png"
+            },
+            {
+                "id": "OP10-073",
+                "number": "OP10-073",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Buffalo",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-073.png"
+            },
+            {
+                "id": "OP10-074",
+                "number": "OP10-074",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Pica",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์นี้ กำลังจะถูก KO โดยความสามารถของฝ่ายคู่แข่ง, จะสามารถ เรสต์ ด้ง!! ของเรา ที่กำลังแอ็คทีฟอยู่ จำนวน 2 ใบ แทนได้.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-074.png"
+            },
+            {
+                "id": "OP10-075",
+                "number": "OP10-075",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Foxy",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดฟ็อกซี่"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถนำ คาแรกเตอร์นี้ ไปวางที่แทรช : ถ้า ด้ง!! ที่อยู่บนสนามของเรา มีจำนวนไม่มากไปกว่า ด้ง!! ที่อยู่บนสนามของคู่แข่งละก็, จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-075.png"
+            },
+            {
+                "id": "OP10-076",
+                "number": "OP10-076",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Baby 5",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > ละก็, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-076.png"
+            },
+            {
+                "id": "OP10-077",
+                "number": "OP10-077",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bellamy",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อบล็อก] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 2 ใบ : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-077.png"
+            },
+            {
+                "id": "OP10-078",
+                "number": "OP10-078",
+                "type": "R",
+                "class": "EVENT",
+                "name": "I Do Not Forgive Those Who Laugh at My Family!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] / [เคาน์เตอร์] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > นอกเหนือจาก [I Do Not Forgive Those Who Laugh at My Family!!!] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-078.png"
+            },
+            {
+                "id": "OP10-079",
+                "number": "OP10-079",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "God Thread",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. จากนั้น, นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-079.png"
+            },
+            {
+                "id": "OP10-080",
+                "number": "OP10-080",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Little Black Bears",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +4000. จากนั้น, ถ้าในสนามของเรามี ด้ง!! อยู่ จำนวน 7 ใบ หรือมากกว่า, และเรามีการ์ดบนมืออยู่ จำนวน 5 ใบ หรือน้อยกว่าละก็, จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-080.png"
+            },
+            {
+                "id": "OP10-081",
+                "number": "OP10-081",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถ เรสต์ ลีดเดอร์ หรือ สเตจ ของเรา, ที่มีคุณสมบัติ < เดรสโรซ่า > จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. จากนั้น, จะนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-081.png"
+            },
+            {
+                "id": "OP10-082",
+                "number": "OP10-082",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kuzan",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "อดีตกองทัพเรือ",
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์นี้ จะไม่ถูกนำออกจากสนาม โดยความสามารถของฝ่ายคู่แข่ง. [ใช้งาน : เมน] สามารถนำ คาแรกเตอร์นี้ ไปวางที่แทรช : จั่วการ์ด จำนวน 1 ใบ. จากนั้น, นำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ > นอกเหนือจาก [Kuzan] จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-082.png"
+            },
+            {
+                "id": "OP10-082_p1",
+                "number": "OP10-082",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kuzan",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "อดีตกองทัพเรือ",
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์นี้ จะไม่ถูกนำออกจากสนาม โดยความสามารถของฝ่ายคู่แข่ง. [ใช้งาน : เมน] สามารถนำ คาแรกเตอร์นี้ ไปวางที่แทรช : จั่วการ์ด จำนวน 1 ใบ. จากนั้น, นำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ > นอกเหนือจาก [Kuzan] จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-082_p1.png"
+            },
+            {
+                "id": "OP10-083",
+                "number": "OP10-083",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Kouzuki Momonosuke",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "วาโนะคุนิ",
+                    "ตระกูลโคสึกิ"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้, กับ ลีดเดอร์ หรือ สเตจ ของเรา ที่มีคุณสมบัติ < เดรสโรซ่า > จำนวน 1 ใบ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -2.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-083.png"
+            },
+            {
+                "id": "OP10-084",
+                "number": "OP10-084",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sanjuan.Wolf",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เผ่าคนยักษ์",
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-084.png"
+            },
+            {
+                "id": "OP10-085",
+                "number": "OP10-085",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Jesus Burgess",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 1] ถ้าในแทรชของเรามีการ์ดอยู่ จำนวน 8 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-085.png"
+            },
+            {
+                "id": "OP10-086",
+                "number": "OP10-086",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Shiryu",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[ในเทิร์นของคู่แข่ง] คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ > และคาแรกเตอร์นี้ เพิ่งถูกนำลงสนามมาในเทิร์นนี้ละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ตั้งต้น 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-086.png"
+            },
+            {
+                "id": "OP10-087",
+                "number": "OP10-087",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "เดรสโรซ่า",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้, กับ ลีดเดอร์ หรือ สเตจ ของเรา ที่มีคุณสมบัติ < เดรสโรซ่า > จำนวน 1 ใบ : ถ้าคู่แข่งมีการ์ดบนมืออยู่ จำนวน 5 ใบ หรือมากกว่าละก็, คู่แข่งจะต้องทิ้งการ์ดในมือของตัวเอง จำนวน 1 ใบ. จากนั้น, จะนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-087.png"
+            },
+            {
+                "id": "OP10-088",
+                "number": "OP10-088",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้, กับ ลีดเดอร์ หรือ สเตจ ของเรา ที่มีคุณสมบัติ < เดรสโรซ่า > จำนวน 1 ใบ : จั่วการ์ด จำนวน 1 ใบ. จากนั้น, จะนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-088.png"
+            },
+            {
+                "id": "OP10-089",
+                "number": "OP10-089",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-089.png"
+            },
+            {
+                "id": "OP10-090",
+                "number": "OP10-090",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 3 หรือต่ำกว่า และมีคุณสมบัติ < เดรสโรซ่า > จำนวนไม่เกิน 1 ใบ จากในแทรชของเรา, ลงสนามในสภาพ เรสต์.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-090.png"
+            },
+            {
+                "id": "OP10-090_p1",
+                "number": "OP10-090",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 3 หรือต่ำกว่า และมีคุณสมบัติ < เดรสโรซ่า > จำนวนไม่เกิน 1 ใบ จากในแทรชของเรา, ลงสนามในสภาพ เรสต์.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-090_p1.png"
+            },
+            {
+                "id": "OP10-091",
+                "number": "OP10-091",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้, กับ ลีดเดอร์ หรือ สเตจ ของเรา ที่มีคุณสมบัติ < เดรสโรซ่า > จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. จากนั้น, จะนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-091.png"
+            },
+            {
+                "id": "OP10-092",
+                "number": "OP10-092",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Perona",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถนำการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวน 2 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค : ในเทิร์นนี้, คาแรกเตอร์ของเรา นอกเหนือจาก [Perona] จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-092.png"
+            },
+            {
+                "id": "OP10-093",
+                "number": "OP10-093",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Saint Homing",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เผ่ามังกรฟ้า"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถนำ คาแรกเตอร์นี้ ไปวางที่แทรช : คาแรกเตอร์ ธีมสีดำ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ +3, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-093.png"
+            },
+            {
+                "id": "OP10-094",
+                "number": "OP10-094",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Ryuma",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 1] คาแรกเตอร์นี้ จะได้รับ [ดับเบิ้ลแอทแทค]. (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย)",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-094.png"
+            },
+            {
+                "id": "OP10-095",
+                "number": "OP10-095",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถ เรสต์ ลีดเดอร์ หรือ สเตจ ของเรา, ที่มีคุณสมบัติ < เดรสโรซ่า > จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ. จากนั้น, จะนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-095.png"
+            },
+            {
+                "id": "OP10-096",
+                "number": "OP10-096",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "There’s No Longer Any Need for the Seven Warlords of the Sea!!!",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < เจ็ดเทพโจรสลัด >, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 8 หรือต่ำกว่า และมีคุณสมบัติ < เจ็ดเทพโจรสลัด >, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-096.png"
+            },
+            {
+                "id": "OP10-097",
+                "number": "OP10-097",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Rhino Schneider",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ในเทิร์นนี้, คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < เดรสโรซ่า > จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000. จากนั้น, ถ้าเรามีการ์ดอยู่ในแทรช จำนวน 10 ใบ หรือมากกว่าละก็, ในเทิร์นนี้, การ์ดใบนั้น จะได้รับ [แบนนิช]. (ถ้าการ์ดใบนี้ทำดาเมจได้, การ์ดใบนั้นจะถูกนำไปวางที่แทรช, และทริกเกอร์จะไม่ทำงาน)",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-097.png"
+            },
+            {
+                "id": "OP10-098",
+                "number": "OP10-098",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Liberation",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ถ้าคาแรกเตอร์ของฝ่ายเรา มีจำนวนน้อยกว่า คาแรกเตอร์ของคู่แข่ง ตั้งแต่ 2 ใบ ขึ้นไปละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ตั้งต้น 6 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กับคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ตั้งต้น 4 หรือต่ำกว่า อีกจำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-098.png"
+            },
+            {
+                "id": "OP10-099",
+                "number": "OP10-099",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Eustass\"Captain\"Kid",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อจบเทิร์นของเรา] สามารถหงาย ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : ทำการ แอ็คทีฟ คาแรกเตอร์ของเรา, ที่มีค่าคอสต์ตั้งแต่ 3 ไปจนถึง 8 และมีคุณสมบัติ < ซูเปอร์โนวา > จำนวนไม่เกิน 1 ใบ, และคาแรกเตอร์ดังกล่าว, จะได้รับ [บล็อกเกอร์] จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-099.png"
+            },
+            {
+                "id": "OP10-099_p1",
+                "number": "OP10-099",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Eustass\"Captain\"Kid",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อจบเทิร์นของเรา] สามารถหงาย ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : ทำการ แอ็คทีฟ คาแรกเตอร์ของเรา, ที่มีค่าคอสต์ตั้งแต่ 3 ไปจนถึง 8 และมีคุณสมบัติ < ซูเปอร์โนวา > จำนวนไม่เกิน 1 ใบ, และคาแรกเตอร์ดังกล่าว, จะได้รับ [บล็อกเกอร์] จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-099_p1.png"
+            },
+            {
+                "id": "OP10-100",
+                "number": "OP10-100",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Inazuma",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กองทัพปฏิวัติ >, และผลรวมของจำนวน ไลฟ์ ของทั้งสองฝ่ายคือ จำนวน 5 ใบ หรือน้อยกว่าละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ที่มีค่าคอสต์ไม่สูงไปกว่า ผลรวมของจำนวน ไลฟ์ ของทั้งสองฝ่าย.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-100.png"
+            },
+            {
+                "id": "OP10-101",
+                "number": "OP10-101",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Urouge",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดนักบวชนอกรีต"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-101.png"
+            },
+            {
+                "id": "OP10-102",
+                "number": "OP10-102",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Emporio.Ivankov",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ในเทิร์นนี้, คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กองทัพปฏิวัติ > จำนวนไม่เกิน 3 ใบ, จะมีพาวเวอร์ +1000. จากนั้น, จะต้องนำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-102.png"
+            },
+            {
+                "id": "OP10-103",
+                "number": "OP10-103",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Capone\"Gang\"Bege",
+                "cost": "1",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดไฟร์แทงค์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุด หรือ ใบล่างสุด ของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : นำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < ซูเปอร์โนวา > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์ แบบหงายหน้า.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-103.png"
+            },
+            {
+                "id": "OP10-104",
+                "number": "OP10-104",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Caribou",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคาริบู"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 1] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ซูเปอร์โนวา >, และคู่แข่งมีไลฟ์ อยู่ จำนวน 3 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้ จะไม่ถูก KO จากการแบทเทิล.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-104.png"
+            },
+            {
+                "id": "OP10-105",
+                "number": "OP10-105",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Cavendish",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดงดงาม"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-105.png"
+            },
+            {
+                "id": "OP10-106",
+                "number": "OP10-106",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Killer",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อถูก KO] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ซูเปอร์โนวา > ละก็, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ซูเปอร์โนวา > หรือ < กลุ่มโจรสลัดคิด > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-106.png"
+            },
+            {
+                "id": "OP10-107",
+                "number": "OP10-107",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Jewelry Bonney",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดบอนนี่"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุด หรือ ใบล่างสุด ของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : นำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 และมีคุณสมบัติ < ซูเปอร์โนวา > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์ แบบหงายหน้า.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-107.png"
+            },
+            {
+                "id": "OP10-108",
+                "number": "OP10-108",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Scratchmen Apoo",
+                "cost": "1",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดออนแอร์"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าเรามีคาแรกเตอร์ ธีมสีเหลือง ที่มีคุณสมบัติ < ซูเปอร์โนวา > นอกเหนือจาก [Scratchmen Apoo] อยู่ด้วยละก็, คาแรกเตอร์นี้ จะได้รับ [บล็อกเกอร์]. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-108.png"
+            },
+            {
+                "id": "OP10-109",
+                "number": "OP10-109",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Basil Hawkins",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮอว์คินส์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อถูก KO] นำ ไลฟ์ ใบบนสุดของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-109.png"
+            },
+            {
+                "id": "OP10-110",
+                "number": "OP10-110",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Heat & Wire",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน",
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าเรามีไลฟ์อยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ที่มีค่าคอสต์ไม่สูงไปกว่า จำนวนไลฟ์ของคู่แข่ง.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-110.png"
+            },
+            {
+                "id": "OP10-111",
+                "number": "OP10-111",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ซูเปอร์โนวา > นอกเหนือจาก [Monkey.D.Luffy] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-111.png"
+            },
+            {
+                "id": "OP10-111_p1",
+                "number": "OP10-111",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ซูเปอร์โนวา > นอกเหนือจาก [Monkey.D.Luffy] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-111_p1.png"
+            },
+            {
+                "id": "OP10-112",
+                "number": "OP10-112",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Eustass\"Captain\"Kid",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถ เรสต์ คาแรกเตอร์นี้ : นำ ไลฟ์ ใบบนสุดของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช. [เมื่อจบเทิร์นของเรา] ถ้าคู่แข่งมีไลฟ์อยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จั่วการ์ด จำนวน 1 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-112.png"
+            },
+            {
+                "id": "OP10-112_p1",
+                "number": "OP10-112",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Eustass\"Captain\"Kid",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถ เรสต์ คาแรกเตอร์นี้ : นำ ไลฟ์ ใบบนสุดของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช. [เมื่อจบเทิร์นของเรา] ถ้าคู่แข่งมีไลฟ์อยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จั่วการ์ด จำนวน 1 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-112_p1.png"
+            },
+            {
+                "id": "OP10-113",
+                "number": "OP10-113",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ซูเปอร์โนวา > ละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าเรามี ไลฟ์ น้อยกว่าคู่แข่งละก็, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-113.png"
+            },
+            {
+                "id": "OP10-114",
+                "number": "OP10-114",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "X.Drake",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดเดรค"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ถ้าไลฟ์ของเรา มีจำนวนไม่สูงไปกว่า จำนวน ไลฟ์ของคู่แข่งละก็, ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-114.png"
+            },
+            {
+                "id": "OP10-115",
+                "number": "OP10-115",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Let's Meet Again in the New World",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ที่มีค่าคอสต์ไม่สูงไปกว่า จำนวนไลฟ์ของคู่แข่ง.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +4000. จากนั้น, ถ้าเรามีไลฟ์อยู่ จำนวน 0 ใบ ละก็, จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-115.png"
+            },
+            {
+                "id": "OP10-116",
+                "number": "OP10-116",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Damned Punk",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ดูการ์ด จำนวนไม่เกิน 1 ใบ จากบนสุดของ ไลฟ์ ของฝ่ายเรา หรือว่า ของคู่แข่ง, และนำไปวางที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์ (ของเจ้าของเดิม). จากนั้น, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-116.png"
+            },
+            {
+                "id": "OP10-117",
+                "number": "OP10-117",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "ROOM",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ถ้าเรามีไลฟ์อยู่ จำนวน 1 ใบ หรือน้อยกว่าละก็, ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000. จากนั้น, จะทำให้ คาแรกเตอร์ของเรา ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-117.png"
+            },
+            {
+                "id": "OP10-118",
+                "number": "OP10-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์นี้, จะไม่ถูก KO จากความสามารถของคู่แข่ง เทิร์นละ 1 ครั้ง. [เมื่อโจมตี] สามารถนำการ์ด จากในแทรชของเรา จำนวน 3 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค : ถ้าคู่แข่งมีการ์ดบนมืออยู่ จำนวน 5 ใบ หรือมากกว่าละก็, คู่แข่งจะต้องทิ้งการ์ดในมือของตัวเอง จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-118.png"
+            },
+            {
+                "id": "OP10-118_p1",
+                "number": "OP10-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์นี้, จะไม่ถูก KO จากความสามารถของคู่แข่ง เทิร์นละ 1 ครั้ง. [เมื่อโจมตี] สามารถนำการ์ด จากในแทรชของเรา จำนวน 3 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค : ถ้าคู่แข่งมีการ์ดบนมืออยู่ จำนวน 5 ใบ หรือมากกว่าละก็, คู่แข่งจะต้องทิ้งการ์ดในมือของตัวเอง จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-118_p1.png"
+            },
+            {
+                "id": "OP10-119",
+                "number": "OP10-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < ซูเปอร์โนวา > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำไปวางเพิ่มที่บนสุดของไลฟ์ แบบคว่ำ. จากนั้น, จะได้นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ไปใส่ให้กับ ลีดเดอร์ของเรา ที่มีคุณสมบัติ < ซูเปอร์โนวา > จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-119.png"
+            },
+            {
+                "id": "OP10-119_p1",
+                "number": "OP10-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < ซูเปอร์โนวา > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำไปวางเพิ่มที่บนสุดของไลฟ์ แบบคว่ำ. จากนั้น, จะได้นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ไปใส่ให้กับ ลีดเดอร์ของเรา ที่มีคุณสมบัติ < ซูเปอร์โนวา > จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-119_p1.png"
+            },
+            {
+                "id": "OP10-119_p2",
+                "number": "OP10-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < ซูเปอร์โนวา > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำไปวางเพิ่มที่บนสุดของไลฟ์ แบบคว่ำ. จากนั้น, จะได้นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ไปใส่ให้กับ ลีดเดอร์ของเรา ที่มีคุณสมบัติ < ซูเปอร์โนวา > จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-119_p2.png"
+            },
+            {
+                "id": "EB01-056_p2",
+                "number": "EB01-056",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Charlotte Flampe",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-056_p2.png"
+            },
+            {
+                "id": "OP07-021_p1",
+                "number": "OP07-021",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Urouge",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดนักบวชนอกรีต"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อจบเทิร์นของเรา] นำ ด้ง!! จากด้ง!! เด็ค ของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-021_p1.png"
+            },
+            {
+                "id": "ST12-012_p1",
+                "number": "ST12-012",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Charlotte Pudding",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] คาแรกเตอร์นี้จะถูกนำกลับขึ้นมือของเจ้าของ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST12-012_p1.png"
+            },
+            {
+                "id": "ST14-003_p1",
+                "number": "ST14-003",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 6 หรือสูงกว่า อยู่ละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-003_p1.png"
+            },
+            {
+                "id": "ST15-002_p1",
+                "number": "ST15-002",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Edward.Newgate",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา, จำนวน 1 ใบ. [ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 5000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST15-002_p1.png"
+            },
+            {
+                "id": "ST18-001_p1",
+                "number": "ST18-001",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Uso-Hachi",
+                "cost": "3",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าในสนามของเรามี ด้ง!! อยู่ จำนวน 8 ใบ หรือมากกว่าละก็, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Royal Blood- [OP-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST18-001_p1.png"
+            }
+        ]
+    }
+}

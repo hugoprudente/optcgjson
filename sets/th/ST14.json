@@ -1,0 +1,415 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563014,
+        "language": "th"
+    },
+    "data": {
+        "code": "ST14",
+        "cards": [
+            {
+                "id": "ST14-001",
+                "number": "ST14-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[ด้ง!! x 1] คาแรกเตอร์ของฝ่ายเรา ทั้งหมด, จะมีคอสต์ +1. ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 8 หรือสูงกว่า อยู่ละก็, ลีดเดอร์นี้ จะมีพาวเวอร์ +1000.",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-001.png"
+            },
+            {
+                "id": "ST14-002",
+                "number": "ST14-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "cost": "3",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 8 หรือสูงกว่า อยู่ละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-002.png"
+            },
+            {
+                "id": "ST14-003",
+                "number": "ST14-003",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 6 หรือสูงกว่า อยู่ละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-003.png"
+            },
+            {
+                "id": "ST14-004",
+                "number": "ST14-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] คาแรกเตอร์ ธีมสีดำ ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > ของเรา จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ +2, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-004.png"
+            },
+            {
+                "id": "ST14-005",
+                "number": "ST14-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-005.png"
+            },
+            {
+                "id": "ST14-006",
+                "number": "ST14-006",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 8 หรือสูงกว่า อยู่ด้วย, และเรามีการ์ดบนมือ จำนวน 6 ใบ หรือน้อยกว่า, จะได้จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-006.png"
+            },
+            {
+                "id": "ST14-007",
+                "number": "ST14-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 8 หรือสูงกว่า อยู่ละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -5.",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-007.png"
+            },
+            {
+                "id": "ST14-008",
+                "number": "ST14-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Haredas",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เกาะแห่งท้องฟ้า"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : คาแรกเตอร์ ธีมสีดำ ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > ของเรา จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ +2, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป. จากนั้น, ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 8 หรือสูงกว่า อยู่ละก็, จะต้องจั่วการ์ด จำนวน 1 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-008.png"
+            },
+            {
+                "id": "ST14-009",
+                "number": "ST14-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[ด้ง!! x 1] [ในเทิร์นของคู่แข่ง] ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 6 หรือสูงกว่า อยู่ละก็, คาแรกเตอร์นี้ จะไม่ถูก KO จากความสามารถของคู่แข่ง, และจะมีพาวเวอร์ +2000.",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-009.png"
+            },
+            {
+                "id": "ST14-010",
+                "number": "ST14-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-010.png"
+            },
+            {
+                "id": "ST14-011",
+                "number": "ST14-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Heracles",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "หมู่เกาะโบอิน"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : คาแรกเตอร์ ธีมสีดำ ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > ของเรา จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ +2, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-011.png"
+            },
+            {
+                "id": "ST14-012",
+                "number": "ST14-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 10 หรือสูงกว่า อยู่ละก็, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-012.png"
+            },
+            {
+                "id": "ST14-013",
+                "number": "ST14-013",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-013.png"
+            },
+            {
+                "id": "ST14-014",
+                "number": "ST14-014",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Giant Rifle",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 2 หรือต่ำกว่า ซึ่งอยู่ในแทรชของเรา จำนวนไม่เกิน 1 ใบ, เพิ่มขึ้นสู่บนมือ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เคาน์เตอร์] ถ้าฝ่ายใดก็ตามมีคาแรกเตอร์ ที่มีคอสต์ 8 หรือสูงกว่า อยู่ละก็, ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-014.png"
+            },
+            {
+                "id": "ST14-015",
+                "number": "ST14-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Diable Three-Swords Style Mouten Jet Six Hundred Pound Phoenix Cannon",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 8 หรือสูงกว่า อยู่ละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000. จากนั้น, ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 8 หรือสูงกว่า อยู่ละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-015.png"
+            },
+            {
+                "id": "ST14-016",
+                "number": "ST14-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "I Have My Crew!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] จั่วการ์ด จำนวน 1 ใบ. จากนั้น, คาแรกเตอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ +3, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-016.png"
+            },
+            {
+                "id": "ST14-017",
+                "number": "ST14-017",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Thousand Sunny",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "คาแรกเตอร์ ธีมสีดำ ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > ของฝ่ายเรา ทั้งหมด, จะมีคอสต์ +1. [เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มหมวกฟาง >, จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-3D2Y- [ST-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST14-017.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,435 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 1940941021,
+        "language": "ko"
+    },
+    "data": {
+        "code": "ST05",
+        "cards": [
+            {
+                "id": "ST05-001",
+                "number": "ST05-001",
+                "type": "L",
+                "class": "리더",
+                "name": "샹크스",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "N/A",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "사황",
+                    "빨간 머리 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】【턴 1회】두웅!!-3(자신 필드의 두웅!!을 지정된 수 만큼 두웅!! 덱으로 되돌릴 수 있다): 이번 턴 동안, 자신의 《FILM》 특징을 가진 모든 캐릭터의 파워 +2000.",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171237009594"
+            },
+            {
+                "id": "ST05-002",
+                "number": "ST05-002",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "아인",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "NEO 해군"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171237113092"
+            },
+            {
+                "id": "ST05-003",
+                "number": "ST05-003",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "앤",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "해적 박람회"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171237226175"
+            },
+            {
+                "id": "ST05-004",
+                "number": "ST05-004",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "우타",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)<BR>\r\n【블록 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 5 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171237353553"
+            },
+            {
+                "id": "ST05-005",
+                "number": "ST05-005",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "카리나",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "그랑 테소로"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】【턴 1회】이 캐릭터를 레스트 하고, 자신의 패에서 《FILM》 특징을 가진 카드 1장을 트래시로 보낼 수 있다: 상대 필드의 두웅!! 수가 자신 필드의 두웅!! 수보다 많을 경우, 두웅!! 덱에서 두웅!!을 2장까지 레스트 상태로 추가한다.",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171237448193"
+            },
+            {
+                "id": "ST05-006",
+                "number": "ST05-006",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "길드 테소로",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "그랑 테소로"
+                ],
+                "block_icon": "1",
+                "effect": "【어택 시】두웅!!-2(자신 필드의 두웅!!을 지정된 수 만큼 두웅!! 덱으로 되돌릴 수 있다): 카드를 2장 뽑는다.",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171237553009"
+            },
+            {
+                "id": "ST05-007",
+                "number": "ST05-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "고든",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171238109884"
+            },
+            {
+                "id": "ST05-008",
+                "number": "ST05-008",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "시키",
+                "cost": "6",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "금사자 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "자신의 필드에 두웅!!이 8장 이상인 경우, 이 캐릭터는 배틀에서는 KO 당하지 않는다.",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171238208119"
+            },
+            {
+                "id": "ST05-009",
+                "number": "ST05-009",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "스칼렛",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "이 카드를 등장 시킨다.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "동물",
+                    "금사자 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171238315614"
+            },
+            {
+                "id": "ST05-010",
+                "number": "ST05-010",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "제트",
+                "cost": "7",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "NEO 해군"
+                ],
+                "block_icon": "1",
+                "effect": "이 캐릭터가 <타격> 속성을 가진 캐릭터와 배틀 할 때, 이번 턴 동안, 이 캐릭터의 파워 +3000.<BR>\r\n【기동: 메인】【턴 1회】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 이번 턴 동안, 이 캐릭터의 파워 +2000.",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171238402644"
+            },
+            {
+                "id": "ST05-011",
+                "number": "ST05-011",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "더글라스 불릿",
+                "cost": "8",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "해적 박람회"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】【턴 1회】두웅!!-4(자신 필드의 두웅!!을 지정된 수 만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 6 이하인 캐릭터를 2장까지 레스트로 한다. 그 후, 이번 턴 동안, 이 캐릭터는 【더블 어택】을 얻는다.<BR>\r\n(이 카드가 주는 대미지는 2가 된다)",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171238490712"
+            },
+            {
+                "id": "ST05-012",
+                "number": "ST05-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "바카라",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "그랑 테소로"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171239042817"
+            },
+            {
+                "id": "ST05-013",
+                "number": "ST05-013",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "빈즈",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "NEO 해군"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171239140775"
+            },
+            {
+                "id": "ST05-014",
+                "number": "ST05-014",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "부에나 페스타",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "해적 박람회"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「부에나 페스타」이외의 《FILM》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171239249292"
+            },
+            {
+                "id": "ST05-015",
+                "number": "ST05-015",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "Dr. 인디고",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "과학자",
+                    "금사자 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171239419654"
+            },
+            {
+                "id": "ST05-016",
+                "number": "ST05-016",
+                "type": "C",
+                "class": "이벤트",
+                "name": "사자의 위협 회오리 흙",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "금사자 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】두웅!!-2(자신 필드의 두웅!!을 지정된 수 만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 5 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171239529467"
+            },
+            {
+                "id": "ST05-017",
+                "number": "ST05-017",
+                "type": "C",
+                "class": "이벤트",
+                "name": "유니온 아르마다",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM",
+                    "해적 박람회"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】이번 배틀 중, 자신의 《FILM》 특징을 가진 리더 또는 캐릭터 1장까지의 파워 +4000. 그 카드가 캐릭터인 경우, 이번 턴 동안 그 캐릭터는 KO 당하지 않는다.",
+                "card_set": "[STK-05] 스타트 덱 ONE PIECE FILM edition",
+                "image_url": "/fileDownload?downname=202405171236479730"
+            }
+        ]
+    }
+}

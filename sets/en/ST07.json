@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556007
+        "set": 556007,
+        "language": "en"
     },
     "data": {
         "code": "ST07",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Charlotte Linlin",
-                "image_path": "images/BigMomPiratesST07/ST07-001.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -39,7 +39,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Anana",
-                "image_path": "images/BigMomPiratesST07/ST07-002.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -64,7 +63,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Charlotte Katakuri",
-                "image_path": "images/BigMomPiratesST07/ST07-003.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -79,7 +77,7 @@
                     "Big Mom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, if you have less Life cards than your opponent, this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, if you have less Life cards than your opponent, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Big Mom Pirates- [ST-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-003.png"
             },
@@ -89,7 +87,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Snack",
-                "image_path": "images/BigMomPiratesST07/ST07-004.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -104,7 +101,7 @@
                     "Big Mom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains [Banish] and +1000 power during this battle.(When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "effect": "[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains [Banish] and +1000 power during this battle. (When this card deals damage, the target card is trashed without activating its Trigger.)",
                 "card_set": "-Big Mom Pirates- [ST-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-004.png"
             },
@@ -114,7 +111,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Daifuku",
-                "image_path": "images/BigMomPiratesST07/ST07-005.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -139,7 +135,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Flampe",
-                "image_path": "images/BigMomPiratesST07/ST07-006.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -164,7 +159,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Brulee",
-                "image_path": "images/BigMomPiratesST07/ST07-007.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -189,7 +183,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Pudding",
-                "image_path": "images/BigMomPiratesST07/ST07-008.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -214,7 +207,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Mont-d'or",
-                "image_path": "images/BigMomPiratesST07/ST07-009.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -239,7 +231,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Charlotte Linlin",
-                "image_path": "images/BigMomPiratesST07/ST07-010.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -255,7 +246,7 @@
                     "Big Mom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] Your opponent chooses one:- Trash 1 card from the top of your opponent's Life cards.- Add 1 card from the top of your deck to the top of your Life cards.",
+                "effect": "[On Play] Your opponent chooses one: - Trash 1 card from the top of your opponent's Life cards. - Add 1 card from the top of your deck to the top of your Life cards.",
                 "card_set": "-Big Mom Pirates- [ST-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-010.png"
             },
@@ -265,7 +256,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Zeus",
-                "image_path": "images/BigMomPiratesST07/ST07-011.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -281,7 +271,7 @@
                     "Homies"
                 ],
                 "block_icon": "1",
-                "effect": "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Linlin] cards gains [Banish] during this turn.(When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "effect": "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Linlin] cards gains [Banish] during this turn. (When this card deals damage, the target card is trashed without activating its Trigger.)",
                 "card_set": "-Big Mom Pirates- [ST-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-011.png"
             },
@@ -291,7 +281,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Baron Tamago",
-                "image_path": "images/BigMomPiratesST07/ST07-012.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -316,7 +305,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Prometheus",
-                "image_path": "images/BigMomPiratesST07/ST07-013.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -332,7 +320,7 @@
                     "Homies"
                 ],
                 "block_icon": "1",
-                "effect": "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Linlin] cards gains [Double Attack] during this turn.(This card deals 2 damage.)",
+                "effect": "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Linlin] cards gains [Double Attack] during this turn. (This card deals 2 damage.)",
                 "card_set": "-Big Mom Pirates- [ST-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-013.png"
             },
@@ -342,7 +330,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Pekoms",
-                "image_path": "images/BigMomPiratesST07/ST07-014.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -368,11 +355,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Soul Pocus",
-                "image_path": "images/BigMomPiratesST07/ST07-015.png",
                 "cost": "5",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -384,7 +368,7 @@
                     "Big Mom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Main] Your opponent chooses one:- Trash 1 card from the top of your opponent's Life cards.- Add 1 card from the top of your deck to the top of your Life cards.",
+                "effect": "[Main] Your opponent chooses one: - Trash 1 card from the top of your opponent's Life cards. - Add 1 card from the top of your deck to the top of your Life cards.",
                 "card_set": "-Big Mom Pirates- [ST-07]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-015.png"
             },
@@ -394,11 +378,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Power Mochi",
-                "image_path": "images/BigMomPiratesST07/ST07-016.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card, look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -419,11 +400,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Queen Mama Chanter",
-                "image_path": "images/BigMomPiratesST07/ST07-017.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Play this card.",
                 "power": "-",
                 "counter": "-",

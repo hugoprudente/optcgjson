@@ -21,6 +21,7 @@ CARD_FIELDS = [
     "rarity",
     "card_class",
     "cost",
+    "life",
     "attribute",
     "power",
     "counter",

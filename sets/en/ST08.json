@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556008
+        "set": 556008,
+        "language": "en"
     },
     "data": {
         "code": "ST08",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-001.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -38,7 +38,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Uta",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-002.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -53,7 +52,7 @@
                     "FILM"
                 ],
                 "block_icon": "1",
-                "effect": "This Character cannot be K.O.'d in battle by Leaders.[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+                "effect": "This Character cannot be K.O.'d in battle by Leaders. [Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
                 "card_set": "-Side Monkey.D.Luffy- [ST-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-002.png"
             },
@@ -63,7 +62,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Gaimon",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-003.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -88,7 +86,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Koby",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-004.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -113,7 +110,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Shanks",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-005.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -138,7 +134,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Shirahoshi",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-006.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -153,7 +148,7 @@
                     "Merfolk"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
                 "card_set": "-Side Monkey.D.Luffy- [ST-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-006.png"
             },
@@ -163,7 +158,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Nefeltari Vivi",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-007.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -188,7 +182,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Higuma",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-008.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -213,7 +206,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Makino",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-009.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -238,7 +230,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Garp",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-010.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -263,7 +254,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-011.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -288,7 +278,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Laboon",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-012.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -313,7 +302,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Mr.2.Bon.Kurei(Bentham)",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-013.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -338,11 +326,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Gum-Gum Bell",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-014.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add up to 1 black Character card with a cost of 2 or less from your trash to your hand.",
                 "power": "-",
                 "counter": "-",
@@ -363,11 +348,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Gum-Gum Pistol",
-                "image_path": "images/SideMonkeyDLuffyST08/ST08-015.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card.",
                 "power": "-",
                 "counter": "-",

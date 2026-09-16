@@ -32,7 +32,9 @@ class TestNormalizeCard:
         assert result["name"] == "Koby"
         assert result["rarity"] == "L"
         assert result["card_class"] == "LEADER"
-        assert result["cost"] == "4"
+        # Leaders: the scraped value belongs to ``life``, not ``cost``.
+        assert result["cost"] is None
+        assert result["life"] == "4"
         assert result["power"] == "5000"
         assert result["counter"] is None  # "-" is a sentinel
         assert result["trigger"] is None  # "N/A" is a sentinel
@@ -40,6 +42,40 @@ class TestNormalizeCard:
         assert result["feature"] == ["Navy", "SWORD"]
         assert result["attribute"] == ["Strike"]
         assert result["is_parallel"] is False
+
+    def test_non_leader_keeps_cost(self):
+        raw = {
+            "id": "OP01-004", "number": "OP01-004",
+            "type": "C", "class": "CHARACTER",
+            "name": "Usopp", "cost": "2",
+            "attribute": ["Ranged"], "trigger": "N/A",
+            "power": "2000", "counter": "1000",
+            "color": ["Red"], "feature": ["Straw Hat Crew"],
+            "block_icon": "1", "effect": "",
+            "card_set": "", "image_url": "",
+        }
+        result = normalize_card(raw)
+        assert result["card_class"] == "CHARACTER"
+        assert result["cost"] == "2"
+        assert result["life"] is None
+
+    def test_korean_leader_split(self):
+        # The Korean scraper emits the localised class "리더" and assigns the
+        # life value to the raw ``cost`` field; normalize must still detect it.
+        raw = {
+            "id": "OP01-001", "number": "OP01-001",
+            "type": "L", "class": "리더",
+            "name": "몽키.D.루피", "cost": "5",
+            "attribute": [], "trigger": "N/A",
+            "power": "5000", "counter": "-",
+            "color": [], "feature": [],
+            "block_icon": "1", "effect": "",
+            "card_set": "", "image_url": "",
+        }
+        result = normalize_card(raw)
+        assert result["card_class"] == "리더"
+        assert result["cost"] is None
+        assert result["life"] == "5"
 
     def test_sentinel_cleaning(self):
         raw = {
@@ -53,6 +89,7 @@ class TestNormalizeCard:
         # name uses strip() not _clean(), so "N/A" stays as literal string
         assert result["name"] == "N/A"
         assert result["cost"] is None
+        assert result["life"] is None
         assert result["trigger"] is None
         assert result["power"] is None
         assert result["counter"] is None

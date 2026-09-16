@@ -1,0 +1,3524 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 554111,
+        "language": "zh-Hant"
+    },
+    "data": {
+        "code": "OP11",
+        "cards": [
+            {
+                "id": "OP11-001",
+                "number": "OP11-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "克比",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紅",
+                    "黑"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "自己擁有《SWORD》特徵的角色卡，在登場的回合即可攻擊角色卡。 【每回合1次】自己原本力量值7000以下擁有《海軍》特徵的角色卡因對手的效果即將離開場上時，可以替換成將3張自己廢棄區中的卡片依任意順序放置在卡組下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-001.png"
+            },
+            {
+                "id": "OP11-001_p1",
+                "number": "OP11-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "克比",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紅",
+                    "黑"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "自己擁有《SWORD》特徵的角色卡，在登場的回合即可攻擊角色卡。 【每回合1次】自己原本力量值7000以下擁有《海軍》特徵的角色卡因對手的效果即將離開場上時，可以替換成將3張自己廢棄區中的卡片依任意順序放置在卡組下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-001_p1.png"
+            },
+            {
+                "id": "OP11-002",
+                "number": "OP11-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "艾茵",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "新海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】最多1張對手的角色卡，在這個回合，力量值-1000。之後，KO最多1張對手力量值0以下的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-002.png"
+            },
+            {
+                "id": "OP11-003",
+                "number": "OP11-003",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "騙人布",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-003.png"
+            },
+            {
+                "id": "OP11-004",
+                "number": "OP11-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "孔雀",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】從自己的卡組上面查看5張卡片，公開最多1張除了「孔雀」以外擁有《海軍》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。 【啟動主要】可將這張角色卡放置在廢棄區：最多1張自己的角色卡，在這個回合，力量值+1000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-004.png"
+            },
+            {
+                "id": "OP11-004_p1",
+                "number": "OP11-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "孔雀",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】從自己的卡組上面查看5張卡片，公開最多1張除了「孔雀」以外擁有《海軍》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。 【啟動主要】可將這張角色卡放置在廢棄區：最多1張自己的角色卡，在這個回合，力量值+1000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-004_p1.png"
+            },
+            {
+                "id": "OP11-005",
+                "number": "OP11-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "斯摩格",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【咚‼×1】這張角色卡不會因未擁有(特)屬性的角色卡效果而遭到KO。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-005.png"
+            },
+            {
+                "id": "OP11-006",
+                "number": "OP11-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Z",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "新海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【咚‼×1】【攻擊時】最多1張對手擁有(特)屬性的角色卡，在這個回合，力量值-5000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-006.png"
+            },
+            {
+                "id": "OP11-007",
+                "number": "OP11-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "達絲琪",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【啟動主要】可將這張角色卡置為休息狀態：若自己的領航卡擁有《海軍》特徵時，最多1張自己擁有《海軍》特徵的角色卡，在這個回合，力量值+2000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-007.png"
+            },
+            {
+                "id": "OP11-008",
+                "number": "OP11-008",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "朵爾",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】 【登場時】可以廢棄1張自己的手牌：若自己的領航卡擁有《海軍》特徵時，最多1張對手的角色卡，在這個回合，力量值-6000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-008.png"
+            },
+            {
+                "id": "OP11-008_p1",
+                "number": "OP11-008",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "朵爾",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】 【登場時】可以廢棄1張自己的手牌：若自己的領航卡擁有《海軍》特徵時，最多1張對手的角色卡，在這個回合，力量值-6000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-008_p1.png"
+            },
+            {
+                "id": "OP11-009",
+                "number": "OP11-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "妮可・羅賓",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【咚‼×2】【攻擊時】最多1張對手的角色卡，在下一個對手回合結束前，力量值-2000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-009.png"
+            },
+            {
+                "id": "OP11-010",
+                "number": "OP11-010",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "雲雀",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】最多1張對手的角色卡，在這個回合，力量值-2000。 【攻擊時】這張角色卡，在這個回合，力量值+1000。之後，最多1張自己擁有《海軍》特徵的領航卡，在這個回合，可以攻擊活動狀態的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-010.png"
+            },
+            {
+                "id": "OP11-010_p1",
+                "number": "OP11-010",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "雲雀",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】最多1張對手的角色卡，在這個回合，力量值-2000。 【攻擊時】這張角色卡，在這個回合，力量值+1000。之後，最多1張自己擁有《海軍》特徵的領航卡，在這個回合，可以攻擊活動狀態的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-010_p1.png"
+            },
+            {
+                "id": "OP11-011",
+                "number": "OP11-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "賓茲",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "新海軍"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-011.png"
+            },
+            {
+                "id": "OP11-012",
+                "number": "OP11-012",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "佛朗基",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【我方回合中】【每回合1次】對手發動事件卡時，自己的角色卡全數，在這個回合，力量值+2000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-012.png"
+            },
+            {
+                "id": "OP11-013",
+                "number": "OP11-013",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "普林司・古勒斯",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【攻擊時】對手力量值2000以下的角色卡全數，在這個回合，無法發動【防禦】。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-013.png"
+            },
+            {
+                "id": "OP11-014",
+                "number": "OP11-014",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "波爾薩利諾",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "FILM",
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】 【啟動主要】可將這張角色卡置為休息狀態：最多1張自己擁有《海軍》特徵的領航卡或角色卡，在這個回合，可以攻擊活動狀態的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-014.png"
+            },
+            {
+                "id": "OP11-015",
+                "number": "OP11-015",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "蒙查",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "龐克哈薩特"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-015.png"
+            },
+            {
+                "id": "OP11-016",
+                "number": "OP11-016",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "羅羅亞・索隆",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【啟動主要】【每回合1次】附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-016.png"
+            },
+            {
+                "id": "OP11-017",
+                "number": "OP11-017",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "X・多雷古",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD",
+                    "多雷古海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-017.png"
+            },
+            {
+                "id": "OP11-018",
+                "number": "OP11-018",
+                "type": "R",
+                "class": "EVENT",
+                "name": "誠實拳骨",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "【觸發器】KO最多1張對手力量值6000以下的角色卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】最多1張對手的角色卡，在這個回合，力量值-4000。之後，KO最多1張對手力量值6000以下的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-018.png"
+            },
+            {
+                "id": "OP11-018_p1",
+                "number": "OP11-018",
+                "type": "R",
+                "class": "EVENT",
+                "name": "誠實拳骨",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "【觸發器】KO最多1張對手力量值6000以下的角色卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】最多1張對手的角色卡，在這個回合，力量值-4000。之後，KO最多1張對手力量值6000以下的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-018_p1.png"
+            },
+            {
+                "id": "OP11-019",
+                "number": "OP11-019",
+                "type": "C",
+                "class": "EVENT",
+                "name": "黏土巢",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】最多1張自己的領航卡或角色卡，在這個回合，力量值+1000。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。之後，若場上有對手力量值6000以上的角色卡時，最多1張自己的領航卡或角色卡，在這個回合，力量值+1000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-019.png"
+            },
+            {
+                "id": "OP11-020",
+                "number": "OP11-020",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "X狩場",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】KO最多1張對手力量值4000以下的角色卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD",
+                    "多雷古海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】最多2張對手的角色卡，在這個回合，力量值-2000。之後，最多1張自己擁有《海軍》特徵的角色卡，在這個回合，力量值+1000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-020.png"
+            },
+            {
+                "id": "OP11-021",
+                "number": "OP11-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "吉貝爾",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【我方回合結束時】若自己的手牌在6張以下時，將最多1張自己擁有《魚人族》或《人魚族》特徵的角色卡和最多1張自己的咚‼卡，置為活動狀態。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-021.png"
+            },
+            {
+                "id": "OP11-021_p1",
+                "number": "OP11-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "吉貝爾",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【我方回合結束時】若自己的手牌在6張以下時，將最多1張自己擁有《魚人族》或《人魚族》特徵的角色卡和最多1張自己的咚‼卡，置為活動狀態。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-021_p1.png"
+            },
+            {
+                "id": "OP11-022",
+                "number": "OP11-022",
+                "type": "L",
+                "class": "LEADER",
+                "name": "白星",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠",
+                    "黃"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "這張領航卡無法攻擊。 【啟動主要】【每回合1次】可將1張自己的咚‼卡置為休息狀態，並將1張自己生命值區上面的卡片翻成正面朝上：使最多1張自己手牌中費用數值在自己場上的咚‼卡張數以下、擁有《海王類》特徵的角色卡或「梅卡洛」登場。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-022.png"
+            },
+            {
+                "id": "OP11-022_p1",
+                "number": "OP11-022",
+                "type": "L",
+                "class": "LEADER",
+                "name": "白星",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠",
+                    "黃"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "這張領航卡無法攻擊。 【啟動主要】【每回合1次】可將1張自己的咚‼卡置為休息狀態，並將1張自己生命值區上面的卡片翻成正面朝上：使最多1張自己手牌中費用數值在自己場上的咚‼卡張數以下、擁有《海王類》特徵的角色卡或「梅卡洛」登場。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-022_p1.png"
+            },
+            {
+                "id": "OP11-023",
+                "number": "OP11-023",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "惡龍",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "【觸發器】將最多1張對手費用4以下的角色卡置為休息狀態。",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "魚人島",
+                    "太陽海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "若自己的領航卡擁有《魚人族》特徵、自己的生命值卡在3張以下、而且對手休息狀態的卡片有5張以上時，手牌中這張卡片的費用-3。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-023.png"
+            },
+            {
+                "id": "OP11-023_p1",
+                "number": "OP11-023",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "惡龍",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "【觸發器】將最多1張對手費用4以下的角色卡置為休息狀態。",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "魚人島",
+                    "太陽海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "若自己的領航卡擁有《魚人族》特徵、自己的生命值卡在3張以下、而且對手休息狀態的卡片有5張以上時，手牌中這張卡片的費用-3。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-023_p1.png"
+            },
+            {
+                "id": "OP11-024",
+                "number": "OP11-024",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "阿拉丁",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島",
+                    "太陽海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "這張角色卡因對手的效果遭到KO時，可以廢棄1張自己的手牌、將1張自己的咚‼卡置為休息狀態。若有執行此動作時，使最多1張自己手牌中費用6以下擁有《魚人族》或《人魚族》特徵的角色卡登場。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-024.png"
+            },
+            {
+                "id": "OP11-025",
+                "number": "OP11-025",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "伊希莉",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "【對方攻擊時】【每回合1次】可將1張自己的咚‼卡和這張角色卡置為休息狀態：最多1張自己的領航卡或角色卡，在這場對戰中，力量值+1000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-025.png"
+            },
+            {
+                "id": "OP11-026",
+                "number": "OP11-026",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "鱗片",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "海王類"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-026.png"
+            },
+            {
+                "id": "OP11-027",
+                "number": "OP11-027",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "凸眼",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "海王類"
+                ],
+                "block_icon": "3",
+                "effect": "若自己的領航卡是「白星」時，這張角色卡在登場的回合即可攻擊角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-027.png"
+            },
+            {
+                "id": "OP11-028",
+                "number": "OP11-028",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "近海霸主",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】KO最多1張對手休息狀態費用3以下的角色卡。",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "海王類",
+                    "東方藍"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】最多1張對手休息狀態的角色卡，在下一個對手的重整階段無法為活動狀態。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-028.png"
+            },
+            {
+                "id": "OP11-029",
+                "number": "OP11-029",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "夏洛特・普萊麗芮",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島",
+                    "太陽海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】將最多1張對手費用1以下的角色卡置為休息狀態。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-029.png"
+            },
+            {
+                "id": "OP11-030",
+                "number": "OP11-030",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "白星",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "【啟動主要】可將1張自己的咚‼卡和這張角色卡置為休息狀態：從自己的卡組上面查看5張卡片，公開最多1張擁有《海王類》或《魚人島》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-030.png"
+            },
+            {
+                "id": "OP11-031",
+                "number": "OP11-031",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "吉貝爾",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "魚人島",
+                    "太陽海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】若自己的領航卡擁有《魚人族》或《人魚族》特徵時，將最多1張對手費用5以下的角色卡置為休息狀態。 【啟動主要】【每回合1次】最多1張自己擁有《魚人族》或《人魚族》特徵的角色卡，在登場的回合即可攻擊角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-031.png"
+            },
+            {
+                "id": "OP11-031_p1",
+                "number": "OP11-031",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "吉貝爾",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "魚人島",
+                    "太陽海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】若自己的領航卡擁有《魚人族》或《人魚族》特徵時，將最多1張對手費用5以下的角色卡置為休息狀態。 【啟動主要】【每回合1次】最多1張自己擁有《魚人族》或《人魚族》特徵的角色卡，在登場的回合即可攻擊角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-031_p1.png"
+            },
+            {
+                "id": "OP11-032",
+                "number": "OP11-032",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "魷魚",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "動物",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-032.png"
+            },
+            {
+                "id": "OP11-033",
+                "number": "OP11-033",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "鳥類",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "海王類"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-033.png"
+            },
+            {
+                "id": "OP11-034",
+                "number": "OP11-034",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "小八",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "魚人島",
+                    "前惡龍海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【啟動主要】可將這張角色卡置為休息狀態：若自己的領航卡擁有《魚人族》或《人魚族》特徵時，最多1張對手費用3以下的角色卡，在下一個對手回合結束前，無法置為休息狀態。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-034.png"
+            },
+            {
+                "id": "OP11-035",
+                "number": "OP11-035",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "費雪・泰格",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "魚人島",
+                    "太陽海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "這張角色卡因對手的效果遭到KO時，可將1張自己的咚‼卡置為休息狀態。若有執行此動作時，使最多1張自己手牌中費用4以下擁有《魚人族》或《人魚族》特徵的角色卡登場。 【登場時】將最多1張對手的角色卡置為休息狀態。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-035.png"
+            },
+            {
+                "id": "OP11-036",
+                "number": "OP11-036",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "斑點",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "海王類"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】若自己的領航卡是「白星」時，從自己的卡組上面查看5張卡片，公開最多1張擁有《海王類》特徵的卡片或「白星」，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-036.png"
+            },
+            {
+                "id": "OP11-037",
+                "number": "OP11-037",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "“古代兵器”「海神」",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】抽1張卡片。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】從自己的卡組上面查看4張卡片，公開最多1張擁有《海王類》或《魚人島》特徵的角色卡，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-037.png"
+            },
+            {
+                "id": "OP11-038",
+                "number": "OP11-038",
+                "type": "R",
+                "class": "EVENT",
+                "name": "橡膠象槍亂打",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人島",
+                    "超新星",
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】可將1張自己的咚‼卡置為休息狀態：將最多1張對手費用5以下的角色卡置為休息狀態。 【反擊】最多1張自己的領航卡，在這場對戰中，力量值+3000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-038.png"
+            },
+            {
+                "id": "OP11-039",
+                "number": "OP11-039",
+                "type": "C",
+                "class": "EVENT",
+                "name": "武賴貫",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】將最多1張對手費用4以下的角色卡置為休息狀態。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "魚人族",
+                    "魚人島",
+                    "太陽海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【反擊】最多1張自己擁有《魚人族》或《人魚族》特徵的領航卡或角色卡，在這場對戰中，力量值+3000。之後，將最多1張對手費用3以下的角色卡置為休息狀態。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-039.png"
+            },
+            {
+                "id": "OP11-040",
+                "number": "OP11-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "蒙其・D・魯夫",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "藍",
+                    "紫"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "我方回合開始時，可以發動。若自己場上的咚‼卡有8張以上時，從自己的卡組上面查看5張卡片，公開最多1張擁有《草帽一行人》特徵的卡片，並加入手牌。之後，將其餘卡片任意變換排列順序放到卡組上面或下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-040.png"
+            },
+            {
+                "id": "OP11-040_p1",
+                "number": "OP11-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "蒙其・D・魯夫",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "藍",
+                    "紫"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "我方回合開始時，可以發動。若自己場上的咚‼卡有8張以上時，從自己的卡組上面查看5張卡片，公開最多1張擁有《草帽一行人》特徵的卡片，並加入手牌。之後，將其餘卡片任意變換排列順序放到卡組上面或下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-040_p1.png"
+            },
+            {
+                "id": "OP11-041",
+                "number": "OP11-041",
+                "type": "L",
+                "class": "LEADER",
+                "name": "娜美",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "藍",
+                    "黃"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【我方回合中】【每回合1次】生命值卡離開時，可以發動。若自己的手牌在7張以下時，抽1張卡片。 【咚‼×1】【對方攻擊時】【每回合1次】可以廢棄1張自己的手牌：這張領航卡，在這個回合，力量值+2000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-041.png"
+            },
+            {
+                "id": "OP11-041_p1",
+                "number": "OP11-041",
+                "type": "L",
+                "class": "LEADER",
+                "name": "娜美",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "藍",
+                    "黃"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【我方回合中】【每回合1次】生命值卡離開時，可以發動。若自己的手牌在7張以下時，抽1張卡片。 【咚‼×1】【對方攻擊時】【每回合1次】可以廢棄1張自己的手牌：這張領航卡，在這個回合，力量值+2000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-041_p1.png"
+            },
+            {
+                "id": "OP11-042",
+                "number": "OP11-042",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "比特",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "火戰車海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】可以廢棄1張自己手牌中擁有《火戰車海賊團》特徵的角色卡：這張角色卡，在這個回合，獲得【速攻】。 (這張卡片在登場的回合即可攻擊)",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-042.png"
+            },
+            {
+                "id": "OP11-043",
+                "number": "OP11-043",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "賓什莫克・伊吉士",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】 【對方攻擊時】【每回合1次】若自己的角色卡只有擁有包含『杰爾馬』特徵的角色卡時，可以發動。最多1張自己的領航卡或角色卡，在這場對戰中，力量值+1000。之後，將2張自己卡組上面的卡片放置在廢棄區。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-043.png"
+            },
+            {
+                "id": "OP11-044",
+                "number": "OP11-044",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "賓什莫克・賈吉士",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "3",
+                "effect": "【啟動主要】【每回合1次】可以廢棄1張自己的手牌：自己擁有《杰爾馬66》特徵的角色卡全數，在這個回合，力量值+1000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-044.png"
+            },
+            {
+                "id": "OP11-045",
+                "number": "OP11-045",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "賓什莫克・尼吉士",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-045.png"
+            },
+            {
+                "id": "OP11-046",
+                "number": "OP11-046",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "賓什莫克・約吉士",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 若自己的角色卡只有擁有包含『杰爾馬』特徵的角色卡時，這張角色卡不會因對手的效果而遭到KO、置為休息狀態。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-046.png"
+            },
+            {
+                "id": "OP11-047",
+                "number": "OP11-047",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "賓什莫克・麗珠",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】若自己的領航卡擁有《賓什莫克家》特徵時，從自己的卡組上面查看5張卡片，公開最多1張擁有包含『杰爾馬』特徵的卡片，並加入手牌。之後，將其餘卡片放到廢棄區。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-047.png"
+            },
+            {
+                "id": "OP11-047_p1",
+                "number": "OP11-047",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "賓什莫克・麗珠",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "杰爾馬66"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】若自己的領航卡擁有《賓什莫克家》特徵時，從自己的卡組上面查看5張卡片，公開最多1張擁有包含『杰爾馬』特徵的卡片，並加入手牌。之後，將其餘卡片放到廢棄區。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-047_p1.png"
+            },
+            {
+                "id": "OP11-048",
+                "number": "OP11-048",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "卡波涅・培基",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "超新星",
+                    "火戰車海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】從自己的卡組上面查看4張卡片，公開最多1張費用2以上擁有《火戰車海賊團》或《草帽一行人》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-048.png"
+            },
+            {
+                "id": "OP11-049",
+                "number": "OP11-049",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "凱洛特",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "純毛族"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】從自己的卡組上面查看3張卡片，並任意變換排列順序放到卡組上面或下面。 【對方攻擊時】可將這張角色卡放置在廢棄區：最多1張自己的領航卡，在這場對戰中，力量值+1000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-049.png"
+            },
+            {
+                "id": "OP11-050",
+                "number": "OP11-050",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "高弟",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "火戰車海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【攻擊時】可以廢棄1張自己手牌中擁有《火戰車海賊團》特徵的卡片：將最多1張費用1以下的角色卡放回持有者的手牌或卡組下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-050.png"
+            },
+            {
+                "id": "OP11-051",
+                "number": "OP11-051",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "香吉士",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "這張角色卡因對手的效果遭到KO時，從自己的卡組上面查看5張卡片，使最多1張費用5以下擁有《草帽一行人》特徵的角色卡登場。之後，將其餘卡片依任意順序放到卡組下面。 【登場時】將最多1張原本力量值5000以下的角色卡放回持有者的手牌。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-051.png"
+            },
+            {
+                "id": "OP11-051_p1",
+                "number": "OP11-051",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "香吉士",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "賓什莫克家",
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "這張角色卡因對手的效果遭到KO時，從自己的卡組上面查看5張卡片，使最多1張費用5以下擁有《草帽一行人》特徵的角色卡登場。之後，將其餘卡片依任意順序放到卡組下面。 【登場時】將最多1張原本力量值5000以下的角色卡放回持有者的手牌。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-051_p1.png"
+            },
+            {
+                "id": "OP11-052",
+                "number": "OP11-052",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "夏洛特・羅拉",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "火戰車海賊團",
+                    "前翻滾海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-052.png"
+            },
+            {
+                "id": "OP11-053",
+                "number": "OP11-053",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "多尼多尼・喬巴",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "動物",
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-053.png"
+            },
+            {
+                "id": "OP11-054",
+                "number": "OP11-054",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "娜美",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】若自己的領航卡有多種顏色時，抽3張卡片，並將2張自己的手牌任意變換排列順序放到卡組上面或下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-054.png"
+            },
+            {
+                "id": "OP11-054_p1",
+                "number": "OP11-054",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "娜美",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】若自己的領航卡有多種顏色時，抽3張卡片，並將2張自己的手牌任意變換排列順序放到卡組上面或下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-054_p1.png"
+            },
+            {
+                "id": "OP11-055",
+                "number": "OP11-055",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "巴特洛馬",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "超新星"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-055.png"
+            },
+            {
+                "id": "OP11-056",
+                "number": "OP11-056",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "布魯克",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】將最多1張原本費用1的角色卡放置在持有者的卡組下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-056.png"
+            },
+            {
+                "id": "OP11-057",
+                "number": "OP11-057",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "佩特羅",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "純毛族"
+                ],
+                "block_icon": "3",
+                "effect": "若自己的手牌在4張以下時，這張角色卡獲得【防禦】。 (對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-057.png"
+            },
+            {
+                "id": "OP11-058",
+                "number": "OP11-058",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "蒙其・D・魯夫",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "若自己的手牌有5張以上時，這張角色卡無法進行攻擊。 【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-058.png"
+            },
+            {
+                "id": "OP11-059",
+                "number": "OP11-059",
+                "type": "C",
+                "class": "EVENT",
+                "name": "橡膠眼鏡王蛇",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】將最多1張費用2以下的角色卡放回持有者的手牌。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。之後，若自己的手牌在4張以下時，該張卡片，在這場對戰中，力量值+2000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-059.png"
+            },
+            {
+                "id": "OP11-060",
+                "number": "OP11-060",
+                "type": "R",
+                "class": "EVENT",
+                "name": "來破壞典禮吧!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】若自己的領航卡有多種顏色時，從自己的卡組上面查看5張卡片，公開最多1張除了「來破壞典禮吧!!!」以外擁有《草帽一行人》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-060.png"
+            },
+            {
+                "id": "OP11-061",
+                "number": "OP11-061",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "橡膠JET大蛇砲",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】將最多1張費用1以下的角色卡放置在持有者的卡組下面。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】將最多1張對手原本費用4以下的角色卡放置在持有者的卡組下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-061.png"
+            },
+            {
+                "id": "OP11-062",
+                "number": "OP11-062",
+                "type": "L",
+                "class": "LEADER",
+                "name": "夏洛特・卡塔克利",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【攻擊時】/【對方攻擊時】【每回合1次】咚‼-1：從對手的卡組上面查看1張卡片。之後，這張領航卡，在這場對戰中，力量值+1000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-062.png"
+            },
+            {
+                "id": "OP11-062_p1",
+                "number": "OP11-062",
+                "type": "L",
+                "class": "LEADER",
+                "name": "夏洛特・卡塔克利",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【攻擊時】/【對方攻擊時】【每回合1次】咚‼-1：從對手的卡組上面查看1張卡片。之後，這張領航卡，在這場對戰中，力量值+1000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-062_p1.png"
+            },
+            {
+                "id": "OP11-063",
+                "number": "OP11-063",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "小莎蒂",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "推進城"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《推進城》特徵時，將最多1張對手費用3以下的角色卡置為休息狀態。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-063.png"
+            },
+            {
+                "id": "OP11-064",
+                "number": "OP11-064",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "薩魯戴斯",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "推進城"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-064.png"
+            },
+            {
+                "id": "OP11-065",
+                "number": "OP11-065",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "夏洛特・亞娜娜",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "若場上有除了「夏洛特・亞娜娜」以外自己紫色擁有《BIG MOM海賊團》特徵的角色卡時，這張角色卡獲得【防禦】。 (對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-065.png"
+            },
+            {
+                "id": "OP11-066",
+                "number": "OP11-066",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "夏洛特・歐本",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【啟動主要】可將這張角色卡置為休息狀態：聲明任意的費用，並公開1張對手卡組上面的卡片。若公開的卡片費用和聲明的費用一樣時，KO最多1張對手原本費用3以下的角色卡。之後，從咚‼卡組追加最多1張休息狀態的咚‼卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-066.png"
+            },
+            {
+                "id": "OP11-067",
+                "number": "OP11-067",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "夏洛特・卡塔克利",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】 【我方回合結束時】將最多2張自己費用3以上擁有《BIG MOM海賊團》特徵的角色卡置為活動狀態。之後，從咚‼卡組追加最多1張休息狀態的咚‼卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-067.png"
+            },
+            {
+                "id": "OP11-067_p1",
+                "number": "OP11-067",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "夏洛特・卡塔克利",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】 【我方回合結束時】將最多2張自己費用3以上擁有《BIG MOM海賊團》特徵的角色卡置為活動狀態。之後，從咚‼卡組追加最多1張休息狀態的咚‼卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-067_p1.png"
+            },
+            {
+                "id": "OP11-068",
+                "number": "OP11-068",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "夏洛特・代佛克",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-068.png"
+            },
+            {
+                "id": "OP11-069",
+                "number": "OP11-069",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "夏洛特・布璃叡",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】可將1張自己生命值區上面的卡片加入手牌：若自己的領航卡擁有《BIG MOM海賊團》特徵時，從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-069.png"
+            },
+            {
+                "id": "OP11-070",
+                "number": "OP11-070",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "夏洛特・普琳",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】從自己的卡組上面查看5張卡片，公開最多1張費用2以上擁有《BIG MOM海賊團》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。 【啟動主要】咚‼-1,可將這張角色卡置為休息狀態：從對手的卡組上面查看1張卡片。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-070.png"
+            },
+            {
+                "id": "OP11-070_p1",
+                "number": "OP11-070",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "夏洛特・普琳",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】從自己的卡組上面查看5張卡片，公開最多1張費用2以上擁有《BIG MOM海賊團》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。 【啟動主要】咚‼-1,可將這張角色卡置為休息狀態：從對手的卡組上面查看1張卡片。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-070_p1.png"
+            },
+            {
+                "id": "OP11-071",
+                "number": "OP11-071",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "夏洛特・裴洛斯培勒",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【啟動主要】【每回合1次】可以廢棄1張自己的手牌：聲明任意的費用，並公開1張對手卡組上面的卡片。若公開的卡片費用和聲明的費用一樣時，抽1張卡片，並從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-071.png"
+            },
+            {
+                "id": "OP11-072",
+                "number": "OP11-072",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "夏洛特・蒙德爾",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【啟動主要】【每回合1次】咚‼-1,可將這張角色卡置為休息狀態：對手將2張自身廢棄區中的卡片依任意順序放到卡組下面。之後，將1張自己生命值區上面的卡片加入手牌。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-072.png"
+            },
+            {
+                "id": "OP11-073",
+                "number": "OP11-073",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "夏洛特・莉莉",
+                "cost": "10",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "四皇",
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "若自己的領航卡擁有《BIG MOM海賊團》特徵時，這張角色卡獲得【速攻】。 【對方攻擊時】【每回合1次】咚‼-5：聲明任意的費用，並公開1張對手卡組上面的卡片。若公開的卡片費用和聲明的費用一樣時，最多1張自己的領航卡，在這個回合，力量值+2000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-073.png"
+            },
+            {
+                "id": "OP11-073_p1",
+                "number": "OP11-073",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "夏洛特・莉莉",
+                "cost": "10",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "四皇",
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "若自己的領航卡擁有《BIG MOM海賊團》特徵時，這張角色卡獲得【速攻】。 【對方攻擊時】【每回合1次】咚‼-5：聲明任意的費用，並公開1張對手卡組上面的卡片。若公開的卡片費用和聲明的費用一樣時，最多1張自己的領航卡，在這個回合，力量值+2000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-073_p1.png"
+            },
+            {
+                "id": "OP11-074",
+                "number": "OP11-074",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "蘇特羅慎",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【啟動主要】【每回合1次】咚‼-1,可將這張角色卡置為休息狀態：聲明任意的費用，並公開1張對手卡組上面的卡片。若公開的卡片費用和聲明的費用一樣時，將最多1張對手費用4以下的角色卡置為休息狀態。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-074.png"
+            },
+            {
+                "id": "OP11-075",
+                "number": "OP11-075",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "哈古瓦爾・D・薩烏羅",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【登場時】效果。",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "巨人族",
+                    "歐哈拉",
+                    "前海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】若自己的領航卡是「妮可・羅賓」、自己場上的咚‼卡有7張以上時，抽2張卡片。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-075.png"
+            },
+            {
+                "id": "OP11-076",
+                "number": "OP11-076",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "般若拔",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "推進城"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】 【登場時】若自己的領航卡擁有《推進城》特徵時，使最多1張自己手牌中費用3以下擁有《推進城》特徵的角色卡登場。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-076.png"
+            },
+            {
+                "id": "OP11-077",
+                "number": "OP11-077",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "藍道夫",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "歡樂友人",
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【我方回合中】【每回合1次】自己場上的咚‼卡被放回咚‼卡組時，最多1張自己擁有《BIG MOM海賊團》特徵的角色卡，在下一個對手回合結束前，費用+2。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-077.png"
+            },
+            {
+                "id": "OP11-078",
+                "number": "OP11-078",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "10個孩子們",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-078.png"
+            },
+            {
+                "id": "OP11-079",
+                "number": "OP11-079",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "男人的較量…不需要那種膚淺的掩護!!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】抽1張卡片。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【反擊】聲明任意的費用，並公開1張對手卡組上面的卡片。若公開的卡片費用和聲明的費用一樣時，最多1張自己的領航卡或角色卡，在這場對戰中，力量值+5000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-079.png"
+            },
+            {
+                "id": "OP11-080",
+                "number": "OP11-080",
+                "type": "R",
+                "class": "EVENT",
+                "name": "二檔",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】可將2張自己的咚‼卡置為休息狀態：若自己的領航卡包含藍色時，從咚‼卡組追加最多1張休息狀態的咚‼卡。 【反擊】最多1張自己的領航卡，在這場對戰中，力量值+3000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-080.png"
+            },
+            {
+                "id": "OP11-080_p1",
+                "number": "OP11-080",
+                "type": "R",
+                "class": "EVENT",
+                "name": "二檔",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】可將2張自己的咚‼卡置為休息狀態：若自己的領航卡包含藍色時，從咚‼卡組追加最多1張休息狀態的咚‼卡。 【反擊】最多1張自己的領航卡，在這場對戰中，力量值+3000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-080_p1.png"
+            },
+            {
+                "id": "OP11-081",
+                "number": "OP11-081",
+                "type": "C",
+                "class": "EVENT",
+                "name": "皇帝劍破破刃",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "【觸發器】從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "四皇",
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】聲明任意的費用，並公開1張對手卡組上面的卡片。若公開的卡片費用和聲明的費用一樣時，KO最多1張對手原本費用8以下的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-081.png"
+            },
+            {
+                "id": "OP11-082",
+                "number": "OP11-082",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "荒卷",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【啟動主要】可將這張角色卡放置在廢棄區：若自己的領航卡擁有《海軍》特徵時，最多1張自己擁有《海軍》特徵的角色卡，在這個回合，可以攻擊活動狀態的角色卡。之後，將2張自己卡組上面的卡片放置在廢棄區。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-082.png"
+            },
+            {
+                "id": "OP11-083",
+                "number": "OP11-083",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "格列佛",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "格列佛海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】廢棄2張自己的手牌。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-083.png"
+            },
+            {
+                "id": "OP11-084",
+                "number": "OP11-084",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "庫山",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】將3張自己卡組上面的卡片放置在廢棄區。 【攻擊時】最多1張自己擁有《海軍》特徵的領航卡或角色卡，在這個回合，可以攻擊活動狀態的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-084.png"
+            },
+            {
+                "id": "OP11-084_p1",
+                "number": "OP11-084",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "庫山",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】將3張自己卡組上面的卡片放置在廢棄區。 【攻擊時】最多1張自己擁有《海軍》特徵的領航卡或角色卡，在這個回合，可以攻擊活動狀態的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-084_p1.png"
+            },
+            {
+                "id": "OP11-085",
+                "number": "OP11-085",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "黑炭大蛇",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "和之國",
+                    "黑炭家"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】將最多1張自己廢棄區中費用5以下擁有《SMILE》特徵的卡片，加入手牌。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-085.png"
+            },
+            {
+                "id": "OP11-086",
+                "number": "OP11-086",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "柯列佛",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "格列佛海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】廢棄1張自己的手牌。 【啟動主要】可將這張角色卡放置在廢棄區：使最多1張自己廢棄區中費用4以下的「格列佛」登場。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-086.png"
+            },
+            {
+                "id": "OP11-087",
+                "number": "OP11-087",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "蛇頭妖",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "百獸海賊團",
+                    "SMILE"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-087.png"
+            },
+            {
+                "id": "OP11-088",
+                "number": "OP11-088",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "修恩",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【每回合1次】對手的角色卡攻擊時，可以發動。若該張角色卡擁有(斬)屬性時，這張角色卡，在這場對戰中，力量值+5000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-088.png"
+            },
+            {
+                "id": "OP11-089",
+                "number": "OP11-089",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "黑瑪麗亞",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "百獸海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-089.png"
+            },
+            {
+                "id": "OP11-090",
+                "number": "OP11-090",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "布利斯哥拉",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "百獸海賊團",
+                    "SMILE"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-090.png"
+            },
+            {
+                "id": "OP11-091",
+                "number": "OP11-091",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "貝里古德",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】對手將3張自身廢棄區中的事件卡依任意順序放到卡組下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-091.png"
+            },
+            {
+                "id": "OP11-092",
+                "number": "OP11-092",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "貝魯梅柏",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】可以廢棄1張自己的手牌：抽1張卡片，並使最多1張自己廢棄區中除了「貝魯梅柏」以外費用8以下擁有《SWORD》特徵的角色卡登場。之後，這回合結束時，將1張以此效果登場的角色卡放置在持有者的卡組下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-092.png"
+            },
+            {
+                "id": "OP11-092_p1",
+                "number": "OP11-092",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "貝魯梅柏",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】可以廢棄1張自己的手牌：抽1張卡片，並使最多1張自己廢棄區中除了「貝魯梅柏」以外費用8以下擁有《SWORD》特徵的角色卡登場。之後，這回合結束時，將1張以此效果登場的角色卡放置在持有者的卡組下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-092_p1.png"
+            },
+            {
+                "id": "OP11-093",
+                "number": "OP11-093",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "波卡托",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-093.png"
+            },
+            {
+                "id": "OP11-094",
+                "number": "OP11-094",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "蒙卡",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-094.png"
+            },
+            {
+                "id": "OP11-095",
+                "number": "OP11-095",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "蒙其・D・卡普",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】可將3張自己廢棄區中擁有《海軍》特徵的卡片依任意順序放置在卡組下面：附加最多1張休息狀態的咚‼卡在1張自己的領航卡。之後，若場上有費用9以上的角色卡時，KO最多1張對手費用7以下的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-095.png"
+            },
+            {
+                "id": "OP11-095_p1",
+                "number": "OP11-095",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "蒙其・D・卡普",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】可將3張自己廢棄區中擁有《海軍》特徵的卡片依任意順序放置在卡組下面：附加最多1張休息狀態的咚‼卡在1張自己的領航卡。之後，若場上有費用9以上的角色卡時，KO最多1張對手費用7以下的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-095_p1.png"
+            },
+            {
+                "id": "OP11-096",
+                "number": "OP11-096",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "梨帕",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "東方藍",
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "若場上有除了「梨帕」以外自己黑色擁有《海軍》特徵的角色卡時，這張角色卡獲得【防禦】。 (對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-096.png"
+            },
+            {
+                "id": "OP11-097",
+                "number": "OP11-097",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "已經年老力衰了……!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+1000。之後，若自己廢棄區有10張以上卡片時，將最多1張自己廢棄區中費用3以下黑色的角色卡，加入手牌。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-097.png"
+            },
+            {
+                "id": "OP11-098",
+                "number": "OP11-098",
+                "type": "C",
+                "class": "EVENT",
+                "name": "海底落下",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】最多1張自己的領航卡或角色卡，在這個回合，力量值+1000。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】可將3張自己卡組上面的卡片放置在廢棄區：KO最多1張對手費用2以下的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-098.png"
+            },
+            {
+                "id": "OP11-099",
+                "number": "OP11-099",
+                "type": "R",
+                "class": "EVENT",
+                "name": "我可是…要成為海軍將軍的男人!!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "東方藍",
+                    "海軍"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】從自己的卡組上面查看3張卡片，公開最多1張除了「ぼくは!!!海軍将校になる男です!!!!」以外擁有《海軍》特徵的卡片，並加入手牌。之後，將其餘卡片放到廢棄區。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-099.png"
+            },
+            {
+                "id": "OP11-100",
+                "number": "OP11-100",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "乙姬",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】若自己的領航卡是「白星」時，可將1張自己生命值區上面的卡片翻成背面朝上：抽1張卡片。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-100.png"
+            },
+            {
+                "id": "OP11-101",
+                "number": "OP11-101",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "卡波涅・培基",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "超新星",
+                    "火戰車海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】 【每回合1次】除了「卡波涅・培基」以外自己擁有《超新星》特徵的角色卡因對手的效果即將離開場上時，可以替換成以背面朝上加入自己的生命值區上面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-101.png"
+            },
+            {
+                "id": "OP11-101_p1",
+                "number": "OP11-101",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "卡波涅・培基",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "超新星",
+                    "火戰車海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】 【每回合1次】除了「卡波涅・培基」以外自己擁有《超新星》特徵的角色卡因對手的效果即將離開場上時，可以替換成以背面朝上加入自己的生命值區上面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-101_p1.png"
+            },
+            {
+                "id": "OP11-102",
+                "number": "OP11-102",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "海咪",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "【我方回合中】【每回合1次】對手發動事件卡或【觸發器】時，可以發動。若對手的生命值卡在2張以上時，雙方各自將1張生命值區上面的卡片放置在廢棄區。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-102.png"
+            },
+            {
+                "id": "OP11-103",
+                "number": "OP11-103",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "戽斗",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "海王類"
+                ],
+                "block_icon": "3",
+                "effect": "【啟動主要】若自己的領航卡是「白星」時，可將這張角色卡置為休息狀態，並將1張自己生命值區上面的卡片翻成背面朝上：KO最多1張對手費用3以下的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-103.png"
+            },
+            {
+                "id": "OP11-104",
+                "number": "OP11-104",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "雪莉",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】 【登場時】可將1張自己生命值區上面的卡片翻成背面朝上：從自己的卡組上面查看3張卡片，公開最多1張擁有《魚人島》特徵的卡片，並加入手牌。之後，將其餘卡片任意變換排列順序放到卡組上面或下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-104.png"
+            },
+            {
+                "id": "OP11-105",
+                "number": "OP11-105",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "夏洛特・雪紡",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "火戰車海賊團",
+                    "前BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-105.png"
+            },
+            {
+                "id": "OP11-106",
+                "number": "OP11-106",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "宙斯",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "歡樂友人",
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】可將1張自己生命值區上面或下面的卡片加入手牌：KO最多1張對手費用5以下的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-106.png"
+            },
+            {
+                "id": "OP11-106_p1",
+                "number": "OP11-106",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "宙斯",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "歡樂友人",
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】可將1張自己生命值區上面或下面的卡片加入手牌：KO最多1張對手費用5以下的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-106_p1.png"
+            },
+            {
+                "id": "OP11-107",
+                "number": "OP11-107",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "丁髷",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "海王類"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】 【啟動主要】【每回合1次】若自己的領航卡是「白星」時，可將1張自己生命值區上面的卡片翻成背面朝上：這回合結束時，將這張角色卡置為活動狀態。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-107.png"
+            },
+            {
+                "id": "OP11-108",
+                "number": "OP11-108",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "尼普頓",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】若自己的領航卡是「白星」時，可將1張自己生命值區上面的卡片翻成背面朝上：抽2張卡片，並廢棄1張自己的手牌。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-108.png"
+            },
+            {
+                "id": "OP11-109",
+                "number": "OP11-109",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "帕帕克",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "動物",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】若場上有自己的「海咪」時，抽2張卡片，並廢棄2張自己的手牌。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-109.png"
+            },
+            {
+                "id": "OP11-110",
+                "number": "OP11-110",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "鯊星",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "若這張角色卡即將遭到KO時，可以替換成將1張自己的「魚人島」或自己的領航卡「白星」置為休息狀態。 【登場時】可將1張自己生命值區上面或下面的卡片加入手牌：KO最多1張對手費用1以下的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-110.png"
+            },
+            {
+                "id": "OP11-111",
+                "number": "OP11-111",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "翻車星",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-111.png"
+            },
+            {
+                "id": "OP11-112",
+                "number": "OP11-112",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "梅卡洛",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "動物",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【對方回合中】若自己的領航卡是「白星」時，這張角色卡的力量值+4000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-112.png"
+            },
+            {
+                "id": "OP11-113",
+                "number": "OP11-113",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "皇星",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-113.png"
+            },
+            {
+                "id": "OP11-114",
+                "number": "OP11-114",
+                "type": "R",
+                "class": "EVENT",
+                "name": "橡膠火拳槍",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】可將3張自己的咚‼卡置為休息狀態：若雙方的生命值卡合計張數在5張以上時，KO最多1張對手原本費用5以下的角色卡。 【反擊】最多1張自己的領航卡，在這場對戰中，力量值+3000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-114.png"
+            },
+            {
+                "id": "OP11-114_p1",
+                "number": "OP11-114",
+                "type": "R",
+                "class": "EVENT",
+                "name": "橡膠火拳槍",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】可將3張自己的咚‼卡置為休息狀態：若雙方的生命值卡合計張數在5張以上時，KO最多1張對手原本費用5以下的角色卡。 【反擊】最多1張自己的領航卡，在這場對戰中，力量值+3000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-114_p1.png"
+            },
+            {
+                "id": "OP11-115",
+                "number": "OP11-115",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "你不是我喜歡的類型啦…………!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】KO最多1張對手費用2以下的角色卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "【反擊】若自己的領航卡是「白星」時，最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-115.png"
+            },
+            {
+                "id": "OP11-116",
+                "number": "OP11-116",
+                "type": "C",
+                "class": "EVENT",
+                "name": "人魚柔術　超級海流",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "【觸發器】將最多1張對手費用4以下的角色卡，以正面朝上加入持有者的生命值區上面或下面。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "人魚族",
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "【主要】將最多1張費用6以下的角色卡，以正面朝上加入持有者的生命值區上面或下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-116.png"
+            },
+            {
+                "id": "OP11-117",
+                "number": "OP11-117",
+                "type": "C",
+                "class": "STAGE",
+                "name": "魚人島",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "魚人島"
+                ],
+                "block_icon": "3",
+                "effect": "【啟動主要】【每回合1次】若自己的領航卡是「白星」時，可將1張自己生命值區上面的卡片翻成正面朝上：最多1張自己擁有《海王類》或《魚人族》或《人魚族》特徵的角色卡，在這個回合，力量值+1000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-117.png"
+            },
+            {
+                "id": "OP11-118",
+                "number": "OP11-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "蒙其・D・魯夫",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【速攻】 【攻擊時】可以廢棄1張自己的手牌：將最多1張費用4以下的角色卡放回持有者的手牌。之後，附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-118.png"
+            },
+            {
+                "id": "OP11-118_p1",
+                "number": "OP11-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "蒙其・D・魯夫",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【速攻】 【攻擊時】可以廢棄1張自己的手牌：將最多1張費用4以下的角色卡放回持有者的手牌。之後，附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-118_p1.png"
+            },
+            {
+                "id": "OP11-118_p2",
+                "number": "OP11-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "蒙其・D・魯夫",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【速攻】 【攻擊時】可以廢棄1張自己的手牌：將最多1張費用4以下的角色卡放回持有者的手牌。之後，附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-118_p2.png"
+            },
+            {
+                "id": "OP11-119",
+                "number": "OP11-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "克比",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】最多1張自己的角色卡，在這個回合，可以攻擊活動狀態的角色卡。 【攻擊時】可將2張自己廢棄區中的卡片依任意順序放置在卡組下面：最多1張自己的領航卡或角色卡，在下一個對手回合結束前，力量值+1000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-119.png"
+            },
+            {
+                "id": "OP11-119_p1",
+                "number": "OP11-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "克比",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍",
+                    "SWORD"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】最多1張自己的角色卡，在這個回合，可以攻擊活動狀態的角色卡。 【攻擊時】可將2張自己廢棄區中的卡片依任意順序放置在卡組下面：最多1張自己的領航卡或角色卡，在下一個對手回合結束前，力量值+1000。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP11-119_p1.png"
+            },
+            {
+                "id": "EB01-057_p2",
+                "number": "EB01-057",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "白星",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "人魚族"
+                ],
+                "block_icon": "2",
+                "effect": "這張角色卡因對手的效果遭到KO時，將最多1張自己卡組上面的卡片加入生命值區上面。 【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/EB01-057_p2.png"
+            },
+            {
+                "id": "OP05-119_p6",
+                "number": "OP05-119",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "蒙其・D・魯夫",
+                "cost": "10",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "四皇",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】咚‼-10：將除了這張角色卡以外自己的角色卡全數依任意順序放置在卡組下面。之後，在這個回合之後獲得追加我方回合。 【啟動主要】【每回合1次】➀(可將費用區的咚‼卡依指定的數量置為休息狀態)：從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP05-119_p6.png"
+            },
+            {
+                "id": "OP05-119_p7",
+                "number": "OP05-119",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "蒙其・D・魯夫",
+                "cost": "10",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "四皇",
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】咚‼-10：將除了這張角色卡以外自己的角色卡全數依任意順序放置在卡組下面。之後，在這個回合之後獲得追加我方回合。 【啟動主要】【每回合1次】➀(可將費用區的咚‼卡依指定的數量置為休息狀態)：從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP05-119_p7.png"
+            },
+            {
+                "id": "OP06-119_p2",
+                "number": "OP06-119",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "香吉士",
+                "cost": "9",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】公開1張自己卡組上面的卡片，並使最多1張除了「香吉士」以外費用9以下的角色卡登場。之後，將其餘卡片放到卡組下面。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP06-119_p2.png"
+            },
+            {
+                "id": "OP07-085_p2",
+                "number": "OP07-085",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "絲媞希",
+                "cost": "9",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【登場時】可將1張自己的角色卡放置在廢棄區：KO最多1張對手的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP07-085_p2.png"
+            },
+            {
+                "id": "OP09-005_p1",
+                "number": "OP09-005",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "席爾巴斯・雷利",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "羅傑海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】若場上有2張以上對手原本力量值5000以上的角色卡時，抽2張卡片，並廢棄1張自己的手牌。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP09-005_p1.png"
+            },
+            {
+                "id": "ST16-004_p1",
+                "number": "ST16-004",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "傑克",
+                "cost": "9",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "11000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "FILM",
+                    "四皇",
+                    "紅髮海賊團"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】KO最多1張對手休息狀態的角色卡。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST16-004_p1.png"
+            },
+            {
+                "id": "ST18-005_p1",
+                "number": "ST18-005",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "魯夫太郎",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "3",
+                "effect": "【登場時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：使最多1張自己手牌中費用5以下紫色擁有《草帽一行人》特徵的角色卡登場。",
+                "card_set": "補充包 神速之拳【OP-11】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST18-005_p1.png"
+            }
+        ]
+    }
+}

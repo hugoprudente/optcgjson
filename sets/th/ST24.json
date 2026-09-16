@@ -1,0 +1,386 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563024,
+        "language": "th"
+    },
+    "data": {
+        "code": "ST24",
+        "cards": [
+            {
+                "id": "EB01-015_r1",
+                "number": "EB01-015",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Scratchmen Apoo",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดออนแอร์"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-015_r1.png"
+            },
+            {
+                "id": "OP07-019_p3",
+                "number": "OP07-019",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Jewelry Bonney",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดบอนนี่"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] (1) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ) : ทำการ เรสต์ ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-019_p3.png"
+            },
+            {
+                "id": "OP07-021_r1",
+                "number": "OP07-021",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Urouge",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดนักบวชนอกรีต"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อจบเทิร์นของเรา] นำ ด้ง!! จากด้ง!! เด็ค ของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-021_r1.png"
+            },
+            {
+                "id": "OP07-023_r1",
+                "number": "OP07-023",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Caribou",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคาริบู"
+                ],
+                "block_icon": "2",
+                "effect": "ถ้าเรามี ด้ง!! ที่กำลังเรสต์อยู่ จำนวน 6 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้ จะมีพาวเวอร์ +1000. [บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-023_r1.png"
+            },
+            {
+                "id": "OP07-025_r1",
+                "number": "OP07-025",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Coribou",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคาริบู"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] นำ [Caribou] ที่มีคอสต์ 4 หรือต่ำกว่า จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนามในสภาพ เรสต์.",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-025_r1.png"
+            },
+            {
+                "id": "OP07-031_r1",
+                "number": "OP07-031",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Bartolomeo",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "บาร์โธคลับ"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อมีคาแรกเตอร์ของใครก็ตาม ถูกทำให้กลายเป็น เรสต์ โดยความสามารถของฝ่ายเรา, จะต้องจั่วการ์ด จำนวน 1 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-031_r1.png"
+            },
+            {
+                "id": "OP07-033_r1",
+                "number": "OP07-033",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "ถ้าเรามีคาแรกเตอร์อยู่ จำนวน 3 ใบ หรือมากกว่าละก็, คาแรกเตอร์ของเรา ที่มีคอสต์ 3 หรือต่ำกว่า นอกเหนือจาก [Monkey.D.Luffy] จะไม่ถูก KO จากความสามารถของคู่แข่ง.",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-033_r1.png"
+            },
+            {
+                "id": "OP07-034_r1",
+                "number": "OP07-034",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อโจมตี] ถ้าเรามีคาแรกเตอร์อยู่ จำนวน 3 ใบ หรือมากกว่า, ในเทิร์นนี้, คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000.",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-034_r1.png"
+            },
+            {
+                "id": "OP07-036_p1",
+                "number": "OP07-036",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Demonic Aura Nine-Sword Style Asura Demon Nine Flash",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000. จากนั้น, จะสามารถ เรสต์ คาแรกเตอร์ของเรา ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ. ถ้าทำเช่นนั้น, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-036_p1.png"
+            },
+            {
+                "id": "OP07-037_r1",
+                "number": "OP07-037",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "More Pizza!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดบอนนี่"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ซูเปอร์โนวา > นอกเหนือจาก [More Pizza!!] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-037_r1.png"
+            },
+            {
+                "id": "ST24-001",
+                "number": "ST24-001",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Capone\"Gang\"Bege",
+                "cost": "2",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดไฟร์แทงค์"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้าเรามีการ์ด ที่กำลังเรสต์อยู่ จำนวน 6 ใบ หรือมากกว่าละก็, จะจั่วการ์ด จำนวน 1 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST24-001.png"
+            },
+            {
+                "id": "ST24-002",
+                "number": "ST24-002",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kid & Killer",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน",
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ซูเปอร์โนวา > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค. [เมื่อคู่แข่งโจมตี] สามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช : ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST24-002.png"
+            },
+            {
+                "id": "ST24-003",
+                "number": "ST24-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Basil Hawkins",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮอว์คินส์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อจบเทิร์นของเรา] ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST24-003.png"
+            },
+            {
+                "id": "ST24-004",
+                "number": "ST24-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Law & Bepo",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน",
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "11000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามิงค์",
+                    "ซูเปอร์โนวา"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, และคาแรกเตอร์นั้น จะไม่ถูกเปลี่ยนเป็น แอ็คทีฟ ในช่วงรีเฟรชเฟสของคู่แข่งในครั้งถัดไป. จากนั้น, ถ้าคู่แข่งมี คาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากกว่า ละก็, จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป, ลีดเดอร์ของเรา จะมีพาวเวอร์ +2000.",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST24-004.png"
+            },
+            {
+                "id": "ST24-005",
+                "number": "ST24-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "X.Drake",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < ซูเปอร์โนวา > ละก็, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. จากนั้น, ในตอนจบเทิร์นนี้, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Green Jewelry Bonney- [ST-24]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST24-005.png"
+            }
+        ]
+    }
+}

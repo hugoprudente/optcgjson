@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556006
+        "set": 556006,
+        "language": "en"
     },
     "data": {
         "code": "ST06",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Sakazuki",
-                "image_path": "images/TheNavyST06/ST06-001.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -38,7 +38,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Koby",
-                "image_path": "images/TheNavyST06/ST06-002.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -63,7 +62,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jango",
-                "image_path": "images/TheNavyST06/ST06-003.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -88,7 +86,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Smoker",
-                "image_path": "images/TheNavyST06/ST06-004.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -103,7 +100,7 @@
                     "Navy"
                 ],
                 "block_icon": "1",
-                "effect": "This Character cannot be K.O.'d by effects.[DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack].(This card deals 2 damage.)",
+                "effect": "This Character cannot be K.O.'d by effects. [DON!! x1] If there is a Character with a cost of 0, this Character gains [Double Attack]. (This card deals 2 damage.)",
                 "card_set": "-The Navy- [ST-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-004.png"
             },
@@ -113,7 +110,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sengoku",
-                "image_path": "images/TheNavyST06/ST06-005.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -138,7 +134,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Tashigi",
-                "image_path": "images/TheNavyST06/ST06-006.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -163,7 +158,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Tsuru",
-                "image_path": "images/TheNavyST06/ST06-007.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -188,7 +182,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Hina",
-                "image_path": "images/TheNavyST06/ST06-008.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -213,7 +206,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Fullbody",
-                "image_path": "images/TheNavyST06/ST06-009.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -238,7 +230,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Helmeppo",
-                "image_path": "images/TheNavyST06/ST06-010.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -263,7 +254,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Momonga",
-                "image_path": "images/TheNavyST06/ST06-011.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -288,7 +278,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Garp",
-                "image_path": "images/TheNavyST06/ST06-012.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -313,7 +302,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "T-Bone",
-                "image_path": "images/TheNavyST06/ST06-013.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -338,11 +326,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Shockwave",
-                "image_path": "images/TheNavyST06/ST06-014.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -363,11 +348,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Great Eruption",
-                "image_path": "images/TheNavyST06/ST06-015.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Your opponent chooses 1 card from their hand and trashes it.",
                 "power": "-",
                 "counter": "-",
@@ -388,11 +370,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "White Out",
-                "image_path": "images/TheNavyST06/ST06-016.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card and none of your Characters can be K.O.'d during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -413,11 +392,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Navy HQ",
-                "image_path": "images/TheNavyST06/ST06-017.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -428,7 +404,7 @@
                     "Navy"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] Give up to 1 of your opponent's Characters −1 cost during this turn.[Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −1 cost during this turn.",
+                "effect": "[On Play] Give up to 1 of your opponent's Characters −1 cost during this turn. [Activate: Main] You may rest this Stage: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −1 cost during this turn.",
                 "card_set": "-The Navy- [ST-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST06-017.png"
             }

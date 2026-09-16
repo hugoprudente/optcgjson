@@ -11,6 +11,7 @@ Usage::
     python -m optcg build
     python -m optcg all --lang all
     python -m optcg list-sets
+    python -m optcg series-map
 """
 
 from __future__ import annotations
@@ -122,6 +123,54 @@ def cmd_refresh_list(args: argparse.Namespace) -> None:
     refresh_series_map(langs)
 
 
+def cmd_series_map(args: argparse.Namespace) -> None:
+    """Generate ``output/series_map.yaml`` in the downstream-friendly schema.
+
+    Uses already-assembled set dicts (so the build pipeline runs first to get
+    community names and release dates from each set's data). Pass
+    ``--from-output`` to skip the build and synthesise from existing
+    ``output/*.json`` files instead.
+    """
+    from optcg.build.series_map_yaml import assemble_series_map_yaml
+
+    if args.from_output:
+        import json
+        import os
+        from optcg.build.assemble import OUTPUT_DIR
+
+        sets: list[dict] = []
+        if os.path.isdir(OUTPUT_DIR):
+            for filename in sorted(os.listdir(OUTPUT_DIR)):
+                if not filename.endswith(".json"):
+                    continue
+                if filename in ("AllSets.json", "SetList.json"):
+                    continue
+                try:
+                    with open(os.path.join(OUTPUT_DIR, filename), "r", encoding="utf-8") as f:
+                        payload = json.load(f)
+                except (OSError, json.JSONDecodeError):
+                    continue
+                data = payload.get("data") or {}
+                if not data.get("code"):
+                    continue
+                # The output JSONs are camelCase; map back to the snake_case
+                # field names expected by the series-map writer.
+                sets.append({
+                    "code": data.get("code"),
+                    "name": data.get("name"),
+                    "release_date": data.get("releaseDate"),
+                })
+        assemble_series_map_yaml(sets)
+        return
+
+    from optcg.data.context import PipelineContext
+    from optcg.pipeline.core import build_all
+
+    ctx = PipelineContext()
+    sets = build_all(ctx)
+    assemble_series_map_yaml(sets)
+
+
 # -- Argument parser ---------------------------------------------------------
 
 def main() -> None:
@@ -152,6 +201,17 @@ def main() -> None:
     p_refresh = sub.add_parser("refresh-list", help="Discover series IDs and update series_map.yaml")
     p_refresh.add_argument("--lang", nargs="*", help="Language codes (or 'all')")
 
+    # series-map
+    p_series = sub.add_parser(
+        "series-map",
+        help="Generate output/series_map.yaml in the downstream-friendly schema",
+    )
+    p_series.add_argument(
+        "--from-output",
+        action="store_true",
+        help="Build the series map from existing output/*.json files instead of re-running the pipeline",
+    )
+
     args = parser.parse_args()
 
     if args.command is None:
@@ -164,6 +224,7 @@ def main() -> None:
         "all": cmd_all,
         "list-sets": cmd_list_sets,
         "refresh-list": cmd_refresh_list,
+        "series-map": cmd_series_map,
     }
     dispatch[args.command](args)
 

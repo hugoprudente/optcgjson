@@ -1,0 +1,430 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 1036571258,
+        "language": "ko"
+    },
+    "data": {
+        "code": "ST02",
+        "cards": [
+            {
+                "id": "ST02-001",
+                "number": "ST02-001",
+                "type": "L",
+                "class": "리더",
+                "name": "유스타스 키드",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "N/A",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "키드 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】【턴 1회】③(코스트 에리의 두웅!!을 지정된 수만큼 레스트 할 수 있다), 자신의 패를 1장 버릴 수 있다: 이 리더를 액티브로 한다.",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211052416753"
+            },
+            {
+                "id": "ST02-002",
+                "number": "ST02-002",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "비토",
+                "cost": "3",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "파이어탱크 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "N/A",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211052548307"
+            },
+            {
+                "id": "ST02-003",
+                "number": "ST02-003",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "우루지",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "파계승 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!x1】자신의 캐릭터가 3장 이상일 경우, 이 캐릭터의 파워 +2000.",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211053046377"
+            },
+            {
+                "id": "ST02-004",
+                "number": "ST02-004",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "카포네 벳지",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "파이어탱크 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택  선언 후, 이 카드를 레스트하고 어택 대상을 이 카드로  할 수 있다)",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202504090516337269"
+            },
+            {
+                "id": "ST02-005",
+                "number": "ST02-005",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "킬러",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "키드 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】상대의 레스트 상태인 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211053217929"
+            },
+            {
+                "id": "ST02-006",
+                "number": "ST02-006",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "코비",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211053308289"
+            },
+            {
+                "id": "ST02-007",
+                "number": "ST02-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "쥬얼리 보니",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "보니 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트 할 수 있다), 이 캐릭터를 레스트 할 수 있다: 자신의 덱 위에서 5장을 보고, 《초신성》 특징을 가진 카드를 1장까지 공개하여 패에 더한다. 그 후, 남은 카드는 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211053395362"
+            },
+            {
+                "id": "ST02-008",
+                "number": "ST02-008",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "스크래치멘 아푸",
+                "cost": "2",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "온에어 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!x1】【어택 시】상대의 두웅!!을 1장까지 레스트 한다.",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211053475658"
+            },
+            {
+                "id": "ST02-009",
+                "number": "ST02-009",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "트라팔가 로",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "하트 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 레스트 상태인 코스트 5이하의 《초신성》 또는 《하트 해적단》 특징을 가진 캐릭터를 1장까지 액티브로 한다.",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211053549517"
+            },
+            {
+                "id": "ST02-010",
+                "number": "ST02-010",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "바질 호킨스",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "호킨스 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!x1】【턴 1회】【자신의 턴 동안】이 캐릭터가 상대 캐릭터와 배틀했을 경우, 이 캐릭터를 액티브로 한다.",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211054039698"
+            },
+            {
+                "id": "ST02-011",
+                "number": "ST02-011",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "히트",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "키드 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211054202970"
+            },
+            {
+                "id": "ST02-012",
+                "number": "ST02-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "베포",
+                "cost": "1",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "밍크족",
+                    "하트 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211054277697"
+            },
+            {
+                "id": "ST02-013",
+                "number": "ST02-013",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "유스타스 키드",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "키드 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트하고 어택 대상을 이 카드로 할 수 있다)<br>\r\n【두웅!!x1】【자신의 턴 종료 시】이 캐릭터를 액티브로 한다.",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211054359671"
+            },
+            {
+                "id": "ST02-014",
+                "number": "ST02-014",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "X 드레이크",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "해군",
+                    "초신성",
+                    "드레이크 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!x1】【자신의 턴 동안】이 캐릭터가 레스트 상태일 경우, 자신의 《초신성》 또는 《해군》 특징을 가진 리더와 캐릭터 파워 +1000.",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211054539517"
+            },
+            {
+                "id": "ST02-015",
+                "number": "ST02-015",
+                "type": "C",
+                "class": "이벤트",
+                "name": "메스",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "자신의 두웅!!을 2장까지 액티브로 한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "하트 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】이번 배틀 중, 자신의 리더 또는 캐릭터 1까지의 파워 +2000. 그 후, 자신의 두웅!!을 1장까지 액티브로 한다.",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211055033918"
+            },
+            {
+                "id": "ST02-016",
+                "number": "ST02-016",
+                "type": "C",
+                "class": "이벤트",
+                "name": "리펠",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "키드 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】이번 배틀 중, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000. 그 후, 자신의 두웅!!을 1장까지 액티브로 한다.",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211055105657"
+            },
+            {
+                "id": "ST02-017",
+                "number": "ST02-017",
+                "type": "C",
+                "class": "이벤트",
+                "name": "짚꾸러미 칼",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "자신의 패에서 코스트 2 이하 《초신성》 특징을 가진 카드를 1장까지 등장시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "호킨스 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】상대의 캐릭터 1장까지 레스트 한다.",
+                "card_set": "[STK-02] 스타트 덱 최악의 세대",
+                "image_url": "/fileDownload?downname=202403211055177503"
+            }
+        ]
+    }
+}

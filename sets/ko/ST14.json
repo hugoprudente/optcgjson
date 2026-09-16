@@ -1,0 +1,415 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 1738937382,
+        "language": "ko"
+    },
+    "data": {
+        "code": "ST14",
+        "cards": [
+            {
+                "id": "ST14-001",
+                "number": "ST14-001",
+                "type": "L",
+                "class": "리더",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】자신의 모든 캐릭터의 코스트 +1. 자신의 코스트 8 이상인 캐릭터가 있을 경우, 이 리더의 파워 +1000.",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_101504_610bbd75fd"
+            },
+            {
+                "id": "ST14-002",
+                "number": "ST14-002",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "우솝",
+                "cost": "3",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】자신의 코스트 8 이상인 캐릭터가 있을 경우, 상대의 코스트 4 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_101531_6d1ee0c8a1"
+            },
+            {
+                "id": "ST14-003",
+                "number": "ST14-003",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "상디",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 코스트 6 이상인 캐릭터가 있을 경우, 상대의 코스트 5 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_101646_59469e5035"
+            },
+            {
+                "id": "ST14-004",
+                "number": "ST14-004",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "징베",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "어인족",
+                    "태양 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】다음 상대의 턴 종료 시까지, 자신의 흑색인 《밀짚모자 일당》 특징을 가진 캐릭터 1장까지의 코스트 +2.",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_101656_88df129101"
+            },
+            {
+                "id": "ST14-005",
+                "number": "ST14-005",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "토니토니 쵸파",
+                "cost": "4",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "동물",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_101939_9e899d1da0"
+            },
+            {
+                "id": "ST14-006",
+                "number": "ST14-006",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "나미",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 코스트 8 이상인 캐릭터가 있고, 자신의 패가 6장 이하인 경우, 카드를 1장 뽑는다.",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_102231_93ec518562"
+            },
+            {
+                "id": "ST14-007",
+                "number": "ST14-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "니코 로빈",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】/【어택 시】자신의 코스트 8 이상인 캐릭터가 있을 경우, 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -5.",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_102245_a330607582"
+            },
+            {
+                "id": "ST14-008",
+                "number": "ST14-008",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "하레다스",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 레스트할 수 있다: 다음 상대의 턴 종료시까지, 자신의 흑색인 《밀짚모자 일당》 특징을 가진 캐릭터 1장까지의 코스트 +2. 그 후, 자신의 코스트 8 이상인 캐릭터가 있을 경우, 카드를 1장 뽑고 자신의 패 1장을 버린다.",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_102507_dda832dbf8"
+            },
+            {
+                "id": "ST14-009",
+                "number": "ST14-009",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "프랑키",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【상대의 턴 동안】자신의 코스트 6 이상인 캐릭터가 있을 경우, 이 캐릭터는 상대의 효과로는 KO 당하지 않으며, 파워 +2000.",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_102518_4733978609"
+            },
+            {
+                "id": "ST14-010",
+                "number": "ST14-010",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "브룩",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_102543_5c16aed67c"
+            },
+            {
+                "id": "ST14-011",
+                "number": "ST14-011",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "헤라클레스",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "보인 열도"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 레스트할 수 있다: 다음 상대의 턴 종료시까지, 자신의 흑색인 《밀짚모자 일당》 특징을 가진 캐릭터 1장까지의 코스트 +2.",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_102559_57513e1636"
+            },
+            {
+                "id": "ST14-012",
+                "number": "ST14-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "8",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 코스트 10 이상인 캐릭터가 있을 경우, 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_102619_5795dd09e9"
+            },
+            {
+                "id": "ST14-013",
+                "number": "ST14-013",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "롤로노아 조로",
+                "cost": "6",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_102641_ddb5dc28c3"
+            },
+            {
+                "id": "ST14-014",
+                "number": "ST14-014",
+                "type": "C",
+                "class": "이벤트",
+                "name": "고무고무 거인의 라이플",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【트리거】자신의 트래시에서 코스트 2 이하인 캐릭터 카드를 1장까지 패에 더한다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】코스트 8 이상인 캐릭터가 있을 경우, 이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +3000.",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_102703_ffca9ce45b"
+            },
+            {
+                "id": "ST14-015",
+                "number": "ST14-015",
+                "type": "C",
+                "class": "이벤트",
+                "name": "고무고무디아블삼검류양고기JET육백번뇌공성포",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "자신의 코스트 8 이상인 캐릭터가 있을 경우, 상대의 코스트 5 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +3000. 그 후, 자신의 코스트 8 이상인 캐릭터가 있을 경우, 상대의 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_102749_faf7b2e9a4"
+            },
+            {
+                "id": "ST14-016",
+                "number": "ST14-016",
+                "type": "C",
+                "class": "이벤트",
+                "name": "동료가 있어!!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "상대의 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】카드를 1장 뽑는다. 그 후, 다음 상대의 턴 종료 시까지, 자신의 캐릭터 1장까지의 코스트 +3.",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_102759_2c6f6f0ea9"
+            },
+            {
+                "id": "ST14-017",
+                "number": "ST14-017",
+                "type": "C",
+                "class": "스테이지",
+                "name": "사우전드 써니 호",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 흑색인 《밀짚모자 일당》 특징을 가진 모든 캐릭터의 코스트 +1.\r\n【등장 시】자신의 리더가 《밀짚모자 일당》 특징을 가진 경우, 카드를 1장 뽑는다.",
+                "card_set": "[STK-14] 스타트 덱 3D2Y",
+                "image_url": "/fileDownload?downname=20250822_102809_59d7c901f2"
+            }
+        ]
+    }
+}

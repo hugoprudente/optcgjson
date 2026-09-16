@@ -1,0 +1,3368 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 554104,
+        "language": "zh-Hant"
+    },
+    "data": {
+        "code": "OP04",
+        "cards": [
+            {
+                "id": "OP04-001",
+                "number": "OP04-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "納菲魯塔利・薇薇",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紅",
+                    "藍"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "1",
+                "effect": "這張領航卡無法攻擊。 【啟動主要】【每回合1次】➁(可將費用區的咚‼卡依指定的數量置為休息狀態)：抽1張卡片，最多1張自己的角色卡，在這個回合，獲得【速攻】。 (這張卡片在登場的回合即可攻擊)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-001.png"
+            },
+            {
+                "id": "OP04-001_p1",
+                "number": "OP04-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "納菲魯塔利・薇薇(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紅",
+                    "藍"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "1",
+                "effect": "這張領航卡無法攻擊。 【啟動主要】【每回合1次】➁(可將費用區的咚‼卡依指定的數量置為休息狀態)：抽1張卡片，最多1張自己的角色卡，在這個回合，獲得【速攻】。 (這張卡片在登場的回合即可攻擊)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-001_p1.png"
+            },
+            {
+                "id": "OP04-002",
+                "number": "OP04-002",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "尹卡蘭姆",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可將這張角色卡置為休息狀態，1張自己活動狀態的領航卡，在這個回合，力量值-5000：從自己的卡組上面查看5張卡片，公開最多1張擁有《阿拉巴斯坦王國》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-002.png"
+            },
+            {
+                "id": "OP04-003",
+                "number": "OP04-003",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "騙人布",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國",
+                    "草帽一行人"
+                ],
+                "block_icon": "1",
+                "effect": "【KO時】KO最多1張對手原本力量值5000以下的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-003.png"
+            },
+            {
+                "id": "OP04-004",
+                "number": "OP04-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "飛毛腿",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "動物",
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可將這張角色卡置為休息狀態：附加最多各1張休息狀態的咚‼卡在全數自己擁有《阿拉巴斯坦王國》特徵的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-004.png"
+            },
+            {
+                "id": "OP04-005",
+                "number": "OP04-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "功夫海牛",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "動物",
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "1",
+                "effect": "若場上有除了這張角色卡以外自己的「功夫海牛」時，這張角色卡獲得【防禦】。 (對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-005.png"
+            },
+            {
+                "id": "OP04-006",
+                "number": "OP04-006",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "寇沙",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "1",
+                "effect": "【攻擊時】1張自己活動狀態的領航卡，在這個回合，可以力量值-5000：這張角色卡，到下一個我方回合開始前，力量值+2000。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-006.png"
+            },
+            {
+                "id": "OP04-007",
+                "number": "OP04-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "香吉士",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國",
+                    "草帽一行人"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-007.png"
+            },
+            {
+                "id": "OP04-008",
+                "number": "OP04-008",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "加卡",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】【攻擊時】若自己的領航卡是「納菲魯塔利・薇薇」時，最多1張對手的角色卡，在這個回合，力量值-3000。之後，KO最多1張對手力量值0以下的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-008.png"
+            },
+            {
+                "id": "OP04-009",
+                "number": "OP04-009",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "超級飛毛腿鴨部隊",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "動物",
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "1",
+                "effect": "【攻擊時】1張自己活動狀態的領航卡，在這個回合，可以力量值-5000：這個回合結束時，將這張角色卡放回持有者的手牌。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-009.png"
+            },
+            {
+                "id": "OP04-010",
+                "number": "OP04-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "多尼多尼・喬巴",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "動物",
+                    "阿拉巴斯坦王國",
+                    "草帽一行人"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】使最多1張自己手牌中力量值3000以下擁有《動物》特徵的角色卡登場。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-010.png"
+            },
+            {
+                "id": "OP04-011",
+                "number": "OP04-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "娜美",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國",
+                    "草帽一行人"
+                ],
+                "block_icon": "1",
+                "effect": "【攻擊時】公開1張自己卡組上面的卡片，若公開的卡片是力量值6000以上的角色卡時，這張角色卡，在這個回合，力量值+3000。之後，將公開的卡片放到卡組下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-011.png"
+            },
+            {
+                "id": "OP04-012",
+                "number": "OP04-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "納菲魯塔利・寇布拉",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "1",
+                "effect": "【我方回合中】除了這張角色卡以外自己擁有《阿拉巴斯坦王國》特徵的角色卡全數力量值+1000。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-012.png"
+            },
+            {
+                "id": "OP04-013",
+                "number": "OP04-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "貝爾",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】【攻擊時】KO最多1張對手力量值4000以下的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-013.png"
+            },
+            {
+                "id": "OP04-013_p1",
+                "number": "OP04-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "貝爾(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】【攻擊時】KO最多1張對手力量值4000以下的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-013_p1.png"
+            },
+            {
+                "id": "OP04-014",
+                "number": "OP04-014",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "蒙其・D・魯夫",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國",
+                    "草帽一行人"
+                ],
+                "block_icon": "1",
+                "effect": "【消失】(若這張卡片造成傷害時，觸發器不會發動且該張卡片即放置到廢棄區)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-014.png"
+            },
+            {
+                "id": "OP04-015",
+                "number": "OP04-015",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "羅羅亞・索隆",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國",
+                    "草帽一行人"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】最多1張對手的角色卡，在這個回合，力量值-2000。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-015.png"
+            },
+            {
+                "id": "OP04-016",
+                "number": "OP04-016",
+                "type": "R",
+                "class": "EVENT",
+                "name": "違反禮儀之踢",
+                "cost": "-",
+                "attribute": [],
+                "trigger": "【觸發器】最多1張對手的領航卡或角色卡，在這個回合，力量值-3000。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國",
+                    "草帽一行人"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】可以廢棄1張自己的手牌：最多1張自己的領航卡或角色卡，在這場對戰中，力量值+3000。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-016.png"
+            },
+            {
+                "id": "OP04-017",
+                "number": "OP04-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "幸福的一擊",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國",
+                    "草帽一行人"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】最多1張對手的領航卡或角色卡，在這個回合，力量值-2000。之後，若自己的領航卡為活動狀態時，最多1張對手的領航卡或角色卡，在這個回合，力量值-1000。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-017.png"
+            },
+            {
+                "id": "OP04-018",
+                "number": "OP04-018",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "魅惑的頭昏眼花舞",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "1",
+                "effect": "【主要】若自己的領航卡擁有《阿拉巴斯坦王國》特徵時，最多2張對手的角色卡，在這個回合，力量值-2000。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-018.png"
+            },
+            {
+                "id": "OP04-019",
+                "number": "OP04-019",
+                "type": "L",
+                "class": "LEADER",
+                "name": "唐吉訶德・多佛朗明哥",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠",
+                    "紫"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【我方回合結束時】將最多2張自己的咚‼卡，置為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-019.png"
+            },
+            {
+                "id": "OP04-019_p1",
+                "number": "OP04-019",
+                "type": "L",
+                "class": "LEADER",
+                "name": "唐吉訶德・多佛朗明哥(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠",
+                    "紫"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【我方回合結束時】將最多2張自己的咚‼卡，置為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-019_p1.png"
+            },
+            {
+                "id": "OP04-020",
+                "number": "OP04-020",
+                "type": "L",
+                "class": "LEADER",
+                "name": "一笑",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠",
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】【我方回合中】對手的角色卡全數費用-1。 【我方回合結束時】➀(可將費用區的咚‼卡依指定的數量置為休息狀態)：將最多1張自己費用5以下的角色卡，置為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-020.png"
+            },
+            {
+                "id": "OP04-020_p1",
+                "number": "OP04-020",
+                "type": "L",
+                "class": "LEADER",
+                "name": "一笑(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠",
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】【我方回合中】對手的角色卡全數費用-1。 【我方回合結束時】➀(可將費用區的咚‼卡依指定的數量置為休息狀態)：將最多1張自己費用5以下的角色卡，置為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-020_p1.png"
+            },
+            {
+                "id": "OP04-021",
+                "number": "OP04-021",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "碧歐菈",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【對方攻擊時】➁(可將費用區的咚‼卡依指定的數量置為休息狀態)：將最多1張對手的咚‼卡置為休息狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-021.png"
+            },
+            {
+                "id": "OP04-022",
+                "number": "OP04-022",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "艾利克",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "東方藍"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可將這張角色卡置為休息狀態：將最多1張對手費用1以下的角色卡置為休息狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-022.png"
+            },
+            {
+                "id": "OP04-023",
+                "number": "OP04-023",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "克洛",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "東方藍",
+                    "黑貓海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-023.png"
+            },
+            {
+                "id": "OP04-024",
+                "number": "OP04-024",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "砂糖",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【對方回合中】【每回合1次】對手使角色卡登場時，若自己的領航卡擁有《唐吉訶德海賊團》特徵時，將最多1張對手的角色卡置為休息狀態。之後，將這張角色卡置為休息狀態。 【登場時】將最多1張對手費用4以下的角色卡置為休息狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-024.png"
+            },
+            {
+                "id": "OP04-024_p1",
+                "number": "OP04-024",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "砂糖(異圖卡)",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【對方回合中】【每回合1次】對手使角色卡登場時，若自己的領航卡擁有《唐吉訶德海賊團》特徵時，將最多1張對手的角色卡置為休息狀態。之後，將這張角色卡置為休息狀態。 【登場時】將最多1張對手費用4以下的角色卡置為休息狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-024_p1.png"
+            },
+            {
+                "id": "OP04-025",
+                "number": "OP04-025",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "喬菈",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【對方攻擊時】➁(可將費用區的咚‼卡依指定的數量置為休息狀態)：將最多1張對手費用4以下的角色卡置為休息狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-025.png"
+            },
+            {
+                "id": "OP04-026",
+                "number": "OP04-026",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "粉紅先生",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【攻擊時】➀(可將費用區的咚‼卡依指定的數量置為休息狀態)：若自己的領航卡擁有《唐吉訶德海賊團》特徵時，將最多1張對手費用4以下的角色卡置為休息狀態。之後，這個回合結束時，將最多1張自己的咚‼卡置為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-026.png"
+            },
+            {
+                "id": "OP04-027",
+                "number": "OP04-027",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "達迪・馬斯達森",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "東方藍",
+                    "前海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】【我方回合結束時】將這張角色卡置為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-027.png"
+            },
+            {
+                "id": "OP04-028",
+                "number": "OP04-028",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "帝雅曼鐵",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【咚‼×1】【我方回合結束時】若自己活動狀態的咚‼卡有2張以上時，將這張角色卡置為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-028.png"
+            },
+            {
+                "id": "OP04-028_p1",
+                "number": "OP04-028",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "帝雅曼鐵(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【咚‼×1】【我方回合結束時】若自己活動狀態的咚‼卡有2張以上時，將這張角色卡置為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-028_p1.png"
+            },
+            {
+                "id": "OP04-029",
+                "number": "OP04-029",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "德林傑",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【我方回合結束時】將最多1張自己的咚‼卡置為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-029.png"
+            },
+            {
+                "id": "OP04-030",
+                "number": "OP04-030",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "托雷波爾",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】KO最多1張對手休息狀態費用5以下的角色卡。 【對方攻擊時】➁(可將費用區的咚‼卡依指定的數量置為休息狀態)：將最多1張對手費用4以下的角色卡置為休息狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-030.png"
+            },
+            {
+                "id": "OP04-030_p1",
+                "number": "OP04-030",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "托雷波爾(異圖卡)",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】KO最多1張對手休息狀態費用5以下的角色卡。 【對方攻擊時】➁(可將費用區的咚‼卡依指定的數量置為休息狀態)：將最多1張對手費用4以下的角色卡置為休息狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-030_p1.png"
+            },
+            {
+                "id": "OP04-031",
+                "number": "OP04-031",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "唐吉訶德・多佛朗明哥",
+                "cost": "10",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】合計最多3張對手休息狀態的領航卡和角色卡，在下一個對手的重整階段無法為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-031.png"
+            },
+            {
+                "id": "OP04-031_p1",
+                "number": "OP04-031",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "唐吉訶德・多佛朗明哥(異圖卡)",
+                "cost": "10",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】合計最多3張對手休息狀態的領航卡和角色卡，在下一個對手的重整階段無法為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-031_p1.png"
+            },
+            {
+                "id": "OP04-032",
+                "number": "OP04-032",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "BABY5",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【我方回合結束時】可將這張角色卡放置到廢棄區：將最多2張自己的咚‼卡置為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-032.png"
+            },
+            {
+                "id": "OP04-033",
+                "number": "OP04-033",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "馬赫拜茲",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】若自己的領航卡擁有《唐吉訶德海賊團》特徵時，將最多1張對手費用5以下的角色卡置為休息狀態。之後，這個回合結束時，將最多1張自己的咚‼卡置為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-033.png"
+            },
+            {
+                "id": "OP04-034",
+                "number": "OP04-034",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "拉歐G",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【我方回合結束時】若自己活動狀態的咚‼卡有3張以上時，KO最多1張對手休息狀態費用3以下的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-034.png"
+            },
+            {
+                "id": "OP04-035",
+                "number": "OP04-035",
+                "type": "R",
+                "class": "EVENT",
+                "name": "蜘蛛築巢",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】最多1張自己的領航卡，在這個回合，力量值+2000。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。之後，將最多1張自己的角色卡置為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-035.png"
+            },
+            {
+                "id": "OP04-036",
+                "number": "OP04-036",
+                "type": "C",
+                "class": "EVENT",
+                "name": "唐吉訶德家族",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【反擊】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】從自己的卡組上面查看5張卡片，公開最多1張擁有《唐吉訶德海賊團》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-036.png"
+            },
+            {
+                "id": "OP04-037",
+                "number": "OP04-037",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "羽擊線",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】KO最多1張對手休息狀態費用4以下的角色卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】若自己的領航卡擁有《唐吉訶德海賊團》特徵時，最多1張自己的領航卡或角色卡，在這個回合，力量值+2000。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-037.png"
+            },
+            {
+                "id": "OP04-038",
+                "number": "OP04-038",
+                "type": "C",
+                "class": "EVENT",
+                "name": "弱者連死法都不能夠選擇!!!",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "【觸發器】將最多5張自己的咚‼卡，置為活動狀態。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【主要】/【反擊】將最多1張對手的領航卡或角色卡置為休息狀態。之後，KO最多1張對手休息狀態費用6以下的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-038.png"
+            },
+            {
+                "id": "OP04-039",
+                "number": "OP04-039",
+                "type": "L",
+                "class": "LEADER",
+                "name": "蕾貝卡",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "藍",
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "1",
+                "effect": "這張領航卡無法攻擊。 【啟動主要】【每回合1次】➀(可將費用區的咚‼卡依指定的數量置為休息狀態)：若自己的手牌在6張以下時，從自己的卡組上面查看2張卡片，公開最多1張擁有《多雷斯羅薩》特徵的卡片，並加入手牌。之後，將其餘卡片放到廢棄區。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-039.png"
+            },
+            {
+                "id": "OP04-039_p1",
+                "number": "OP04-039",
+                "type": "L",
+                "class": "LEADER",
+                "name": "蕾貝卡(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "藍",
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "1",
+                "effect": "這張領航卡無法攻擊。 【啟動主要】【每回合1次】➀(可將費用區的咚‼卡依指定的數量置為休息狀態)：若自己的手牌在6張以下時，從自己的卡組上面查看2張卡片，公開最多1張擁有《多雷斯羅薩》特徵的卡片，並加入手牌。之後，將其餘卡片放到廢棄區。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-039_p1.png"
+            },
+            {
+                "id": "OP04-040",
+                "number": "OP04-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "QUEEN",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "藍",
+                    "黃"
+                ],
+                "feature": [
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】【攻擊時】若自己的生命值卡和手牌合計張數在4張以下時，抽1張卡片。若場上有自己費用8以上的角色卡時，抽1張卡片則替換成可以將最多1張自己卡組上面的卡片加入生命值區上面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-040.png"
+            },
+            {
+                "id": "OP04-040_p1",
+                "number": "OP04-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "QUEEN(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "藍",
+                    "黃"
+                ],
+                "feature": [
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】【攻擊時】若自己的生命值卡和手牌合計張數在4張以下時，抽1張卡片。若場上有自己費用8以上的角色卡時，抽1張卡片則替換成可以將最多1張自己卡組上面的卡片加入生命值區上面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-040_p1.png"
+            },
+            {
+                "id": "OP04-041",
+                "number": "OP04-041",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "阿碧絲",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "東方藍"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】可以廢棄2張自己的手牌：從自己的卡組上面查看5張卡片，公開最多1張擁有《東方藍》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-041.png"
+            },
+            {
+                "id": "OP04-042",
+                "number": "OP04-042",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "賣一刀",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "東方藍"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】最多1張自己擁有(斬)屬性的角色卡，在這個回合，力量值+3000。之後，將1張自己卡組上面的卡片放置到廢棄區。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-042.png"
+            },
+            {
+                "id": "OP04-043",
+                "number": "OP04-043",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "烏爾蒂",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】【攻擊時】將最多1張費用2以下的角色卡放回持有者的手牌或卡組下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-043.png"
+            },
+            {
+                "id": "OP04-044",
+                "number": "OP04-044",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "海道",
+                "cost": "10",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "四皇",
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】將最多1張費用8以下的角色卡和最多1張費用3以下的角色卡放回持有者的手牌。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-044.png"
+            },
+            {
+                "id": "OP04-044_p1",
+                "number": "OP04-044",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "海道(異圖卡)",
+                "cost": "10",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "四皇",
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】將最多1張費用8以下的角色卡和最多1張費用3以下的角色卡放回持有者的手牌。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-044_p1.png"
+            },
+            {
+                "id": "OP04-045",
+                "number": "OP04-045",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "KING",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】抽1張卡片。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-045.png"
+            },
+            {
+                "id": "OP04-046",
+                "number": "OP04-046",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "QUEEN",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】若自己的領航卡擁有《百獸海賊團》特徵時，從自己的卡組上面查看7張卡片，公開合計最多2張「瘟禍彈」或「冰鬼」，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-046.png"
+            },
+            {
+                "id": "OP04-047",
+                "number": "OP04-047",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "冰鬼",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "疫災",
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【我方回合中】這張角色卡和對手費用5以下的角色卡對戰且對戰結束時，將對手對戰的角色卡放置到持有者的卡組下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-047.png"
+            },
+            {
+                "id": "OP04-048",
+                "number": "OP04-048",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "佐佐木",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】將自己的手牌全部放回卡組，並將卡組洗牌。之後，依放回卡組的卡片張數抽卡片。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-048.png"
+            },
+            {
+                "id": "OP04-049",
+                "number": "OP04-049",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "JACK",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【KO時】抽1張卡片。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-049.png"
+            },
+            {
+                "id": "OP04-050",
+                "number": "OP04-050",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "漢葛先生",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "東方藍"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可以廢棄1張自己的手牌，將這張角色卡置為休息狀態：抽1張卡片。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-050.png"
+            },
+            {
+                "id": "OP04-051",
+                "number": "OP04-051",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "福茲胡",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】從自己的卡組上面查看5張卡片，公開最多1張除了「福茲胡」以外擁有《百獸海賊團》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-051.png"
+            },
+            {
+                "id": "OP04-051_p1",
+                "number": "OP04-051",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "福茲胡(異圖卡)",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】從自己的卡組上面查看5張卡片，公開最多1張除了「福茲胡」以外擁有《百獸海賊團》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-051_p1.png"
+            },
+            {
+                "id": "OP04-052",
+                "number": "OP04-052",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "黑瑪麗亞",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】使這張卡片登場。",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】➁(可將費用區的咚‼卡依指定的數量置為休息狀態)，可將這張角色卡置為休息狀態：抽1張卡片。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-052.png"
+            },
+            {
+                "id": "OP04-053",
+                "number": "OP04-053",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "培濟萬",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】【每回合1次】自己發動事件卡時，抽1張卡片。之後，將1張自己的手牌放置到卡組下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-053.png"
+            },
+            {
+                "id": "OP04-054",
+                "number": "OP04-054",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "六鬼",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "巨人族",
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-054.png"
+            },
+            {
+                "id": "OP04-055",
+                "number": "OP04-055",
+                "type": "C",
+                "class": "EVENT",
+                "name": "瘟禍彈",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【主要】可以廢棄1張自己手牌中的「冰鬼」，並將1張費用4以下的角色卡放置在持有者的卡組下面：使1張自己廢棄區中的「冰鬼」登場。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-055.png"
+            },
+            {
+                "id": "OP04-056",
+                "number": "OP04-056",
+                "type": "R",
+                "class": "EVENT",
+                "name": "橡膠業火手槍",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "【觸發器】將最多1張費用4以下的角色卡放置在持有者的卡組下面。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "草帽一行人"
+                ],
+                "block_icon": "1",
+                "effect": "【主要】將最多1張角色卡放置在持有者的卡組下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-056.png"
+            },
+            {
+                "id": "OP04-057",
+                "number": "OP04-057",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "龍捲壞風",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】將最多1張費用6以下的角色卡放回持有者的手牌。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "四皇",
+                    "百獸海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。之後，將最多1張費用1以下的角色卡放置在持有者的卡組下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-057.png"
+            },
+            {
+                "id": "OP04-058",
+                "number": "OP04-058",
+                "type": "L",
+                "class": "LEADER",
+                "name": "克洛克達爾",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紫",
+                    "黃"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【對方回合中】【每回合1次】自己場上的咚‼卡因為自己的效果被放回咚‼卡組時，從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-058.png"
+            },
+            {
+                "id": "OP04-058_p1",
+                "number": "OP04-058",
+                "type": "L",
+                "class": "LEADER",
+                "name": "克洛克達爾(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紫",
+                    "黃"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【對方回合中】【每回合1次】自己場上的咚‼卡因為自己的效果被放回咚‼卡組時，從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-058_p1.png"
+            },
+            {
+                "id": "OP04-059",
+                "number": "OP04-059",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "艾斯巴古",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "1",
+                "effect": "【對方攻擊時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《W7》特徵時，這張角色卡，在這個回合，獲得【防禦】。 (對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-059.png"
+            },
+            {
+                "id": "OP04-060",
+                "number": "OP04-060",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "克洛克達爾",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】咚‼-2(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有包含『B・W』特徵時，將最多1張自己卡組上面的卡片加入生命值區上面。 【對方攻擊時】【每回合1次】咚‼-1：抽1張卡片，並廢棄1張自己的手牌。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-060.png"
+            },
+            {
+                "id": "OP04-060_p1",
+                "number": "OP04-060",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "克洛克達爾(異圖卡)",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】咚‼-2(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有包含『B・W』特徵時，將最多1張自己卡組上面的卡片加入生命值區上面。 【對方攻擊時】【每回合1次】咚‼-1：抽1張卡片，並廢棄1張自己的手牌。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-060_p1.png"
+            },
+            {
+                "id": "OP04-061",
+                "number": "OP04-061",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "湯姆",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "魚人族",
+                    "W7"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可將這張角色卡放置到廢棄區：若自己的領航卡擁有《W7》特徵時，從咚‼卡組追加最多1張休息狀態的咚‼卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-061.png"
+            },
+            {
+                "id": "OP04-062",
+                "number": "OP04-062",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "香蕉鱷魚",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "動物"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-062.png"
+            },
+            {
+                "id": "OP04-063",
+                "number": "OP04-063",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "佛朗基",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "W7",
+                    "佛朗基家族"
+                ],
+                "block_icon": "1",
+                "effect": "【對方攻擊時】【每回合1次】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《W7》特徵時，最多1張自己的領航卡或角色卡，在這場對戰中，力量值+1000。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-063.png"
+            },
+            {
+                "id": "OP04-064",
+                "number": "OP04-064",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Miss All星期天",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "【觸發器】咚‼-2(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：使這張卡片登場。",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】從咚‼卡組追加最多1張休息狀態的咚‼卡。之後，若自己的場上有6張以上咚‼卡時，抽1張卡片。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-064.png"
+            },
+            {
+                "id": "OP04-064_p1",
+                "number": "OP04-064",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Miss All星期天(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "【觸發器】咚‼-2(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：使這張卡片登場。",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】從咚‼卡組追加最多1張休息狀態的咚‼卡。之後，若自己的場上有6張以上咚‼卡時，抽1張卡片。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-064_p1.png"
+            },
+            {
+                "id": "OP04-065",
+                "number": "OP04-065",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Miss黃金週(瑪莉安奴)",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：使這張卡片登場。",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】若自己的領航卡擁有包含『B・W』特徵時，最多1張對手費用5以下的角色卡，到下一個我方回合開始前無法進行攻擊。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-065.png"
+            },
+            {
+                "id": "OP04-066",
+                "number": "OP04-066",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Miss情人節(米琪塔)",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：使這張卡片登場。",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】從自己的卡組上面查看5張卡片，公開最多1張擁有包含『B・W』特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-066.png"
+            },
+            {
+                "id": "OP04-067",
+                "number": "OP04-067",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Miss聖誕節(多蘿菲)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：使這張卡片登場。",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-067.png"
+            },
+            {
+                "id": "OP04-068",
+                "number": "OP04-068",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "橫綱",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "動物",
+                    "W7"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【對方攻擊時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：將最多1張對手費用2以下的角色卡放回持有者的手牌。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-068.png"
+            },
+            {
+                "id": "OP04-069",
+                "number": "OP04-069",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Mr.2・馮・克雷(班薩姆)",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】咚‼-1：使這張卡片登場。",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【對方攻擊時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：這張角色卡原本的力量值，在這個回合，變成和對手進行攻擊的領航卡或角色卡的力量值相同。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-069.png"
+            },
+            {
+                "id": "OP04-070",
+                "number": "OP04-070",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Mr.3(賈爾迪諾)",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【對方攻擊時】【每回合1次】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：最多1張對手的角色卡，在這個回合，力量值-1000。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-070.png"
+            },
+            {
+                "id": "OP04-071",
+                "number": "OP04-071",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Mr.4(貝布)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【對方攻擊時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：這張角色卡，在這場對戰中，獲得【防禦】，力量值+1000。 (對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-071.png"
+            },
+            {
+                "id": "OP04-072",
+                "number": "OP04-072",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.5(傑姆)",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【對方攻擊時】【每回合1次】咚‼-2(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)，可將這張角色卡置為休息狀態：KO最多1張對手費用4以下的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-072.png"
+            },
+            {
+                "id": "OP04-072_p1",
+                "number": "OP04-072",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.5(傑姆)(異圖卡)",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【對方攻擊時】【每回合1次】咚‼-2(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)，可將這張角色卡置為休息狀態：KO最多1張對手費用4以下的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-072_p1.png"
+            },
+            {
+                "id": "OP04-073",
+                "number": "OP04-073",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr.13&Miss星期五",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】使這張卡片登場。",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "動物",
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可將這張角色卡和1張自己擁有包含『B・W』特徵的角色卡放置到廢棄區：從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-073.png"
+            },
+            {
+                "id": "OP04-074",
+                "number": "OP04-074",
+                "type": "R",
+                "class": "EVENT",
+                "name": "彩色陷阱",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：最多1張自己的領航卡或角色卡，在這場對戰中，力量值+1000。之後，將最多1張對手費用4以下的角色卡置為休息狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-074.png"
+            },
+            {
+                "id": "OP04-075",
+                "number": "OP04-075",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "鼻空想砲",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+6000。之後，若自己的生命值卡在2張以下時，從咚‼卡組追加最多1張休息狀態的咚‼卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-075.png"
+            },
+            {
+                "id": "OP04-076",
+                "number": "OP04-076",
+                "type": "C",
+                "class": "EVENT",
+                "name": "弱小真是…一種罪惡吶…",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：最多1張自己的領航卡或角色卡，在這個回合，力量值+1000。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-076.png"
+            },
+            {
+                "id": "OP04-077",
+                "number": "OP04-077",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "伊迪歐",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-077.png"
+            },
+            {
+                "id": "OP04-078",
+                "number": "OP04-078",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "歐伊摩&卡西",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "巨人族",
+                    "世界政府"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-078.png"
+            },
+            {
+                "id": "OP04-079",
+                "number": "OP04-079",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "歐隆拜斯",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "約塔瑪利亞大船團"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】【每回合1次】最多1張對手的角色卡，在這個回合，費用-4，並將2張自己卡組上面的卡片放置到廢棄區。之後，KO1張自己擁有《多雷斯羅薩》特徵的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-079.png"
+            },
+            {
+                "id": "OP04-080",
+                "number": "OP04-080",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "加茲",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】最多1張自己擁有《多雷斯羅薩》特徵的角色卡，在這個回合，可以攻擊活動狀態的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-080.png"
+            },
+            {
+                "id": "OP04-081",
+                "number": "OP04-081",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "卡文迪許",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "貌美海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】這張角色卡可以攻擊活動狀態的角色卡。 【攻擊時】可將自己的領航卡置為休息狀態：KO最多1張對手費用1以下的角色卡。之後，將2張自己卡組上面的卡片放置到廢棄區。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-081.png"
+            },
+            {
+                "id": "OP04-082",
+                "number": "OP04-082",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "居魯士",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "1",
+                "effect": "若這張角色卡即將遭到KO時，替換成可將自己的領航卡或1張「鬥牛鬥技場」置為休息狀態。 【登場時】若自己的領航卡是「蕾貝卡」時，KO最多1張對手費用1以下的角色卡。之後，將1張自己卡組上面的卡片放置到廢棄區。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-082.png"
+            },
+            {
+                "id": "OP04-082_p1",
+                "number": "OP04-082",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "居魯士(異圖卡)",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "1",
+                "effect": "若這張角色卡即將遭到KO時，替換成可將自己的領航卡或1張「鬥牛鬥技場」置為休息狀態。 【登場時】若自己的領航卡是「蕾貝卡」時，KO最多1張對手費用1以下的角色卡。之後，將1張自己卡組上面的卡片放置到廢棄區。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-082_p1.png"
+            },
+            {
+                "id": "OP04-083",
+                "number": "OP04-083",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "薩波",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "革命軍"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】自己的角色卡全數，到下一個我方回合開始前，不會因效果而遭到KO。之後，抽2張卡片，並廢棄2張自己的手牌。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-083.png"
+            },
+            {
+                "id": "OP04-083_p1",
+                "number": "OP04-083",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "薩波(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "革命軍"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】自己的角色卡全數，到下一個我方回合開始前，不會因效果而遭到KO。之後，抽2張卡片，並廢棄2張自己的手牌。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-083_p1.png"
+            },
+            {
+                "id": "OP04-083_p2",
+                "number": "OP04-083",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "薩波(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "革命軍"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】自己的角色卡全數，到下一個我方回合開始前，不會因效果而遭到KO。之後，抽2張卡片，並廢棄2張自己的手牌。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-083_p2.png"
+            },
+            {
+                "id": "OP04-084",
+                "number": "OP04-084",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "絲媞希",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】從自己的卡組上面查看3張卡片，使最多1張除了「絲媞希」以外擁有包含『CP』特徵費用2以下的角色卡登場。之後，將其餘卡片放到廢棄區。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-084.png"
+            },
+            {
+                "id": "OP04-085",
+                "number": "OP04-085",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "蘇萊曼",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】/【攻擊時】若自己的領航卡擁有《多雷斯羅薩》特徵時，最多1張對手的角色卡，在這個回合，費用-2。之後，將1張自己卡組上面的卡片放置到廢棄區。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-085.png"
+            },
+            {
+                "id": "OP04-086",
+                "number": "OP04-086",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "青椒",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "八寶水軍"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】經由這張角色卡的對戰而將對手的角色卡KO時，抽2張卡片，並廢棄2張自己的手牌。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-086.png"
+            },
+            {
+                "id": "OP04-087",
+                "number": "OP04-087",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "托拉法爾加・羅",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "哈特海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-087.png"
+            },
+            {
+                "id": "OP04-088",
+                "number": "OP04-088",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "哈爾汀",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "巨人族",
+                    "多雷斯羅薩",
+                    "新巨兵海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可將1張自己的領航卡置為休息狀態：最多1張對手的角色卡，在這個回合，費用-4。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-088.png"
+            },
+            {
+                "id": "OP04-089",
+                "number": "OP04-089",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "巴特洛馬",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "巴特俱樂部"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-089.png"
+            },
+            {
+                "id": "OP04-090",
+                "number": "OP04-090",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "蒙其・D・魯夫",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "草帽一行人"
+                ],
+                "block_icon": "1",
+                "effect": "這張角色卡可以攻擊活動狀態的角色卡。 【啟動主要】【每回合1次】可將7張自己廢棄區中的卡片依任意順序放回卡組下面：將這張角色卡置為活動狀態。之後，這張角色卡，在下一個自己的重整階段無法為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-090.png"
+            },
+            {
+                "id": "OP04-090_p1",
+                "number": "OP04-090",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "蒙其・D・魯夫(異圖卡)",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "草帽一行人"
+                ],
+                "block_icon": "1",
+                "effect": "這張角色卡可以攻擊活動狀態的角色卡。 【啟動主要】【每回合1次】可將7張自己廢棄區中的卡片依任意順序放回卡組下面：將這張角色卡置為活動狀態。之後，這張角色卡，在下一個自己的重整階段無法為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-090_p1.png"
+            },
+            {
+                "id": "OP04-091",
+                "number": "OP04-091",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "雷奧",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "頓達塔族",
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】可將1張自己的領航卡置為休息狀態：若自己的領航卡擁有《多雷斯羅薩》特徵時，KO最多1張對手費用1以下的角色卡。之後，將2張自己卡組上面的卡片放置到廢棄區。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-091.png"
+            },
+            {
+                "id": "OP04-092",
+                "number": "OP04-092",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "蕾貝卡",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】從自己的卡組上面查看3張卡片，公開最多1張除了「蕾貝卡」以外擁有《多雷斯羅薩》特徵的卡片，並加入手牌。之後，將其餘卡片放到廢棄區。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-092.png"
+            },
+            {
+                "id": "OP04-093",
+                "number": "OP04-093",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "橡膠大猿王槍",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】抽3張卡片，並廢棄2張自己的手牌。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "草帽一行人"
+                ],
+                "block_icon": "1",
+                "effect": "【主要】最多1張自己擁有《多雷斯羅薩》特徵的角色卡，在這個回合，力量值+6000。之後，若自己廢棄區有15張以上卡片時，該張卡片，在這個回合，獲得【雙重攻擊】。 (這張卡片造成的傷害為2)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-093.png"
+            },
+            {
+                "id": "OP04-094",
+                "number": "OP04-094",
+                "type": "R",
+                "class": "EVENT",
+                "name": "轟雷破壞劍",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】可將自己的領航卡置為休息狀態：KO最多1張對手費用5以下的角色卡。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "1",
+                "effect": "【主要】選擇最多1張對手費用4以下的角色卡，並KO。若自己廢棄區有15張以上卡片時，選擇對手費用4以下的角色卡則替換成對手費用6以下的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-094.png"
+            },
+            {
+                "id": "OP04-095",
+                "number": "OP04-095",
+                "type": "C",
+                "class": "EVENT",
+                "name": "防～～～～護罩‼",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】抽2張卡片，並廢棄1張自己的手牌。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩",
+                    "巴特俱樂部"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。之後，若自己廢棄區有15張以上卡片時，該張卡片，在這場對戰中，力量值+2000。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-095.png"
+            },
+            {
+                "id": "OP04-096",
+                "number": "OP04-096",
+                "type": "C",
+                "class": "STAGE",
+                "name": "鬥牛鬥技場",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "多雷斯羅薩"
+                ],
+                "block_icon": "1",
+                "effect": "若自己的領航卡擁有《多雷斯羅薩》特徵時，自己擁有《多雷斯羅薩》特徵的角色卡，在登場的回合即可攻擊角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-096.png"
+            },
+            {
+                "id": "OP04-097",
+                "number": "OP04-097",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "玉兒",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】將最多1張對手費用3以下擁有《動物》或《SMILE》特徵的角色卡，以正面朝上加入對手的生命值區上面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-097.png"
+            },
+            {
+                "id": "OP04-098",
+                "number": "OP04-098",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "子瀚",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】可以廢棄2張自己手牌中擁有《和之國》特徵的卡片：若自己的生命值卡在1張以下時，將1張自己卡組上面的卡片加入生命值區上面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-098.png"
+            },
+            {
+                "id": "OP04-099",
+                "number": "OP04-099",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "阿莉",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "【觸發器】若自己的生命值卡在1張以下時，使這張卡片登場。",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國",
+                    "四皇",
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "在規則上，這張卡片的卡片名稱也可視為「夏洛特・莉莉」。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-099.png"
+            },
+            {
+                "id": "OP04-100",
+                "number": "OP04-100",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "卡波涅・培基",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】最多1張對手的領航卡或角色卡，在這個回合，無法進行攻擊。",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "火戰車海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-100.png"
+            },
+            {
+                "id": "OP04-100_p1",
+                "number": "OP04-100",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "卡波涅・培基(異圖卡)",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】最多1張對手的領航卡或角色卡，在這個回合，無法進行攻擊。",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "火戰車海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-100_p1.png"
+            },
+            {
+                "id": "OP04-101",
+                "number": "OP04-101",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "卡爾梅露",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】使這張卡片登場。之後，KO最多1張對手費用2以下的角色卡。",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "羔羊之家"
+                ],
+                "block_icon": "1",
+                "effect": "【我方回合中】【登場時】抽1張卡片。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-101.png"
+            },
+            {
+                "id": "OP04-102",
+                "number": "OP04-102",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "錦右衛門",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】【每回合1次】➀(可將費用區的咚‼卡依指定的數量置為休息狀態)，可將1張自己生命值區上面或下面的卡片加入手牌：將這張角色卡置為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-102.png"
+            },
+            {
+                "id": "OP04-103",
+                "number": "OP04-103",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "光月日和",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】使這張卡片登場。",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國",
+                    "光月家"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】最多1張自己擁有《和之國》特徵的領航卡或角色卡，在這個回合，力量值+1000。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-103.png"
+            },
+            {
+                "id": "OP04-104",
+                "number": "OP04-104",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "香吉士",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】可以廢棄1張自己的手牌：使這張卡片登場。",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "賓什莫克家"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-104.png"
+            },
+            {
+                "id": "OP04-104_p1",
+                "number": "OP04-104",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "香吉士(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】可以廢棄1張自己的手牌：使這張卡片登場。",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "賓什莫克家"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-104_p1.png"
+            },
+            {
+                "id": "OP04-105",
+                "number": "OP04-105",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "夏洛特・亞蔓德",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】【每回合1次】可以廢棄1張自己手牌中持有【觸發器】的卡片：將最多1張對手費用2以下的角色卡置為休息狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-105.png"
+            },
+            {
+                "id": "OP04-106",
+                "number": "OP04-106",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "夏洛特・巴伐洛亞",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】可以廢棄1張自己的手牌：使這張卡片登場。",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】若自己的生命值卡張數比對手少時，這張角色卡的力量值+1000。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-106.png"
+            },
+            {
+                "id": "OP04-107",
+                "number": "OP04-107",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "夏洛特・裴洛斯培勒",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-107.png"
+            },
+            {
+                "id": "OP04-108",
+                "number": "OP04-108",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "夏洛特・摩斯卡特",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】可以廢棄1張自己的手牌：使這張卡片登場。",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】這張角色卡獲得【消失】。 (若這張卡片造成傷害時，觸發器不會發動且該張卡片即放置到廢棄區)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-108.png"
+            },
+            {
+                "id": "OP04-109",
+                "number": "OP04-109",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "土康",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可將這張角色卡放置到廢棄區：最多1張自己擁有《和之國》特徵的領航卡或角色卡，在這個回合，力量值+3000。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-109.png"
+            },
+            {
+                "id": "OP04-110",
+                "number": "OP04-110",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "潘德",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "圓蛋糕島"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【KO時】將最多1張對手費用3以下的角色卡，以正面朝上加入對手的生命值區上面或下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-110.png"
+            },
+            {
+                "id": "OP04-111",
+                "number": "OP04-111",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "赫拉",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "【觸發器】使這張卡片登場。",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團",
+                    "歡樂友人"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可將1張除了這張角色卡以外自己擁有《歡樂友人》特徵的角色卡放置到廢棄區，並將這張角色卡置為休息狀態：將最多1張自己的角色卡「夏洛特・莉莉」，置為活動狀態。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-111.png"
+            },
+            {
+                "id": "OP04-112",
+                "number": "OP04-112",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "大和",
+                "cost": "9",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】KO最多1張對手的持有費用在雙方生命值卡合計張數以下的角色卡。之後，若自己的生命值卡在1張以下時，將最多1張自己卡組上面的卡片加入生命值區上面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-112.png"
+            },
+            {
+                "id": "OP04-112_p1",
+                "number": "OP04-112",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "大和(異圖卡)",
+                "cost": "9",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】KO最多1張對手的持有費用在雙方生命值卡合計張數以下的角色卡。之後，若自己的生命值卡在1張以下時，將最多1張自己卡組上面的卡片加入生命值區上面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-112_p1.png"
+            },
+            {
+                "id": "OP04-113",
+                "number": "OP04-113",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "拉賓",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】使這張卡片登場。",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團",
+                    "歡樂友人"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-113.png"
+            },
+            {
+                "id": "OP04-114",
+                "number": "OP04-114",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "藍道夫",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團",
+                    "歡樂友人"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-114.png"
+            },
+            {
+                "id": "OP04-115",
+                "number": "OP04-115",
+                "type": "C",
+                "class": "EVENT",
+                "name": "槍・擬鬼",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】最多1張自己的領航卡或角色卡，在這個回合，力量值+1000。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "和之國",
+                    "光月家"
+                ],
+                "block_icon": "1",
+                "effect": "【主要】可將1張自己生命值區上面或下面的卡片加入手牌：最多1張自己擁有《和之國》特徵的角色卡，在這個回合，獲得【雙重攻擊】。 (這張卡片造成的傷害為2)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-115.png"
+            },
+            {
+                "id": "OP04-116",
+                "number": "OP04-116",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "惡魔風腳 頰肉SHOOT",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】抽1張卡片。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "賓什莫克家"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+6000。之後，若雙方的生命值卡合計張數在4張以下時，KO最多1張對手費用2以下的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-116.png"
+            },
+            {
+                "id": "OP04-117",
+                "number": "OP04-117",
+                "type": "R",
+                "class": "EVENT",
+                "name": "天堂烈火",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】可將1張自己生命值區上面或下面的卡片加入手牌：將最多1張自己的手牌加入生命值區上面。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "四皇",
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【主要】將最多1張對手費用3以下的角色卡以正面朝上加入對手的生命值區上面或下面。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-117.png"
+            },
+            {
+                "id": "OP04-118",
+                "number": "OP04-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "納菲魯塔利・薇薇",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "1",
+                "effect": "除了這張角色卡以外，自己費用3以上紅色的角色卡全數，獲得【速攻】。 (這張卡片在登場的回合即可攻擊)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-118.png"
+            },
+            {
+                "id": "OP04-118_p1",
+                "number": "OP04-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "納菲魯塔利・薇薇(異圖卡)",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "阿拉巴斯坦王國"
+                ],
+                "block_icon": "1",
+                "effect": "除了這張角色卡以外，自己費用3以上紅色的角色卡全數，獲得【速攻】。 (這張卡片在登場的回合即可攻擊)",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-118_p1.png"
+            },
+            {
+                "id": "OP04-119",
+                "number": "OP04-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "唐吉訶德・羅希南特",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "海軍",
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【對方回合中】若這張角色卡在休息狀態時，自己活動狀態原本費用5的角色卡，不會因效果而遭到KO。 【登場時】可將這張角色卡置為休息狀態：使最多1張自己手牌中費用5綠色的角色卡登場。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-119.png"
+            },
+            {
+                "id": "OP04-119_p1",
+                "number": "OP04-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "唐吉訶德・羅希南特(異圖卡)",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "海軍",
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【對方回合中】若這張角色卡在休息狀態時，自己活動狀態原本費用5的角色卡，不會因效果而遭到KO。 【登場時】可將這張角色卡置為休息狀態：使最多1張自己手牌中費用5綠色的角色卡登場。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP04-119_p1.png"
+            },
+            {
+                "id": "OP01-047_p2",
+                "number": "OP01-047",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "托拉法爾加・羅(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "綠"
+                ],
+                "feature": [
+                    "超新星",
+                    "哈特海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】可將1張自己的角色卡放回持有者的手牌：使最多1張自己手牌中費用3以下的角色卡登場。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP01-047_p2.png"
+            },
+            {
+                "id": "OP01-078_p2",
+                "number": "OP01-078",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "波雅・漢考克(異圖卡)",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "九蛇海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【咚‼×1】【攻擊時】/【防禦時】若自己的手牌在5張以下時，抽1張卡片。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP01-078_p2.png"
+            },
+            {
+                "id": "OP02-004_p2",
+                "number": "OP02-004",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "艾德華・紐蓋特(異圖卡)",
+                "cost": "9",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "紅"
+                ],
+                "feature": [
+                    "四皇",
+                    "白鬍子海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】到下一個我方回合開始前，最多1張自己的領航卡力量值+2000。之後，在這個回合，自己無法以自己的效果將生命值卡加入手牌。 【咚‼×2】【攻擊時】KO最多1張對手力量值3000以下的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP02-004_p2.png"
+            },
+            {
+                "id": "OP02-085_p2",
+                "number": "OP02-085",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "麥哲倫(異圖卡)",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "紫"
+                ],
+                "feature": [
+                    "推進城"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：對手將1張自身場上的咚‼卡放回咚‼卡組。 【對方回合中】這張角色卡遭到KO時，對手將2張自身場上的咚‼卡放回咚‼卡組。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP02-085_p2.png"
+            },
+            {
+                "id": "OP02-099_p2",
+                "number": "OP02-099",
+                "type": "SP卡",
+                "class": "CHARACTER",
+                "name": "盃(異圖卡)",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "黑"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】可以廢棄1張自己的手牌：KO最多1張對手費用5以下的角色卡。",
+                "card_set": "陰謀王國【OP-04】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/OP02-099_p2.png"
+            }
+        ]
+    }
+}

@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556101
+        "set": 556101,
+        "language": "en"
     },
     "data": {
         "code": "OP01",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-001.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Slash"
                 ],
@@ -39,8 +39,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Roronoa Zoro (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-001_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Slash"
                 ],
@@ -65,8 +64,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Trafalgar Law",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-002.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -92,8 +90,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Trafalgar Law (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-002_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -119,8 +116,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-003.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Strike"
                 ],
@@ -146,8 +142,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Luffy (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-003_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Strike"
                 ],
@@ -173,7 +168,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Usopp",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-004.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -198,7 +192,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Uta",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-005.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -223,7 +216,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Otama",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-006.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -248,7 +240,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Caribou",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-007.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -274,7 +265,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Cavendish",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-008.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -300,7 +290,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Cavendish (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-008_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -326,7 +315,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Carrot",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-009.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -351,7 +339,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Komachiyo",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-010.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -377,7 +364,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Gordon",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-011.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -402,7 +388,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sai",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-012.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -427,7 +412,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-013.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -452,7 +436,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Sanji (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-013_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -477,7 +460,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Jinbe",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-014.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -493,7 +475,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] [On Block] Play up to 1 red Character card with a cost of 2 or less from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [On Block] Play up to 1 red Character card with a cost of 2 or less from your hand.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-014.png"
             },
@@ -503,7 +485,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-015.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -529,7 +510,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-016.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -554,7 +534,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Nami (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-016_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -579,7 +558,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-017.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -604,7 +582,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Hajrudin",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-018.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -630,7 +607,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bartolomeo",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-019.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -646,7 +622,7 @@
                     "Barto Club"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x2] [Opponent's Turn] This Character gains +3000 power.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x2] [Opponent's Turn] This Character gains +3000 power.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-019.png"
             },
@@ -656,7 +632,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Hyogoro",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-020.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -681,7 +656,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Franky",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-021.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -706,7 +680,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Brook",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-022.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -731,7 +704,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Marco",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-023.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -756,7 +728,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-024.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -772,7 +743,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by <Strike> attribute Characters.[Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
+                "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by <Strike> attribute Characters. [Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-024.png"
             },
@@ -782,7 +753,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-024_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -798,7 +768,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by <Strike>  attribute Characters.[Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
+                "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by <Strike>  attribute Characters. [Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-024_p1.png"
             },
@@ -808,7 +778,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-025.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -834,7 +803,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-025_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -860,11 +828,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Gum-Gum Fire-Fist Pistol Red Hawk",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-026.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Give your opponent's Leader or 1 of their Characters ?10000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -886,11 +851,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Round Table",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-027.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -912,11 +874,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Green Star Rafflesia",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-028.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Counter] effect.",
                 "power": "-",
                 "counter": "-",
@@ -937,11 +896,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Radical Beam!!",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-029.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Your Leader or 1 of your Characters gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -962,11 +918,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "In Two Years!! At the Sabaody Archipelago!!",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-030.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -987,8 +940,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Kouzuki Oden",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-031.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Slash"
                 ],
@@ -1013,8 +965,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Kouzuki Oden (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-031_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Slash"
                 ],
@@ -1039,7 +990,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Ashura Doji",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-032.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1065,7 +1015,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Izo",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-033.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -1091,7 +1040,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Inuarashi",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-034.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1118,7 +1066,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Inuarashi (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-034_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1145,7 +1092,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Okiku",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-035.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1171,7 +1117,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Otsuru",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-036.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1196,7 +1141,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kawamatsu",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-037.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -1223,7 +1167,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kanjuro",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-038.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -1239,7 +1182,7 @@
                     "The Akazaya Nine"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.[On K.O.] Your opponent chooses 1 card from your hand; trash that card.",
+                "effect": "[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less. [On K.O.] Your opponent chooses 1 card from your hand; trash that card.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-038.png"
             },
@@ -1249,7 +1192,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Killer",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-039.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -1265,7 +1207,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] [On Block] If you have 3 or more Characters, draw 1 card.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [On Block] If you have 3 or more Characters, draw 1 card.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-039.png"
             },
@@ -1275,7 +1217,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kin'emon",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-040.png",
                 "cost": "6",
                 "attribute": [
                     "Slash"
@@ -1291,7 +1232,7 @@
                     "The Akazaya Nine"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] If your Leader is [Kouzuki Oden], play up to 1 {The Akazaya Nine} type Character card with a cost of 3 or less from your hand.[DON!! x1] [When Attacking] [Once Per Turn] Set up to 1 of your {The Akazaya Nine} type Character cards with a cost of 3 or less as active.",
+                "effect": "[On Play] If your Leader is [Kouzuki Oden], play up to 1 {The Akazaya Nine} type Character card with a cost of 3 or less from your hand. [DON!! x1] [When Attacking] [Once Per Turn] Set up to 1 of your {The Akazaya Nine} type Character cards with a cost of 3 or less as active.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-040.png"
             },
@@ -1301,7 +1242,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kin'emon (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-040_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Slash"
@@ -1317,7 +1257,7 @@
                     "The Akazaya Nine"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] If your Leader is [Kouzuki Oden], play up to 1 {The Akazaya Nine} type Character card with a cost of 3 or less from your hand.[DON!! x1] [When Attacking] [Once Per Turn] Set up to 1 of your {The Akazaya Nine} type Character cards with a cost of 3 or less as active.",
+                "effect": "[On Play] If your Leader is [Kouzuki Oden], play up to 1 {The Akazaya Nine} type Character card with a cost of 3 or less from your hand. [DON!! x1] [When Attacking] [Once Per Turn] Set up to 1 of your {The Akazaya Nine} type Character cards with a cost of 3 or less as active.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-040_p1.png"
             },
@@ -1327,7 +1267,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kouzuki Momonosuke",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-041.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -1353,7 +1292,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Komurasaki",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-042.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1379,7 +1317,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Shinobu",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-043.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -1404,7 +1341,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Shachi",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-044.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1419,7 +1355,7 @@
                     "Heart Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you don't have [Penguin], play up to 1 [Penguin] from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you don't have [Penguin], play up to 1 [Penguin] from your hand.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-044.png"
             },
@@ -1429,7 +1365,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jeanbart",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-045.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1454,7 +1389,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Denjiro",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-046.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1480,7 +1414,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-047.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1496,7 +1429,7 @@
                     "Heart Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] You may return 1 Character to your hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] You may return 1 Character to your hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-047.png"
             },
@@ -1506,7 +1439,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-047_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1522,7 +1454,7 @@
                     "Heart Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] You may return 1 Character to your hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] You may return 1 Character to your hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-047_p1.png"
             },
@@ -1532,7 +1464,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Nekomamushi",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-048.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -1559,7 +1490,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Nekomamushi (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-048_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -1586,7 +1516,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Bepo",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-049.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1612,7 +1541,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Penguin",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-050.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1627,7 +1555,7 @@
                     "Heart Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you don't have [Shachi], play up to 1 [Shachi] from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you don't have [Shachi], play up to 1 [Shachi] from your hand.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-050.png"
             },
@@ -1637,7 +1565,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-051.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -1653,7 +1580,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid].[Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.",
+                "effect": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid]. [Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-051.png"
             },
@@ -1663,7 +1590,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-051_p1.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -1679,7 +1605,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid].[Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.",
+                "effect": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid]. [Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-051_p1.png"
             },
@@ -1689,7 +1615,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Raizo",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-052.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1715,7 +1640,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Wire",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-053.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -1740,7 +1664,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "X.Drake",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-054.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1767,11 +1690,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "You Can Be My Samurai!!",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-055.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1793,11 +1713,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Demon Face",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-056.png",
                 "cost": "6",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1819,11 +1736,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Paradise Waterfall",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-057.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. 1 of your opponent's rested Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -1845,11 +1759,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Punk Gibson",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-058.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Rest 1 of your opponent's Characters.",
                 "power": "-",
                 "counter": "-",
@@ -1871,11 +1782,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "BE-BENG!!",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-059.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1896,8 +1804,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Donquixote Doflamingo",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-060.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -1922,8 +1829,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Donquixote Doflamingo (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-060_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -1948,8 +1854,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Kaido",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-061.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Strike"
                 ],
@@ -1975,8 +1880,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Kaido (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-061_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Strike"
                 ],
@@ -2002,8 +1906,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Crocodile",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-062.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -2029,8 +1932,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Crocodile (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-062_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -2056,7 +1958,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Arlong",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-063.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2082,7 +1983,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Alvida",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-064.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -2107,7 +2007,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Alvida (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-064_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -2132,7 +2031,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vergo",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-065.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -2159,7 +2057,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Krieg",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-066.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2184,7 +2081,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Crocodile",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-067.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -2200,7 +2096,7 @@
                     "Baroque Works"
                 ],
                 "block_icon": "1",
-                "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)[DON!! x1] Give blue Events in your hand −1 cost.",
+                "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [DON!! x1] Give blue Events in your hand −1 cost.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-067.png"
             },
@@ -2210,7 +2106,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Crocodile (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-067_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -2226,7 +2121,7 @@
                     "Baroque Works"
                 ],
                 "block_icon": "1",
-                "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)[DON!! x1] Give blue Events in your hand −1 cost.",
+                "effect": "[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [DON!! x1] Give blue Events in your hand −1 cost.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-067_p1.png"
             },
@@ -2236,7 +2131,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Gecko Moria",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-068.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2252,7 +2146,7 @@
                     "Thriller Bark Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Your Turn] This Character gains [Double Attack] if you have 5 or more cards in your hand.(This card deals 2 damage.)",
+                "effect": "[Your Turn] This Character gains [Double Attack] if you have 5 or more cards in your hand. (This card deals 2 damage.)",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-068.png"
             },
@@ -2262,7 +2156,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Caesar Clown",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-069.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2288,7 +2181,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Dracule Mihawk",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-070.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -2313,7 +2205,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Dracule Mihawk (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-070_p1.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -2338,7 +2229,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Jinbe",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-071.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -2354,7 +2244,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.[Trigger] Play this card.",
+                "effect": "[On Play] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck. [Trigger] Play this card.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-071.png"
             },
@@ -2364,7 +2254,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Smiley",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-072.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -2390,7 +2279,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Donquixote Doflamingo",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-073.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -2406,7 +2294,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-073.png"
             },
@@ -2416,7 +2304,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Donquixote Doflamingo (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-073_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -2432,7 +2319,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-073_p1.png"
             },
@@ -2442,7 +2329,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Bartholomew Kuma",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-074.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -2458,7 +2344,7 @@
                     "Revolutionary Army"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] Play up to 1 [Pacifista] with a cost of 4 or less from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] Play up to 1 [Pacifista] with a cost of 4 or less from your hand.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-074.png"
             },
@@ -2468,7 +2354,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Pacifista",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-075.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2484,7 +2369,7 @@
                     "Navy"
                 ],
                 "block_icon": "1",
-                "effect": "Under the rules of this game, you may have any number of this card in your deck.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "Under the rules of this game, you may have any number of this card in your deck. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-075.png"
             },
@@ -2494,7 +2379,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bellamy",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-076.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -2519,7 +2403,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Perona",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-077.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -2544,7 +2427,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Perona (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-077_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -2569,7 +2451,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Boa Hancock",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-078.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2585,7 +2466,7 @@
                     "Kuja Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-078.png"
             },
@@ -2595,7 +2476,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Boa Hancock (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-078_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2611,7 +2491,7 @@
                     "Kuja Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-078_p1.png"
             },
@@ -2621,7 +2501,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Ms.All Sunday",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-079.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -2636,7 +2515,7 @@
                     "Baroque Works"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] If your Leader has the {Baroque Works} type, add up to 1 Event from your trash to your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] If your Leader has the {Baroque Works} type, add up to 1 Event from your trash to your hand.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-079.png"
             },
@@ -2646,7 +2525,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Miss Doublefinger(Zala)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-080.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -2671,7 +2549,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Mocha",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-081.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -2696,7 +2573,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Monet",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-082.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -2722,7 +2598,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Mr.1(Daz.Bonez)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-083.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -2747,7 +2622,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Mr.2.Bon.Kurei(Bentham)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-084.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -2772,7 +2646,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Mr.3(Galdino)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-085.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -2797,11 +2670,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Overheat",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-086.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return 1 card with a cost of 4 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -2823,11 +2693,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Officer Agents",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-087.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Counter] effect.",
                 "power": "-",
                 "counter": "-",
@@ -2848,11 +2715,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Desert Spada",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-088.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -2874,11 +2738,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Crescent Cutlass",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-089.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -2900,11 +2761,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Baroque Works",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-090.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -2925,8 +2783,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "King",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-091.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -2950,8 +2807,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "King (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-091_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -2975,7 +2831,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Urashima",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-092.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -3000,7 +2855,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Ulti",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-093.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -3025,7 +2879,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Ulti (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-093_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -3050,7 +2903,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kaido",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-094.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -3076,7 +2928,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kaido (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-094_p1.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -3102,7 +2953,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Kyoshirou",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-095.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -3127,7 +2977,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "King",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-096.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -3152,7 +3001,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "King (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-096_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -3177,7 +3025,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Queen",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-097.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -3192,7 +3039,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Rush] during this turn. Then, give up to 1 of your opponent's Characters −2000 power during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Rush] during this turn. Then, give up to 1 of your opponent's Characters −2000 power during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-097.png"
             },
@@ -3202,7 +3049,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Queen (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-097_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -3217,7 +3063,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Rush] during this turn. Then, give up to 1 of your opponent's Characters −2000 power during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains [Rush] during this turn. Then, give up to 1 of your opponent's Characters −2000 power during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-097_p1.png"
             },
@@ -3227,7 +3073,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Kurozumi Orochi",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-098.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -3253,7 +3098,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kurozumi Semimaru",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-099.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -3279,7 +3123,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kurozumi Higurashi",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-100.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -3305,7 +3148,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Sasaki",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-101.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -3330,7 +3172,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Jack",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-102.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -3355,7 +3196,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Jack (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-102_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -3380,7 +3220,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Scratchmen Apoo",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-103.png",
                 "cost": "4",
                 "attribute": [
                     "Ranged"
@@ -3406,7 +3245,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Speed",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-104.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -3432,7 +3270,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bao Huang",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-105.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -3458,7 +3295,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Basil Hawkins",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-106.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -3484,7 +3320,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Babanuki",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-107.png",
                 "cost": "5",
                 "attribute": [
                     "Ranged"
@@ -3510,7 +3345,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Hitokiri Kamazo",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-108.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -3537,7 +3371,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Who's.Who",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-109.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -3562,7 +3395,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Who's.Who (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-109_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -3587,7 +3419,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Fukurokuju",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-110.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -3613,7 +3444,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Black Maria",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-111.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -3628,7 +3458,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +1000 power during this turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +1000 power during this turn.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-111.png"
             },
@@ -3638,7 +3468,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Page One",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-112.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -3663,7 +3492,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Holedem",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-113.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -3689,7 +3517,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "X.Drake",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-114.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -3716,11 +3543,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Elephant's Marchoo",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-115.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -3742,11 +3566,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Artificial Devil Fruit SMILE",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-116.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -3768,11 +3589,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Sheep's Horn",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-117.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -3794,11 +3612,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Ulti-Mortar",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-118.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add 1 DON!! card from your DON!! deck and set it as active.",
                 "power": "-",
                 "counter": "-",
@@ -3819,11 +3634,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Thunder Bagua",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-119.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add 1 DON!! card from your DON!! deck and set it as active.",
                 "power": "-",
                 "counter": "-",
@@ -3845,7 +3657,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Shanks",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-120.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -3861,7 +3672,7 @@
                     "Red-Haired Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-120.png"
             },
@@ -3871,7 +3682,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Shanks (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-120_p1.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -3887,7 +3697,7 @@
                     "Red-Haired Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-120_p1.png"
             },
@@ -3897,7 +3707,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Shanks (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-120_p2.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -3913,7 +3722,7 @@
                     "Red-Haired Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-120_p2.png"
             },
@@ -3923,7 +3732,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Yamato",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-121.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3938,7 +3746,7 @@
                     "Land of Wano"
                 ],
                 "block_icon": "1",
-                "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.[Double Attack] (This card deals 2 damage.)[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules. [Double Attack] (This card deals 2 damage.) [Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-121.png"
             },
@@ -3948,7 +3756,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Yamato (Parallel)",
-                "image_path": "images/ROMANCEDAWNOP01/OP01-121_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3963,7 +3770,7 @@
                     "Land of Wano"
                 ],
                 "block_icon": "1",
-                "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.[Double Attack] (This card deals 2 damage.)[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules. [Double Attack] (This card deals 2 damage.) [Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
                 "card_set": "-ROMANCE DAWN- [OP-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-121_p1.png"
             }

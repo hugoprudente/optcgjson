@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556108
+        "set": 556108,
+        "language": "en"
     },
     "data": {
         "code": "OP08",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/TwoLegendsOP08/OP08-001.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Strike"
                 ],
@@ -41,8 +41,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Tony Tony.Chopper (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-001_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Strike"
                 ],
@@ -69,8 +68,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Marco",
-                "image_path": "images/TwoLegendsOP08/OP08-002.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -95,8 +93,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Marco (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-002_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -121,7 +118,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Twenty Doctors",
-                "image_path": "images/TwoLegendsOP08/OP08-003.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -146,7 +142,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kuromarimo",
-                "image_path": "images/TwoLegendsOP08/OP08-004.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -171,7 +166,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Chess",
-                "image_path": "images/TwoLegendsOP08/OP08-005.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -196,7 +190,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Chessmarimo",
-                "image_path": "images/TwoLegendsOP08/OP08-006.png",
                 "cost": "5",
                 "attribute": [
                     "Strike",
@@ -222,7 +215,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/TwoLegendsOP08/OP08-007.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -249,7 +241,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-007_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -276,7 +267,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Dalton",
-                "image_path": "images/TwoLegendsOP08/OP08-008.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -291,7 +281,7 @@
                     "Drum Kingdom"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] Give up to 1 of your opponent's Characters −1000 power during this turn.[DON!! x1] [Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: This Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] Give up to 1 of your opponent's Characters −1000 power during this turn. [DON!! x1] [Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-008.png"
             },
@@ -301,7 +291,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Maria Onion Bear",
-                "image_path": "images/TwoLegendsOP08/OP08-009.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -326,7 +315,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Hiking Bear",
-                "image_path": "images/TwoLegendsOP08/OP08-010.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -352,7 +340,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Musshuru",
-                "image_path": "images/TwoLegendsOP08/OP08-011.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -378,7 +365,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Lapins",
-                "image_path": "images/TwoLegendsOP08/OP08-012.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -404,7 +390,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Robson",
-                "image_path": "images/TwoLegendsOP08/OP08-013.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -420,7 +405,7 @@
                     "Drum Kingdom"
                 ],
                 "block_icon": "2",
-                "effect": "[DON!! x2] This Character gains [Rush].(This card can attack on the turn in which it is played.)",
+                "effect": "[DON!! x2] This Character gains [Rush]. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-013.png"
             },
@@ -430,7 +415,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Wapol",
-                "image_path": "images/TwoLegendsOP08/OP08-014.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -455,7 +439,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Dr.Kureha",
-                "image_path": "images/TwoLegendsOP08/OP08-015.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -480,7 +463,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Dr.Kureha (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-015_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -505,7 +487,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Dr.Hiriluk",
-                "image_path": "images/TwoLegendsOP08/OP08-016.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -530,11 +511,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "I'd Never Shoot You!!!!",
-                "image_path": "images/TwoLegendsOP08/OP08-017.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -555,11 +533,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Cloven Rose",
-                "image_path": "images/TwoLegendsOP08/OP08-018.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -582,11 +557,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Munch-Munch Mutation",
-                "image_path": "images/TwoLegendsOP08/OP08-019.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
                 "power": "-",
                 "counter": "-",
@@ -607,11 +579,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Drum Kingdom",
-                "image_path": "images/TwoLegendsOP08/OP08-020.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -632,8 +601,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Carrot",
-                "image_path": "images/TwoLegendsOP08/OP08-021.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -657,8 +625,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Carrot (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-021_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -682,7 +649,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Inuarashi",
-                "image_path": "images/TwoLegendsOP08/OP08-022.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -708,7 +674,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Carrot",
-                "image_path": "images/TwoLegendsOP08/OP08-023.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -733,7 +698,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Carrot (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-023_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -758,7 +722,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Concelot",
-                "image_path": "images/TwoLegendsOP08/OP08-024.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -783,7 +746,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Shishilian",
-                "image_path": "images/TwoLegendsOP08/OP08-025.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -808,7 +770,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Giovanni",
-                "image_path": "images/TwoLegendsOP08/OP08-026.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -833,7 +794,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Tristan",
-                "image_path": "images/TwoLegendsOP08/OP08-027.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -858,7 +818,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nekomamushi",
-                "image_path": "images/TwoLegendsOP08/OP08-028.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -874,7 +833,7 @@
                     "The Akazaya Nine"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] If your opponent has 7 or more rested cards, this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] If your opponent has 7 or more rested cards, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-028.png"
             },
@@ -884,7 +843,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Pekoms",
-                "image_path": "images/TwoLegendsOP08/OP08-029.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -910,7 +868,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Pedro",
-                "image_path": "images/TwoLegendsOP08/OP08-030.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -925,7 +882,7 @@
                     "Minks"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] Choose one:• Rest up to 1 of your opponent's DON!! cards.• K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] Choose one: • Rest up to 1 of your opponent's DON!! cards. • K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-030.png"
             },
@@ -935,7 +892,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Pedro (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-030_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -950,7 +906,7 @@
                     "Minks"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] Choose one:• Rest up to 1 of your opponent's DON!! cards.• K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] Choose one: • Rest up to 1 of your opponent's DON!! cards. • K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-030_p1.png"
             },
@@ -960,7 +916,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Miyagi",
-                "image_path": "images/TwoLegendsOP08/OP08-031.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -985,7 +940,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Milky",
-                "image_path": "images/TwoLegendsOP08/OP08-032.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -1010,7 +964,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Roddy",
-                "image_path": "images/TwoLegendsOP08/OP08-033.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -1035,7 +988,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Wanda",
-                "image_path": "images/TwoLegendsOP08/OP08-034.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -1060,7 +1012,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "BB",
-                "image_path": "images/TwoLegendsOP08/OP08-035.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -1085,11 +1036,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Electrical Luna",
-                "image_path": "images/TwoLegendsOP08/OP08-036.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Rest up to 1 of your opponent's Characters.",
                 "power": "-",
                 "counter": "-",
@@ -1110,11 +1058,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Garchu",
-                "image_path": "images/TwoLegendsOP08/OP08-037.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card.",
                 "power": "-",
                 "counter": "-",
@@ -1135,11 +1080,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "We Would Never Sell a Comrade to an Enemy!!!",
-                "image_path": "images/TwoLegendsOP08/OP08-038.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 3 or less.",
                 "power": "-",
                 "counter": "-",
@@ -1161,11 +1103,8 @@
                 "type": "R",
                 "class": "STAGE",
                 "name": "Zou",
-                "image_path": "images/TwoLegendsOP08/OP08-039.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1176,7 +1115,7 @@
                     "Animal"
                 ],
                 "block_icon": "2",
-                "effect": "[Activate: Main] You may rest this Stage: If your Leader has the {Minks} type, set up to 1 of your DON!! cards as active.[End of Your Turn] Set up to 1 of your {Minks} type Characters as active.",
+                "effect": "[Activate: Main] You may rest this Stage: If your Leader has the {Minks} type, set up to 1 of your DON!! cards as active. [End of Your Turn] Set up to 1 of your {Minks} type Characters as active.",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-039.png"
             },
@@ -1186,7 +1125,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Atmos",
-                "image_path": "images/TwoLegendsOP08/OP08-040.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1211,7 +1149,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Aphelandra",
-                "image_path": "images/TwoLegendsOP08/OP08-041.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1236,7 +1173,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Edward Weevil",
-                "image_path": "images/TwoLegendsOP08/OP08-042.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1261,7 +1197,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Edward.Newgate",
-                "image_path": "images/TwoLegendsOP08/OP08-043.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -1287,7 +1222,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Edward.Newgate (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-043_p1.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -1313,7 +1247,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Kingdew",
-                "image_path": "images/TwoLegendsOP08/OP08-044.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1338,7 +1271,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Thatch",
-                "image_path": "images/TwoLegendsOP08/OP08-045.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1363,7 +1295,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Shakuyaku",
-                "image_path": "images/TwoLegendsOP08/OP08-046.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -1388,7 +1319,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Jozu",
-                "image_path": "images/TwoLegendsOP08/OP08-047.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -1413,7 +1343,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sweetpea",
-                "image_path": "images/TwoLegendsOP08/OP08-048.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1438,7 +1367,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Speed Jil",
-                "image_path": "images/TwoLegendsOP08/OP08-049.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1453,7 +1381,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] Reveal 1 card from the top of your deck and place it at the top or bottom of your deck. If the revealed card's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] Reveal 1 card from the top of your deck and place it at the top or bottom of your deck. If the revealed card's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-049.png"
             },
@@ -1463,7 +1391,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Namule",
-                "image_path": "images/TwoLegendsOP08/OP08-050.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1479,7 +1406,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Draw 2 cards and place 2 cards from your hand at the top or bottom of your deck in any order.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Draw 2 cards and place 2 cards from your hand at the top or bottom of your deck in any order.",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-050.png"
             },
@@ -1489,7 +1416,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Buckin",
-                "image_path": "images/TwoLegendsOP08/OP08-051.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1514,7 +1440,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Portgas.D.Ace",
-                "image_path": "images/TwoLegendsOP08/OP08-052.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1539,7 +1464,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Portgas.D.Ace (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-052_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1564,11 +1488,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Thank You...for Loving Me!!",
-                "image_path": "images/TwoLegendsOP08/OP08-053.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card.",
                 "power": "-",
                 "counter": "-",
@@ -1589,11 +1510,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "You Can't Take Our King This Early in the Game.",
-                "image_path": "images/TwoLegendsOP08/OP08-054.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1614,11 +1532,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Phoenix Brand",
-                "image_path": "images/TwoLegendsOP08/OP08-055.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1639,11 +1554,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Moby Dick",
-                "image_path": "images/TwoLegendsOP08/OP08-056.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Play this card.",
                 "power": "-",
                 "counter": "-",
@@ -1664,8 +1576,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "King",
-                "image_path": "images/TwoLegendsOP08/OP08-057.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -1680,7 +1591,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one:• If you have 5 or less cards in your hand, draw 1 card.• Give up to 1 of your opponent's Characters −2 cost during this turn.",
+                "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one: • If you have 5 or less cards in your hand, draw 1 card. • Give up to 1 of your opponent's Characters −2 cost during this turn.",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-057.png"
             },
@@ -1690,8 +1601,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "King (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-057_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -1706,7 +1616,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one:• If you have 5 or less cards in your hand, draw 1 card.• Give up to 1 of your opponent's Characters −2 cost during this turn.",
+                "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one: • If you have 5 or less cards in your hand, draw 1 card. • Give up to 1 of your opponent's Characters −2 cost during this turn.",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-057_p1.png"
             },
@@ -1716,8 +1626,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Charlotte Pudding",
-                "image_path": "images/TwoLegendsOP08/OP08-058.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Wisdom"
                 ],
@@ -1742,8 +1651,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Charlotte Pudding (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-058_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Wisdom"
                 ],
@@ -1768,7 +1676,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Alber",
-                "image_path": "images/TwoLegendsOP08/OP08-059.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1794,7 +1701,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "King",
-                "image_path": "images/TwoLegendsOP08/OP08-060.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -1809,7 +1715,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 5 or more DON!! cards on their field, this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 5 or more DON!! cards on their field, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-060.png"
             },
@@ -1819,7 +1725,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Charlotte Oven",
-                "image_path": "images/TwoLegendsOP08/OP08-061.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1844,7 +1749,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Charlotte Katakuri",
-                "image_path": "images/TwoLegendsOP08/OP08-062.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -1869,7 +1773,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Charlotte Katakuri",
-                "image_path": "images/TwoLegendsOP08/OP08-063.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -1894,7 +1797,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Cracker",
-                "image_path": "images/TwoLegendsOP08/OP08-064.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1919,7 +1821,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Smoothie",
-                "image_path": "images/TwoLegendsOP08/OP08-065.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -1944,7 +1845,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Charlotte Brulee",
-                "image_path": "images/TwoLegendsOP08/OP08-066.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1959,7 +1859,7 @@
                     "Big Mom Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-066.png"
             },
@@ -1969,7 +1869,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Charlotte Pudding",
-                "image_path": "images/TwoLegendsOP08/OP08-067.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -1994,7 +1893,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Charlotte Pudding (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-067_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -2019,7 +1917,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Perospero",
-                "image_path": "images/TwoLegendsOP08/OP08-068.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -2044,7 +1941,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Charlotte Linlin",
-                "image_path": "images/TwoLegendsOP08/OP08-069.png",
                 "cost": "9",
                 "attribute": [
                     "Special"
@@ -2070,7 +1966,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Charlotte Linlin (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-069_p1.png",
                 "cost": "9",
                 "attribute": [
                     "Special"
@@ -2096,7 +1991,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Baron Tamago",
-                "image_path": "images/TwoLegendsOP08/OP08-070.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -2111,7 +2005,7 @@
                     "Big Mom Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Viscount Hiyoko] with a cost of 5 or less from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Viscount Hiyoko] with a cost of 5 or less from your hand.",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-070.png"
             },
@@ -2121,7 +2015,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Count Niwatori",
-                "image_path": "images/TwoLegendsOP08/OP08-071.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -2146,7 +2039,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Biscuit Warrior",
-                "image_path": "images/TwoLegendsOP08/OP08-072.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -2161,7 +2053,7 @@
                     "Big Mom Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "Under the rules of this game, you may have any number of this card in your deck.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "Under the rules of this game, you may have any number of this card in your deck. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-072.png"
             },
@@ -2171,7 +2063,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Viscount Hiyoko",
-                "image_path": "images/TwoLegendsOP08/OP08-073.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -2196,7 +2087,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Black Maria",
-                "image_path": "images/TwoLegendsOP08/OP08-074.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -2221,7 +2111,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Black Maria (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-074_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -2246,11 +2135,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Candy Maiden",
-                "image_path": "images/TwoLegendsOP08/OP08-075.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "power": "-",
                 "counter": "-",
@@ -2271,11 +2157,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "It's to Die For...",
-                "image_path": "images/TwoLegendsOP08/OP08-076.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "power": "-",
                 "counter": "-",
@@ -2297,11 +2180,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Conquest of the Sea",
-                "image_path": "images/TwoLegendsOP08/OP08-077.png",
                 "cost": "6",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -2324,7 +2204,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Ulti",
-                "image_path": "images/TwoLegendsOP08/OP08-078.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -2349,7 +2228,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kaido",
-                "image_path": "images/TwoLegendsOP08/OP08-079.png",
                 "cost": "9",
                 "attribute": [
                     "Strike"
@@ -2375,7 +2253,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kaido (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-079_p1.png",
                 "cost": "9",
                 "attribute": [
                     "Strike"
@@ -2401,7 +2278,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Queen",
-                "image_path": "images/TwoLegendsOP08/OP08-080.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -2426,7 +2302,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Queen (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-080_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -2451,7 +2326,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Guernica",
-                "image_path": "images/TwoLegendsOP08/OP08-081.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -2476,7 +2350,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Sasaki",
-                "image_path": "images/TwoLegendsOP08/OP08-082.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -2501,7 +2374,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Sheepshead",
-                "image_path": "images/TwoLegendsOP08/OP08-083.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -2527,7 +2399,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Jack",
-                "image_path": "images/TwoLegendsOP08/OP08-084.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -2542,7 +2413,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "This Character gains +4 cost.[Activate: Main] You may rest this Character: Draw 1 card and trash 1 card from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+                "effect": "This Character gains +4 cost. [Activate: Main] You may rest this Character: Draw 1 card and trash 1 card from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-084.png"
             },
@@ -2552,7 +2423,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Jack (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-084_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -2567,7 +2437,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "This Character gains +4 cost.[Activate: Main] You may rest this Character: Draw 1 card and trash 1 card from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+                "effect": "This Character gains +4 cost. [Activate: Main] You may rest this Character: Draw 1 card and trash 1 card from your hand. Then, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-084_p1.png"
             },
@@ -2577,7 +2447,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Jinbe",
-                "image_path": "images/TwoLegendsOP08/OP08-085.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -2603,7 +2472,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Ginrummy",
-                "image_path": "images/TwoLegendsOP08/OP08-086.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -2629,7 +2497,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Scratchmen Apoo",
-                "image_path": "images/TwoLegendsOP08/OP08-087.png",
                 "cost": "4",
                 "attribute": [
                     "Ranged"
@@ -2645,7 +2512,7 @@
                     "On-Air Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1 cost during this turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1 cost during this turn.",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-087.png"
             },
@@ -2655,7 +2522,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Duval",
-                "image_path": "images/TwoLegendsOP08/OP08-088.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -2680,7 +2546,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Basil Hawkins",
-                "image_path": "images/TwoLegendsOP08/OP08-089.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -2706,7 +2571,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Hamlet",
-                "image_path": "images/TwoLegendsOP08/OP08-090.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -2732,7 +2596,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Who's.Who",
-                "image_path": "images/TwoLegendsOP08/OP08-091.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -2758,7 +2621,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Page One",
-                "image_path": "images/TwoLegendsOP08/OP08-092.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -2783,7 +2645,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "X.Drake",
-                "image_path": "images/TwoLegendsOP08/OP08-093.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2810,11 +2671,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Imperial Flame",
-                "image_path": "images/TwoLegendsOP08/OP08-094.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -2835,11 +2693,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Iron Body Fang Flash",
-                "image_path": "images/TwoLegendsOP08/OP08-095.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +2000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -2861,11 +2716,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "People's Dreams Don't Ever End!!",
-                "image_path": "images/TwoLegendsOP08/OP08-096.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Play up to 1 black Character card with a cost of 3 or less from your trash.",
                 "power": "-",
                 "counter": "-",
@@ -2886,11 +2738,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Heliceratops",
-                "image_path": "images/TwoLegendsOP08/OP08-097.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
                 "power": "-",
                 "counter": "-",
@@ -2911,8 +2760,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Kalgara",
-                "image_path": "images/TwoLegendsOP08/OP08-098.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Slash"
                 ],
@@ -2938,8 +2786,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Kalgara (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-098_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Slash"
                 ],
@@ -2965,7 +2812,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kalgara",
-                "image_path": "images/TwoLegendsOP08/OP08-099.png",
                 "cost": "6",
                 "attribute": [
                     "Slash"
@@ -2992,7 +2838,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "South Bird",
-                "image_path": "images/TwoLegendsOP08/OP08-100.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -3019,7 +2864,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Angel",
-                "image_path": "images/TwoLegendsOP08/OP08-101.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -3044,7 +2888,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Charlotte Opera",
-                "image_path": "images/TwoLegendsOP08/OP08-102.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -3069,7 +2912,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Charlotte Custard",
-                "image_path": "images/TwoLegendsOP08/OP08-103.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -3094,7 +2936,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Poire",
-                "image_path": "images/TwoLegendsOP08/OP08-104.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -3119,7 +2960,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/TwoLegendsOP08/OP08-105.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -3145,7 +2985,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Jewelry Bonney (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-105_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -3171,7 +3010,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/TwoLegendsOP08/OP08-106.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -3197,7 +3035,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Nami (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-106_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -3223,7 +3060,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Nitro",
-                "image_path": "images/TwoLegendsOP08/OP08-107.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -3249,7 +3085,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Mont Blanc Cricket",
-                "image_path": "images/TwoLegendsOP08/OP08-108.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -3275,7 +3110,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Mont Blanc Noland",
-                "image_path": "images/TwoLegendsOP08/OP08-109.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -3301,7 +3135,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Wyper",
-                "image_path": "images/TwoLegendsOP08/OP08-110.png",
                 "cost": "4",
                 "attribute": [
                     "Ranged"
@@ -3327,7 +3160,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Wyper (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-110_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Ranged"
@@ -3353,7 +3185,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "S-Shark",
-                "image_path": "images/TwoLegendsOP08/OP08-111.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -3379,7 +3210,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "S-Snake",
-                "image_path": "images/TwoLegendsOP08/OP08-112.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -3405,7 +3235,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "S-Snake (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-112_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -3431,7 +3260,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "S-Bear",
-                "image_path": "images/TwoLegendsOP08/OP08-113.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -3457,7 +3285,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "S-Hawk",
-                "image_path": "images/TwoLegendsOP08/OP08-114.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -3483,11 +3310,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "The Earth Will Not Lose!",
-                "image_path": "images/TwoLegendsOP08/OP08-115.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -3509,11 +3333,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Burn Bazooka",
-                "image_path": "images/TwoLegendsOP08/OP08-116.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -3535,11 +3356,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Burn Blade",
-                "image_path": "images/TwoLegendsOP08/OP08-117.png",
                 "cost": "5",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] You may add 1 card from the top of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -3561,7 +3379,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Silvers Rayleigh",
-                "image_path": "images/TwoLegendsOP08/OP08-118.png",
                 "cost": "8",
                 "attribute": [
                     "Slash"
@@ -3586,7 +3403,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Silvers Rayleigh (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-118_p1.png",
                 "cost": "8",
                 "attribute": [
                     "Slash"
@@ -3611,7 +3427,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Silvers Rayleigh (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-118_p2.png",
                 "cost": "8",
                 "attribute": [
                     "Slash"
@@ -3636,7 +3451,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Kaido & Linlin",
-                "image_path": "images/TwoLegendsOP08/OP08-119.png",
                 "cost": "10",
                 "attribute": [
                     "Strike",
@@ -3664,7 +3478,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Kaido & Linlin (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP08-119_p1.png",
                 "cost": "10",
                 "attribute": [
                     "Strike",
@@ -3692,7 +3505,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Portgas.D.Ace (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP02-013_p3.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -3707,7 +3519,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-013_p3.png"
             },
@@ -3717,7 +3529,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Charlotte Pudding (Parallel)",
-                "image_path": "images/TwoLegendsOP08/OP03-112_p4.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -3742,7 +3553,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Jewelry Bonney (Parallel)",
-                "image_path": "images/TwoLegendsOP08/ST02-007_p3.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -3768,7 +3578,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Gecko Moria (Parallel)",
-                "image_path": "images/TwoLegendsOP08/ST03-004_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -3794,7 +3603,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Queen (Parallel)",
-                "image_path": "images/TwoLegendsOP08/ST04-005_p3.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3809,7 +3617,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
                 "card_set": "-Two Legends- [OP-08]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-005_p3.png"
             },
@@ -3819,7 +3627,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Tashigi (Parallel)",
-                "image_path": "images/TwoLegendsOP08/ST06-006_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"

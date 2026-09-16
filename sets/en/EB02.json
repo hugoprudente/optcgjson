@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556202
+        "set": 556202,
+        "language": "en"
     },
     "data": {
         "code": "EB02",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Kouzuki Oden",
-                "image_path": "images/Anime25thcollectionEB02/EB01-001_p2.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -30,7 +30,7 @@
                     "Kouzuki Clan"
                 ],
                 "block_icon": "2",
-                "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules.[DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
+                "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules. [DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p2.png"
             },
@@ -40,8 +40,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Hannyabal",
-                "image_path": "images/Anime25thcollectionEB02/EB01-021_p2.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -66,8 +65,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Kyros",
-                "image_path": "images/Anime25thcollectionEB02/EB01-040_p2.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -92,7 +90,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Karoo",
-                "image_path": "images/Anime25thcollectionEB02/EB02-001.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -118,7 +115,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Sabo",
-                "image_path": "images/Anime25thcollectionEB02/EB02-002.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -144,7 +140,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/Anime25thcollectionEB02/EB02-003.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -161,7 +156,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[DON!! x2] [Opponent's Turn] This Character gains +2000 power.[On Play] If your Leader has the {Straw Hat Crew} type, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+                "effect": "[DON!! x2] [Opponent's Turn] This Character gains +2000 power. [On Play] If your Leader has the {Straw Hat Crew} type, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-003.png"
             },
@@ -171,7 +166,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/Anime25thcollectionEB02/EB02-003_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -188,7 +182,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[DON!! x2] [Opponent's Turn] This Character gains +2000 power.[On Play] If your Leader has the {Straw Hat Crew} type, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+                "effect": "[DON!! x2] [Opponent's Turn] This Character gains +2000 power. [On Play] If your Leader has the {Straw Hat Crew} type, give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-003_p1.png"
             },
@@ -198,7 +192,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Don Accino",
-                "image_path": "images/Anime25thcollectionEB02/EB02-004.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -223,7 +216,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Fake Straw Hat Crew",
-                "image_path": "images/Anime25thcollectionEB02/EB02-005.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -238,7 +230,7 @@
                     "Fake Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Your Turn] This Character gains +2000 power.[Opponent's Turn] Give this Character −2000 power.",
+                "effect": "[Your Turn] This Character gains +2000 power. [Opponent's Turn] Give this Character −2000 power.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-005.png"
             },
@@ -248,7 +240,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Yamato",
-                "image_path": "images/Anime25thcollectionEB02/EB02-006.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -273,7 +264,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Yamato",
-                "image_path": "images/Anime25thcollectionEB02/EB02-006_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -298,11 +288,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Cloven Rose Blizzard",
-                "image_path": "images/Anime25thcollectionEB02/EB02-007.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
                 "power": "-",
                 "counter": "-",
@@ -325,11 +312,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "The Peak",
-                "image_path": "images/Anime25thcollectionEB02/EB02-008.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -350,11 +334,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Thousand Sunny",
-                "image_path": "images/Anime25thcollectionEB02/EB02-009.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -375,8 +356,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/Anime25thcollectionEB02/EB02-010.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Strike"
                 ],
@@ -401,8 +381,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/Anime25thcollectionEB02/EB02-010_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Strike"
                 ],
@@ -427,7 +406,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Arlong",
-                "image_path": "images/Anime25thcollectionEB02/EB02-011.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -454,7 +432,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Arlong",
-                "image_path": "images/Anime25thcollectionEB02/EB02-011_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -481,7 +458,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Gaimon",
-                "image_path": "images/Anime25thcollectionEB02/EB02-012.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -506,7 +482,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Carrot",
-                "image_path": "images/Anime25thcollectionEB02/EB02-013.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -531,7 +506,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sarfunkel",
-                "image_path": "images/Anime25thcollectionEB02/EB02-014.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -556,7 +530,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/Anime25thcollectionEB02/EB02-015.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -582,7 +555,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/Anime25thcollectionEB02/EB02-015_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -608,7 +580,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Chopperman",
-                "image_path": "images/Anime25thcollectionEB02/EB02-016.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -624,7 +595,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "Also treat this card's name as [Tony Tony.Chopper] according to the rules.[On Play] Play up to 1 {Animal} type Character card with a cost of 3 or less from your hand.",
+                "effect": "Also treat this card's name as [Tony Tony.Chopper] according to the rules. [On Play] Play up to 1 {Animal} type Character card with a cost of 3 or less from your hand.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-016.png"
             },
@@ -634,7 +605,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/Anime25thcollectionEB02/EB02-017.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -660,7 +630,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/Anime25thcollectionEB02/EB02-017_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -686,7 +655,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Buggy",
-                "image_path": "images/Anime25thcollectionEB02/EB02-018.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -712,7 +680,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/Anime25thcollectionEB02/EB02-019.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -728,7 +695,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "If your opponent has 2 or more Characters, this Character can attack Characters on the turn in which it is played.[On Play] If your Leader has the {Straw Hat Crew} type, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "effect": "If your opponent has 2 or more Characters, this Character can attack Characters on the turn in which it is played. [On Play] If your Leader has the {Straw Hat Crew} type, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-019.png"
             },
@@ -738,11 +705,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "We Are!",
-                "image_path": "images/Anime25thcollectionEB02/EB02-020.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -763,11 +727,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Gum-Gum Giant Pistol",
-                "image_path": "images/Anime25thcollectionEB02/EB02-021.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -789,7 +750,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Usopp",
-                "image_path": "images/Anime25thcollectionEB02/EB02-022.png",
                 "cost": "4",
                 "attribute": [
                     "Ranged"
@@ -815,7 +775,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Usopp",
-                "image_path": "images/Anime25thcollectionEB02/EB02-022_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Ranged"
@@ -841,7 +800,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Crocodile",
-                "image_path": "images/Anime25thcollectionEB02/EB02-023.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -867,7 +825,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sogeking",
-                "image_path": "images/Anime25thcollectionEB02/EB02-024.png",
                 "cost": "4",
                 "attribute": [
                     "Ranged"
@@ -882,7 +839,7 @@
                     "Sniper Island"
                 ],
                 "block_icon": "3",
-                "effect": "Also treat this card's name as [Usopp] according to the rules.[On Play] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order. Then, return up to 1 Character with a cost of 1 or less to the owner's hand.",
+                "effect": "Also treat this card's name as [Usopp] according to the rules. [On Play] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order. Then, return up to 1 Character with a cost of 1 or less to the owner's hand.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-024.png"
             },
@@ -892,7 +849,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Donquixote Rosinante",
-                "image_path": "images/Anime25thcollectionEB02/EB02-025.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -918,7 +874,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Nefeltari Vivi",
-                "image_path": "images/Anime25thcollectionEB02/EB02-026.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -943,7 +898,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Nefeltari Vivi",
-                "image_path": "images/Anime25thcollectionEB02/EB02-026_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -968,7 +922,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vista",
-                "image_path": "images/Anime25thcollectionEB02/EB02-027.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -993,7 +946,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Portgas.D.Ace",
-                "image_path": "images/Anime25thcollectionEB02/EB02-028.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1019,7 +971,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Grandpa Ryu",
-                "image_path": "images/Anime25thcollectionEB02/EB02-029.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -1045,11 +996,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "And That's When Somebody Makes Fun of Their Friend's Dream!!!!",
-                "image_path": "images/Anime25thcollectionEB02/EB02-030.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card.",
                 "power": "-",
                 "counter": "-",
@@ -1071,11 +1019,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Hope",
-                "image_path": "images/Anime25thcollectionEB02/EB02-031.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1096,7 +1041,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Iceburg",
-                "image_path": "images/Anime25thcollectionEB02/EB02-032.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1122,7 +1066,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Klabautermann",
-                "image_path": "images/Anime25thcollectionEB02/EB02-033.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1147,7 +1090,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Komei",
-                "image_path": "images/Anime25thcollectionEB02/EB02-034.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -1173,7 +1115,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sanji & Pudding",
-                "image_path": "images/Anime25thcollectionEB02/EB02-035.png",
                 "cost": "5",
                 "attribute": [
                     "Strike",
@@ -1190,7 +1131,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card.",
+                "effect": "[Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active. [On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-035.png"
             },
@@ -1200,7 +1141,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sanji & Pudding",
-                "image_path": "images/Anime25thcollectionEB02/EB02-035_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike",
@@ -1217,7 +1157,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card.",
+                "effect": "[Your Turn] [Once Per Turn] When 2 or more DON!! cards on your field are returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active. [On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, draw 1 card.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-035_p1.png"
             },
@@ -1227,7 +1167,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/Anime25thcollectionEB02/EB02-036.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1242,7 +1181,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker][On K.O.] DON!! −1: Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "effect": "[Blocker] [On K.O.] DON!! −1: Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-036.png"
             },
@@ -1252,7 +1191,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/Anime25thcollectionEB02/EB02-036_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1267,7 +1205,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker][On K.O.] DON!! −1: Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "effect": "[Blocker] [On K.O.] DON!! −1: Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-036_p1.png"
             },
@@ -1277,7 +1215,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Franky",
-                "image_path": "images/Anime25thcollectionEB02/EB02-037.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1303,7 +1240,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Magellan",
-                "image_path": "images/Anime25thcollectionEB02/EB02-038.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -1328,11 +1264,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "GERMA 66",
-                "image_path": "images/Anime25thcollectionEB02/EB02-039.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1354,11 +1287,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "BRAND NEW WORLD",
-                "image_path": "images/Anime25thcollectionEB02/EB02-040.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1379,11 +1309,8 @@
                 "type": "R",
                 "class": "STAGE",
                 "name": "Merry Go",
-                "image_path": "images/Anime25thcollectionEB02/EB02-041.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1394,7 +1321,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] If your Leader has the {Straw Hat Crew} type, draw 1 card.[Activate: Main] You may rest this Stage: If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, up to 1 of your {Straw Hat Crew} type Characters gains +2 cost until the end of your opponent's next turn.",
+                "effect": "[On Play] If your Leader has the {Straw Hat Crew} type, draw 1 card. [Activate: Main] You may rest this Stage: If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, up to 1 of your {Straw Hat Crew} type Characters gains +2 cost until the end of your opponent's next turn.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-041.png"
             },
@@ -1404,7 +1331,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "All-Hunt Grount",
-                "image_path": "images/Anime25thcollectionEB02/EB02-042.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -1429,7 +1355,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jonathan",
-                "image_path": "images/Anime25thcollectionEB02/EB02-043.png",
                 "cost": "7",
                 "attribute": [
                     "Wisdom"
@@ -1454,7 +1379,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sengoku",
-                "image_path": "images/Anime25thcollectionEB02/EB02-044.png",
                 "cost": "7",
                 "attribute": [
                     "Wisdom"
@@ -1469,7 +1393,7 @@
                     "Navy"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker][On Play] Play up to 1 black {Navy} type Character card with a cost of 4 or less from your trash rested.",
+                "effect": "[Blocker] [On Play] Play up to 1 black {Navy} type Character card with a cost of 4 or less from your trash rested.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-044.png"
             },
@@ -1479,7 +1403,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sengoku",
-                "image_path": "images/Anime25thcollectionEB02/EB02-044_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Wisdom"
@@ -1494,7 +1417,7 @@
                     "Navy"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker][On Play] Play up to 1 black {Navy} type Character card with a cost of 4 or less from your trash rested.",
+                "effect": "[Blocker] [On Play] Play up to 1 black {Navy} type Character card with a cost of 4 or less from your trash rested.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-044_p1.png"
             },
@@ -1504,7 +1427,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/Anime25thcollectionEB02/EB02-045.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1521,7 +1443,7 @@
                     "Heart Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker][On Play] You may place 2 cards from your trash at the bottom of your deck in any order: Choose one:• Draw 1 card.• If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
+                "effect": "[Blocker] [On Play] You may place 2 cards from your trash at the bottom of your deck in any order: Choose one: • Draw 1 card. • If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-045.png"
             },
@@ -1531,7 +1453,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/Anime25thcollectionEB02/EB02-045_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1548,7 +1469,7 @@
                     "Heart Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker][On Play] You may place 2 cards from your trash at the bottom of your deck in any order: Choose one:• Draw 1 card.• If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
+                "effect": "[Blocker] [On Play] You may place 2 cards from your trash at the bottom of your deck in any order: Choose one: • Draw 1 card. • If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-045_p1.png"
             },
@@ -1558,7 +1479,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Hildon",
-                "image_path": "images/Anime25thcollectionEB02/EB02-046.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -1583,7 +1503,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Blueno",
-                "image_path": "images/Anime25thcollectionEB02/EB02-047.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -1608,7 +1527,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Brook",
-                "image_path": "images/Anime25thcollectionEB02/EB02-048.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1623,7 +1541,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] Add up to 1 [Laboon] from your trash to your hand.[On K.O.] Play up to 1 [Laboon] with a cost of 4 or less from your hand.",
+                "effect": "[On Play] Add up to 1 [Laboon] from your trash to your hand. [On K.O.] Play up to 1 [Laboon] with a cost of 4 or less from your hand.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-048.png"
             },
@@ -1633,7 +1551,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Brook",
-                "image_path": "images/Anime25thcollectionEB02/EB02-048_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1648,7 +1565,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] Add up to 1 [Laboon] from your trash to your hand.[On K.O.] Play up to 1 [Laboon] with a cost of 4 or less from your hand.",
+                "effect": "[On Play] Add up to 1 [Laboon] from your trash to your hand. [On K.O.] Play up to 1 [Laboon] with a cost of 4 or less from your hand.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-048_p1.png"
             },
@@ -1658,7 +1575,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Garp",
-                "image_path": "images/Anime25thcollectionEB02/EB02-049.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -1673,7 +1589,7 @@
                     "Navy"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] Give up to 2 rested DON!! cards to 1 of your Leader.[Activate: Main] You may rest this Character: If your Leader is [Monkey.D.Garp], K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
+                "effect": "[On Play] Give up to 2 rested DON!! cards to 1 of your Leader. [Activate: Main] You may rest this Character: If your Leader is [Monkey.D.Garp], K.O. up to 1 of your opponent's Characters with a cost of 1 or less.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-049.png"
             },
@@ -1683,11 +1599,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Kokoro no Chizu",
-                "image_path": "images/Anime25thcollectionEB02/EB02-050.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1708,11 +1621,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Three-Pace Hum Soul Notch Slash",
-                "image_path": "images/Anime25thcollectionEB02/EB02-051.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1723,7 +1633,7 @@
                     "Former Rumbar Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Main] Choose one:• K.O. up to 1 of your opponent's Characters with a cost of 2 or less.• Give up to 1 of your opponent's Characters −4 cost during this turn.",
+                "effect": "[Main] Choose one: • K.O. up to 1 of your opponent's Characters with a cost of 2 or less. • Give up to 1 of your opponent's Characters −4 cost during this turn.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-051.png"
             },
@@ -1733,7 +1643,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Enel",
-                "image_path": "images/Anime25thcollectionEB02/EB02-052.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -1748,7 +1657,7 @@
                     "Sky Island"
                 ],
                 "block_icon": "3",
-                "effect": "If your Leader has the {Sky Island} type, this Character gains [Rush].[When Attacking] You may trash 1 card from your hand: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. Then, this Character gains +1000 power during this turn.",
+                "effect": "If your Leader has the {Sky Island} type, this Character gains [Rush]. [When Attacking] You may trash 1 card from your hand: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. Then, this Character gains +1000 power during this turn.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-052.png"
             },
@@ -1758,7 +1667,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Enel",
-                "image_path": "images/Anime25thcollectionEB02/EB02-052_p1.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -1773,7 +1681,7 @@
                     "Sky Island"
                 ],
                 "block_icon": "3",
-                "effect": "If your Leader has the {Sky Island} type, this Character gains [Rush].[When Attacking] You may trash 1 card from your hand: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. Then, this Character gains +1000 power during this turn.",
+                "effect": "If your Leader has the {Sky Island} type, this Character gains [Rush]. [When Attacking] You may trash 1 card from your hand: If you have 1 or less Life cards, add up to 1 card from the top of your deck to the top of your Life cards. Then, this Character gains +1000 power during this turn.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-052_p1.png"
             },
@@ -1783,7 +1691,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Myskina Olga",
-                "image_path": "images/Anime25thcollectionEB02/EB02-053.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -1808,7 +1715,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/Anime25thcollectionEB02/EB02-054.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -1824,7 +1730,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you have 2 or less Life cards, draw 2 cards and trash 1 card from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you have 2 or less Life cards, draw 2 cards and trash 1 card from your hand.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-054.png"
             },
@@ -1834,7 +1740,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/Anime25thcollectionEB02/EB02-054_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -1850,7 +1755,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you have 2 or less Life cards, draw 2 cards and trash 1 card from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you have 2 or less Life cards, draw 2 cards and trash 1 card from your hand.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-054_p1.png"
             },
@@ -1860,7 +1765,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Jinbe",
-                "image_path": "images/Anime25thcollectionEB02/EB02-055.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1886,7 +1790,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Vegapunk",
-                "image_path": "images/Anime25thcollectionEB02/EB02-056.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -1902,7 +1805,7 @@
                     "Egghead"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker][On Play] Look at 5 cards from the top of your deck; play up to 1 {Scientist} type Character card with a cost of 5 or less other than [Vegapunk]. Then, place the rest at the bottom of your deck in any order and if your opponent has 2 or less Characters, trash 1 card from your hand.",
+                "effect": "[Blocker] [On Play] Look at 5 cards from the top of your deck; play up to 1 {Scientist} type Character card with a cost of 5 or less other than [Vegapunk]. Then, place the rest at the bottom of your deck in any order and if your opponent has 2 or less Characters, trash 1 card from your hand.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-056.png"
             },
@@ -1912,7 +1815,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Vegapunk",
-                "image_path": "images/Anime25thcollectionEB02/EB02-056_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -1928,7 +1830,7 @@
                     "Egghead"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker][On Play] Look at 5 cards from the top of your deck; play up to 1 {Scientist} type Character card with a cost of 5 or less other than [Vegapunk]. Then, place the rest at the bottom of your deck in any order and if your opponent has 2 or less Characters, trash 1 card from your hand.",
+                "effect": "[Blocker] [On Play] Look at 5 cards from the top of your deck; play up to 1 {Scientist} type Character card with a cost of 5 or less other than [Vegapunk]. Then, place the rest at the bottom of your deck in any order and if your opponent has 2 or less Characters, trash 1 card from your hand.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-056_p1.png"
             },
@@ -1938,7 +1840,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Mad Treasure",
-                "image_path": "images/Anime25thcollectionEB02/EB02-057.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1963,11 +1864,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "UUUUUS!",
-                "image_path": "images/Anime25thcollectionEB02/EB02-058.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1988,11 +1886,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Without Your Help I Can't Become the King of the Pirates!!!!",
-                "image_path": "images/Anime25thcollectionEB02/EB02-059.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -2013,11 +1908,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Merry Go",
-                "image_path": "images/Anime25thcollectionEB02/EB02-060.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -2038,7 +1930,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/Anime25thcollectionEB02/EB02-061.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -2054,7 +1945,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, this Character gains [Rush].[When Attacking] [Once Per Turn] You may return 2 of your active DON!! cards to your DON!! deck: Set this Character as active. Then, add 1 card from the top of your Life cards to your hand.",
+                "effect": "If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, this Character gains [Rush]. [When Attacking] [Once Per Turn] You may return 2 of your active DON!! cards to your DON!! deck: Set this Character as active. Then, add 1 card from the top of your Life cards to your hand.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-061.png"
             },
@@ -2064,7 +1955,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/Anime25thcollectionEB02/EB02-061_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -2080,7 +1970,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, this Character gains [Rush].[When Attacking] [Once Per Turn] You may return 2 of your active DON!! cards to your DON!! deck: Set this Character as active. Then, add 1 card from the top of your Life cards to your hand.",
+                "effect": "If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, this Character gains [Rush]. [When Attacking] [Once Per Turn] You may return 2 of your active DON!! cards to your DON!! deck: Set this Character as active. Then, add 1 card from the top of your Life cards to your hand.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-061_p1.png"
             },
@@ -2090,7 +1980,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/Anime25thcollectionEB02/EB02-061_p2.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -2106,7 +1995,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, this Character gains [Rush].[When Attacking] [Once Per Turn] You may return 2 of your active DON!! cards to your DON!! deck: Set this Character as active. Then, add 1 card from the top of your Life cards to your hand.",
+                "effect": "If your Leader is multicolored and your opponent has 5 or more DON!! cards on their field, this Character gains [Rush]. [When Attacking] [Once Per Turn] You may return 2 of your active DON!! cards to your DON!! deck: Set this Character as active. Then, add 1 card from the top of your Life cards to your hand.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-061_p2.png"
             },
@@ -2116,8 +2005,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Sabo",
-                "image_path": "images/Anime25thcollectionEB02/OP05-001_p2.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -2142,8 +2030,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Belo Betty",
-                "image_path": "images/Anime25thcollectionEB02/OP05-002_p2.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -2168,8 +2055,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Donquixote Rosinante",
-                "image_path": "images/Anime25thcollectionEB02/OP05-022_p2.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -2185,7 +2071,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-022_p2.png"
             },
@@ -2195,8 +2081,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/Anime25thcollectionEB02/OP05-060_p4.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -2220,8 +2105,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Enel",
-                "image_path": "images/Anime25thcollectionEB02/OP05-098_p3.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -2245,8 +2129,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Uta",
-                "image_path": "images/Anime25thcollectionEB02/OP06-001_p2.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -2271,8 +2154,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Hody Jones",
-                "image_path": "images/Anime25thcollectionEB02/OP06-020_p2.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -2297,8 +2179,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Perona",
-                "image_path": "images/Anime25thcollectionEB02/OP06-021_p2.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -2313,7 +2194,7 @@
                     "Thriller Bark Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Activate: Main] [Once Per Turn] Choose one:• Rest up to 1 of your opponent's Characters with a cost of 4 or less.• Give up to 1 of your opponent's Characters −1 cost during this turn.",
+                "effect": "[Activate: Main] [Once Per Turn] Choose one: • Rest up to 1 of your opponent's Characters with a cost of 4 or less. • Give up to 1 of your opponent's Characters −1 cost during this turn.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-021_p2.png"
             },
@@ -2323,8 +2204,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Yamato",
-                "image_path": "images/Anime25thcollectionEB02/OP06-022_p2.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Strike"
                 ],
@@ -2339,7 +2219,7 @@
                     "Land of Wano"
                 ],
                 "block_icon": "2",
-                "effect": "[Double Attack] (This card deals 2 damage.)[Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
+                "effect": "[Double Attack] (This card deals 2 damage.) [Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-022_p2.png"
             },
@@ -2349,8 +2229,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Vinsmoke Reiju",
-                "image_path": "images/Anime25thcollectionEB02/OP06-042_p2.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -2376,8 +2255,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Gecko Moria",
-                "image_path": "images/Anime25thcollectionEB02/OP06-080_p2.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -2402,8 +2280,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Dragon",
-                "image_path": "images/Anime25thcollectionEB02/OP07-001_p2.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -2427,8 +2304,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/Anime25thcollectionEB02/OP07-019_p2.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -2453,8 +2329,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Boa Hancock",
-                "image_path": "images/Anime25thcollectionEB02/OP07-038_p2.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -2479,8 +2354,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Foxy",
-                "image_path": "images/Anime25thcollectionEB02/OP07-059_p2.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -2504,8 +2378,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Rob Lucci",
-                "image_path": "images/Anime25thcollectionEB02/OP07-079_p2.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -2529,8 +2402,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Vegapunk",
-                "image_path": "images/Anime25thcollectionEB02/OP07-097_p2.png",
-                "cost": "Life2",
+                "cost": "2",
                 "attribute": [
                     "Wisdom"
                 ],
@@ -2545,7 +2417,7 @@
                     "Egghead"
                 ],
                 "block_icon": "2",
-                "effect": "This Leader cannot attack.[Activate: Main] [Once Per Turn] ① (You may rest the specified number of DON!! cards in your cost area.): Select up to 1 {Egghead} type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
+                "effect": "This Leader cannot attack. [Activate: Main] [Once Per Turn] ① (You may rest the specified number of DON!! cards in your cost area.): Select up to 1 {Egghead} type card with a cost of 5 or less from your hand and play it or add it to the top of your Life cards face-up.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-097_p2.png"
             },
@@ -2555,8 +2427,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/Anime25thcollectionEB02/OP08-001_p2.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Strike"
                 ],
@@ -2583,8 +2454,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Marco",
-                "image_path": "images/Anime25thcollectionEB02/OP08-002_p2.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -2609,8 +2479,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Carrot",
-                "image_path": "images/Anime25thcollectionEB02/OP08-021_p2.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -2634,8 +2503,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "King",
-                "image_path": "images/Anime25thcollectionEB02/OP08-057_p2.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -2650,7 +2518,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one:• If you have 5 or less cards in your hand, draw 1 card.• Give up to 1 of your opponent's Characters −2 cost during this turn.",
+                "effect": "[Activate: Main] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Choose one: • If you have 5 or less cards in your hand, draw 1 card. • Give up to 1 of your opponent's Characters −2 cost during this turn.",
                 "card_set": "-Anime 25th collection- [EB-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP08-057_p2.png"
             },
@@ -2660,8 +2528,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Charlotte Pudding",
-                "image_path": "images/Anime25thcollectionEB02/OP08-058_p2.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Wisdom"
                 ],
@@ -2686,8 +2553,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Kalgara",
-                "image_path": "images/Anime25thcollectionEB02/OP08-098_p2.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Slash"
                 ],

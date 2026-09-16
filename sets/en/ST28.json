@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556028
+        "set": 556028,
+        "language": "en"
     },
     "data": {
         "code": "ST28",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Yamato",
-                "image_path": "images/GreenYellowYamatoST28/OP06-022_p3.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Strike"
                 ],
@@ -29,7 +29,7 @@
                     "Land of Wano"
                 ],
                 "block_icon": "2",
-                "effect": "[Double Attack] (This card deals 2 damage.)[Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
+                "effect": "[Double Attack] (This card deals 2 damage.) [Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
                 "card_set": "-Green/Yellow Yamato- [ST-28]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-022_p3.png"
             },
@@ -39,7 +39,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Inuarashi",
-                "image_path": "images/GreenYellowYamatoST28/OP06-100_r2.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -66,7 +65,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kawamatsu",
-                "image_path": "images/GreenYellowYamatoST28/OP06-103_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -93,7 +91,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kikunojo",
-                "image_path": "images/GreenYellowYamatoST28/OP06-104_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -119,7 +116,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Denjiro",
-                "image_path": "images/GreenYellowYamatoST28/OP06-109_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -145,7 +141,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nekomamushi",
-                "image_path": "images/GreenYellowYamatoST28/OP06-110_r2.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -172,7 +167,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Raizo",
-                "image_path": "images/GreenYellowYamatoST28/OP06-112_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -198,11 +192,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Blaze Slice",
-                "image_path": "images/GreenYellowYamatoST28/OP07-116_p1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -224,7 +215,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Portgas.D.Ace",
-                "image_path": "images/GreenYellowYamatoST28/OP09-035_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -250,7 +240,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Yamato",
-                "image_path": "images/GreenYellowYamatoST28/ST13-016_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -265,7 +254,7 @@
                     "Land of Wano"
                 ],
                 "block_icon": "2",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[On Play] Look at all your Life cards; place 1 at the top of your deck and place the rest back in your Life area in any order.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [On Play] Look at all your Life cards; place 1 at the top of your deck and place the rest back in your Life area in any order.",
                 "card_set": "-Green/Yellow Yamato- [ST-28]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST13-016_r1.png"
             },
@@ -275,7 +264,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Ashura Doji",
-                "image_path": "images/GreenYellowYamatoST28/ST28-001.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -301,7 +289,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Izo",
-                "image_path": "images/GreenYellowYamatoST28/ST28-002.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -317,7 +304,7 @@
                     "Former Whitebeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[DON!! x2] This Character gains [Blocker].[On Play] Your {Land of Wano} type Leader gains [Banish] during this turn.",
+                "effect": "[DON!! x2] This Character gains [Blocker]. [On Play] Your {Land of Wano} type Leader gains [Banish] during this turn.",
                 "card_set": "-Green/Yellow Yamato- [ST-28]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST28-002.png"
             },
@@ -327,7 +314,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kin'emon",
-                "image_path": "images/GreenYellowYamatoST28/ST28-003.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -353,7 +339,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kouzuki Momonosuke",
-                "image_path": "images/GreenYellowYamatoST28/ST28-004.png",
                 "cost": "6",
                 "attribute": [
                     "Slash"
@@ -369,7 +354,7 @@
                     "Kouzuki Clan"
                 ],
                 "block_icon": "3",
-                "effect": "[Your Turn] If you have 2 or less Life cards, your Leader gains +1000 power.[Activate: Main] [Once Per Turn] You may return 2 total of your currently given DON!! cards to your cost area rested: This Character gains [Rush] and +1000 power during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[Your Turn] If you have 2 or less Life cards, your Leader gains +1000 power. [Activate: Main] [Once Per Turn] You may return 2 total of your currently given DON!! cards to your cost area rested: This Character gains [Rush] and +1000 power during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Green/Yellow Yamato- [ST-28]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST28-004.png"
             },
@@ -379,7 +364,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Yamato",
-                "image_path": "images/GreenYellowYamatoST28/ST28-005.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -394,7 +378,7 @@
                     "Land of Wano"
                 ],
                 "block_icon": "3",
-                "effect": "[DON!! x2] [Your Turn] This Character gains +3000 power.[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "effect": "[DON!! x2] [Your Turn] This Character gains +3000 power. [On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Land of Wano} type card with a cost of 2 or more and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
                 "card_set": "-Green/Yellow Yamato- [ST-28]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST28-005.png"
             }

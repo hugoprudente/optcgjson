@@ -1,0 +1,2578 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563202,
+        "language": "th"
+    },
+    "data": {
+        "code": "EB02",
+        "cards": [
+            {
+                "id": "EB01-001_p2",
+                "number": "EB01-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kouzuki Oden",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "เขียว"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "ตระกูลโคสึกิ"
+                ],
+                "block_icon": "2",
+                "effect": "เพิ่มกฎให้คาแรกเตอร์การ์ดของฝ่ายเรา ทั้งหมด ที่มีคุณสมบัติ < วาโนะคุนิ > แต่ไม่มีเคาน์เตอร์, จะมีเคาน์เตอร์ +1000. [ด้ง!! x 1] [เมื่อโจมตี] ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 5 หรือสูงกว่า และมีคุณสมบัติ < วาโนะคุนิ > อยู่ละก็, ลีดเดอร์นี้ จะมีพาวเวอร์ +1000, จนถึงช่วงเริ่มต้นเทิร์นถัดไปของเรา.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-001_p2.png"
+            },
+            {
+                "id": "EB01-021_p2",
+                "number": "EB01-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Hannyabal",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อจบเทิร์นของเรา] สามารถนำ คาแรกเตอร์ของเรา ที่มีคอสต์ 2 หรือสูงกว่า และมีคุณสมบัติ < อิมเพลดาวน์ > จำนวน 1 ใบ กลับขึ้นมือของเจ้าของ : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-021_p2.png"
+            },
+            {
+                "id": "EB01-040_p2",
+                "number": "EB01-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kyros",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถหงาย ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 0, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-040_p2.png"
+            },
+            {
+                "id": "EB02-001",
+                "number": "EB02-001",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Karoo",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-001.png"
+            },
+            {
+                "id": "EB02-002",
+                "number": "EB02-002",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Sabo",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ในเทิร์นนี้, คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กองทัพปฏิวัติ > นอกเหนือจาก [Sabo] จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-002.png"
+            },
+            {
+                "id": "EB02-003",
+                "number": "EB02-003",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "ราชอาณาจักรดรัม",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 2] [ในเทิร์นของคู่แข่ง] คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000. [เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มหมวกฟาง > ละก็, จะนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-003.png"
+            },
+            {
+                "id": "EB02-003_p1",
+                "number": "EB02-003",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "ราชอาณาจักรดรัม",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 2] [ในเทิร์นของคู่แข่ง] คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000. [เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มหมวกฟาง > ละก็, จะนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-003_p1.png"
+            },
+            {
+                "id": "EB02-004",
+                "number": "EB02-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Don Accino",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "อัคชิโน่แฟมิลี่"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-004.png"
+            },
+            {
+                "id": "EB02-005",
+                "number": "EB02-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Fake Straw Hat Crew",
+                "cost": "2",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟางตัวปลอม"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นตัวเอง] คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000. [ในเทิร์นของคู่แข่ง] คาแรกเตอร์นี้ จะมีพาวเวอร์ -2000.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-005.png"
+            },
+            {
+                "id": "EB02-006",
+                "number": "EB02-006",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Yamato",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < วาโนะคุนิ >, หรือว่า คือ [Portgas.D.Ace] ละก็, นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ของเรา, จำนวน 1 ใบ. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-006.png"
+            },
+            {
+                "id": "EB02-006_p1",
+                "number": "EB02-006",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Yamato",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < วาโนะคุนิ >, หรือว่า คือ [Portgas.D.Ace] ละก็, นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ของเรา, จำนวน 1 ใบ. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-006_p1.png"
+            },
+            {
+                "id": "EB02-007",
+                "number": "EB02-007",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Cloven Rose Blizzard",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 4000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "W7",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ในเทิร์นนี้, ลีดเดอร์ กับ คาแรกเตอร์ ของเรา รวมกันจำนวนไม่เกิน 3 ใบ, จะมีพาวเวอร์ +1000. จากนั้น, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 3000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-007.png"
+            },
+            {
+                "id": "EB02-008",
+                "number": "EB02-008",
+                "type": "R",
+                "class": "EVENT",
+                "name": "The Peak",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ดนตรี"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคอสต์ 4 หรือสูงกว่า จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-008.png"
+            },
+            {
+                "id": "EB02-009",
+                "number": "EB02-009",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Thousand Sunny",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ สเตจนี้ : นำ ด้ง!! ของเรา ที่ใส่ให้กับการ์ดใบอื่นอยู่ จำนวนไม่เกิน 1 ใบ, มาใส่ให้กับ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-009.png"
+            },
+            {
+                "id": "EB02-010",
+                "number": "EB02-010",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าคาแรกเตอร์ที่อยู่บนสนามของเรา มีแต่คุณสมบัติ < กลุ่มหมวกฟาง > เท่านั้นละก็, ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 2 ใบ, เปลี่ยนเป็น แอ็คทีฟ. จากนั้น, ลีดเดอร์นี้ จะมีพาวเวอร์ +1000, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-010.png"
+            },
+            {
+                "id": "EB02-010_p1",
+                "number": "EB02-010",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าคาแรกเตอร์ที่อยู่บนสนามของเรา มีแต่คุณสมบัติ < กลุ่มหมวกฟาง > เท่านั้นละก็, ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 2 ใบ, เปลี่ยนเป็น แอ็คทีฟ. จากนั้น, ลีดเดอร์นี้ จะมีพาวเวอร์ +1000, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-010_p1.png"
+            },
+            {
+                "id": "EB02-011",
+                "number": "EB02-011",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Arlong",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดอาร์ลอง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < อีสต์บลู > ละก็, จะนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ของเรา, จำนวน 1 ใบ. จากนั้น, คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะไม่สามารถ เรสต์, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-011.png"
+            },
+            {
+                "id": "EB02-011_p1",
+                "number": "EB02-011",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Arlong",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดอาร์ลอง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < อีสต์บลู > ละก็, จะนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ของเรา, จำนวน 1 ใบ. จากนั้น, คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะไม่สามารถ เรสต์, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-011_p1.png"
+            },
+            {
+                "id": "EB02-012",
+                "number": "EB02-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gaimon",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าเรามี [Sarfunkel] อยู่ด้วยละก็, คาแรกเตอร์นี้ จะได้รับ [บล็อกเกอร์]. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-012.png"
+            },
+            {
+                "id": "EB02-013",
+                "number": "EB02-013",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Carrot",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามิงค์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าในสนามของเรามี ด้ง!! อยู่จำนวน 3 ใบ หรือมากกว่าละก็, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 7 ใบ, และนำ [Zou] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, แล้วนำ [Zou] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-013.png"
+            },
+            {
+                "id": "EB02-014",
+                "number": "EB02-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sarfunkel",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำ [Gaimon] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-014.png"
+            },
+            {
+                "id": "EB02-015",
+                "number": "EB02-015",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Jewelry Bonney",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดบอนนี่"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ทำให้ คาแรกเตอร์ของคู่แข่ง ที่กำลังเรสต์อยู่ จำนวนไม่เกิน 1 ใบ, จะไม่ถูกเปลี่ยนเป็น แอ็คทีฟ ในช่วงรีเฟรชเฟสของคู่แข่งในครั้งถัดไป. จากนั้น, เมื่อจบเทิร์นนี้, ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-015.png"
+            },
+            {
+                "id": "EB02-015_p1",
+                "number": "EB02-015",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Jewelry Bonney",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดบอนนี่"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ทำให้ คาแรกเตอร์ของคู่แข่ง ที่กำลังเรสต์อยู่ จำนวนไม่เกิน 1 ใบ, จะไม่ถูกเปลี่ยนเป็น แอ็คทีฟ ในช่วงรีเฟรชเฟสของคู่แข่งในครั้งถัดไป. จากนั้น, เมื่อจบเทิร์นนี้, ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-015_p1.png"
+            },
+            {
+                "id": "EB02-016",
+                "number": "EB02-016",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Chopperman",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "การ์ดใบนี้, จะนับว่ามีชื่อการ์ดเป็น [Tony Tony.Chopper] ด้วยตามกฎ. [เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 3 หรือต่ำกว่า และมีคุณสมบัติ < สัตว์ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-016.png"
+            },
+            {
+                "id": "EB02-017",
+                "number": "EB02-017",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > นอกเหนือจาก [Nami] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-017.png"
+            },
+            {
+                "id": "EB02-017_p1",
+                "number": "EB02-017",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > นอกเหนือจาก [Nami] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-017_p1.png"
+            },
+            {
+                "id": "EB02-018",
+                "number": "EB02-018",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดบากี้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเราไม่มีคาแรกเตอร์ [Buggy] ใบอื่น อยู่ละก็, ในเทิร์นนี้, ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะได้รับ [ดับเบิ้ลแอทแทค]. (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย)",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-018.png"
+            },
+            {
+                "id": "EB02-019",
+                "number": "EB02-019",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าคู่แข่งมีคาแรกเตอร์อยู่ จำนวน 2 ใบ หรือมากกว่า ละก็, คาแรกเตอร์นี้จะสามารถโจมตีใส่ คาแรกเตอร์ ในเทิร์นที่เพิ่งลงสนามได้. [เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มหมวกฟาง > ละก็, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-019.png"
+            },
+            {
+                "id": "EB02-020",
+                "number": "EB02-020",
+                "type": "R",
+                "class": "EVENT",
+                "name": "We Are!",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ดนตรี"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคอสต์ 4 หรือสูงกว่า จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-020.png"
+            },
+            {
+                "id": "EB02-021",
+                "number": "EB02-021",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Giant Pistol",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "W7",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ในเทิร์นนี้, คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +6000. จากนั้น, คาแรกเตอร์ที่เลือก, จะไม่ถูกเปลี่ยนเป็น แอ็คทีฟ ในช่วงรีเฟรชเฟสของเราในครั้งถัดไป.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-021.png"
+            },
+            {
+                "id": "EB02-022",
+                "number": "EB02-022",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่มีพาวเวอร์ 5000 หรือสูงกว่า อยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จะสามารถนำคาแรกเตอร์การ์ด ที่มีพาวเวอร์ 6000 หรือต่ำกว่า ซึ่งแต่เดิมไม่มีความสามารถ จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-022.png"
+            },
+            {
+                "id": "EB02-022_p1",
+                "number": "EB02-022",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่มีพาวเวอร์ 5000 หรือสูงกว่า อยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จะสามารถนำคาแรกเตอร์การ์ด ที่มีพาวเวอร์ 6000 หรือต่ำกว่า ซึ่งแต่เดิมไม่มีความสามารถ จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-022_p1.png"
+            },
+            {
+                "id": "EB02-023",
+                "number": "EB02-023",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Crocodile",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] ถ้ามีคาแรกเตอร์ของคู่แข่ง ถูกนำกลับขึ้นมือของเจ้าของ จากความสามารถของฝ่ายเรา, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำมาเรียงในลำดับใดก็ได้, แล้วจึงค่อยนำการ์ดเหล่านั้น ไปวางที่ข้างบน หรือ ข้างใต้เด็ค.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-023.png"
+            },
+            {
+                "id": "EB02-024",
+                "number": "EB02-024",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sogeking",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เกาะแห่งการซุ่มยิง"
+                ],
+                "block_icon": "3",
+                "effect": "การ์ดใบนี้, จะนับว่ามีชื่อการ์ดเป็น [Usopp] ด้วยตามกฎ. [เมื่อลงสนาม] จั่วการ์ด จำนวน 2 ใบ, แล้วนำการ์ดบนมือของเรา จำนวน 2 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค. จากนั้น, จะนำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 1 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-024.png"
+            },
+            {
+                "id": "EB02-025",
+                "number": "EB02-025",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Donquixote Rosinante",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ กับ คาแรกเตอร์นี้ : ถ้าลีดเดอร์ของเราคือ [Donquixote Rosinante] ละก็, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, แล้วหาคาแรกเตอร์การ์ด ที่มีคอสต์ 2 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, นำลงสนามแบบ เรสต์. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-025.png"
+            },
+            {
+                "id": "EB02-026",
+                "number": "EB02-026",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nefeltari Vivi",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีหลายธีมสี, และเรามีการ์ดบนมืออยู่ จำนวน 5 ใบ หรือน้อยกว่าละก็, จั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-026.png"
+            },
+            {
+                "id": "EB02-026_p1",
+                "number": "EB02-026",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nefeltari Vivi",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีหลายธีมสี, และเรามีการ์ดบนมืออยู่ จำนวน 5 ใบ หรือน้อยกว่าละก็, จั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-026_p1.png"
+            },
+            {
+                "id": "EB02-027",
+                "number": "EB02-027",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Vista",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 1000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-027.png"
+            },
+            {
+                "id": "EB02-028",
+                "number": "EB02-028",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Portgas.D.Ace",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า",
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา ระบุคำว่า [กลุ่มโจรสลัดหนวดขาว] รวมอยู่ในคุณสมบัติละก็, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำคาแรกเตอร์ การ์ด ที่มีคอสต์ 2 จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, แล้วนำคาแรกเตอร์การ์ด ที่มีคอสต์ 2 จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนามแบบ เรสต์.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-028.png"
+            },
+            {
+                "id": "EB02-029",
+                "number": "EB02-029",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Grandpa Ryu",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "อีสต์บลู"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-029.png"
+            },
+            {
+                "id": "EB02-030",
+                "number": "EB02-030",
+                "type": "C",
+                "class": "EVENT",
+                "name": "And That's When Somebody Makes Fun of Their Friend's Dream!!!!",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ในเทิร์นนี้, ถ้าคาแรกเตอร์ของฝ่ายเรา กำลังจะถูก KO จากการแบทเทิล, จะสามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ แทนได้.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-030.png"
+            },
+            {
+                "id": "EB02-031",
+                "number": "EB02-031",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Hope",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ดนตรี"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคอสต์ 4 หรือสูงกว่า จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-031.png"
+            },
+            {
+                "id": "EB02-032",
+                "number": "EB02-032",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Iceburg",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าในสนามของเรามี ด้ง!! อยู่จำนวน 3 ใบ หรือมากกว่าละก็, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 7 ใบ, และนำ [Galley-La Company] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, แล้วนำ [Galley-La Company] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-032.png"
+            },
+            {
+                "id": "EB02-033",
+                "number": "EB02-033",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Klabautermann",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เทพดา"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าในสนามของเรามี [Going Merry] อยู่ด้วยละก็, คาแรกเตอร์นี้ จะได้รับ [บล็อกเกอร์]. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-033.png"
+            },
+            {
+                "id": "EB02-034",
+                "number": "EB02-034",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Komei",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดฟ็อกซี่"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-034.png"
+            },
+            {
+                "id": "EB02-035",
+                "number": "EB02-035",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sanji & Pudding",
+                "cost": "5",
+                "attribute": [
+                    "ตี",
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อมี ด้ง!! ในสนามของเรา จำนวน 2 ใบ หรือมากกว่า ถูกนำกลับด้ง!! เด็ค, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ. [เมื่อลงสนาม] ถ้า ด้ง!! ที่อยู่บนสนามของเรา มีจำนวนไม่มากไปกว่า ด้ง!! ที่อยู่บนสนามของคู่แข่งละก็, จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-035.png"
+            },
+            {
+                "id": "EB02-035_p1",
+                "number": "EB02-035",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sanji & Pudding",
+                "cost": "5",
+                "attribute": [
+                    "ตี",
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อมี ด้ง!! ในสนามของเรา จำนวน 2 ใบ หรือมากกว่า ถูกนำกลับด้ง!! เด็ค, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ. [เมื่อลงสนาม] ถ้า ด้ง!! ที่อยู่บนสนามของเรา มีจำนวนไม่มากไปกว่า ด้ง!! ที่อยู่บนสนามของคู่แข่งละก็, จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-035_p1.png"
+            },
+            {
+                "id": "EB02-036",
+                "number": "EB02-036",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-036.png"
+            },
+            {
+                "id": "EB02-036_p1",
+                "number": "EB02-036",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-036_p1.png"
+            },
+            {
+                "id": "EB02-037",
+                "number": "EB02-037",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มหมวกฟาง >, และ ด้ง!! ที่อยู่บนสนามของเรา มีจำนวนไม่มากไปกว่า ด้ง!! ที่อยู่บนสนามของคู่แข่งละก็, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-037.png"
+            },
+            {
+                "id": "EB02-038",
+                "number": "EB02-038",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Magellan",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 2 หรือต่ำกว่า และมีคุณสมบัติ < อิมเพลดาวน์  > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-038.png"
+            },
+            {
+                "id": "EB02-039",
+                "number": "EB02-039",
+                "type": "C",
+                "class": "EVENT",
+                "name": "GERMA 66",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค",
+                    "เจอร์ม่า 66"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] สามารถทิ้ง คาแรกเตอร์การ์ด ที่มีพาวเวอร์ 4000 หรือต่ำกว่า และมีคุณสมบัติ < เจอร์ม่า 66 > จากบนมือของเรา จำนวน 1 ใบ : ถ้า ด้ง!! ที่อยู่บนสนามของเรา มีจำนวนไม่มากไปกว่า ด้ง!! ที่อยู่บนสนามของคู่แข่งละก็, นำคาแรกเตอร์การ์ด ที่มีพาวเวอร์ตั้งแต่ 5000 ไปจนถึง 7000 ซึ่งมีชื่อการ์ดเหมือนกับ การ์ดที่ถูกทิ้งไป จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-039.png"
+            },
+            {
+                "id": "EB02-040",
+                "number": "EB02-040",
+                "type": "R",
+                "class": "EVENT",
+                "name": "BRAND NEW WORLD",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "ดนตรี"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคอสต์ 4 หรือสูงกว่า จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-040.png"
+            },
+            {
+                "id": "EB02-041",
+                "number": "EB02-041",
+                "type": "R",
+                "class": "STAGE",
+                "name": "Merry Go",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มหมวกฟาง > ละก็, จั่วการ์ด จำนวน 1 ใบ. [ใช้งาน : เมน] สามารถ เรสต์ สเตจนี้ : ถ้า ด้ง!! ที่อยู่บนสนามของเรา มีจำนวนไม่มากไปกว่า ด้ง!! ที่อยู่บนสนามของคู่แข่งละก็, คาแรกเตอร์ของเรา ที่มีคุณสมบyติ < กลุ่มหมวกฟาง > จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ +2, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-041.png"
+            },
+            {
+                "id": "EB02-042",
+                "number": "EB02-042",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "All-Hunt Grount",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-042.png"
+            },
+            {
+                "id": "EB02-043",
+                "number": "EB02-043",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jonathan",
+                "cost": "7",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-043.png"
+            },
+            {
+                "id": "EB02-044",
+                "number": "EB02-044",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sengoku",
+                "cost": "7",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ธีมสีดำ ที่มีคอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กองทัพเรือ > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนามแบบ เรสต์.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-044.png"
+            },
+            {
+                "id": "EB02-044_p1",
+                "number": "EB02-044",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sengoku",
+                "cost": "7",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ธีมสีดำ ที่มีคอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กองทัพเรือ > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนามแบบ เรสต์.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-044_p1.png"
+            },
+            {
+                "id": "EB02-045",
+                "number": "EB02-045",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] สามารถนำการ์ด จากในแทรชของเรา จำนวน 2 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็คของเรา : เลือก 1 อย่าง จากดังต่อไปนี้. • จั่วการ์ด จำนวน 1 ใบ. • ถ้าคู่แข่งมีการ์ดบนมืออยู่ จำนวน 5 ใบ หรือมากกว่าละก็, คู่แข่งจะต้องทิ้งการ์ดในมือของตัวเอง จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-045.png"
+            },
+            {
+                "id": "EB02-045_p1",
+                "number": "EB02-045",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] สามารถนำการ์ด จากในแทรชของเรา จำนวน 2 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็คของเรา : เลือก 1 อย่าง จากดังต่อไปนี้. • จั่วการ์ด จำนวน 1 ใบ. • ถ้าคู่แข่งมีการ์ดบนมืออยู่ จำนวน 5 ใบ หรือมากกว่าละก็, คู่แข่งจะต้องทิ้งการ์ดในมือของตัวเอง จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-045_p1.png"
+            },
+            {
+                "id": "EB02-046",
+                "number": "EB02-046",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Hildon",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -1.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-046.png"
+            },
+            {
+                "id": "EB02-047",
+                "number": "EB02-047",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Blueno",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ, และนำคาแรกเตอร์นี้ ไปวางที่แทรช : นำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ นอกเหนือจาก [Blueno] จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-047.png"
+            },
+            {
+                "id": "EB02-048",
+                "number": "EB02-048",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำ [Laboon] จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, เพิ่มขึ้นสู่บนมือ. [เมื่อถูก KO] นำ [Laboon] ที่มีคอสต์ 4 หรือต่ำกว่า จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-048.png"
+            },
+            {
+                "id": "EB02-048_p1",
+                "number": "EB02-048",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำ [Laboon] จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, เพิ่มขึ้นสู่บนมือ. [เมื่อถูก KO] นำ [Laboon] ที่มีคอสต์ 4 หรือต่ำกว่า จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-048_p1.png"
+            },
+            {
+                "id": "EB02-049",
+                "number": "EB02-049",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Garp",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 2 ใบ มาใส่ให้กับ ลีดเดอร์ของเรา, จำนวน 1 ใบ. [ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ถ้าลีดเดอร์ของเรา คือ [Monkey.D.Garp] ละก็, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-049.png"
+            },
+            {
+                "id": "EB02-050",
+                "number": "EB02-050",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Kokoro no Chizu",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "ดนตรี"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคอสต์ 4 หรือสูงกว่า จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-050.png"
+            },
+            {
+                "id": "EB02-051",
+                "number": "EB02-051",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Three-Pace Hum Soul Notch Slash",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "อดีตกลุ่มโจรสลัดรุมบ้า"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] เลือก 1 อย่าง จากดังต่อไปนี้. • ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. • ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -4.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-051.png"
+            },
+            {
+                "id": "EB02-052",
+                "number": "EB02-052",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Enel",
+                "cost": "10",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "11000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เกาะแห่งท้องฟ้า"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < เกาะแห่งท้องฟ้า > ละก็, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อโจมตี] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ถ้าเรามีไลฟ์อยู่ จำนวน 1 ใบ หรือน้อยกว่าละก็, นำการ์ดใบบนสุดจากเด็คของเรา จำนวน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์นี้ จะมีพาวเวอร์ +1000.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-052.png"
+            },
+            {
+                "id": "EB02-052_p1",
+                "number": "EB02-052",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Enel",
+                "cost": "10",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "11000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เกาะแห่งท้องฟ้า"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < เกาะแห่งท้องฟ้า > ละก็, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อโจมตี] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ถ้าเรามีไลฟ์อยู่ จำนวน 1 ใบ หรือน้อยกว่าละก็, นำการ์ดใบบนสุดจากเด็คของเรา จำนวน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์นี้ จะมีพาวเวอร์ +1000.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-052_p1.png"
+            },
+            {
+                "id": "EB02-053",
+                "number": "EB02-053",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Myskina Olga",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "อัลเคมี"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] / [เมื่อถูก KO] ดูการ์ดใบบนสุดจาก ไลฟ์ของเรา หรือว่า ไลฟ์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, และนำไปวางที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์ของเจ้าของเดิม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-053.png"
+            },
+            {
+                "id": "EB02-054",
+                "number": "EB02-054",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้าเรามีไลฟ์อยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จะต้องจั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-054.png"
+            },
+            {
+                "id": "EB02-054_p1",
+                "number": "EB02-054",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้าเรามีไลฟ์อยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จะต้องจั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-054_p1.png"
+            },
+            {
+                "id": "EB02-055",
+                "number": "EB02-055",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก >, และเรามีไลฟ์อยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, นำการ์ดใบนี้ ลงสนาม.",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-055.png"
+            },
+            {
+                "id": "EB02-056",
+                "number": "EB02-056",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Vegapunk",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "นักวิทยาศาสตร์",
+                    "เอ็กเฮด"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, แล้วหาคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < นักวิทยาศาสตร์ > นอกเหนือจาก [Vegapunk] จำนวนไม่เกิน 1 ใบ, นำลงสนาม. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, และถ้าคู่แข่งมีคาแรกเตอร์อยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จะต้องทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-056.png"
+            },
+            {
+                "id": "EB02-056_p1",
+                "number": "EB02-056",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Vegapunk",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "นักวิทยาศาสตร์",
+                    "เอ็กเฮด"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, แล้วหาคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < นักวิทยาศาสตร์ > นอกเหนือจาก [Vegapunk] จำนวนไม่เกิน 1 ใบ, นำลงสนาม. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, และถ้าคู่แข่งมีคาแรกเตอร์อยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จะต้องทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-056_p1.png"
+            },
+            {
+                "id": "EB02-057",
+                "number": "EB02-057",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mad Treasure",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดเทรเชอร์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] สามารถนำ ไลฟ์ ใบบนสุด หรือ ใบล่างสุด ของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์ของคู่แข่ง แบบหงายหน้า.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-057.png"
+            },
+            {
+                "id": "EB02-058",
+                "number": "EB02-058",
+                "type": "R",
+                "class": "EVENT",
+                "name": "UUUUUS!",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ดนตรี"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคอสต์ 4 หรือสูงกว่า จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-058.png"
+            },
+            {
+                "id": "EB02-059",
+                "number": "EB02-059",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Without Your Help I Can't Become the King of the Pirates!!!!",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ, จะมีพาวเวอร์ +1000. จากนั้น, ถ้าเรามีไลฟ์อยู่ จำนวน 1 ใบ หรือน้อยกว่าละก็, นำคาแรกเตอร์การ์ด ธีมสีเหลือง ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มหมวกฟาง > หรือ [Sanji] ที่มีคอสต์ 5 หรือต่ำกว่า จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-059.png"
+            },
+            {
+                "id": "EB02-060",
+                "number": "EB02-060",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Merry Go",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ สเตจนี้, และหงาย ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : คาแรกเตอร์ของเรา ที่มีคุณสมับติ < กลุ่มหมวกฟาง > จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-060.png"
+            },
+            {
+                "id": "EB02-061",
+                "number": "EB02-061",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าลีดเดอร์ของเรา มีหลายธีมสี, และในสนามของคู่แข่งมี ด้ง!! อยู่จำนวน 5 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อโจมตี] [เทิร์นละ 1 ครั้ง] สามารถนำ ด้ง!! ของเรา ที่กำลังแอ็คทีฟอยู่ จำนวน 2 ใบ กลับด้ง!! เด็ค : ทำการ แอ็คทีฟ คาแรกเตอร์นี้. จากนั้น, นำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-061.png"
+            },
+            {
+                "id": "EB02-061_p1",
+                "number": "EB02-061",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าลีดเดอร์ของเรา มีหลายธีมสี, และในสนามของคู่แข่งมี ด้ง!! อยู่จำนวน 5 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อโจมตี] [เทิร์นละ 1 ครั้ง] สามารถนำ ด้ง!! ของเรา ที่กำลังแอ็คทีฟอยู่ จำนวน 2 ใบ กลับด้ง!! เด็ค : ทำการ แอ็คทีฟ คาแรกเตอร์นี้. จากนั้น, นำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-061_p1.png"
+            },
+            {
+                "id": "EB02-061_p2",
+                "number": "EB02-061",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าลีดเดอร์ของเรา มีหลายธีมสี, และในสนามของคู่แข่งมี ด้ง!! อยู่จำนวน 5 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อโจมตี] [เทิร์นละ 1 ครั้ง] สามารถนำ ด้ง!! ของเรา ที่กำลังแอ็คทีฟอยู่ จำนวน 2 ใบ กลับด้ง!! เด็ค : ทำการ แอ็คทีฟ คาแรกเตอร์นี้. จากนั้น, นำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB02-061_p2.png"
+            },
+            {
+                "id": "OP05-001_p2",
+                "number": "OP05-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Sabo",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "2",
+                "effect": "[ด้ง!! x 1] [ในเทิร์นของคู่แข่ง] [เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์ของเรา ที่มีพาวเวอร์ 5000 หรือมากกว่า กำลังจะถูก KO, จะสามารถทำให้จากที่คาแรกเตอร์ดังกล่าวจะถูก KO จะเปลี่ยนเป็น, ในเทิร์นนี้, จะมีพาวเวอร์ -1000 แทนได้.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP05-001_p2.png"
+            },
+            {
+                "id": "OP05-002_p2",
+                "number": "OP05-002",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Belo Betty",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งานเมน] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ด ที่มีคุณสมบัติ < กองทัพปฏิวัติ > จากบนมือของเรา จำนวน 1 ใบ : ในเทิร์นนี้, คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กองทัพปฏิวัติ > หรือ คาแรกเตอร์ของเรา ที่มี [ทริกเกอร์] จำนวนไม่เกิน 3 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP05-002_p2.png"
+            },
+            {
+                "id": "OP05-022_p2",
+                "number": "OP05-022",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Donquixote Rosinante",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว",
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อจบเทิร์นของเรา] ถ้าเรามีการ์ดบนมือ จำนวน 6 ใบ หรือน้อยกว่า, จะทำการ แอ็คทีฟ ลีดเดอร์นี้.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP05-022_p2.png"
+            },
+            {
+                "id": "OP05-060_p4",
+                "number": "OP05-060",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถนำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : ถ้าในสนามของเรามี ด้ง!! อยู่จำนวน 0 ใบ, หรือว่า มีอยู่จำนวน 3 ใบ หรือมากกว่า, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP05-060_p4.png"
+            },
+            {
+                "id": "OP05-098_p3",
+                "number": "OP05-098",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Enel",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เกาะแห่งท้องฟ้า"
+                ],
+                "block_icon": "2",
+                "effect": "[ในเทิร์นของคู่แข่ง] [เทิร์นละ 1 ครั้ง] เมื่อไลฟ์ของเรา กลายเป็น จำนวน 0 ใบ, จะนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 1 ใบ ไปวางเพิ่มที่บนสุดของไลฟ์. จากนั้น, จะต้องทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP05-098_p3.png"
+            },
+            {
+                "id": "OP06-001_p2",
+                "number": "OP06-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Uta",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อโจมตี] สามารถทิ้งการ์ด ที่มีคุณสมบัติ < FILM > จากบนมือของเรา จำนวน 1 ใบ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -2000. จากนั้น, นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP06-001_p2.png"
+            },
+            {
+                "id": "OP06-020_p2",
+                "number": "OP06-020",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Hody Jones",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มโจรสลัดมนุษย์เงือกใหม่"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งานเมน] สามารถ เรสต์ ลีดเดอร์นี้ : ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า หรือว่า ด้ง!! ของคู่แข่ง, จำนวนไม่เกิน 1 ใบ. จากนั้น, ในเทิร์นนี้, เราจะนำ ไลฟ์ ขึ้นสู่บนมือด้วยความสามารถของฝ่ายตัวเองไม่ได้อีก.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP06-020_p2.png"
+            },
+            {
+                "id": "OP06-021_p2",
+                "number": "OP06-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Perona",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว",
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] เลือก 1 อย่าง จากดังต่อไปนี้. • ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. • ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -1.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP06-021_p2.png"
+            },
+            {
+                "id": "OP06-022_p2",
+                "number": "OP06-022",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Yamato",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "2",
+                "effect": "[ดับเบิ้ลแอทแทค] (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย) [ใช้งานเมน] [เทิร์นละ 1 ครั้ง] ถ้าคู่แข่งมี ไลฟ์ จำนวน 3 ใบ หรือต่ำกว่า, นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 2 ใบ ไปใส่ให้กับ คาแรกเตอร์ของเรา จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP06-022_p2.png"
+            },
+            {
+                "id": "OP06-042_p2",
+                "number": "OP06-042",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Vinsmoke Reiju",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค",
+                    "เจอร์ม่า 66"
+                ],
+                "block_icon": "2",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อมี ด้ง!! ในสนามของเรา ถูกนำกลับ ด้ง!! เด็ค, จะจั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP06-042_p2.png"
+            },
+            {
+                "id": "OP06-080_p2",
+                "number": "OP06-080",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Gecko Moria",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "2",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] (2) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ), สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช, และนำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า ที่มีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > ที่อยู่ในแทรชของเรา จำนวนไม่เกิน 1 ใบ ลงสนาม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP06-080_p2.png"
+            },
+            {
+                "id": "OP07-001_p2",
+                "number": "OP07-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Dragon",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ของเรา ที่ถูกนำไปใส่ให้กับ (คาแรกเตอร์ หรือ ลีดเดอร์) อยู่ รวมกัน จำนวนไม่เกิน 2 ใบ, มาใส่ให้กับ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-001_p2.png"
+            },
+            {
+                "id": "OP07-019_p2",
+                "number": "OP07-019",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Jewelry Bonney",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดบอนนี่"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] (1) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ) : ทำการ เรสต์ ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-019_p2.png"
+            },
+            {
+                "id": "OP07-038_p2",
+                "number": "OP07-038",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Boa Hancock",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "2",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อมีคาแรกเตอร์ของใครก็ตาม ถูกนำออกจากสนามโดยความสามารถของฝ่ายเรา, จึงจะสามารถใช้งาน. ถ้าเรามีการ์ดบนมือ จำนวน 5 ใบ หรือน้อยกว่า, จะจั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-038_p2.png"
+            },
+            {
+                "id": "OP07-059_p2",
+                "number": "OP07-059",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Foxy",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดฟ็อกซี่"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อโจมตี] ด้ง!! - 3 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าเรามี คาแรกเตอร์ ที่มีคุณสมบัติ < กลุ่มโจรสลัดฟ็อกซี่ > อยู่ จำนวน 3 ใบ หรือมากกว่า, จะได้เลือก ลีดเดอร์ของคู่แข่ง ที่กำลังเรสต์อยู่ กับ คาแรกเตอร์ของคู่แข่ง ที่กำลังเรสต์อยู่ อีกจำนวนไม่เกิน 1 ใบ. การ์ดที่ถูกเลือก จะไม่ถูกเปลี่ยนเป็น แอ็คทีฟ ในช่วงรีเฟรชเฟสของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-059_p2.png"
+            },
+            {
+                "id": "OP07-079_p2",
+                "number": "OP07-079",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Rob Lucci",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อโจมตี] สามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -1.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-079_p2.png"
+            },
+            {
+                "id": "OP07-097_p2",
+                "number": "OP07-097",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Vegapunk",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "นักวิทยาศาสตร์",
+                    "เอ็กเฮด"
+                ],
+                "block_icon": "2",
+                "effect": "ลีดเดอร์นี้ไม่สามารถทำการโจมตี. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] (1) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ) : นำการ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < เอ็กเฮด > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่ ข้างบนสุด ของไลฟ์ แบบหงายหน้า หรือว่า นำลงสนาม.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-097_p2.png"
+            },
+            {
+                "id": "OP08-001_p2",
+                "number": "OP08-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Tony Tony.Chopper",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "เขียว"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "ราชอาณาจักรดรัม",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ ไปใส่ให้กับ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < สัตว์ > หรือ < ราชอาณาจักรดรัม > จำนวนไม่เกิน 3 ใบ, เป็นจำนวนสูงสุดตัวละไม่เกิน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP08-001_p2.png"
+            },
+            {
+                "id": "OP08-002_p2",
+                "number": "OP08-002",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Marco",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "2",
+                "effect": "[ด้ง!! x 1] [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] จั่วการ์ด จำนวน 1 ใบ, แล้วนำการ์ดบนมือของเรา จำนวน 1 ใบ ไปวางที่ ข้างบนสุด หรือ ข้างใต้สุด ของเด็ค. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -2000.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP08-002_p2.png"
+            },
+            {
+                "id": "OP08-021_p2",
+                "number": "OP08-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Carrot",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามิงค์"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าเรามี คาแรกเตอร์ ที่มีคุณสมบัติ < เผ่ามิงค์ > อยู่ด้วยละก็, ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP08-021_p2.png"
+            },
+            {
+                "id": "OP08-057_p2",
+                "number": "OP08-057",
+                "type": "L",
+                "class": "LEADER",
+                "name": "King",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง",
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดร้อยอสูร"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : เลือก 1 อย่าง จากดังต่อไปนี้. • ถ้าเรามีการ์ดบนมือ จำนวน 5 ใบ หรือน้อยกว่า, จั่วการ์ด จำนวน 1 ใบ. • ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -2.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP08-057_p2.png"
+            },
+            {
+                "id": "OP08-058_p2",
+                "number": "OP08-058",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Charlotte Pudding",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อโจมตี] สามารถหงาย ไลฟ์ ใบบนสุดของเรา จำนวน 2 ใบ : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP08-058_p2.png"
+            },
+            {
+                "id": "OP08-098_p2",
+                "number": "OP08-098",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kalgara",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "จายา",
+                    "เกาะแห่งท้องฟ้า",
+                    "นักรบแห่งแชนโดรา"
+                ],
+                "block_icon": "2",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] นำ คาแรกเตอร์การ์ด ที่มีคุณสมบัติ < นักรบแห่งแชนโดรา > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม, ซึ่งจะต้องมีค่าคอสต์ไม่สูงไปกว่า จำนวน ด้ง!! ที่อยู่บนสนามของเรา. ถ้านำลงสนามละก็, จะต้องนำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-Anime 25th collection- [EB-02]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP08-098_p2.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,421 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563001,
+        "language": "th"
+    },
+    "data": {
+        "code": "ST01",
+        "cards": [
+            {
+                "id": "ST01-001",
+                "number": "ST01-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-001.png"
+            },
+            {
+                "id": "ST01-002",
+                "number": "ST01-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "cost": "2",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 2] [เมื่อโจมตี] ในแบทเทิลนี้, คู่แข่งจะไม่สามารถใช้งาน [บล็อกเกอร์] ของคาแรกเตอร์ ที่มีพาวเวอร์ 5000 หรือสูงกว่า.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-002.png"
+            },
+            {
+                "id": "ST01-003",
+                "number": "ST01-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Karoo",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-003.png"
+            },
+            {
+                "id": "ST01-004",
+                "number": "ST01-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 2] คาแรกเตอร์นี้จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-004.png"
+            },
+            {
+                "id": "ST01-005",
+                "number": "ST01-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา (ยกเว้นคาแรกเตอร์นี้) จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-005.png"
+            },
+            {
+                "id": "ST01-006",
+                "number": "ST01-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-006.png"
+            },
+            {
+                "id": "ST01-007",
+                "number": "ST01-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-007.png"
+            },
+            {
+                "id": "ST01-008",
+                "number": "ST01-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-008.png"
+            },
+            {
+                "id": "ST01-009",
+                "number": "ST01-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nefeltari Vivi",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-009.png"
+            },
+            {
+                "id": "ST01-010",
+                "number": "ST01-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-010.png"
+            },
+            {
+                "id": "ST01-011",
+                "number": "ST01-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 2 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-011.png"
+            },
+            {
+                "id": "ST01-012",
+                "number": "ST01-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [ด้ง!! x 2] [เมื่อโจมตี] ในแบทเทิลนี้, คู่แข่งจะไม่สามารถใช้งาน [บล็อกเกอร์].",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-012.png"
+            },
+            {
+                "id": "ST01-013",
+                "number": "ST01-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] คาแรกเตอร์นี้, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-013.png"
+            },
+            {
+                "id": "ST01-014",
+                "number": "ST01-014",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Guard Point",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-014.png"
+            },
+            {
+                "id": "ST01-015",
+                "number": "ST01-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Jet Pistol",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 6000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-015.png"
+            },
+            {
+                "id": "ST01-016",
+                "number": "ST01-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Diable Jambe",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, ที่มีความสามารถ [บล็อกเกอร์] จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] เลือก ลีดเดอร์ หรือ คาแรกเตอร์ ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > ของเรา จำนวนไม่เกิน 1 ใบ, ในเทิร์นนี้, คู่แข่งจะไม่สามารถใช้งาน [บล็อกเกอร์] ในขณะที่ลีดเดอร์ หรือ คาแรกเตอร์นั้น ทำการโจมตี.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-016.png"
+            },
+            {
+                "id": "ST01-017",
+                "number": "ST01-017",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Thousand Sunny",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ สเตจนี้ : ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Straw Hat Crew- [ST-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-017.png"
+            }
+        ]
+    }
+}

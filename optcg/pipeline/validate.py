@@ -6,7 +6,7 @@ from __future__ import annotations
 REQUIRED_FIELDS = ("id", "number", "name")
 LIST_FIELDS = ("attribute", "color", "feature", "foreign_data", "languages")
 OPTIONAL_STRING_FIELDS = (
-    "rarity", "card_class", "cost", "power", "counter",
+    "rarity", "card_class", "cost", "life", "power", "counter",
     "block_icon", "effect", "trigger", "image_url",
 )
 

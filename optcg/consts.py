@@ -1,5 +1,7 @@
 """Constants for the OPTCG pipeline."""
 
+from __future__ import annotations
+
 VERSION = "1.0.0"
 
 # Sentinel values that the official site uses for "no data".

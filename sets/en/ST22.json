@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556022
+        "set": 556022,
+        "language": "en"
     },
     "data": {
         "code": "ST22",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Ace & Newgate",
-                "image_path": "images/AceNewgateST22/ST22-001.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -39,8 +39,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Ace & Newgate",
-                "image_path": "images/AceNewgateST22/ST22-001_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -65,7 +64,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Izo",
-                "image_path": "images/AceNewgateST22/ST22-002.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -81,7 +79,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Whitebeard Pirates\" other than [Izo] and add it to your hand. Then, place the rest at the bottom of your deck in any order.[On Your Opponent's Attack] You may trash this Character: Draw 1 card and place 1 card from your hand at the bottom of your deck.",
+                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Whitebeard Pirates\" other than [Izo] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [On Your Opponent's Attack] You may trash this Character: Draw 1 card and place 1 card from your hand at the bottom of your deck.",
                 "card_set": "-Ace & Newgate- [ST-22]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST22-002.png"
             },
@@ -91,7 +89,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Izo",
-                "image_path": "images/AceNewgateST22/ST22-002_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -107,7 +104,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Whitebeard Pirates\" other than [Izo] and add it to your hand. Then, place the rest at the bottom of your deck in any order.[On Your Opponent's Attack] You may trash this Character: Draw 1 card and place 1 card from your hand at the bottom of your deck.",
+                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 card with a type including \"Whitebeard Pirates\" other than [Izo] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [On Your Opponent's Attack] You may trash this Character: Draw 1 card and place 1 card from your hand at the bottom of your deck.",
                 "card_set": "-Ace & Newgate- [ST-22]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST22-002_p1.png"
             },
@@ -117,7 +114,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Edward.Newgate",
-                "image_path": "images/AceNewgateST22/ST22-003.png",
                 "cost": "9",
                 "attribute": [
                     "Special"
@@ -133,7 +129,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Double Attack] (This card deals 2 damage.)[On Play] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", draw 2 cards.",
+                "effect": "[Double Attack] (This card deals 2 damage.) [On Play] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", draw 2 cards.",
                 "card_set": "-Ace & Newgate- [ST-22]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST22-003.png"
             },
@@ -143,7 +139,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Edward.Newgate",
-                "image_path": "images/AceNewgateST22/ST22-003_p1.png",
                 "cost": "9",
                 "attribute": [
                     "Special"
@@ -159,7 +154,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Double Attack] (This card deals 2 damage.)[On Play] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", draw 2 cards.",
+                "effect": "[Double Attack] (This card deals 2 damage.) [On Play] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", draw 2 cards.",
                 "card_set": "-Ace & Newgate- [ST-22]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST22-003_p1.png"
             },
@@ -169,7 +164,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Elmy",
-                "image_path": "images/AceNewgateST22/ST22-004.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -194,7 +188,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Elmy",
-                "image_path": "images/AceNewgateST22/ST22-004_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -219,7 +212,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kouzuki Oden",
-                "image_path": "images/AceNewgateST22/ST22-005.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -236,7 +228,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "If this Character would be removed from the field by your opponent's effect, you may trash 2 cards from your hand instead.[Activate: Main] [Once Per Turn] You may rest 3 of your DON!! cards and return 1 of your Characters other than this Character to the owner's hand: Set this Character as active.",
+                "effect": "If this Character would be removed from the field by your opponent's effect, you may trash 2 cards from your hand instead. [Activate: Main] [Once Per Turn] You may rest 3 of your DON!! cards and return 1 of your Characters other than this Character to the owner's hand: Set this Character as active.",
                 "card_set": "-Ace & Newgate- [ST-22]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST22-005.png"
             },
@@ -246,7 +238,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kouzuki Oden",
-                "image_path": "images/AceNewgateST22/ST22-005_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -263,7 +254,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "If this Character would be removed from the field by your opponent's effect, you may trash 2 cards from your hand instead.[Activate: Main] [Once Per Turn] You may rest 3 of your DON!! cards and return 1 of your Characters other than this Character to the owner's hand: Set this Character as active.",
+                "effect": "If this Character would be removed from the field by your opponent's effect, you may trash 2 cards from your hand instead. [Activate: Main] [Once Per Turn] You may rest 3 of your DON!! cards and return 1 of your Characters other than this Character to the owner's hand: Set this Character as active.",
                 "card_set": "-Ace & Newgate- [ST-22]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST22-005_p1.png"
             },
@@ -273,7 +264,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jozu",
-                "image_path": "images/AceNewgateST22/ST22-006.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -298,7 +288,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jozu",
-                "image_path": "images/AceNewgateST22/ST22-006_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -323,7 +312,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Squard",
-                "image_path": "images/AceNewgateST22/ST22-007.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -348,7 +336,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Squard",
-                "image_path": "images/AceNewgateST22/ST22-007_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -373,7 +360,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Decalvan Brothers",
-                "image_path": "images/AceNewgateST22/ST22-008.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -398,7 +384,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Decalvan Brothers",
-                "image_path": "images/AceNewgateST22/ST22-008_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -423,7 +408,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vista",
-                "image_path": "images/AceNewgateST22/ST22-009.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -448,7 +432,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vista",
-                "image_path": "images/AceNewgateST22/ST22-009_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -473,7 +456,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Portgas.D.Ace",
-                "image_path": "images/AceNewgateST22/ST22-010.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -498,7 +480,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Portgas.D.Ace",
-                "image_path": "images/AceNewgateST22/ST22-010_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -523,7 +504,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Whitey Bay",
-                "image_path": "images/AceNewgateST22/ST22-011.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -548,7 +528,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Whitey Bay",
-                "image_path": "images/AceNewgateST22/ST22-011_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -573,7 +552,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Marco",
-                "image_path": "images/AceNewgateST22/ST22-012.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -588,7 +566,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Once Per Turn] If this Character would be K.O.'d by your opponent's effect, you may trash 1 card from your hand instead.[When Attacking] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", this Character gains +1000 power until the end of your opponent's next turn.",
+                "effect": "[Once Per Turn] If this Character would be K.O.'d by your opponent's effect, you may trash 1 card from your hand instead. [When Attacking] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", this Character gains +1000 power until the end of your opponent's next turn.",
                 "card_set": "-Ace & Newgate- [ST-22]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST22-012.png"
             },
@@ -598,7 +576,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Marco",
-                "image_path": "images/AceNewgateST22/ST22-012_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -613,7 +590,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Once Per Turn] If this Character would be K.O.'d by your opponent's effect, you may trash 1 card from your hand instead.[When Attacking] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", this Character gains +1000 power until the end of your opponent's next turn.",
+                "effect": "[Once Per Turn] If this Character would be K.O.'d by your opponent's effect, you may trash 1 card from your hand instead. [When Attacking] Reveal 1 card from the top of your deck. If that card's type includes \"Whitebeard Pirates\", this Character gains +1000 power until the end of your opponent's next turn.",
                 "card_set": "-Ace & Newgate- [ST-22]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST22-012_p1.png"
             },
@@ -623,7 +600,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "LittleOars Jr.",
-                "image_path": "images/AceNewgateST22/ST22-013.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -649,7 +625,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "LittleOars Jr.",
-                "image_path": "images/AceNewgateST22/ST22-013_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -675,7 +650,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "A.O.",
-                "image_path": "images/AceNewgateST22/ST22-014.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -700,7 +674,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "A.O.",
-                "image_path": "images/AceNewgateST22/ST22-014_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -725,11 +698,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "I Am Whitebeard!!",
-                "image_path": "images/AceNewgateST22/ST22-015.png",
                 "cost": "8",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -751,11 +721,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Take That Back!! Take Back What You Said!!",
-                "image_path": "images/AceNewgateST22/ST22-016.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card.",
                 "power": "-",
                 "counter": "-",
@@ -776,11 +743,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Fire Fist",
-                "image_path": "images/AceNewgateST22/ST22-017.png",
                 "cost": "5",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",

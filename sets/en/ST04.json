@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556004
+        "set": 556004,
+        "language": "en"
     },
     "data": {
         "code": "ST04",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Kaido",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-001.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -39,7 +39,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Ulti",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-002.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -64,7 +63,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kaido",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-003.png",
                 "cost": "9",
                 "attribute": [
                     "Strike"
@@ -80,7 +78,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] DON!! −5 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 6 or less. This Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] DON!! −5 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 6 or less. This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Animal Kingdom Pirates- [ST-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-003.png"
             },
@@ -90,7 +88,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "King",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-004.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -115,7 +112,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Queen",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-005.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -130,7 +126,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
                 "card_set": "-Animal Kingdom Pirates- [ST-04]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-005.png"
             },
@@ -140,7 +136,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sasaki",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-006.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -165,7 +160,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sheepshead",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-007.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -191,7 +185,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jack",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-008.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -216,7 +209,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Ginrummy",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-009.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -242,7 +234,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Who's.Who",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-010.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -267,7 +258,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Black Maria",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-011.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -292,7 +282,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Page One",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-012.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -317,7 +306,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "X.Drake",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-013.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -344,11 +332,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Lead Performer \"Disaster\"",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-014.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -369,11 +354,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Brachio Bomber",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-015.png",
                 "cost": "6",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add 1 DON!! card from your DON!! Deck and set it as active.",
                 "power": "-",
                 "counter": "-",
@@ -394,11 +376,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Blast Breath",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-016.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -420,11 +399,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Onigashima Island",
-                "image_path": "images/AnimalKingdomPiratesST04/ST04-017.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",

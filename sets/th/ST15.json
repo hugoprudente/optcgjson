@@ -1,0 +1,375 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563015,
+        "language": "th"
+    },
+    "data": {
+        "code": "ST15",
+        "cards": [
+            {
+                "id": "OP02-001_p4",
+                "number": "OP02-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Edward.Newgate",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อจบเทิร์นของเรา] นำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP02-001_p4.png"
+            },
+            {
+                "id": "OP02-008_r1",
+                "number": "OP02-008",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Jozu",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] ถ้าเรามี ไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, และลีดเดอร์ของเรา ระบุคำว่า < กลุ่มโจรสลัดหนวดขาว > รวมอยู่ในคุณสมบัติด้วย, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP02-008_r1.png"
+            },
+            {
+                "id": "OP02-018_r1",
+                "number": "OP02-018",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Marco",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO]สามารถทิ้งการ์ด ที่ระบุคำว่า < กลุ่มโจรสลัดหนวดขาว > รวมอยู่ในคุณสมบัติ จากบนมือของเรา จำนวน 1 ใบ : ถ้าเรามี ไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, นำคาแรกเตอร์การ์ดใบนี้ จากแทรชของเรา ลงสนามในสภาพ เรสต์.",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP02-018_r1.png"
+            },
+            {
+                "id": "OP02-019_r1",
+                "number": "OP02-019",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Rakuyo",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เทิร์นตัวเอง] คาแรกเตอร์ของเราทั้งหมด ที่ระบุคำว่า < กลุ่มโจรสลัดหนวดขาว > รวมอยู่ในคุณสมบัติ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP02-019_r1.png"
+            },
+            {
+                "id": "OP02-023_r1",
+                "number": "OP02-023",
+                "type": "C",
+                "class": "EVENT",
+                "name": "You May Be a Fool...but I Still Love You",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ถ้าเรามี ไลฟ์ จำนวน 3 ใบ หรือน้อยกว่า, ในเทิร์นนี้, เราจะไม่ได้นำ การ์ดจากไลฟ์ ขึ้นสู่บนมือ โดยความสามารถของฝ่ายเรา.",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP02-023_r1.png"
+            },
+            {
+                "id": "OP03-003_r1",
+                "number": "OP03-003",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Izo",
+                "cost": "1",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ดที่ระบุคำว่า [กลุ่มโจรสลัดหนวดขาว] รวมอยู่ในคุณสมบัติ นอกเหนือจาก [Izo] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-003_r1.png"
+            },
+            {
+                "id": "OP03-006_r1",
+                "number": "OP03-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Speed Jil",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-006_r1.png"
+            },
+            {
+                "id": "OP03-007_r1",
+                "number": "OP03-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Namule",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-007_r1.png"
+            },
+            {
+                "id": "OP03-009_r1",
+                "number": "OP03-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Haruta",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-009_r1.png"
+            },
+            {
+                "id": "OP03-010_r1",
+                "number": "OP03-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Fossa",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-010_r1.png"
+            },
+            {
+                "id": "ST15-001",
+                "number": "ST15-001",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Atmos",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] ถ้าลีดเดอร์ของเรา คือ [Edward.Newgate], ในเทิร์นนี้, เราจะนำ ไลฟ์ ขึ้นสู่บนมือ โดยความสามารถของฝ่ายเราไม่ได้.",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST15-001.png"
+            },
+            {
+                "id": "ST15-002",
+                "number": "ST15-002",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Edward.Newgate",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา, จำนวน 1 ใบ. [ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 5000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST15-002.png"
+            },
+            {
+                "id": "ST15-003",
+                "number": "ST15-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kingdew",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เทิร์นคู่แข่ง] ถ้าคาแรกเตอร์นี้ถูก KO โดยความสามารถ, ในเทิร์นนี้, ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000.",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST15-003.png"
+            },
+            {
+                "id": "ST15-004",
+                "number": "ST15-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Thatch",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา ระบุคำว่า [กลุ่มโจรสลัดหนวดขาว] รวมอยู่ในคุณสมบัติละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -2000. จากนั้น, จะต้องนำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST15-004.png"
+            },
+            {
+                "id": "ST15-005",
+                "number": "ST15-005",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Portgas.D.Ace",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าลีดเดอร์ของเรา ระบุคำว่า [กลุ่มโจรสลัดหนวดขาว] รวมอยู่ในคุณสมบัติละก็, คาแรกเตอร์นี้จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้). [เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์นี้ กำลังจะถูกนำออกจากสนาม โดยความสามารถของคู่แข่ง, จะสามารถทำให้คาแรกเตอร์นี้, ในเทิร์นนี้, จะมีพาวเวอร์ -2000 แทนได้.",
+                "card_set": "-Red Edward.Newgate- [ST-15]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST15-005.png"
+            }
+        ]
+    }
+}

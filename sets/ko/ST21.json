@@ -1,0 +1,426 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 491902711,
+        "language": "ko"
+    },
+    "data": {
+        "code": "ST21",
+        "cards": [
+            {
+                "id": "ST21-001",
+                "number": "ST21-001",
+                "type": "L",
+                "class": "리더",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "N/A",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "사황",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【두웅‼×1】【기동: 메인】【턴 1회】자신의 캐릭터 1장에게 레스트 상태인 두웅!!을 2장까지 부여한다.",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_095734_37945a2e8b"
+            },
+            {
+                "id": "ST21-002",
+                "number": "ST21-002",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "우솝",
+                "cost": "2",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【두웅!!×2】【상대의 턴 동안】이 캐릭터의 파워 +2000.",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_095744_34c70bae24"
+            },
+            {
+                "id": "ST21-003",
+                "number": "ST21-003",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "상디",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【등장 시】자신의 파워 6000 이상인 《밀짚모자 일당》 특징을 가진 캐릭터를 1장까지 선택한다. 이번 턴 동안, 선택한 캐릭터가 어택할 경우 상대는 【블로커】를 발동할 수 없다.",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_095756_a13a0ef465"
+            },
+            {
+                "id": "ST21-004",
+                "number": "ST21-004",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "쥬얼리 보니",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "N/A",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "에그 헤드",
+                    "보니 해적단"
+                ],
+                "block_icon": "N/A",
+                "effect": "【두웅!!×2】【KO 시】카드를 1장 뽑는다.",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_095807_380e82747f"
+            },
+            {
+                "id": "ST21-005",
+                "number": "ST21-005",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "징베",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "어인족",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "N/A",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_095824_1eed4982e2"
+            },
+            {
+                "id": "ST21-006",
+                "number": "ST21-006",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "스튜시",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "에그 헤드"
+                ],
+                "block_icon": "N/A",
+                "effect": "N/A",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_095839_c23901dcfe"
+            },
+            {
+                "id": "ST21-007",
+                "number": "ST21-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "센토마루",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "에그 헤드",
+                    "해군"
+                ],
+                "block_icon": "N/A",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_095907_d35a81dd98"
+            },
+            {
+                "id": "ST21-008",
+                "number": "ST21-008",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "토니토니 쵸파",
+                "cost": "4",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "동물",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "N/A",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_095936_61412e595e"
+            },
+            {
+                "id": "ST21-009",
+                "number": "ST21-009",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "나미",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【기동: 메인】【턴 1회】자신의 《밀짚모자 일당》 특징을 가진 리더 또는 캐릭터 1장에게 레스트 상태인 두웅!!을 2장까지 부여한다.",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_095947_e453c8a03b"
+            },
+            {
+                "id": "ST21-010",
+                "number": "ST21-010",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "니코 로빈",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【두웅!!×2】【어택 시】상대의 파워 4000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_100000_ca77ee23cd"
+            },
+            {
+                "id": "ST21-011",
+                "number": "ST21-011",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "프랑키",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【두웅!!×2】【상대의 턴 동안】자신의 원래 파워가 4000 이하인 《밀짚모자 일당》 특징을 가진 모든 캐릭터의 파워 +1000.",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_100011_c56bbf001b"
+            },
+            {
+                "id": "ST21-012",
+                "number": "ST21-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "브룩",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【어택 시】자신의 리더 또는 캐릭터 1장에게 레스트 상태인 두웅!!을 2장까지 부여한다.",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_100024_770fcdc56d"
+            },
+            {
+                "id": "ST21-013",
+                "number": "ST21-013",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "베가펑크",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "N/A",
+                "effect": "N/A",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_100037_073a722aa1"
+            },
+            {
+                "id": "ST21-014",
+                "number": "ST21-014",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "N/A",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "사황",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)\r\n【어택 시】자신의 리더 또는 캐릭터 1장에게 레스트 상태인 두웅!!을 1장까지 부여한다.",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_100050_ff636b6465"
+            },
+            {
+                "id": "ST21-015",
+                "number": "ST21-015",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "롤로노아 조로",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【두웅!!×2】이 캐릭터는 【속공】을 얻는다.\r\n【KO 시】자신의 패에서 「롤로노아 조로」 이외의 파워 6000 이하인 적색 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_100104_eb774c6287"
+            },
+            {
+                "id": "ST21-016",
+                "number": "ST21-016",
+                "type": "C",
+                "class": "이벤트",
+                "name": "고무고무 던 윕",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "상대의 파워 4000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "사황",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【메인】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +1000. 그 후, 이번 턴 동안, 상대의 파워 4000 이하인 캐릭터 1장까지는 【블로커】를 발동할 수 없다.",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_100122_289761a10a"
+            },
+            {
+                "id": "ST21-017",
+                "number": "ST21-017",
+                "type": "C",
+                "class": "이벤트",
+                "name": "고무고무 두더지 피스톨",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "사황",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【메인】이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -5000. 그 후, 자신의 파워 6000 이상인 캐릭터가 있을 경우, 상대의 파워 2000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-21] 스타트 덱 기어5",
+                "image_url": "/fileDownload?downname=20251219_100134_0bd20ea91b"
+            }
+        ]
+    }
+}

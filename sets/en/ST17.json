@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556017
+        "set": 556017,
+        "language": "en"
     },
     "data": {
         "code": "ST17",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Donquixote Doflamingo",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/OP01-060_p2.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -39,7 +39,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Donquixote Doflamingo",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/OP01-073_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -55,7 +54,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
                 "card_set": "-Blue Donquixote Doflamingo- [ST-17]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-073_r1.png"
             },
@@ -65,11 +64,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Overheat",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/OP01-086_r1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 Character with a cost of 4 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -91,7 +87,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Gecko Moria",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/OP02-054_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -117,7 +112,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Bartholomew Kuma",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/OP02-057_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -143,7 +137,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Jinbe",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/P-030_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -170,7 +163,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Edward Weevil",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/ST03-002_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -195,7 +187,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Gecko Moria",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/ST03-004_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -221,7 +212,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Dracule Mihawk",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/ST03-005_r2.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -246,7 +236,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/ST03-008_r2.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -272,7 +261,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Crocodile",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/ST17-001.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -298,7 +286,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/ST17-002.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -324,7 +311,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Buggy",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/ST17-003.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -350,7 +336,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Boa Hancock",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/ST17-004.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -366,7 +351,7 @@
                     "Kuja Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of your deck in any order. Then, give up to 1 rested DON!! card to 1 of your {The Seven Warlords of the Sea} type Leader or Character cards.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of your deck in any order. Then, give up to 1 rested DON!! card to 1 of your {The Seven Warlords of the Sea} type Leader or Character cards.",
                 "card_set": "-Blue Donquixote Doflamingo- [ST-17]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST17-004.png"
             },
@@ -376,7 +361,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Marshall.D.Teach",
-                "image_path": "images/BlueDonquixoteDoflamingoST17/ST17-005.png",
                 "cost": "2",
                 "attribute": [
                     "Special"

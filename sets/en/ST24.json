@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556024
+        "set": 556024,
+        "language": "en"
     },
     "data": {
         "code": "ST24",
@@ -13,7 +14,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Scratchmen Apoo",
-                "image_path": "images/GreenJewelryBonneyST24/EB01-015_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -39,8 +39,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/GreenJewelryBonneyST24/OP07-019_p3.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -65,7 +64,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Urouge",
-                "image_path": "images/GreenJewelryBonneyST24/OP07-021_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -81,7 +79,7 @@
                     "Fallen Monk Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[End of Your Turn] Set up to 1 of your DON!! cards as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] Set up to 1 of your DON!! cards as active.",
                 "card_set": "-Green Jewelry Bonney- [ST-24]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-021_r1.png"
             },
@@ -91,7 +89,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Caribou",
-                "image_path": "images/GreenJewelryBonneyST24/OP07-023_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -107,7 +104,7 @@
                     "Caribou Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "If you have 6 or more rested DON!! cards, this Character gains +1000 power.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If you have 6 or more rested DON!! cards, this Character gains +1000 power. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-Green Jewelry Bonney- [ST-24]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-023_r1.png"
             },
@@ -117,7 +114,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Coribou",
-                "image_path": "images/GreenJewelryBonneyST24/OP07-025_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -143,7 +139,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Bartolomeo",
-                "image_path": "images/GreenJewelryBonneyST24/OP07-031_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -159,7 +154,7 @@
                     "Barto Club"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Your Turn] [Once Per Turn] If a Character is rested by your effect, draw 1 card and trash 1 card from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Your Turn] [Once Per Turn] If a Character is rested by your effect, draw 1 card and trash 1 card from your hand.",
                 "card_set": "-Green Jewelry Bonney- [ST-24]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP07-031_r1.png"
             },
@@ -169,7 +164,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/GreenJewelryBonneyST24/OP07-033_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -195,7 +189,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/GreenJewelryBonneyST24/OP07-034_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -221,11 +214,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Demonic Aura Nine-Sword Style Asura Demon Nine Flash",
-                "image_path": "images/GreenJewelryBonneyST24/OP07-036_p1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -247,11 +237,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "More Pizza!!",
-                "image_path": "images/GreenJewelryBonneyST24/OP07-037_r1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card.",
                 "power": "-",
                 "counter": "-",
@@ -273,7 +260,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Capone\"Gang\"Bege",
-                "image_path": "images/GreenJewelryBonneyST24/ST24-001.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -289,7 +275,7 @@
                     "Firetank Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you have 6 or more rested cards, draw 1 card and trash 1 card from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you have 6 or more rested cards, draw 1 card and trash 1 card from your hand.",
                 "card_set": "-Green Jewelry Bonney- [ST-24]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST24-001.png"
             },
@@ -299,7 +285,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kid & Killer",
-                "image_path": "images/GreenJewelryBonneyST24/ST24-002.png",
                 "cost": "2",
                 "attribute": [
                     "Slash",
@@ -316,7 +301,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.[On Your Opponent's Attack] You may trash this Character: Set up to 1 of your DON!! cards as active.",
+                "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order. [On Your Opponent's Attack] You may trash this Character: Set up to 1 of your DON!! cards as active.",
                 "card_set": "-Green Jewelry Bonney- [ST-24]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST24-002.png"
             },
@@ -326,7 +311,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Basil Hawkins",
-                "image_path": "images/GreenJewelryBonneyST24/ST24-003.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -352,7 +336,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Law & Bepo",
-                "image_path": "images/GreenJewelryBonneyST24/ST24-004.png",
                 "cost": "10",
                 "attribute": [
                     "Slash",
@@ -380,7 +363,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "X.Drake",
-                "image_path": "images/GreenJewelryBonneyST24/ST24-005.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"

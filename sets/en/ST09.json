@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556009
+        "set": 556009,
+        "language": "en"
     },
     "data": {
         "code": "ST09",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Yamato",
-                "image_path": "images/SideYamatoST09/ST09-001.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -38,7 +38,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Uzuki Tempura",
-                "image_path": "images/SideYamatoST09/ST09-002.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -63,7 +62,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Ulti",
-                "image_path": "images/SideYamatoST09/ST09-003.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -88,7 +86,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kaido",
-                "image_path": "images/SideYamatoST09/ST09-004.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -114,7 +111,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kouzuki Oden",
-                "image_path": "images/SideYamatoST09/ST09-005.png",
                 "cost": "7",
                 "attribute": [
                     "Slash"
@@ -130,7 +126,7 @@
                     "Kouzuki Clan"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x1] This Character gains [Double Attack].(This card deals 2 damage.)[On K.O.] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+                "effect": "[DON!! x1] This Character gains [Double Attack]. (This card deals 2 damage.) [On K.O.] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
                 "card_set": "-Side Yamato- [ST-09]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-005.png"
             },
@@ -140,7 +136,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kouzuki Momonosuke",
-                "image_path": "images/SideYamatoST09/ST09-006.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -166,7 +161,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Shinobu",
-                "image_path": "images/SideYamatoST09/ST09-007.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -181,7 +175,7 @@
                     "Land of Wano"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +4000 power during this battle.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +4000 power during this battle.",
                 "card_set": "-Side Yamato- [ST-09]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-007.png"
             },
@@ -191,7 +185,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Shimotsuki Ushimaru",
-                "image_path": "images/SideYamatoST09/ST09-008.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -216,7 +209,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Fugetsu Omusubi",
-                "image_path": "images/SideYamatoST09/ST09-009.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -241,7 +233,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Portgas.D.Ace",
-                "image_path": "images/SideYamatoST09/ST09-010.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -267,7 +258,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/SideYamatoST09/ST09-011.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -293,7 +283,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Yamato",
-                "image_path": "images/SideYamatoST09/ST09-012.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -318,7 +307,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Yamato",
-                "image_path": "images/SideYamatoST09/ST09-013.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -343,11 +331,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Narikabura Arrow",
-                "image_path": "images/SideYamatoST09/ST09-014.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -368,11 +353,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Thunder Bagua",
-                "image_path": "images/SideYamatoST09/ST09-015.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card.",
                 "power": "-",
                 "counter": "-",

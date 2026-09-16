@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556701
+        "set": 556701,
+        "language": "en"
     },
     "data": {
         "code": "FamilyDeckSet",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Luffy (Parallel)",
-                "image_path": "images/FamilyDeckSet/ST01-001_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -39,7 +39,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Usopp",
-                "image_path": "images/FamilyDeckSet/ST01-002_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -64,7 +63,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Karoo",
-                "image_path": "images/FamilyDeckSet/ST01-003_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -90,7 +88,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/FamilyDeckSet/ST01-004_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -105,7 +102,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x2] This Character gains [Rush].(This card can attack on the turn in which it is played.)",
+                "effect": "[DON!! x2] This Character gains [Rush]. (This card can attack on the turn in which it is played.)",
                 "card_set": "Family Deck Set",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-004_r1.png"
             },
@@ -115,7 +112,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jinbe",
-                "image_path": "images/FamilyDeckSet/ST01-005_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -141,7 +137,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/FamilyDeckSet/ST01-006_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -167,7 +162,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/FamilyDeckSet/ST01-007_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -192,7 +186,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/FamilyDeckSet/ST01-008_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -217,7 +210,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Nefeltari Vivi",
-                "image_path": "images/FamilyDeckSet/ST01-009_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -242,7 +234,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Franky",
-                "image_path": "images/FamilyDeckSet/ST01-010_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -267,7 +258,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Brook",
-                "image_path": "images/FamilyDeckSet/ST01-011_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -292,7 +282,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/FamilyDeckSet/ST01-012_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -308,7 +297,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "1",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
                 "card_set": "Family Deck Set",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-012_r1.png"
             },
@@ -318,7 +307,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/FamilyDeckSet/ST01-013_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -344,11 +332,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Guard Point",
-                "image_path": "images/FamilyDeckSet/ST01-014_r2.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Your Leader or 1 of your Characters gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -370,11 +355,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Gum-Gum Jet Pistol",
-                "image_path": "images/FamilyDeckSet/ST01-015_r2.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -396,11 +378,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Diable Jambe",
-                "image_path": "images/FamilyDeckSet/ST01-016_r1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. 1 of your opponent's [Blocker] Characters with a cost of 3 or less.",
                 "power": "-",
                 "counter": "-",
@@ -421,11 +400,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Thousand Sunny",
-                "image_path": "images/FamilyDeckSet/ST01-017_r1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -446,8 +422,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Eustass\"Captain\"Kid (Parallel)",
-                "image_path": "images/FamilyDeckSet/ST02-001_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -472,7 +447,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vito",
-                "image_path": "images/FamilyDeckSet/ST02-002_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -497,7 +471,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Urouge",
-                "image_path": "images/FamilyDeckSet/ST02-003_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -523,7 +496,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Capone\"Gang\"Bege",
-                "image_path": "images/FamilyDeckSet/ST02-004_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -549,7 +521,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Killer",
-                "image_path": "images/FamilyDeckSet/ST02-005_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -575,7 +546,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Koby",
-                "image_path": "images/FamilyDeckSet/ST02-006_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -600,7 +570,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/FamilyDeckSet/ST02-007_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -626,7 +595,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Scratchmen Apoo",
-                "image_path": "images/FamilyDeckSet/ST02-008_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -652,7 +620,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/FamilyDeckSet/ST02-009_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -678,7 +645,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Basil Hawkins",
-                "image_path": "images/FamilyDeckSet/ST02-010_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -704,7 +670,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Heat",
-                "image_path": "images/FamilyDeckSet/ST02-011_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -729,7 +694,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bepo",
-                "image_path": "images/FamilyDeckSet/ST02-012_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -755,7 +719,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/FamilyDeckSet/ST02-013_r1.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -771,7 +734,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] [End of Your Turn] Set this card as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [End of Your Turn] Set this card as active.",
                 "card_set": "Family Deck Set",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-013_r1.png"
             },
@@ -781,7 +744,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "X.Drake",
-                "image_path": "images/FamilyDeckSet/ST02-014_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -808,11 +770,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Scalpel",
-                "image_path": "images/FamilyDeckSet/ST02-015_r1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Set up to 2 of your DON!! cards as active.",
                 "power": "-",
                 "counter": "-",
@@ -834,11 +793,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Repel",
-                "image_path": "images/FamilyDeckSet/ST02-016_r1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -860,11 +816,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Straw Sword",
-                "image_path": "images/FamilyDeckSet/ST02-017_r1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Play 1 {Supernovas} type card with a cost of 2 or less from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -886,8 +839,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Shanks",
-                "image_path": "images/FamilyDeckSet/ST05-001_r1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Slash"
                 ],
@@ -913,7 +865,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Ain",
-                "image_path": "images/FamilyDeckSet/ST05-002_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -939,7 +890,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Ann",
-                "image_path": "images/FamilyDeckSet/ST05-003_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -965,7 +915,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Uta",
-                "image_path": "images/FamilyDeckSet/ST05-004_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -980,7 +929,7 @@
                     "FILM"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
                 "card_set": "Family Deck Set",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-004_r1.png"
             },
@@ -990,7 +939,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Carina",
-                "image_path": "images/FamilyDeckSet/ST05-005_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -1016,7 +964,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Gild Tesoro",
-                "image_path": "images/FamilyDeckSet/ST05-006_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1042,7 +989,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Gordon",
-                "image_path": "images/FamilyDeckSet/ST05-007_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1067,7 +1013,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Shiki",
-                "image_path": "images/FamilyDeckSet/ST05-008_r1.png",
                 "cost": "6",
                 "attribute": [
                     "Slash"
@@ -1093,7 +1038,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Scarlet",
-                "image_path": "images/FamilyDeckSet/ST05-009_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -1120,7 +1064,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Z",
-                "image_path": "images/FamilyDeckSet/ST05-010_r1.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -1136,7 +1079,7 @@
                     "Neo Navy"
                 ],
                 "block_icon": "1",
-                "effect": "When this Character battles <Strike> attribute Characters, this Character gains +3000 power during this turn.[Activate: Main] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +2000 power during this turn.",
+                "effect": "When this Character battles <Strike> attribute Characters, this Character gains +3000 power during this turn. [Activate: Main] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +2000 power during this turn.",
                 "card_set": "Family Deck Set",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-010_r1.png"
             },
@@ -1146,7 +1089,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Douglas Bullet",
-                "image_path": "images/FamilyDeckSet/ST05-011_r1.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -1162,7 +1104,7 @@
                     "The Pirates Fest"
                 ],
                 "block_icon": "1",
-                "effect": "[Activate: Main] [Once Per Turn] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 2 of your opponent's Characters with a cost of 6 or less. Then, this Character gains [Double Attack] during this turn.(This card deals 2 damage.)",
+                "effect": "[Activate: Main] [Once Per Turn] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 2 of your opponent's Characters with a cost of 6 or less. Then, this Character gains [Double Attack] during this turn. (This card deals 2 damage.)",
                 "card_set": "Family Deck Set",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-011_r1.png"
             },
@@ -1172,7 +1114,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Baccarat",
-                "image_path": "images/FamilyDeckSet/ST05-012_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -1198,7 +1139,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Bins",
-                "image_path": "images/FamilyDeckSet/ST05-013_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1224,7 +1164,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Buena Festa",
-                "image_path": "images/FamilyDeckSet/ST05-014_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1250,7 +1189,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Dr. Indigo",
-                "image_path": "images/FamilyDeckSet/ST05-015_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -1277,11 +1215,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Lion's Threat Imperial Earth Bind",
-                "image_path": "images/FamilyDeckSet/ST05-016_r1.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "power": "-",
                 "counter": "-",
@@ -1303,11 +1238,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Union Armada",
-                "image_path": "images/FamilyDeckSet/ST05-017_r1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "power": "-",
                 "counter": "-",

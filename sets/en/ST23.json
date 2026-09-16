@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556023
+        "set": 556023,
+        "language": "en"
     },
     "data": {
         "code": "ST23",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Shanks",
-                "image_path": "images/RedShanksST23/OP09-001_p2.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Slash"
                 ],
@@ -39,7 +39,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Howling Gab",
-                "image_path": "images/RedShanksST23/OP09-006_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -64,7 +63,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bonk Punch",
-                "image_path": "images/RedShanksST23/OP09-010_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -79,7 +77,7 @@
                     "Red-Haired Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] Play up to 1 [Monster] from your hand.[DON!! x1] [When Attacking] This Character gains +2000 power during this turn.",
+                "effect": "[On Play] Play up to 1 [Monster] from your hand. [DON!! x1] [When Attacking] This Character gains +2000 power during this turn.",
                 "card_set": "-Red Shanks- [ST-23]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-010_r1.png"
             },
@@ -89,7 +87,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Hongo",
-                "image_path": "images/RedShanksST23/OP09-011_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -114,7 +111,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Monster",
-                "image_path": "images/RedShanksST23/OP09-012_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -140,7 +136,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Yasopp",
-                "image_path": "images/RedShanksST23/OP09-013_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Ranged"
@@ -155,7 +150,7 @@
                     "Red-Haired Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn.[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+                "effect": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn. [DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
                 "card_set": "-Red Shanks- [ST-23]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-013_r1.png"
             },
@@ -165,7 +160,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Limejuice",
-                "image_path": "images/RedShanksST23/OP09-014_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -190,7 +184,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Lucky.Roux",
-                "image_path": "images/RedShanksST23/OP09-015_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Ranged"
@@ -205,7 +198,7 @@
                     "Red-Haired Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] If your Leader has the {Red-Haired Pirates} type, K.O. up to 1 of your opponent's Characters with a base power of 6000 or less.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] If your Leader has the {Red-Haired Pirates} type, K.O. up to 1 of your opponent's Characters with a base power of 6000 or less.",
                 "card_set": "-Red Shanks- [ST-23]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-015_r1.png"
             },
@@ -215,7 +208,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Rockstar",
-                "image_path": "images/RedShanksST23/OP09-016_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -240,11 +232,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Come On!! We'll Fight You!!",
-                "image_path": "images/RedShanksST23/OP09-020_p1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card.",
                 "power": "-",
                 "counter": "-",
@@ -266,7 +255,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Uta",
-                "image_path": "images/RedShanksST23/ST23-001.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -281,7 +269,7 @@
                     "FILM"
                 ],
                 "block_icon": "3",
-                "effect": "If you have a Character with 10000 power or more, give this card in your hand −4 cost.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If you have a Character with 10000 power or more, give this card in your hand −4 cost. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-Red Shanks- [ST-23]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST23-001.png"
             },
@@ -291,7 +279,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Shanks",
-                "image_path": "images/RedShanksST23/ST23-002.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -307,7 +294,7 @@
                     "Red-Haired Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "If your opponent has a Character with 8000 base power or more, give this card in your hand −3 cost.[On Play] If your Leader has the {Red-Haired Pirates} type or is [Uta], your Leader gains +2000 power until the end of your opponent's next End Phase.",
+                "effect": "If your opponent has a Character with 8000 base power or more, give this card in your hand −3 cost. [On Play] If your Leader has the {Red-Haired Pirates} type or is [Uta], your Leader gains +2000 power until the end of your opponent's next End Phase.",
                 "card_set": "-Red Shanks- [ST-23]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST23-002.png"
             },
@@ -317,7 +304,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Benn.Beckman",
-                "image_path": "images/RedShanksST23/ST23-003.png",
                 "cost": "4",
                 "attribute": [
                     "Ranged"
@@ -342,7 +328,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/RedShanksST23/ST23-004.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -369,7 +354,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Yasopp",
-                "image_path": "images/RedShanksST23/ST23-005.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"

@@ -1,0 +1,430 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 841340464,
+        "language": "ko"
+    },
+    "data": {
+        "code": "ST03",
+        "cards": [
+            {
+                "id": "ST03-001",
+                "number": "ST03-001",
+                "type": "L",
+                "class": "리더",
+                "name": "크로커다일",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "바로크 워크스"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】 【턴 1회】두웅!!-4(자신 필드의 두웅!!을 지정된 수만큼 두웅!!덱으로 되돌릴 수 있다): 코스트 5 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090728054556"
+            },
+            {
+                "id": "ST03-002",
+                "number": "ST03-002",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "애드워드 위블",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090727441046"
+            },
+            {
+                "id": "ST03-003",
+                "number": "ST03-003",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "크로커다일",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "바로크 워크스"
+                ],
+                "block_icon": "1",
+                "effect": "【블록커】(상대의 어택 선언 후, 이 카드를 레스트하고 어택 대상을 이 카드로 할 수 있다)<BR>\r\n【두웅!!×1】 【블록 시】코스트 2 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090727304770"
+            },
+            {
+                "id": "ST03-004",
+                "number": "ST03-004",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "겟코 모리아",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신 트래시에서  「겟코 모리아」이외의 코스트 4 이하인 《왕의 부하 칠무해》 또는 《스릴러 바크 해적단》특징을 가진 캐릭터 카드를 1장까지 패에 더한다.",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090727138133"
+            },
+            {
+                "id": "ST03-005",
+                "number": "ST03-005",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "쥬라큘 미호크",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】 【어택 시】카드를 2장 뽑고, 자신의 패를 2장 버린다.",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090726522604"
+            },
+            {
+                "id": "ST03-006",
+                "number": "ST03-006",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "징베",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "어인족",
+                    "왕의 부하 칠무해",
+                    "태양 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090726390147"
+            },
+            {
+                "id": "ST03-007",
+                "number": "ST03-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "센토마루",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】 【기동: 메인】 【턴 1회】② (코스트 에리어의 두웅!!을 지정된 수만큼 레스트 할 수 있다): 자신의 덱에서 코스트 4 이하인 「파시피스타」를 1장까지 등장시키고 덱을 섞는다.",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090726097112"
+            },
+            {
+                "id": "ST03-008",
+                "number": "ST03-008",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "트라팔가 로",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "하트 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【블록커】(상대의 어택 선언 후, 이 카드를 레스트하고 어택 대상을 이 카드로 할 수 있다)",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090725536178"
+            },
+            {
+                "id": "ST03-009",
+                "number": "ST03-009",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "돈키호테 도플라밍고",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】코스트 7 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090725336953"
+            },
+            {
+                "id": "ST03-010",
+                "number": "ST03-010",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "바솔로뮤 쿠마",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "혁명군"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 덱 위에서 3장을 보고, 원하는 순서대로 덱의 맨 위나 아래로 되돌린다.",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090725172577"
+            },
+            {
+                "id": "ST03-011",
+                "number": "ST03-011",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "버기",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "버기즈 딜리버리"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090725015949"
+            },
+            {
+                "id": "ST03-012",
+                "number": "ST03-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "파시피스타",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "생물병기",
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090724486360"
+            },
+            {
+                "id": "ST03-013",
+                "number": "ST03-013",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "보아 행콕",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "구사 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【블록커】(상대의 어택 선언 후, 이 카드를 레스트하고 어택 대상을 이 카드로 할 수 있다)",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090724301454"
+            },
+            {
+                "id": "ST03-014",
+                "number": "ST03-014",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "마샬 D. 티치",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "검은 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】코스트 3 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090724163826"
+            },
+            {
+                "id": "ST03-015",
+                "number": "ST03-015",
+                "type": "C",
+                "class": "이벤트",
+                "name": "모래 폭풍",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "바로크 워크스"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】코스트 7 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090724011992"
+            },
+            {
+                "id": "ST03-016",
+                "number": "ST03-016",
+                "type": "C",
+                "class": "이벤트",
+                "name": "밀쳐내기 압력포",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "이 카드의 【카운터】효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "혁명군"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】코스트 3 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090723396862"
+            },
+            {
+                "id": "ST03-017",
+                "number": "ST03-017",
+                "type": "C",
+                "class": "이벤트",
+                "name": "매료매료 멜로우",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "구사 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】이번 배틀 중, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000. 그후, 자신의 패가 3장 이하인 경우, 카드를 1장 뽑는다.",
+                "card_set": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+                "image_url": "/fileDownload?downname=202404090723236076"
+            }
+        ]
+    }
+}

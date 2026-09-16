@@ -1,0 +1,374 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563019,
+        "language": "th"
+    },
+    "data": {
+        "code": "ST19",
+        "cards": [
+            {
+                "id": "OP02-093_p2",
+                "number": "OP02-093",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Smoker",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -1. จากนั้น, ถ้ามีคาแรกเตอร์ ที่มีคอสต์ 0 อยู่ในสนามของใครก็ตาม, ในเทิร์นนี้, ลีดเดอร์นี้, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP02-093_p2.png"
+            },
+            {
+                "id": "OP02-098_r1",
+                "number": "OP02-098",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Koby",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP02-098_r1.png"
+            },
+            {
+                "id": "OP02-106_r1",
+                "number": "OP02-106",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Tsuru",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -2.",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP02-106_r1.png"
+            },
+            {
+                "id": "OP02-108_r1",
+                "number": "OP02-108",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Donquixote Rosinante",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP02-108_r1.png"
+            },
+            {
+                "id": "OP02-109_r1",
+                "number": "OP02-109",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jaguar.D.Saul",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เผ่าคนยักษ์",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP02-109_r1.png"
+            },
+            {
+                "id": "OP02-113_r1",
+                "number": "OP02-113",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Helmeppo",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -2. จากนั้น, ถ้ามีคาแรกเตอร์ ที่มีคอสต์ 0 อยู่ในสนามของใครก็ตาม, ในแบทเทิลนี้, คาแรกเตอร์นี้, จะมีพาวเวอร์ +2000.",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP02-113_r1.png"
+            },
+            {
+                "id": "OP02-116_r1",
+                "number": "OP02-116",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Yamakaji",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP02-116_r1.png"
+            },
+            {
+                "id": "OP02-117_r1",
+                "number": "OP02-117",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Ice Age",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -5.",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP02-117_r1.png"
+            },
+            {
+                "id": "OP03-079_r1",
+                "number": "OP03-079",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Vergo",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] คาแรกเตอร์นี้ จะไม่ถูก KO จากการแบทเทิล.",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-079_r1.png"
+            },
+            {
+                "id": "OP03-089_r1",
+                "number": "OP03-089",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Brannew",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ดที่มีคุณสมบัติ < กองทัพเรือ > นอกเหนือจาก [Brannew] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่แทรช.",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-089_r1.png"
+            },
+            {
+                "id": "ST19-001",
+                "number": "ST19-001",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Smoker",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ด ธีมสีดำ ที่มีคุณสมบัติ < กองทัพเรือ > จากบนมือของเรา จำนวน 1 ใบ : ทำให้ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 2 ใบ, จะไม่สามารถโจมตี, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST19-001.png"
+            },
+            {
+                "id": "ST19-002",
+                "number": "ST19-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sengoku",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ด ธีมสีดำ ที่มีคุณสมบัติ < กองทัพเรือ > จากบนมือของเรา จำนวน 2 ใบ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กองทัพเรือ > ละก็, จะได้จั่วการ์ด จำนวน 3 ใบ.",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST19-002.png"
+            },
+            {
+                "id": "ST19-003",
+                "number": "ST19-003",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Tashigi",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา คือ [Smoker] ละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -4. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์นี้ เพิ่งลงสนามมา ในเทิร์นนี้, นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 0 จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช.",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST19-003.png"
+            },
+            {
+                "id": "ST19-004",
+                "number": "ST19-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Hina",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 1] [เทิร์นคู่แข่ง] คาแรกเตอร์นี้ จะมีคอสต์ +4. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถนำการ์ด ที่อยู่ในแทรชของเรา จำนวน 1 ใบ ไปวางที่ข้างใต้เด็ค : นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST19-004.png"
+            },
+            {
+                "id": "ST19-005",
+                "number": "ST19-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Garp",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถนำการ์ด ที่อยู่ในแทรชของเรา จำนวน 1 ใบ ไปวางที่ข้างใต้เด็ค : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -1.",
+                "card_set": "-Black Smoker- [ST-19]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST19-005.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,430 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563003,
+        "language": "th"
+    },
+    "data": {
+        "code": "ST03",
+        "cards": [
+            {
+                "id": "ST03-001",
+                "number": "ST03-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Crocodile",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 4 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำคาแรคเตอร์ของใครก็ตาม ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือเจ้าของ.",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-001.png"
+            },
+            {
+                "id": "ST03-002",
+                "number": "ST03-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Edward Weevil",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-002.png"
+            },
+            {
+                "id": "ST03-003",
+                "number": "ST03-003",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Crocodile",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ด้ง!! x 1] [เมื่อบล็อก] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 2 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-003.png"
+            },
+            {
+                "id": "ST03-004",
+                "number": "ST03-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gecko Moria",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า ที่มีคุณสมบัติ < เจ็ดเทพโจรสลัด > หรือ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > ที่อยู่ในแทรชของเรา, นอกเหนือจาก [Gecko Moria], จำนวน 1 ใบ, ขึ้นสู่บนมือ.",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-004.png"
+            },
+            {
+                "id": "ST03-005",
+                "number": "ST03-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Dracule Mihawk",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] จั่วการ์ด 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-005.png"
+            },
+            {
+                "id": "ST03-006",
+                "number": "ST03-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-006.png"
+            },
+            {
+                "id": "ST03-007",
+                "number": "ST03-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sentomaru",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] (2) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ) : นำ [Pacifista] ที่มีคอสต์ 4 หรือต่ำกว่า จากเด็คของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, ทำการชัฟเฟิลเด็ค.",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-007.png"
+            },
+            {
+                "id": "ST03-008",
+                "number": "ST03-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-008.png"
+            },
+            {
+                "id": "ST03-009",
+                "number": "ST03-009",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Donquixote Doflamingo",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 7 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือเจ้าของ.",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-009.png"
+            },
+            {
+                "id": "ST03-010",
+                "number": "ST03-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bartholomew Kuma",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำมาเรียงในลำดับใดก็ได้, แล้วจึงค่อยนำการ์ดเหล่านั้น ไปวางที่ข้างบน หรือข้างใต้เด็ค.",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-010.png"
+            },
+            {
+                "id": "ST03-011",
+                "number": "ST03-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "บากี้ส์เดลิเวอรี่"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-011.png"
+            },
+            {
+                "id": "ST03-012",
+                "number": "ST03-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Pacifista",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อาวุธชีวภาพ",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-012.png"
+            },
+            {
+                "id": "ST03-013",
+                "number": "ST03-013",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Boa Hancock",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-013.png"
+            },
+            {
+                "id": "ST03-014",
+                "number": "ST03-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Marshall.D.Teach",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือเจ้าของ.",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-014.png"
+            },
+            {
+                "id": "ST03-015",
+                "number": "ST03-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Sables",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 7 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือเจ้าของ.",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-015.png"
+            },
+            {
+                "id": "ST03-016",
+                "number": "ST03-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Thrust Pad Cannon",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เคาน์เตอร์] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือเจ้าของ.",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-016.png"
+            },
+            {
+                "id": "ST03-017",
+                "number": "ST03-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Love-Love Mellow",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมี พาวเวอร์ + 4000. จากนั้น, ถ้าเรามีการ์ดบนมือ จำนวน 3 ใบ หรือน้อยกว่า, จั่วการ์ด 1 ใบ.",
+                "card_set": "-The Seven Warlords of the Sea- [ST-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-017.png"
+            }
+        ]
+    }
+}

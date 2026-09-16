@@ -1,0 +1,374 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563009,
+        "language": "th"
+    },
+    "data": {
+        "code": "ST09",
+        "cards": [
+            {
+                "id": "ST09-001",
+                "number": "ST09-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Yamato",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [ในเทิร์นของคู่แข่ง] ถ้าเรามีไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, ลีดเดอร์นี้, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-001.png"
+            },
+            {
+                "id": "ST09-002",
+                "number": "ST09-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Uzuki Tempura",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, และนำการ์ดใบนี้ เพิ่มขึ้นสู่บนมือ.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-002.png"
+            },
+            {
+                "id": "ST09-003",
+                "number": "ST09-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ulti",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดร้อยอสูร"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-003.png"
+            },
+            {
+                "id": "ST09-004",
+                "number": "ST09-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kaido",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดร้อยอสูร"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] ถ้าเรามี ไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, คาแรกเตอร์นี้จะไม่ถูก KO จากการแบทเทิล.",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-004.png"
+            },
+            {
+                "id": "ST09-005",
+                "number": "ST09-005",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kouzuki Oden",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "ตระกูลโคสึกิ"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] คาแรกเตอร์นี้จะได้รับ [ดับเบิ้ลแอทแทค] (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย) [เมื่อถูก KO] สามารถทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ : นำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ ไปวางเพิ่มที่บนสุดของไลฟ์ตัวเอง.",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-005.png"
+            },
+            {
+                "id": "ST09-006",
+                "number": "ST09-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kouzuki Momonosuke",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "ตระกูลโคสึกิ"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-006.png"
+            },
+            {
+                "id": "ST09-007",
+                "number": "ST09-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Shinobu",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อบล็อก] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : ในแบทเทิลนี้, คาแรกเตอร์นี้, จะมีพาวเวอร์ +4000.",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-007.png"
+            },
+            {
+                "id": "ST09-008",
+                "number": "ST09-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Shimotsuki Ushimaru",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : นำคาแรกเตอร์การ์ด “ธีมสีเหลือง” ที่มีคอสต์ 4 หรือต่ำกว่า ที่มีคุณสมบัติ < วาโนะคุนิ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-008.png"
+            },
+            {
+                "id": "ST09-009",
+                "number": "ST09-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Fugetsu Omusubi",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, และนำการ์ดใบนี้ เพิ่มขึ้นสู่บนมือ.",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-009.png"
+            },
+            {
+                "id": "ST09-010",
+                "number": "ST09-010",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Portgas.D.Ace",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์นี้กำลังจะถูก KO ไม่ว่าจากกรณีใดก็ตาม, จะสามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ ไปวางที่แทรช แทนได้.",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-010.png"
+            },
+            {
+                "id": "ST09-011",
+                "number": "ST09-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-011.png"
+            },
+            {
+                "id": "ST09-012",
+                "number": "ST09-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Yamato",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อโจมตี] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : จนถึงช่วงเริ่มต้นเทิร์นถัดไปของเรา, คาแรกเตอร์นี้, จะมีพาวเวอร์ +2000.",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-012.png"
+            },
+            {
+                "id": "ST09-013",
+                "number": "ST09-013",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Yamato",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-013.png"
+            },
+            {
+                "id": "ST09-014",
+                "number": "ST09-014",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Narikabura Arrow",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] สามารถทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ : นำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] ถ้าเรามี ไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ –3000.",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-014.png"
+            },
+            {
+                "id": "ST09-015",
+                "number": "ST09-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Thunder Bagua",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +4000. จากนั้น, ถ้าเรามี ไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, จะนำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์เจ้าของเดิม แบบหงายหน้า.",
+                "card_set": "-Side Yamato- [ST-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST09-015.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1261 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563701,
+        "language": "th"
+    },
+    "data": {
+        "code": "FamilyDeckSet",
+        "cards": [
+            {
+                "id": "ST01-001_p1",
+                "number": "ST01-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-001_p1.png"
+            },
+            {
+                "id": "ST01-002_r1",
+                "number": "ST01-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "cost": "2",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 2] [เมื่อโจมตี] ในแบทเทิลนี้, คู่แข่งจะไม่สามารถใช้งาน [บล็อกเกอร์] ของคาแรกเตอร์ ที่มีพาวเวอร์ 5000 หรือสูงกว่า.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-002_r1.png"
+            },
+            {
+                "id": "ST01-003_r1",
+                "number": "ST01-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Karoo",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-003_r1.png"
+            },
+            {
+                "id": "ST01-004_r1",
+                "number": "ST01-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 2] คาแรกเตอร์นี้จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-004_r1.png"
+            },
+            {
+                "id": "ST01-005_r1",
+                "number": "ST01-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา (ยกเว้นคาแรกเตอร์นี้) จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-005_r1.png"
+            },
+            {
+                "id": "ST01-006_r1",
+                "number": "ST01-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-006_r1.png"
+            },
+            {
+                "id": "ST01-007_r1",
+                "number": "ST01-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-007_r1.png"
+            },
+            {
+                "id": "ST01-008_r1",
+                "number": "ST01-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-008_r1.png"
+            },
+            {
+                "id": "ST01-009_r1",
+                "number": "ST01-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nefeltari Vivi",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-009_r1.png"
+            },
+            {
+                "id": "ST01-010_r1",
+                "number": "ST01-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-010_r1.png"
+            },
+            {
+                "id": "ST01-011_r1",
+                "number": "ST01-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 2 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-011_r1.png"
+            },
+            {
+                "id": "ST01-012_r1",
+                "number": "ST01-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [ด้ง!! x 2] [เมื่อโจมตี] ในแบทเทิลนี้, คู่แข่งจะไม่สามารถใช้งาน [บล็อกเกอร์].",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-012_r1.png"
+            },
+            {
+                "id": "ST01-013_r1",
+                "number": "ST01-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] คาแรกเตอร์นี้, จะมีพาวเวอร์ +1000.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-013_r1.png"
+            },
+            {
+                "id": "ST01-014_r2",
+                "number": "ST01-014",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Guard Point",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-014_r2.png"
+            },
+            {
+                "id": "ST01-015_r2",
+                "number": "ST01-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Jet Pistol",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 6000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-015_r2.png"
+            },
+            {
+                "id": "ST01-016_r1",
+                "number": "ST01-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Diable Jambe",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, ที่มีความสามารถ [บล็อกเกอร์] จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] เลือก ลีดเดอร์ หรือ คาแรกเตอร์ ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > ของเรา จำนวนไม่เกิน 1 ใบ, ในเทิร์นนี้, คู่แข่งจะไม่สามารถใช้งาน [บล็อกเกอร์] ในขณะที่ลีดเดอร์ หรือ คาแรกเตอร์นั้น ทำการโจมตี.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-016_r1.png"
+            },
+            {
+                "id": "ST01-017_r1",
+                "number": "ST01-017",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Thousand Sunny",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ สเตจนี้ : ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-017_r1.png"
+            },
+            {
+                "id": "ST02-001_p1",
+                "number": "ST02-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Eustass “Captain” Kid (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] (3) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ), สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ทำการ แอ็คทีฟ ลีดเดอร์นี้.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-001_p1.png"
+            },
+            {
+                "id": "ST02-002_r1",
+                "number": "ST02-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Vito",
+                "cost": "3",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดไฟร์แทงค์"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-002_r1.png"
+            },
+            {
+                "id": "ST02-003_r1",
+                "number": "ST02-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Urouge",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดนักบวชนอกรีต"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] ถ้าเรามีคาแรกเตอร์ จำนวน 3 ใบ หรือมากกว่า, คาแรกเตอร์นี้, จะมีพาวเวอร์ +2000.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-003_r1.png"
+            },
+            {
+                "id": "ST02-004_r1",
+                "number": "ST02-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Capone “Gang” Bege",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดไฟร์แทงค์"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-004_r1.png"
+            },
+            {
+                "id": "ST02-005_r1",
+                "number": "ST02-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Killer",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มี คอสต์ 3 หรือต่ำกว่า ที่กำลังเรสต์อยู่ จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-005_r1.png"
+            },
+            {
+                "id": "ST02-006_r1",
+                "number": "ST02-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Koby",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-006_r1.png"
+            },
+            {
+                "id": "ST02-007_r1",
+                "number": "ST02-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jewelry Bonney",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดบอนนี่"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] (1) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ), สามารถ เรสต์ คาแรกเตอร์นี้ : ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ดที่มีคุณสมบัติ < ซูเปอร์โนวา> จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-007_r1.png"
+            },
+            {
+                "id": "ST02-008_r1",
+                "number": "ST02-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Scratchmen Apoo",
+                "cost": "2",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดออนแอร์"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ทำให้ ด้ง!! ของคู่แข่ง จำนวนไม่เกิน 1 ใบ เปลี่ยนเป็น เรสต์.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-008_r1.png"
+            },
+            {
+                "id": "ST02-009_r1",
+                "number": "ST02-009",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ทำการ แอ็คทีฟ คาแรกเตอร์ของเราที่กำลังเรสต์อยู่, ที่มีคอสต์ 5 หรือต่ำกว่า ที่มีคุณสมบัติ < ซูเปอร์โนวา> หรือ < กลุ่มโจรสลัดฮาร์ท > จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-009_r1.png"
+            },
+            {
+                "id": "ST02-010_r1",
+                "number": "ST02-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Basil Hawkins",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮอว์คินส์"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เทิร์นละ 1 ครั้ง] [เทิร์นตัวเอง] ถ้าคาแรกเตอร์นี้ แบทเทิลกับ คาแรกเตอร์ของคู่แข่ง, ทำการ แอ็คทีฟ คาแรกเตอร์นี้.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-010_r1.png"
+            },
+            {
+                "id": "ST02-011_r1",
+                "number": "ST02-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Heat",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-011_r1.png"
+            },
+            {
+                "id": "ST02-012_r1",
+                "number": "ST02-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bepo",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามิงค์",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-012_r1.png"
+            },
+            {
+                "id": "ST02-013_r1",
+                "number": "ST02-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Eustass “Captain” Kid",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ด้ง!! x 1] [เมื่อจบเทิร์นตัวเอง] ทำการ แอ็คทีฟ คาแรกเตอร์นี้.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-013_r1.png"
+            },
+            {
+                "id": "ST02-014_r1",
+                "number": "ST02-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "X.Drake",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดเดรค"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เทิร์นตัวเอง] ถ้าคาแรกเตอร์นี้กำลังเรสต์อยู่, ลีดเดอร์ และ คาแรกเตอร์ ที่มีคุณสมบัติ < กองทัพเรือ > และ < ซูเปอร์โนวา> ของเราทั้งหมด, จะมีพาวเวอร์ +1000",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-014_r1.png"
+            },
+            {
+                "id": "ST02-015_r1",
+                "number": "ST02-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Scalpel",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 2 ใบ เปลี่ยนเป็น แอ็คทีฟ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000. จากนั้น, ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-015_r1.png"
+            },
+            {
+                "id": "ST02-016_r1",
+                "number": "ST02-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Repel",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +4000. จากนั้น, ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-016_r1.png"
+            },
+            {
+                "id": "ST02-017_r1",
+                "number": "ST02-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Straw Sword",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำการ์ด ที่มีคอสต์ 2 หรือต่ำกว่า ที่มีคุณสมบัติ < ซูเปอร์โนวา> จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮอว์คินส์"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST02-017_r1.png"
+            },
+            {
+                "id": "ST05-001_r1",
+                "number": "ST05-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Shanks",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 3 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ในเทิร์นนี้, คาแรกเตอร์ของเราทั้งหมด ที่มีคุณสมบัติ < FILM >, จะมีพาวเวอร์ +2000.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-001_r1.png"
+            },
+            {
+                "id": "ST05-002_r1",
+                "number": "ST05-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ain",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มทหารเรือ NEO"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-002_r1.png"
+            },
+            {
+                "id": "ST05-003_r1",
+                "number": "ST05-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ann",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "เทศกาลโจรสลัด"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-003_r1.png"
+            },
+            {
+                "id": "ST05-004_r1",
+                "number": "ST05-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Uta",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    ""
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อบล็อก] ด้ง!! -1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-004_r1.png"
+            },
+            {
+                "id": "ST05-005_r1",
+                "number": "ST05-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Carina",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "แกรนด์ • เตโซโร"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ คาแรกเตอร์นี้, และนำการ์ดจากบนมือของเรา ที่มีคุณสมบัติ < FLIM > จำนวน 1 ใบ ไปวางที่แทรช : ถ้าจำนวน ด้ง!! ในสนามของคู่แข่ง มีมากกว่าจำนวน ด้ง!! ในสนามของเรา, นำ ด้ง!! จากด้ง!! เด็ค จำนวน 2 ใบ มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-005_r1.png"
+            },
+            {
+                "id": "ST05-006_r1",
+                "number": "ST05-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gild Tesoro",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "แกรนด์ • เตโซโร"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อโจมตี] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : จั่วการ์ด 2 ใบ.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-006_r1.png"
+            },
+            {
+                "id": "ST05-007_r1",
+                "number": "ST05-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gordon",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    ""
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-007_r1.png"
+            },
+            {
+                "id": "ST05-008_r1",
+                "number": "ST05-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Shiki",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มโจรสลัดราชสีห์ทองคำ"
+                ],
+                "block_icon": "1",
+                "effect": "ถ้าในสนามของเรามี ด้ง!! อยู่ 8 ใบ หรือมากกว่า, คาแรกเตอร์นี้จะไม่ถูก KO จากการแบทเทิล.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-008_r1.png"
+            },
+            {
+                "id": "ST05-009_r1",
+                "number": "ST05-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Scarlet",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "สัตว์",
+                    "กลุ่มโจรสลัดราชสีห์ทองคำ"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-009_r1.png"
+            },
+            {
+                "id": "ST05-010_r1",
+                "number": "ST05-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Z",
+                "cost": "7",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มทหารเรือ NEO"
+                ],
+                "block_icon": "1",
+                "effect": "ถ้าคาแรกเตอร์นี้ แบทเทิลกับ คาแรกเตอร์ ที่มีคุณลักษณะ (ตี), ในเทิร์นนี้, คาแรกเตอร์นี้จะมีพาวเวอร์ +3000. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ในเทิร์นนี้, คาแรกเตอร์นี้จะมีพาวเวอร์ +2000.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-010_r1.png"
+            },
+            {
+                "id": "ST05-011_r1",
+                "number": "ST05-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Douglas Bullet",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "เทศกาลโจรสลัด"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 4 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 6 หรือต่ำกว่า จำนวนไม่เกิน 2 ใบ. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์นี้จะได้รับ [ดับเบิ้ลแอทแทค]. (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย)",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-011_r1.png"
+            },
+            {
+                "id": "ST05-012_r1",
+                "number": "ST05-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Baccarat",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "แกรนด์ • เตโซโร"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-012_r1.png"
+            },
+            {
+                "id": "ST05-013_r1",
+                "number": "ST05-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Bins",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มทหารเรือ NEO"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-013_r1.png"
+            },
+            {
+                "id": "ST05-014_r1",
+                "number": "ST05-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Buena Festa",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "เทศกาลโจรสลัด"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ดที่มีคุณสมบัติ < FILM > นอกเหนือจาก [Buena Festa] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-014_r1.png"
+            },
+            {
+                "id": "ST05-015_r1",
+                "number": "ST05-015",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Dr. Indigo",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มโจรสลัดราชสีห์ทองคำ"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-015_r1.png"
+            },
+            {
+                "id": "ST05-016_r1",
+                "number": "ST05-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Lion’s Treat Imperial Earth Bind",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มโจรสลัดราชสีห์ทองคำ"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-016_r1.png"
+            },
+            {
+                "id": "ST05-017_r1",
+                "number": "ST05-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Union Armada",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "เทศกาลโจรสลัด"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา ที่มีคุณสมบัติ < FILM > จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +4000. ถ้าการ์ดใบนั้นเป็น คาแรกเตอร์, ในเทิร์นนี้, คาแรกเตอร์นั้นจะไม่ถูก KO ไม่ว่าจากกรณีใดก็ตาม.",
+                "card_set": "Family Deck Set",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-017_r1.png"
+            }
+        ]
+    }
+}

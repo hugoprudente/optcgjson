@@ -1,0 +1,380 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563025,
+        "language": "th"
+    },
+    "data": {
+        "code": "ST25",
+        "cards": [
+            {
+                "id": "OP09-042_p2",
+                "number": "OP09-042",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Buggy",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 5 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < ครอสกิลด์ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.png"
+            },
+            {
+                "id": "OP09-043_r1",
+                "number": "OP09-043",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Alvida",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อถูก KO] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ครอสกิลด์ > ละก็, จะนำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า นอกเหนือจาก [Alvida] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-043_r1.png"
+            },
+            {
+                "id": "OP09-045_r1",
+                "number": "OP09-045",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Cabaji",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าคาแรกเตอร์ของฝ่ายเรามี [Buggy] หรือ [Mohji] อยู่ด้วยละก็, คาแรกเตอร์นี้จะไม่ถูก KO จากการแบทเทิล.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-045_r1.png"
+            },
+            {
+                "id": "OP09-051_r1",
+                "number": "OP09-051",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ. จากนั้น, ถ้าเราไม่มีคาแรกเตอร์ ที่มีคอสต์ 5 หรือสูงกว่า จำนวน 5 ใบ อยู่ด้วยละก็, คาแรกเตอร์นี้ จะถูกนำไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-051_r1.png"
+            },
+            {
+                "id": "OP09-053_r1",
+                "number": "OP09-053",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Mohji",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำ [Richie] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, แล้วนำ [Richie] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-053_r1.png"
+            },
+            {
+                "id": "OP09-054_r1",
+                "number": "OP09-054",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Richie",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-054_r1.png"
+            },
+            {
+                "id": "OP09-055_r1",
+                "number": "OP09-055",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr.1(Daz.Bonez)",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์",
+                    "อดีต B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-055_r1.png"
+            },
+            {
+                "id": "OP09-056_r1",
+                "number": "OP09-056",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.3(Galdino)",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์",
+                    "อดีต B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ครอสกิลด์ > หรือว่า ที่ระบุคำว่า [B•W] รวมอยู่ในคุณสมบัติ จำนวนไม่เกิน 1 ใบ นอกเหนือจาก [Mr.3(Galdino)] มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-056_r1.png"
+            },
+            {
+                "id": "OP09-057_p1",
+                "number": "OP09-057",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Cross Guild",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ครอสกิลด์ > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-057_p1.png"
+            },
+            {
+                "id": "P-084_r1",
+                "number": "P-084",
+                "type": "P",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์นี้ จะไม่สามารถโจมตี. ถ้าลีดเดอร์ของเราคือ [Buggy] ละก็, คาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 กับ คอสต์ 4 ทั้งหมด จะไม่สามารถโจมตี. [เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 6 หรือต่ำกว่า และมีคุณสมบัติ < ครอสกิลด์ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/P-084_r1.png"
+            },
+            {
+                "id": "ST25-001",
+                "number": "ST25-001",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Alvida",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าเรามี คาแรกเตอร์ ที่มีคอสต์ตั้งต้น 5 หรือสูงกว่า อยู่จำนวน 2 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้ จะมีคอสต์ +1. [เมื่อลงสนาม] ถ้าลีดเดอร์ของเราคือ [Buggy] ละก็, จะจั่วการ์ด จำนวน 3 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST25-001.png"
+            },
+            {
+                "id": "ST25-002",
+                "number": "ST25-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Cabaji",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าเรามี คาแรกเตอร์ ที่มีคอสต์ตั้งต้น 5 หรือสูงกว่า อยู่จำนวน 2 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้ จะได้รับ [บล็อกเกอร์], และจะมีคอสต์ +1. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ในเทิร์นของคู่แข่ง] คาแรกเตอร์นี้ จะมีพาวเวอร์ +5000.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST25-002.png"
+            },
+            {
+                "id": "ST25-003",
+                "number": "ST25-003",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Crocodile & Mihawk",
+                "cost": "8",
+                "attribute": [
+                    "ฟัน",
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์",
+                    "อดีต B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ. จากนั้น, จะได้นำ คาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < ครอสกิลด์ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. [เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์ของฝ่ายเรา ที่มีคุณสมบัติ < ครอสกิลด์ > กำลังจะถูกนำออกจากสนาม โดยความสามารถของฝ่ายคู่แข่ง, จะสามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ แทนได้.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST25-003.png"
+            },
+            {
+                "id": "ST25-004",
+                "number": "ST25-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ, และนำคาแรกเตอร์นี้ ไปวางที่แทรช : ถ้าลีดเดอร์ของเรา คือ [Buggy] ละก็, นำ คาแรกเตอร์การ์ด ที่มีคอสต์ 6 หรือต่ำกว่า และมีคุณสมบัติ < ครอสกิลด์ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST25-004.png"
+            },
+            {
+                "id": "ST25-005",
+                "number": "ST25-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mohji",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าเรามี คาแรกเตอร์ ที่มีคอสต์ตั้งต้น 5 หรือสูงกว่า อยู่จำนวน 2 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้ จะได้รับ [บล็อกเกอร์], และจะมีคอสต์ +1. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO] ถ้าลีดเดอร์ของเราคือ [Buggy], และเรามีการ์ดบนมืออยู่ จำนวน 3 ใบ หรือน้อยกว่าละก็, จะได้จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Blue Buggy- [ST-25]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST25-005.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,374 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 1464080757,
+        "language": "ko"
+    },
+    "data": {
+        "code": "ST09",
+        "cards": [
+            {
+                "id": "ST09-001",
+                "number": "ST09-001",
+                "type": "L",
+                "class": "리더",
+                "name": "야마토",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】【상대의 턴 동안】자신의 라이프가 2장 이하인 경우, 이 리더의 파워 +1000.",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041102050072"
+            },
+            {
+                "id": "ST09-002",
+                "number": "ST09-002",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "우즈키 텐푸라",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "1",
+                "effect": "【트리거】 상대의 코스트 2 이하인 캐릭터를 1장까지 레스트로 하고, 이 카드를 패에 더한다.",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041102322396"
+            },
+            {
+                "id": "ST09-003",
+                "number": "ST09-003",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "울티",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041102430911"
+            },
+            {
+                "id": "ST09-004",
+                "number": "ST09-004",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "카이도",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "사황",
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】자신의 라이프가 2장 이하인 경우, 이 캐릭터는 배틀에서는 KO당하지 않는다.",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041102562731"
+            },
+            {
+                "id": "ST09-005",
+                "number": "ST09-005",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "코즈키 오뎅",
+                "cost": "7",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "코즈키 가문"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】이 캐릭터는 【더블 어택】을 얻는다.<br>\r\n(이 카드가 주는 대미지는 2가 된다)<br>\r\n【KO 시】자신의 패 2장을 버릴 수 있다: 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041103169911"
+            },
+            {
+                "id": "ST09-006",
+                "number": "ST09-006",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "코즈키 모모노스케",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "코즈키 가문"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041103297545"
+            },
+            {
+                "id": "ST09-007",
+                "number": "ST09-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "시노부",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)<br>\r\n【블록 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 이번 배틀 동안, 이 캐릭터의 파워 +4000.",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041103594771"
+            },
+            {
+                "id": "ST09-008",
+                "number": "ST09-008",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "시모츠키 우시마루",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】【어택 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 자신의 패에서 코스트 4 이하이고 황색인 《와노쿠니》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041104206785"
+            },
+            {
+                "id": "ST09-009",
+                "number": "ST09-009",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "후게츠 오무스비",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "상대의 코스트 1 이하인 캐릭터를 1장까지 KO하고, 이 카드를 패에 더한다.",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041104359866"
+            },
+            {
+                "id": "ST09-010",
+                "number": "ST09-010",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "포트거스 D. 에이스",
+                "cost": "6",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【턴 1회】이 캐릭터가 KO 당할 경우, 대신 자신의 라이프 위나 아래에서 1장을 트래시에 놓을 수 있다.",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041104560742"
+            },
+            {
+                "id": "ST09-011",
+                "number": "ST09-011",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041105130191"
+            },
+            {
+                "id": "ST09-012",
+                "number": "ST09-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "야마토",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "1",
+                "effect": "【어택 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 다음 자신의 턴 개시 시까지 이 캐릭터의 파워 +2000.",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041105273118"
+            },
+            {
+                "id": "ST09-013",
+                "number": "ST09-013",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "야마토",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041105421891"
+            },
+            {
+                "id": "ST09-014",
+                "number": "ST09-014",
+                "type": "C",
+                "class": "이벤트",
+                "name": "우는살",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "자신의 패 2장을 버릴 수 있다: 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】자신의 라이프가 2장 이하인 경우, 이번 턴 동안, 상대의 리더 또는 캐릭터 1장까지의 파워 -3000.",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041109120176"
+            },
+            {
+                "id": "ST09-015",
+                "number": "ST09-015",
+                "type": "C",
+                "class": "이벤트",
+                "name": "뇌명팔괘",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "카드를 1장 뽑는다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000. 그 후, 자신의 라이프가 2장 이하인 경우, 상대의 코스트 3 이하인 캐릭터를 1장까지 주인의 라이프 맨 위나 아래에 앞면으로 더한다.",
+                "card_set": "[STK-09] 스타트 덱 Side 야마토",
+                "image_url": "/fileDownload?downname=202409041110160377"
+            }
+        ]
+    }
+}

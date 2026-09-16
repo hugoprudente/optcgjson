@@ -1,0 +1,2608 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 1105896537,
+        "language": "ko"
+    },
+    "data": {
+        "code": "EB02",
+        "cards": [
+            {
+                "id": "EB01-001_P2",
+                "number": "EB01-001",
+                "type": "L",
+                "class": "리더",
+                "name": "코즈키 오뎅",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색",
+                    "녹색",
+                    "다색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "코즈키 가문"
+                ],
+                "block_icon": "2",
+                "effect": "룰상, 자신의 《와노쿠니》 특징을 가지고 카운터가 없는 모든 캐릭터 카드는 카운터 +1000을 가진다.\r\n【두웅!!×1】【어택 시】자신의 코스트 5 이상인 《와노쿠니》 특징을 가진 캐릭터가 있을 경우, 다음 자신의 턴 개시 시까지, 이 리더의 파워 +1000.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160320_87d2ec571f"
+            },
+            {
+                "id": "EB01-021_P2",
+                "number": "EB01-021",
+                "type": "L",
+                "class": "리더",
+                "name": "한냐발",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "청색",
+                    "자색",
+                    "다색"
+                ],
+                "feature": [
+                    "임펠 다운"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 종료 시】자신의 코스트 2 이상인 《임펠 다운》 특징을 가진 캐릭터 1장을 주인의 패로 되돌릴 수 있다: 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160327_359b29ba4b"
+            },
+            {
+                "id": "EB01-040_P2",
+                "number": "EB01-040",
+                "type": "L",
+                "class": "리더",
+                "name": "퀴로스",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "흑색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "드레스로자"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 라이프 위에서 1장을 앞면으로 할 수 있다: 상대의 코스트 0인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160334_60416512ac"
+            },
+            {
+                "id": "EB02-001",
+                "number": "EB02-001",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "카루",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "동물",
+                    "알라바스타 왕국"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153605_42742ba2e0"
+            },
+            {
+                "id": "EB02-002",
+                "number": "EB02-002",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "사보",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "드레스로자",
+                    "혁명군"
+                ],
+                "block_icon": "3",
+                "effect": "【기동: 메인】이 캐릭터를 레스트할 수 있다: 이번 턴 동안, 자신의 「사보」 이외의 《혁명군》 특징을 가진 캐릭터 1장까지의 파워 +2000.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153629_127b2cd34b"
+            },
+            {
+                "id": "EB02-003",
+                "number": "EB02-003",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "토니토니 쵸파",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "동물",
+                    "드럼 왕국",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【두웅!!×2】【상대의 턴 동안】이 캐릭터의 파워 +2000.\r\n【등장 시】자신의 리더가 《밀짚모자 일당》 특징을 가진 경우, 자신의 리더 또는 캐릭터 1장에게 레스트 상태인 두웅!!을 1장까지 부여한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153635_253748f0af"
+            },
+            {
+                "id": "EB02-003_P1",
+                "number": "EB02-003",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "토니토니 쵸파",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "동물",
+                    "드럼 왕국",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【두웅!!×2】【상대의 턴 동안】이 캐릭터의 파워 +2000.\r\n【등장 시】자신의 리더가 《밀짚모자 일당》 특징을 가진 경우, 자신의 리더 또는 캐릭터 1장에게 레스트 상태인 두웅!!을 1장까지 부여한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153642_f7e22da4db"
+            },
+            {
+                "id": "EB02-004",
+                "number": "EB02-004",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "돈 앗치노",
+                "cost": "8",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "앗치노 패밀리"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153650_1614cdb8a2"
+            },
+            {
+                "id": "EB02-005",
+                "number": "EB02-005",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "가짜 밀짚모자 일당",
+                "cost": "2",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "가짜 밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【자신의 턴 동안】이 캐릭터의 파워 +2000.\r\n【상대의 턴 동안】이 캐릭터의 파워 -2000.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153714_36a59aec79"
+            },
+            {
+                "id": "EB02-006",
+                "number": "EB02-006",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "야마토",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "3",
+                "effect": "【기동: 메인】【턴 1회】자신의 리더가 《와노쿠니》 특징을 가지거나 「포트거스 D. 에이스」인 경우, 자신의 리더 1장에게 레스트 상태인 두웅!!을 1장까지 부여한다. 그 후, 이번 턴 동안, 이 캐릭터는 【속공】을 얻는다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153721_94b5e4fa0c"
+            },
+            {
+                "id": "EB02-006_P1",
+                "number": "EB02-006",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "야마토",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "3",
+                "effect": "【기동: 메인】【턴 1회】자신의 리더가 《와노쿠니》 특징을 가지거나 「포트거스 D. 에이스」인 경우, 자신의 리더 1장에게 레스트 상태인 두웅!!을 1장까지 부여한다. 그 후, 이번 턴 동안, 이 캐릭터는 【속공】을 얻는다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153729_2bfd456108"
+            },
+            {
+                "id": "EB02-007",
+                "number": "EB02-007",
+                "type": "C",
+                "class": "이벤트",
+                "name": "발굽 로제오 미쩰리",
+                "cost": "3",
+                "attribute": [
+                    "-"
+                ],
+                "trigger": "【트리거】상대의 파워 4000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "동물",
+                    "워터 세븐",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【메인】이번 턴 동안, 자신의 리더와 캐릭터 합계 3장까지의 파워 +1000. 그 후, 상대의 파워 3000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153739_c1ab2c0e27"
+            },
+            {
+                "id": "EB02-008",
+                "number": "EB02-008",
+                "type": "R",
+                "class": "이벤트",
+                "name": "최고 도달점",
+                "cost": "2",
+                "attribute": [
+                    "-"
+                ],
+                "trigger": "【트리거】이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "음악"
+                ],
+                "block_icon": "3",
+                "effect": "【메인】자신의 덱 위에서 4장을 보고, 코스트 4 이상인 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153750_7b9bca0224"
+            },
+            {
+                "id": "EB02-009",
+                "number": "EB02-009",
+                "type": "C",
+                "class": "스테이지",
+                "name": "사우전드 써니 호",
+                "cost": "2",
+                "attribute": [
+                    "-"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【기동: 메인】이 스테이지를 레스트할 수 있다: 자신의 부여되어 있는 두웅!!을 1장까지 자신의 《밀짚모자 일당》 특징을 가진 캐릭터 1장에게 부여한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153756_d06f820cb5"
+            },
+            {
+                "id": "EB02-010",
+                "number": "EB02-010",
+                "type": "L",
+                "class": "리더",
+                "name": "몽키 D. 루피",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색",
+                    "자색",
+                    "다색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【기동: 메인】【턴 1회】두웅!!-2: 자신 필드의 캐릭터가 《밀짚모자 일당》 특징을 가진 캐릭터뿐이라면, 자신의 두웅!!을 2장까지 액티브로 한다. 그 후, 다음 상대의 턴 종료 시까지, 이 리더의 파워 +1000.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153803_8bffedf364"
+            },
+            {
+                "id": "EB02-010_P1",
+                "number": "EB02-010",
+                "type": "L",
+                "class": "리더",
+                "name": "몽키 D. 루피",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색",
+                    "자색",
+                    "다색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【기동: 메인】【턴 1회】두웅!!-2: 자신 필드의 캐릭터가 《밀짚모자 일당》 특징을 가진 캐릭터뿐이라면, 자신의 두웅!!을 2장까지 액티브로 한다. 그 후, 다음 상대의 턴 종료 시까지, 이 리더의 파워 +1000.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153810_525fa69be6"
+            },
+            {
+                "id": "EB02-011",
+                "number": "EB02-011",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "아론",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "이스트 블루",
+                    "아론 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 리더가 《어인족》 또는 《이스트 블루》 특징을 가진 경우, 자신의 리더 1장에게 레스트 상태인 두웅!!을 1장까지 부여한다. 그 후, 다음 상대의 턴 종료 시까지, 상대의 코스트 5 이하인 캐릭터 1장까지는 레스트할 수 없다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153817_89de2a594d"
+            },
+            {
+                "id": "EB02-011_P1",
+                "number": "EB02-011",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "아론",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "이스트 블루",
+                    "아론 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 리더가 《어인족》 또는 《이스트 블루》 특징을 가진 경우, 자신의 리더 1장에게 레스트 상태인 두웅!!을 1장까지 부여한다. 그 후, 다음 상대의 턴 종료 시까지, 상대의 코스트 5 이하인 캐릭터 1장까지는 레스트할 수 없다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153827_0129eaaa7a"
+            },
+            {
+                "id": "EB02-012",
+                "number": "EB02-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "가이몬",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "3",
+                "effect": "자신의 「사펑클」이 있을 경우, 이 캐릭터는 【블로커】를 얻는다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153847_f17dfb2fe3"
+            },
+            {
+                "id": "EB02-013",
+                "number": "EB02-013",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "캐럿",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "밍크족"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신 필드의 두웅!!이 3장 이상인 경우, 자신의 덱 위에서 7장을 보고, 「조」를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌리고, 자신의 패에서 「조」를 1장까지 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153856_5dc84d8c72"
+            },
+            {
+                "id": "EB02-014",
+                "number": "EB02-014",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "서팡클",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 패에서 「가이몬」을 1장까지 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153903_729a621d31"
+            },
+            {
+                "id": "EB02-015",
+                "number": "EB02-015",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "쥬얼리 보니",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "보니 해적단"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】상대의 레스트 상태인 캐릭터 1장까지는 다음 상대의 리프레시 페이즈에 액티브 되지 않는다. 그 후, 이번 턴 종료 시, 자신의 두웅!!을 1장까지 액티브로 한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153935_9451803d2b"
+            },
+            {
+                "id": "EB02-015_P1",
+                "number": "EB02-015",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "쥬얼리 보니",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "보니 해적단"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】상대의 레스트 상태인 캐릭터 1장까지는 다음 상대의 리프레시 페이즈에 액티브 되지 않는다. 그 후, 이번 턴 종료 시, 자신의 두웅!!을 1장까지 액티브로 한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153942_4d336d4372"
+            },
+            {
+                "id": "EB02-016",
+                "number": "EB02-016",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "쵸파맨",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "동물",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "룰상, 이 카드의 카드명은 「토니토니 쵸파」로도 취급한다.\r\n【등장 시】자신의 패에서 코스트 3 이하인 《동물》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153950_41cf03f4d4"
+            },
+            {
+                "id": "EB02-017",
+                "number": "EB02-017",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "나미",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「나미」 이외의 《밀짚모자 일당》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_153957_6a20e03789"
+            },
+            {
+                "id": "EB02-017_P1",
+                "number": "EB02-017",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "나미",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「나미」 이외의 《밀짚모자 일당》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154004_d4f3f65b37"
+            },
+            {
+                "id": "EB02-018",
+                "number": "EB02-018",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "버기",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "【트리거】상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "버기 해적단"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 캐릭터인 다른 「버기」가 없는 경우, 이번 턴 동안, 자신의 리더 1장까지는 【더블 어택】을 얻는다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154016_1c1b7d0c75"
+            },
+            {
+                "id": "EB02-019",
+                "number": "EB02-019",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "롤로노아 조로",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "상대의 캐릭터가 2장 이상인 경우, 이 캐릭터는 등장한 턴에 캐릭터를 어택할 수 있다.\r\n【등장 시】자신의 리더가 《밀짚모자 일당》 특징을 가진 경우, 상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154028_86a53db5bd"
+            },
+            {
+                "id": "EB02-020",
+                "number": "EB02-020",
+                "type": "R",
+                "class": "이벤트",
+                "name": "We are!",
+                "cost": "2",
+                "attribute": [
+                    "-"
+                ],
+                "trigger": "【트리거】이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "음악"
+                ],
+                "block_icon": "3",
+                "effect": "【메인】자신의 덱 위에서 4장을 보고, 코스트 4 이상인 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154045_7625eb29a4"
+            },
+            {
+                "id": "EB02-021",
+                "number": "EB02-021",
+                "type": "C",
+                "class": "이벤트",
+                "name": "고무고무 거인의 총",
+                "cost": "3",
+                "attribute": [
+                    "-"
+                ],
+                "trigger": "【트리거】상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【메인】이번 턴 동안, 자신의 《밀짚모자 일당》 특징을 가진 캐릭터 1장까지의 파워 +6000. 그 후, 선택한 캐릭터는 다음 자신의 리프레시 페이즈에 액티브 되지 않는다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154059_ea4801e3d7"
+            },
+            {
+                "id": "EB02-022",
+                "number": "EB02-022",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "우솝",
+                "cost": "4",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 파워 5000 이상인 캐릭터가 2장 이하인 경우, 자신의 패에서 파워 6000 이하이고 원래 효과가 없는 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154107_ff031b86bb"
+            },
+            {
+                "id": "EB02-022_P1",
+                "number": "EB02-022",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "우솝",
+                "cost": "4",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 파워 5000 이상인 캐릭터가 2장 이하인 경우, 자신의 패에서 파워 6000 이하이고 원래 효과가 없는 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154114_828f2251de"
+            },
+            {
+                "id": "EB02-023",
+                "number": "EB02-023",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "크로커다일",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "바로크 워크스"
+                ],
+                "block_icon": "3",
+                "effect": "【자신의 턴 동안】【턴 1회】상대의 캐릭터가 자신의 효과로 주인의 패로 되돌려졌을 때, 자신의 덱 위에서 3장을 보고, 원하는 순서대로 덱 맨 위나 아래로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154141_5df09e0cae"
+            },
+            {
+                "id": "EB02-024",
+                "number": "EB02-024",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "저격왕",
+                "cost": "4",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "저격섬"
+                ],
+                "block_icon": "3",
+                "effect": "룰상, 이 카드의 카드명은 「우솝」으로도 취급한다.\r\n【등장 시】카드를 2장 뽑고, 자신의 패 2장을 원하는 순서대로 덱 맨 아래로 되돌린다. 그 후, 코스트 1 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154227_24e7092fbc"
+            },
+            {
+                "id": "EB02-025",
+                "number": "EB02-025",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "돈키호테 로시난테",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군",
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "3",
+                "effect": "【기동: 메인】자신의 두웅!! 1장과 이 캐릭터를 레스트할 수 있다: 자신의 리더가 「돈키호테 로시난테」인 경우, 자신의 덱 위에서 5장을 보고, 코스트 2 이하인 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154236_8d8bf316c5"
+            },
+            {
+                "id": "EB02-026",
+                "number": "EB02-026",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "네펠타리 비비",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "알라바스타 왕국"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 리더가 다색이고 자신의 패가 5장 이하인 경우, 카드를 2장 뽑는다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154247_6f8aeff7d2"
+            },
+            {
+                "id": "EB02-026_P1",
+                "number": "EB02-026",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "네펠타리 비비",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "알라바스타 왕국"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 리더가 다색이고 자신의 패가 5장 이하인 경우, 카드를 2장 뽑는다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154255_879b3383e5"
+            },
+            {
+                "id": "EB02-027",
+                "number": "EB02-027",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "비스타",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】상대의 파워 1000 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154304_236b937f59"
+            },
+            {
+                "id": "EB02-028",
+                "number": "EB02-028",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "포트거스 D. 에이스",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "알라바스타 왕국",
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 리더가 『흰 수염 해적단』을 포함한 특징을 가진 경우, 자신의 덱 위에서 5장을 보고, 코스트 2인 캐릭터 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌리고, 자신의 패에서 코스트 2인 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154330_0e7d02741e"
+            },
+            {
+                "id": "EB02-029",
+                "number": "EB02-029",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "류 할아버지",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "동물",
+                    "이스트 블루"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154426_a9a674e717"
+            },
+            {
+                "id": "EB02-030",
+                "number": "EB02-030",
+                "type": "C",
+                "class": "이벤트",
+                "name": "그건 동료의 꿈이 비웃음을 당했을 때야!!!!",
+                "cost": "2",
+                "attribute": [
+                    "-"
+                ],
+                "trigger": "【트리거】카드를 1장 뽑는다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "알라바스타 왕국",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【카운터】이번 턴 동안, 자신의 모든 캐릭터는 배틀에서 KO 당할 경우, 대신에 자신의 패 1장을 버릴 수 있다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154432_2904b2c9ce"
+            },
+            {
+                "id": "EB02-031",
+                "number": "EB02-031",
+                "type": "R",
+                "class": "이벤트",
+                "name": "Hope",
+                "cost": "2",
+                "attribute": [
+                    "-"
+                ],
+                "trigger": "【트리거】이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "음악"
+                ],
+                "block_icon": "3",
+                "effect": "【메인】자신의 덱 위에서 4장을 보고, 코스트 4 이상인 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154439_4793321f3f"
+            },
+            {
+                "id": "EB02-032",
+                "number": "EB02-032",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "아이스버그",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "갈레라 컴퍼니"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신 필드의 두웅!!이 3장 이상인 경우, 자신의 덱 위에서 7장을 보고, 「갈레라 컴퍼니」를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌리고, 자신의 패에서 「갈레라 컴퍼니」를 1장까지 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154446_48034735bd"
+            },
+            {
+                "id": "EB02-033",
+                "number": "EB02-033",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "클라바우터만",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "요정"
+                ],
+                "block_icon": "3",
+                "effect": "자신 필드에 「고잉 메리 호」가 있을 경우, 이 캐릭터는 【블로커】를 얻는다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154630_7099437d81"
+            },
+            {
+                "id": "EB02-034",
+                "number": "EB02-034",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "공명",
+                "cost": "4",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "해군",
+                    "폭시 해적단"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154637_05b1c932f6"
+            },
+            {
+                "id": "EB02-035",
+                "number": "EB02-035",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "상디 & 푸딩",
+                "cost": "5",
+                "attribute": [
+                    "타격",
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빅 맘 해적단",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【자신의 턴 동안】【턴 1회】자신 필드의 두웅!!이 2장 이상 두웅!! 덱으로 되돌려졌을 때, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.\r\n【등장 시】자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 카드를 1장 뽑는다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154756_24ed58f07b"
+            },
+            {
+                "id": "EB02-035_P1",
+                "number": "EB02-035",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "상디 & 푸딩",
+                "cost": "5",
+                "attribute": [
+                    "타격",
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빅 맘 해적단",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【자신의 턴 동안】【턴 1회】자신 필드의 두웅!!이 2장 이상 두웅!! 덱으로 되돌려졌을 때, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.\r\n【등장 시】자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 카드를 1장 뽑는다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154803_dbf69ebbe6"
+            },
+            {
+                "id": "EB02-036",
+                "number": "EB02-036",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "니코 로빈",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【블로커】\r\n【KO 시】두웅!!-1: 자신의 덱 위에서 3장을 보고, 《밀짚모자 일당》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154810_8b7f63836d"
+            },
+            {
+                "id": "EB02-036_P1",
+                "number": "EB02-036",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "니코 로빈",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【블로커】\r\n【KO 시】두웅!!-1: 자신의 덱 위에서 3장을 보고, 《밀짚모자 일당》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154829_4bf3a91f4f"
+            },
+            {
+                "id": "EB02-037",
+                "number": "EB02-037",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "프랑키",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】/【어택 시】자신의 리더가 《밀짚모자 일당》 특징을 가지고, 자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154836_9391bf38e2"
+            },
+            {
+                "id": "EB02-038",
+                "number": "EB02-038",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "마젤란",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "임펠 다운"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 패에서 코스트 2 이하인 《임펠 다운》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154845_ecc1d3a9b8"
+            },
+            {
+                "id": "EB02-039",
+                "number": "EB02-039",
+                "type": "C",
+                "class": "이벤트",
+                "name": "제르마 66",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "3",
+                "effect": "【메인】자신의 패에서 파워 4000 이하인 《제르마 66》 특징을 가진 캐릭터 카드를 1장까지 버릴 수 있다: 자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 자신의 트래시에서 파워 5000에서 7000인 버린 카드와 같은 카드명을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154900_07e04d7ffd"
+            },
+            {
+                "id": "EB02-040",
+                "number": "EB02-040",
+                "type": "R",
+                "class": "이벤트",
+                "name": "BRAND NEW WORLD",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【트리거】이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "음악"
+                ],
+                "block_icon": "3",
+                "effect": "【메인】자신의 덱 위에서 4장을 보고, 코스트 4 이상인 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154923_a424c5c77b"
+            },
+            {
+                "id": "EB02-041",
+                "number": "EB02-041",
+                "type": "R",
+                "class": "스테이지",
+                "name": "고잉 메리 호",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 리더가 《밀짚모자 일당》 특징을 가진 경우, 카드를 1장 뽑는다.\r\n【기동: 메인】이 스테이지를 레스트할 수 있다: 자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 다음 상대의 턴 종료 시까지, 자신의 《밀짚모자 일당》 특징을 가진 캐릭터 1장까지의 코스트 +2.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154930_f7ebb33a6d"
+            },
+            {
+                "id": "EB02-042",
+                "number": "EB02-042",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "올 헌트 그런트",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_154952_abbdb11753"
+            },
+            {
+                "id": "EB02-043",
+                "number": "EB02-043",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "조나단",
+                "cost": "7",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155026_cf4f06ffea"
+            },
+            {
+                "id": "EB02-044",
+                "number": "EB02-044",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "센고쿠",
+                "cost": "7",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "3",
+                "effect": "【블로커】\r\n【등장 시】자신의 트래시에서 코스트 4 이하이고 흑색인 《해군》 특징을 가진 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155035_6c76d7f731"
+            },
+            {
+                "id": "EB02-044_P1",
+                "number": "EB02-044",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "센고쿠",
+                "cost": "7",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "3",
+                "effect": "【블로커】\r\n【등장 시】자신의 트래시에서 코스트 4 이하이고 흑색인 《해군》 특징을 가진 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155041_0aeedb8786"
+            },
+            {
+                "id": "EB02-045",
+                "number": "EB02-045",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "트라팔가 로",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "드레스로자",
+                    "초신성",
+                    "하트 해적단"
+                ],
+                "block_icon": "3",
+                "effect": "【블로커】\r\n【등장 시】자신의 트래시에서 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 아래에서 하나를 선택한다.\r\n・카드를 1장 뽑는다.\r\n・상대의 패가 5장 이상인 경우, 상대는 자신의 패 1장을 버린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155131_cbe517e5ad"
+            },
+            {
+                "id": "EB02-045_P1",
+                "number": "EB02-045",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "트라팔가 로",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "드레스로자",
+                    "초신성",
+                    "하트 해적단"
+                ],
+                "block_icon": "3",
+                "effect": "【블로커】\r\n【등장 시】자신의 트래시에서 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 아래에서 하나를 선택한다.\r\n・카드를 1장 뽑는다.\r\n・상대의 패가 5장 이상인 경우, 상대는 자신의 패 1장을 버린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155139_157b3cf9a6"
+            },
+            {
+                "id": "EB02-046",
+                "number": "EB02-046",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "힐돈",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 덱 위에서 2장을 트래시에 놓고, 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -1.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155150_248986bc28"
+            },
+            {
+                "id": "EB02-047",
+                "number": "EB02-047",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "블루노",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "3",
+                "effect": "【기동: 메인】자신의 패 1장을 버리고, 이 캐릭터를 트래시에 놓을 수 있다: 자신의 트래시에서 「블루노」 이외의 코스트 5 이하인 『CP』를 포함한 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155206_13914b97e4"
+            },
+            {
+                "id": "EB02-048",
+                "number": "EB02-048",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "브룩",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 트래시에서 「라분」을 1장까지 패에 더한다.\r\n【KO 시】자신의 패에서 코스트 4 이하인 「라분」을 1장까지 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155237_2ff286d4fd"
+            },
+            {
+                "id": "EB02-048_P1",
+                "number": "EB02-048",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "브룩",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 트래시에서 「라분」을 1장까지 패에 더한다.\r\n【KO 시】자신의 패에서 코스트 4 이하인 「라분」을 1장까지 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155244_53a538a2dd"
+            },
+            {
+                "id": "EB02-049",
+                "number": "EB02-049",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "몽키 D. 가프",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】자신의 리더 1장에게 레스트 상태인 두웅!!을 2장까지 부여한다.\r\n【기동: 메인】이 캐릭터를 레스트할 수 있다: 자신의 리더가 「몽키 D. 가프」인 경우, 상대의 코스트 1 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155251_0b4cb47bb0"
+            },
+            {
+                "id": "EB02-050",
+                "number": "EB02-050",
+                "type": "R",
+                "class": "이벤트",
+                "name": "마음의 지도",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【트리거】이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "음악"
+                ],
+                "block_icon": "3",
+                "effect": "【메인】자신의 덱 위에서 4장을 보고, 코스트 4 이상인 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155259_7d4ddb1d8b"
+            },
+            {
+                "id": "EB02-051",
+                "number": "EB02-051",
+                "type": "C",
+                "class": "이벤트",
+                "name": "콧노래 삼백보 오늬 가르기",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "전 룸바 해적단"
+                ],
+                "block_icon": "3",
+                "effect": "【메인】아래에서 하나를 선택한다.\r\n・상대의 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.\r\n・이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -4.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155311_121963a0af"
+            },
+            {
+                "id": "EB02-052",
+                "number": "EB02-052",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "에넬",
+                "cost": "10",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "11000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "3",
+                "effect": "자신의 리더가 《하늘섬》 특징을 가진 경우, 이 캐릭터는 【속공】을 얻는다.\r\n【어택 시】자신의 패 1장을 버릴 수 있다: 자신의 라이프가 1장 이하인 경우, 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다. 그 후, 이번 턴 동안, 이 캐릭터의 파워 +1000.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155322_5c5e421444"
+            },
+            {
+                "id": "EB02-052_P1",
+                "number": "EB02-052",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "에넬",
+                "cost": "10",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "11000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "3",
+                "effect": "자신의 리더가 《하늘섬》 특징을 가진 경우, 이 캐릭터는 【속공】을 얻는다.\r\n【어택 시】자신의 패 1장을 버릴 수 있다: 자신의 라이프가 1장 이하인 경우, 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다. 그 후, 이번 턴 동안, 이 캐릭터의 파워 +1000.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155351_b4a138641f"
+            },
+            {
+                "id": "EB02-053",
+                "number": "EB02-053",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "오르가 미스키나",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "알케미"
+                ],
+                "block_icon": "3",
+                "effect": "【등장 시】/【KO 시】자신 또는 상대의 라이프 위에서 1장까지를 보고, 라이프 맨 위나 아래로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155358_d4ab936c60"
+            },
+            {
+                "id": "EB02-054",
+                "number": "EB02-054",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "상디",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 라이프가 2장 이하인 경우, 카드를 2장 뽑고, 자신의 패 1장을 버린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155404_205b3240d3"
+            },
+            {
+                "id": "EB02-054_P1",
+                "number": "EB02-054",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "상디",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "이스트 블루",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 라이프가 2장 이하인 경우, 카드를 2장 뽑고, 자신의 패 1장을 버린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155412_eb2a41b1d3"
+            },
+            {
+                "id": "EB02-055",
+                "number": "EB02-055",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "징베",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "【트리거】자신의 리더가 《어인족》 또는 《인어족》 특징을 가지고, 자신의 라이프가 2장 이하인 경우, 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "어인족",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155420_dd8bc16526"
+            },
+            {
+                "id": "EB02-056",
+                "number": "EB02-056",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "베가펑크",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "【트리거】카드를 1장 뽑는다.",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "3",
+                "effect": "【블로커】\r\n【등장 시】자신의 덱 위에서 5장을 보고, 「베가펑크」 이외의 코스트 5 이하인 《과학자》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌리고, 상대의 캐릭터가 2장 이하인 경우, 자신의 패 1장을 버린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155440_af005a3025"
+            },
+            {
+                "id": "EB02-056_P1",
+                "number": "EB02-056",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "베가펑크",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "【트리거】카드를 1장 뽑는다.",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "3",
+                "effect": "【블로커】\r\n【등장 시】자신의 덱 위에서 5장을 보고, 「베가펑크」 이외의 코스트 5 이하인 《과학자》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌리고, 상대의 캐릭터가 2장 이하인 경우, 자신의 패 1장을 버린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155448_e63705608a"
+            },
+            {
+                "id": "EB02-057",
+                "number": "EB02-057",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "매드 트레저",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "트레저 해적단"
+                ],
+                "block_icon": "3",
+                "effect": "【어택 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 상대의 코스트 3 이하인 캐릭터를 1장까지 상대의 라이프 맨 위나 아래에 앞면으로 더한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155457_b2d397bd64"
+            },
+            {
+                "id": "EB02-058",
+                "number": "EB02-058",
+                "type": "R",
+                "class": "이벤트",
+                "name": "어스!",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【트리거】이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "음악"
+                ],
+                "block_icon": "3",
+                "effect": "【메인】자신의 덱 위에서 4장을 보고, 코스트 4 이상인 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155520_d1e4dc805c"
+            },
+            {
+                "id": "EB02-059",
+                "number": "EB02-059",
+                "type": "C",
+                "class": "이벤트",
+                "name": "네가 없으면…!! 난 해적왕이 될 수 없어!!!!",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +1000. 그 후, 자신의 라이프가 1장 이하인 경우, 자신의 패에서 코스트 5 이하이고 황색인 《밀짚모자 일당》 특징을 가진 캐릭터 카드 또는 「상디」를 1장까지 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155742_c70e909b2c"
+            },
+            {
+                "id": "EB02-060",
+                "number": "EB02-060",
+                "type": "C",
+                "class": "스테이지",
+                "name": "고잉 메리 호",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "【기동: 메인】이 스테이지를 레스트하고, 자신의 라이프 위에서 1장을 앞면으로 할 수 있다: 다음 상대의 턴 종료 시까지, 자신의 《밀짚모자 일당》 특징을 가진 캐릭터 1장까지의 파워 +1000.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155759_fca651f6ff"
+            },
+            {
+                "id": "EB02-061",
+                "number": "EB02-061",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "자신의 리더가 다색이고 상대 필드의 두웅!!이 5장 이상인 경우, 이 캐릭터는 【속공】을 얻는다.\r\n【어택 시】【턴 1회】자신의 액티브 상태인 두웅!! 2장을 두웅!! 덱으로 되돌릴 수 있다: 이 캐릭터를 액티브로 한다. 그 후, 자신의 라이프 위에서 1장을 패에 더한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155805_113dabb00e"
+            },
+            {
+                "id": "EB02-061_P1",
+                "number": "EB02-061",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "자신의 리더가 다색이고 상대 필드의 두웅!!이 5장 이상인 경우, 이 캐릭터는 【속공】을 얻는다.\r\n【어택 시】【턴 1회】자신의 액티브 상태인 두웅!! 2장을 두웅!! 덱으로 되돌릴 수 있다: 이 캐릭터를 액티브로 한다. 그 후, 자신의 라이프 위에서 1장을 패에 더한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155811_f3b4366719"
+            },
+            {
+                "id": "EB02-061_P2",
+                "number": "EB02-061",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "워터 세븐",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "3",
+                "effect": "자신의 리더가 다색이고 상대 필드의 두웅!!이 5장 이상인 경우, 이 캐릭터는 【속공】을 얻는다.\r\n【어택 시】【턴 1회】자신의 액티브 상태인 두웅!! 2장을 두웅!! 덱으로 되돌릴 수 있다: 이 캐릭터를 액티브로 한다. 그 후, 자신의 라이프 위에서 1장을 패에 더한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155817_5090c44cb3"
+            },
+            {
+                "id": "OP05-001_P2",
+                "number": "OP05-001",
+                "type": "L",
+                "class": "리더",
+                "name": "사보",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색",
+                    "흑색",
+                    "다색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【상대의 턴 동안】【턴 1회】자신의 파워 5000 이상인 캐릭터가 KO 당할 경우, 이번 턴 동안, 그 캐릭터는 KO 당하는 대신 파워 -1000 할 수 있다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155827_2434655bae"
+            },
+            {
+                "id": "OP05-002_P2",
+                "number": "OP05-002",
+                "type": "L",
+                "class": "리더",
+                "name": "벨로 베티",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 패에서 《혁명군》 특징을 가진 카드 1장을 버릴 수 있다: 이번 턴 동안, 자신의 《혁명군》 특징 또는 【트리거】를 가진 캐릭터 3장까지의 파워 +3000.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155839_4a20553dae"
+            },
+            {
+                "id": "OP05-022_P2",
+                "number": "OP05-022",
+                "type": "L",
+                "class": "리더",
+                "name": "돈키호테 로시난테",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색",
+                    "청색",
+                    "다색"
+                ],
+                "feature": [
+                    "해군",
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【자신의 턴 종료 시】자신의 패가 6장 이하인 경우, 이 리더를 액티브로 한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155847_96108aaada"
+            },
+            {
+                "id": "OP05-060_P3",
+                "number": "OP05-060",
+                "type": "L",
+                "class": "리더",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 라이프 위에서 1장을 패에 더할 수 있다: 자신 필드의 두웅!!이 0장 또는 3장 이상인 경우, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155855_a6f5b7a2e7"
+            },
+            {
+                "id": "OP05-098_P2",
+                "number": "OP05-098",
+                "type": "L",
+                "class": "리더",
+                "name": "에넬",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【상대의 턴 동안】【턴 1회】자신의 라이프가 0장이 되었을 때, 자신의 덱 위에서 1장을 라이프 맨 위에 더한다. 그 후, 자신의 패 1장을 버린다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155901_49b4d88b04"
+            },
+            {
+                "id": "OP06-001_P2",
+                "number": "OP06-001",
+                "type": "L",
+                "class": "리더",
+                "name": "우타",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색",
+                    "자색",
+                    "다색"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】자신의 패에서 《FILM》 특징을 가진 카드 1장을 버릴 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -2000. 그 후, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155908_85a990ee0c"
+            },
+            {
+                "id": "OP06-020_P2",
+                "number": "OP06-020",
+                "type": "L",
+                "class": "리더",
+                "name": "호디 존스",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "신 어인 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 리더를 레스트할 수 있다: 상대의 코스트 3 이하인 캐릭터 또는 두웅!!을 1장까지 레스트로 한다. 그 후, 이번 턴 동안, 자신은 자신의 효과로 라이프를 패에 더할 수 없다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155927_5128ff097e"
+            },
+            {
+                "id": "OP06-021_P2",
+                "number": "OP06-021",
+                "type": "L",
+                "class": "리더",
+                "name": "페로나",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색",
+                    "흑색",
+                    "다색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】아래에서 하나를 선택한다.\r\n・상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.\r\n・이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -1.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155935_509cb44f39"
+            },
+            {
+                "id": "OP06-022_P2",
+                "number": "OP06-022",
+                "type": "L",
+                "class": "리더",
+                "name": "야마토",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "2",
+                "effect": "【더블 어택】(이 카드가 주는 대미지는 2가 된다)\r\n【기동: 메인】【턴 1회】상대의 라이프가 3장 이하인 경우, 자신의 캐릭터 1장에게 레스트 상태인 두웅!!을 2장까지 부여한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_155941_24a121951b"
+            },
+            {
+                "id": "OP06-042_P2",
+                "number": "OP06-042",
+                "type": "L",
+                "class": "리더",
+                "name": "빈스모크 레이주",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "청색",
+                    "자색",
+                    "다색"
+                ],
+                "feature": [
+                    "빈스모크 가문",
+                    "제르마 66"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【턴 1회】자신 필드의 두웅!!이 두웅!! 덱으로 되돌려졌을 때, 카드를 1장 뽑는다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160001_b0c6c9500c"
+            },
+            {
+                "id": "OP06-080_P2",
+                "number": "OP06-080",
+                "type": "L",
+                "class": "리더",
+                "name": "겟코 모리아",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】②(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 자신의 패 1장을 버릴 수 있다: 자신의 덱 위에서 2장을 트래시에 놓고, 자신의 트래시에서 코스트 4 이하인 《스릴러 바크 해적단》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160017_61ab66e644"
+            },
+            {
+                "id": "OP07-001_P2",
+                "number": "OP07-001",
+                "type": "L",
+                "class": "리더",
+                "name": "몽키 D. 드래곤",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 부여되어 있는 두웅!!을 합계 2장까지 자신의 캐릭터 1장에게 부여한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160028_4885c5e024"
+            },
+            {
+                "id": "OP07-019_P2",
+                "number": "OP07-019",
+                "type": "L",
+                "class": "리더",
+                "name": "쥬얼리 보니",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "보니 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【상대의 어택 시】【턴 1회】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 상대의 리더 또는 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160038_8e7379520c"
+            },
+            {
+                "id": "OP07-038_P2",
+                "number": "OP07-038",
+                "type": "L",
+                "class": "리더",
+                "name": "보아 행콕",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "구사 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【턴 1회】캐릭터가 자신의 효과로 필드를 벗어났을 때, 발동할 수 있다. 자신의 패가 5장 이하인 경우, 카드를 1장 뽑는다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160045_03565af994"
+            },
+            {
+                "id": "OP07-059_P2",
+                "number": "OP07-059",
+                "type": "L",
+                "class": "리더",
+                "name": "폭시",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】두웅!!-3(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 《폭시 해적단》 특징을 가진 캐릭터가 3장 이상인 경우, 상대의 레스트 상태인 리더와 캐릭터를 1장까지 선택한다. 선택한 카드는 다음 상대의 리프레시 페이즈에 액티브 되지 않는다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160055_5333bc25b0"
+            },
+            {
+                "id": "OP07-079_P2",
+                "number": "OP07-079",
+                "type": "L",
+                "class": "리더",
+                "name": "로브 루치",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】자신의 덱 위에서 2장을 트래시에 놓을 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -1.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160104_80e896df78"
+            },
+            {
+                "id": "OP07-097_P2",
+                "number": "OP07-097",
+                "type": "L",
+                "class": "리더",
+                "name": "베가펑크",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "2",
+                "effect": "이 리더는 어택할 수 없다.\r\n【기동: 메인】【턴 1회】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 자신의 패에서 코스트 5 이하인 《에그 헤드》 특징을 가진 카드를 1장까지 라이프 맨 위에 앞면으로 더하거나 등장시킨다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160127_c195de93db"
+            },
+            {
+                "id": "OP08-001_P2",
+                "number": "OP08-001",
+                "type": "L",
+                "class": "리더",
+                "name": "토니토니 쵸파",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색",
+                    "녹색",
+                    "다색"
+                ],
+                "feature": [
+                    "동물",
+                    "드럼 왕국",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 《동물》 또는 《드럼 왕국》 특징을 가진 캐릭터 3장까지에게 레스트 상태인 두웅!!을 1장씩까지 부여한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160136_69056411a0"
+            },
+            {
+                "id": "OP08-002_P2",
+                "number": "OP08-002",
+                "type": "L",
+                "class": "리더",
+                "name": "마르코",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색",
+                    "청색",
+                    "다색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【기동: 메인】【턴 1회】카드를 1장 뽑고, 자신의 패 1장을 덱 맨 위나 아래로 되돌린다. 그 후, 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -2000.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160154_26551d288f"
+            },
+            {
+                "id": "OP08-021_P2",
+                "number": "OP08-021",
+                "type": "L",
+                "class": "리더",
+                "name": "캐럿",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "밍크족"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 《밍크족》 특징을 가진 캐릭터가 있을 경우, 상대의 코스트 5 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160202_745b47eafb"
+            },
+            {
+                "id": "OP08-057_P2",
+                "number": "OP08-057",
+                "type": "L",
+                "class": "리더",
+                "name": "킹",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색",
+                    "흑색",
+                    "다색"
+                ],
+                "feature": [
+                    "백수 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】두웅!!-2(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 아래에서 하나를 선택한다.\r\n· 자신의 패가 5장 이하인 경우, 카드를 1장 뽑는다.\r\n· 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -2.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160210_a3bbf5f79e"
+            },
+            {
+                "id": "OP08-058_P2",
+                "number": "OP08-058",
+                "type": "L",
+                "class": "리더",
+                "name": "샬롯 푸딩",
+                "cost": "4",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "빅 맘 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】자신의 라이프 위에서 2장을 앞면으로 할 수 있다: 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160301_c67606c389"
+            },
+            {
+                "id": "OP08-098_P2",
+                "number": "OP08-098",
+                "type": "L",
+                "class": "리더",
+                "name": "카르가라",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "자야",
+                    "하늘섬",
+                    "샨도라의 전사"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】자신의 패에서 자신 필드의 두웅!! 수 이하의 코스트를 가지고, 《샨도라의 전사》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다. 등장시켰을 경우, 자신의 라이프 위에서 1장을 패에 더한다.",
+                "card_set": "[EBK-02] 엑스트라 부스터 팩 Anime 25th collection",
+                "image_url": "/fileDownload?downname=20260219_160311_a98c360f07"
+            }
+        ]
+    }
+}

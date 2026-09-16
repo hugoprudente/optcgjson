@@ -59,10 +59,20 @@ def build_set(code: str, ctx: PipelineContext) -> dict | None:
         if fname:
             foreign_names[LANGUAGES[lang]["name"]] = fname
 
-    # Set name: prefer series_map, fall back to scraped card_set field.
-    set_name = ctx.series_map.get(code, {}).get("name") or ""
-    if not set_name:
-        set_name = ctx.set_name_for_lang(code, PRIMARY_LANG) or code
+    # Set name precedence:
+    #   1. ``series_map.yaml`` when hand-curated (any value other than the
+    #      bare code, which is a discovery-time placeholder),
+    #   2. the scraped ``card_set`` field from the live site,
+    #   3. the code itself.
+    # This preserves curated overrides like
+    # ``BOOSTER PACK -Adventure on KAMI's Island- [OP-15]`` while still
+    # picking up real names for sets that only have a placeholder entry
+    # (e.g. brand-new ``OP16``).
+    map_name = (ctx.series_map.get(code, {}).get("name") or "").strip()
+    if map_name == code:
+        map_name = ""
+    scraped_name = ctx.set_name_for_lang(code, PRIMARY_LANG)
+    set_name = map_name or scraped_name or code
 
     s = new_set(
         code=code,

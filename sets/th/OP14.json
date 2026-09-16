@@ -1,0 +1,3834 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563114,
+        "language": "th"
+    },
+    "data": {
+        "code": "OP14",
+        "cards": [
+            {
+                "id": "OP14-001",
+                "number": "OP14-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Trafalgar Law",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] เลือก คาแรกเตอร์ฝ่ายเรา ที่มีคุณสมบัติ < ซูเปอร์โนวา > หรือ < กลุ่มโจรสลัดฮาร์ท > จำนวน 2 ใบ. ในเทิร์นนี้, พาวเวอร์ตั้งต้น ของคาแรกเตอร์ที่เลือก, จะถูกสลับกับของอีกใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-001.png"
+            },
+            {
+                "id": "OP14-001_p1",
+                "number": "OP14-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Trafalgar Law",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] เลือก คาแรกเตอร์ฝ่ายเรา ที่มีคุณสมบัติ < ซูเปอร์โนวา > หรือ < กลุ่มโจรสลัดฮาร์ท > จำนวน 2 ใบ. ในเทิร์นนี้, พาวเวอร์ตั้งต้น ของคาแรกเตอร์ที่เลือก, จะถูกสลับกับของอีกใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-001_p1.png"
+            },
+            {
+                "id": "OP14-002",
+                "number": "OP14-002",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Urouge",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดนักบวชนอกรีต"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อโจมตี] ถ้าคาแรกเตอร์นี้ พาวเวอร์ 5000 หรือสูงกว่าละก็, จะจั่วการ์ด จำนวน 1 ใบ, และจะ KO คาแรกเตอร์ของคู่แข่ง ที่พาวเวอร์ตั้งต้น 3000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-002.png"
+            },
+            {
+                "id": "OP14-003",
+                "number": "OP14-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Capone\"Gang\"Bege",
+                "cost": "1",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดไฟร์แทงค์"
+                ],
+                "block_icon": "4",
+                "effect": "คาแรกเตอร์นี้ จะไม่ถูก KO จากความสามารถของคาแรกเตอร์ฝ่ายคู่แข่ง ที่พาวเวอร์ตั้งต้น 5000 หรือต่ำกว่า.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-003.png"
+            },
+            {
+                "id": "OP14-004",
+                "number": "OP14-004",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Cavendish",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดงดงาม"
+                ],
+                "block_icon": "4",
+                "effect": "ถ้าคาแรกเตอร์นี้ พาวเวอร์ 5000 หรือสูงกว่าละก็, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-004.png"
+            },
+            {
+                "id": "OP14-005",
+                "number": "OP14-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Killer",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-005.png"
+            },
+            {
+                "id": "OP14-006",
+                "number": "OP14-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Shachi & Penguin",
+                "cost": "2",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อโจมตี] ถ้าคาแรกเตอร์นี้ พาวเวอร์ 5000 หรือสูงกว่าละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -2000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-006.png"
+            },
+            {
+                "id": "OP14-007",
+                "number": "OP14-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jewelry Bonney",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดบอนนี่"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-007.png"
+            },
+            {
+                "id": "OP14-008",
+                "number": "OP14-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Scratchmen Apoo",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดออนแอร์"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-008.png"
+            },
+            {
+                "id": "OP14-009",
+                "number": "OP14-009",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "9",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "4",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้). [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ดในมือของเรา จำนวน 2 ใบ : เลือก ลีดเดอร์ฝ่ายเรา กับ คาแรกเตอร์ของเรา อีกจำนวน 1 ใบ. ในแบทเทิลนี้, พาวเวอร์ตั้งต้น ของการ์ดที่เลือก, จะถูกสลับกับของอีกใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-009.png"
+            },
+            {
+                "id": "OP14-009_p1",
+                "number": "OP14-009",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "9",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "4",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้). [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ดในมือของเรา จำนวน 2 ใบ : เลือก ลีดเดอร์ฝ่ายเรา กับ คาแรกเตอร์ของเรา อีกจำนวน 1 ใบ. ในแบทเทิลนี้, พาวเวอร์ตั้งต้น ของการ์ดที่เลือก, จะถูกสลับกับของอีกใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-009_p1.png"
+            },
+            {
+                "id": "OP14-010",
+                "number": "OP14-010",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Basil Hawkins",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮอว์คินส์"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] ดูการ์ดจากบนเด็คของเรา จำนวน 5 ใบ, และนำคาแรกเตอร์การ์ด ที่พาวเวอร์ 2000 หรือต่ำกว่า และมีคุณสมบัติ < ซูเปอร์โนวา > นอกเหนือจาก [Basil Hawkins] จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-010.png"
+            },
+            {
+                "id": "OP14-011",
+                "number": "OP14-011",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Bartolomeo",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "ซูเปอร์โนวา",
+                    "บาร์โธคลับ"
+                ],
+                "block_icon": "4",
+                "effect": "[ด้ง!! x 2] คาแรกเตอร์นี้ จะได้รับ [บล็อกเกอร์]. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-011.png"
+            },
+            {
+                "id": "OP14-012",
+                "number": "OP14-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bepo",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เผ่ามิงค์",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อโจมตี] ถ้าคาแรกเตอร์นี้ พาวเวอร์ 5000 หรือสูงกว่าละก็, จะนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 2 ใบ, ใส่ให้ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-012.png"
+            },
+            {
+                "id": "OP14-013",
+                "number": "OP14-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ซูเปอร์โนวา > นอกเหนือจาก [Monkey.D.Luffy] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้. [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -1000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-013.png"
+            },
+            {
+                "id": "OP14-013_p1",
+                "number": "OP14-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ซูเปอร์โนวา > นอกเหนือจาก [Monkey.D.Luffy] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้. [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -1000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-013_p1.png"
+            },
+            {
+                "id": "OP14-014",
+                "number": "OP14-014",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Eustass\"Captain\"Kid",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < ซูเปอร์โนวา > ละก็, จะนำคาแรกเตอร์การ์ด สีแดง ที่พาวเวอร์ 2000 หรือต่ำกว่า จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-014.png"
+            },
+            {
+                "id": "OP14-015",
+                "number": "OP14-015",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้). [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -1000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-015.png"
+            },
+            {
+                "id": "OP14-015_p1",
+                "number": "OP14-015",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้). [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -1000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-015_p1.png"
+            },
+            {
+                "id": "OP14-016",
+                "number": "OP14-016",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "X.Drake",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดเดรค"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของคู่แข่ง] [เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์ของฝ่ายเรา ที่มีคุณสมบัติ < ซูเปอร์โนวา > กำลังจะถูกนำออกจากสนาม จากความสามารถของฝ่ายคู่แข่ง, จะสามารถทำให้ ลีดเดอร์ของฝ่ายเรา, ในเทิร์นนี้, จะพาวเวอร์ -2000 แทนได้. [ด้ง!! x 1] [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -2000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-016.png"
+            },
+            {
+                "id": "OP14-017",
+                "number": "OP14-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Chambres",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] เลือกคาแรกเตอร์ของคู่แข่ง ที่พาวเวอร์ตั้งต้น 9000 หรือต่ำกว่า จำนวน 2 ใบ. ในเทิร์นนี้, พาวเวอร์ตั้งต้นของ คาแรกเตอร์ที่เลือก, จะถูกสลับกับของอีกใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-017.png"
+            },
+            {
+                "id": "OP14-018",
+                "number": "OP14-018",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Time for the Counterattack",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์การ์ด สีแดง ที่พาวเวอร์ 2000 หรือต่ำกว่า จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "4",
+                "effect": "[เคาน์เตอร์] ถ้ามีคาแรกเตอร์ของใครก็ตาม ที่พาวเวอร์ 8000 หรือสูงกว่า อยู่ด้วยละก็, ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +4000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-018.png"
+            },
+            {
+                "id": "OP14-019",
+                "number": "OP14-019",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "I Have a Plan to Take Down One of the Four Emperors!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] ดูการ์ดจากบนเด็คของเรา จำนวน 4 ใบ, และนำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < ซูเปอร์โนวา > หรือ < กลุ่มหมวกฟาง > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-019.png"
+            },
+            {
+                "id": "OP14-020",
+                "number": "OP14-020",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Dracule Mihawk",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด"
+                ],
+                "block_icon": "4",
+                "effect": "ถ้าลีดเดอร์ของคู่แข่ง มีคุณลักษณะ (ฟัน) ละก็, ลีดเดอร์นี้ จะพาวเวอร์ +1000. [สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ การ์ดของเรา จำนวน 1 ใบ : ถ้ามีคาแรกเตอร์ของใครก็ตาม ที่คอสต์ 5 หรือสูงกว่า อยู่ด้วยละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 3 ใบ, แอ็คทีฟ. จากนั้น, ในเทิร์นนี้, เราจะไม่สามารถนำ คาแรกเตอร์การ์ด ลงสนามอีก ในเทิร์นนี้.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-020.png"
+            },
+            {
+                "id": "OP14-020_p1",
+                "number": "OP14-020",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Dracule Mihawk",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด"
+                ],
+                "block_icon": "4",
+                "effect": "ถ้าลีดเดอร์ของคู่แข่ง มีคุณลักษณะ (ฟัน) ละก็, ลีดเดอร์นี้ จะพาวเวอร์ +1000. [สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ การ์ดของเรา จำนวน 1 ใบ : ถ้ามีคาแรกเตอร์ของใครก็ตาม ที่คอสต์ 5 หรือสูงกว่า อยู่ด้วยละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 3 ใบ, แอ็คทีฟ. จากนั้น, ในเทิร์นนี้, เราจะไม่สามารถนำ คาแรกเตอร์การ์ด ลงสนามอีก ในเทิร์นนี้.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-020_p1.png"
+            },
+            {
+                "id": "OP14-021",
+                "number": "OP14-021",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Issho",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] เมื่อคาแรกเตอร์นี้ ถูกเรสต์, จะสามารถนำการ์ดจากบนสุดของ ไลฟ์ของเรา จำนวน 1 ใบ ขึ้นมือก็ได้. ถ้าทำละก็, จะทำให้ คาแรกเตอร์ หรือ สเตจ, ที่กำลังเรสต์อยู่ของฝ่ายคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะไม่ แอ็คทีฟ ในช่วงรีเฟรชเฟสของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-021.png"
+            },
+            {
+                "id": "OP14-022",
+                "number": "OP14-022",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อจบเทิร์นของเรา] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < FILM > หรือ < กลุ่มหมวกฟาง > ละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 2 ใบ, แอ็คทีฟ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-022.png"
+            },
+            {
+                "id": "OP14-023",
+                "number": "OP14-023",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kikunojo",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "เก้าปลอกดาบแดง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อจบเทิร์นของเรา] จะแอ็คทีฟ คาแรกเตอร์นี้.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-023.png"
+            },
+            {
+                "id": "OP14-024",
+                "number": "OP14-024",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kin'emon",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "เก้าปลอกดาบแดง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 3 ใบ, แอ็คทีฟ. จากนั้น, เราจะไม่สามารถนำ คาแรกเตอร์การ์ด ลงสนามอีก ในเทิร์นนี้. [เมื่อถูก KO] จะเรสต์ การ์ดของคู่แข่ง, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-024.png"
+            },
+            {
+                "id": "OP14-025",
+                "number": "OP14-025",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kuro",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดคุโระเนโกะ (กลุ่มโจรสลัดแมวดำ)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา คือ [Kuro] ละก็, จะนำคาแรกเตอร์การ์ด ที่คอสต์ 6 หรือต่ำกว่า และมีคุณสมบัติ < อีสต์บลู > จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-025.png"
+            },
+            {
+                "id": "OP14-026",
+                "number": "OP14-026",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Kouzuki Oden",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "ตระกูลโคสึกิ"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของคู่แข่ง] ถ้าคาแรกเตอร์นี้ กำลังเรสต์อยู่ละก็, คาแรกเตอร์นี้ จะพาวเวอร์ +2000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-026.png"
+            },
+            {
+                "id": "OP14-027",
+                "number": "OP14-027",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Shanks",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] เมื่อคาแรกเตอร์นี้ ถูกเรสต์, จะเรสต์ คาแรกเตอร์ของคู่แข่ง ที่พาวเวอร์ตั้งต้น 7000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. [เทิร์นของคู่แข่ง] ถ้าคาแรกเตอร์นี้ กำลังเรสต์อยู่ละก็, คาแรกเตอร์ของฝ่ายคู่แข่ง ทั้งหมด, จะพาวเวอร์ -1000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-027.png"
+            },
+            {
+                "id": "OP14-027_p1",
+                "number": "OP14-027",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Shanks",
+                "cost": "7",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] เมื่อคาแรกเตอร์นี้ ถูกเรสต์, จะเรสต์ คาแรกเตอร์ของคู่แข่ง ที่พาวเวอร์ตั้งต้น 7000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. [เทิร์นของคู่แข่ง] ถ้าคาแรกเตอร์นี้ กำลังเรสต์อยู่ละก็, คาแรกเตอร์ของฝ่ายคู่แข่ง ทั้งหมด, จะพาวเวอร์ -1000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-027_p1.png"
+            },
+            {
+                "id": "OP14-028",
+                "number": "OP14-028",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Johnny",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] เมื่อคาแรกเตอร์นี้ ถูกเรสต์, จะ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-028.png"
+            },
+            {
+                "id": "OP14-029",
+                "number": "OP14-029",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Tashigi",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของคู่แข่ง] ถ้าคาแรกเตอร์นี้ กำลังจะถูกนำออกจากสนาม จากความสามารถของฝ่ายคู่แข่ง, จะสามารถ เรสต์ การ์ดของเรา จำนวน 1 ใบ แทนได้. [สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ การ์ดของเรา จำนวน 2 ใบ : คาแรกเตอร์นี้ จะพาวเวอร์ +2000, จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-029.png"
+            },
+            {
+                "id": "OP14-030",
+                "number": "OP14-030",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Chaka & Pell",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-030.png"
+            },
+            {
+                "id": "OP14-031",
+                "number": "OP14-031",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] จะเรสต์ คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 8 หรือต่ำกว่า, จำนวนไม่เกิน 2 ใบ. จากนั้น, เมื่อจบเทิร์นนี้, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 5 ใบ, แอ็คทีฟ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-031.png"
+            },
+            {
+                "id": "OP14-031_p1",
+                "number": "OP14-031",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] จะเรสต์ คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 8 หรือต่ำกว่า, จำนวนไม่เกิน 2 ใบ. จากนั้น, เมื่อจบเทิร์นนี้, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 5 ใบ, แอ็คทีฟ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-031_p1.png"
+            },
+            {
+                "id": "OP14-032",
+                "number": "OP14-032",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Humandrill",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "ราชอาณาจักรชิคเคะอารุ"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] เมื่อคาแรกเตอร์นี้ ถูกเรสต์, จะเรสต์ คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-032.png"
+            },
+            {
+                "id": "OP14-033",
+                "number": "OP14-033",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Perona",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ราชอาณาจักรชิคเคะอารุ",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะทำให้คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 2 ใบ, จะไม่สามารถถูก เรสต์, จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป. [เมื่อถูก KO] สามารถ เรสต์ การ์ดของเรา จำนวน 1 ใบ : นำคาแรกเตอร์การ์ด สีเขียว ที่คอสต์ 5 หรือต่ำกว่า จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-033.png"
+            },
+            {
+                "id": "OP14-033_p1",
+                "number": "OP14-033",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Perona",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ราชอาณาจักรชิคเคะอารุ",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะทำให้คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 2 ใบ, จะไม่สามารถถูก เรสต์, จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป. [เมื่อถูก KO] สามารถ เรสต์ การ์ดของเรา จำนวน 1 ใบ : นำคาแรกเตอร์การ์ด สีเขียว ที่คอสต์ 5 หรือต่ำกว่า จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-033_p1.png"
+            },
+            {
+                "id": "OP14-034",
+                "number": "OP14-034",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] คาแรกเตอร์ สีเขียว ของฝ่ายเรา ทั้งหมด ที่คอสต์ตั้งต้น 4 หรือสูงกว่า และมีคุณสมบัติ < กลุ่มหมวกฟาง >, จะพาวเวอร์ +1000. [เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์ของฝ่ายเรา ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > กำลังจะถูก KO จากความสามารถของฝ่ายคู่แข่ง, จะสามารถ เรสต์ คาแรกเตอร์ของเรา จำนวน 1 ใบ แทนได้.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-034.png"
+            },
+            {
+                "id": "OP14-035",
+                "number": "OP14-035",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Yosaku",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] เมื่อคาแรกเตอร์นี้ ถูกเรสต์, จะทำให้ คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 4 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่ จำนวนไม่เกิน 1 ใบ, จะไม่ แอ็คทีฟ ในช่วงรีเฟรชเฟสของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-035.png"
+            },
+            {
+                "id": "OP14-036",
+                "number": "OP14-036",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Strive to Surpass me, Roronoa Zoro!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] สามารถ เรสต์ การ์ดของเรา จำนวน 1 ใบ : จะเรสต์ คาแรกเตอร์ของคู่แข่ง ที่พาวเวอร์ตั้งต้น 7000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "เจ็ดเทพโจรสลัด"
+                ],
+                "block_icon": "4",
+                "effect": "[เคาน์เตอร์] สามารถ เรสต์ การ์ดของเรา จำนวน 1 ใบ : ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +4000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-036.png"
+            },
+            {
+                "id": "OP14-037",
+                "number": "OP14-037",
+                "type": "R",
+                "class": "EVENT",
+                "name": "For Fun",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "เจ็ดเทพโจรสลัด"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] สามารถ เรสต์ การ์ดของเรา จำนวน 3 ใบ : จะ KO คาแรกเตอร์ของคู่แข่ง ที่พาวเวอร์ตั้งต้น 7000 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ. [เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ของเรา จะพาวเวอร์ +3000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-037.png"
+            },
+            {
+                "id": "OP14-038",
+                "number": "OP14-038",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "I Never Bother to Remember the Faces of Trash",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] สามารถ เรสต์ การ์ดของเรา จำนวน 2 ใบ : จั่วการ์ด จำนวน 1 ใบ, และจะเรสต์ คาแรกเตอร์ของคู่แข่ง ที่พาวเวอร์ตั้งต้น 7000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. [เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ของเรา จะพาวเวอร์ +3000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-038.png"
+            },
+            {
+                "id": "OP14-039",
+                "number": "OP14-039",
+                "type": "UC",
+                "class": "STAGE",
+                "name": "Coffin Boat",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "เจ็ดเทพโจรสลัด"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา คือ [Dracule Mihawk] ละก็, จะจั่วการ์ด จำนวน 1 ใบ. [เมื่อจบเทิร์นของเรา] ถ้าลีดเดอร์ของฝ่ายเรา คือ [Dracule Mihawk] ละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, แอ็คทีฟ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-039.png"
+            },
+            {
+                "id": "OP14-040",
+                "number": "OP14-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Jinbe",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 2 ใบ, ใส่ให้ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา ที่มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > จำนวน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-040.png"
+            },
+            {
+                "id": "OP14-040_p1",
+                "number": "OP14-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Jinbe",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 2 ใบ, ใส่ให้ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา ที่มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > จำนวน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-040_p1.png"
+            },
+            {
+                "id": "OP14-041",
+                "number": "OP14-041",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Boa Hancock",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของคู่แข่ง] เมื่อเรานำคาแรกเตอร์ ลงสนาม, จะจั่วการ์ด จำนวน 1 ใบ. [ด้ง!! x 1] [เทิร์นละ 1 ครั้ง] เมื่อคาแรกเตอร์ของฝ่ายเรา, ที่พาวเวอร์ตั้งต้น 5000 หรือสูงกว่า และมีคุณสมบัติ < อมาซอน • ลิลี่ > หรือ < กลุ่มโจรสลัดคุจา > ถูก KO, จะนำการ์ดจากบนสุดของ ไลฟ์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ขึ้นมือของเจ้าของ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-041.png"
+            },
+            {
+                "id": "OP14-041_p1",
+                "number": "OP14-041",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Boa Hancock",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของคู่แข่ง] เมื่อเรานำคาแรกเตอร์ ลงสนาม, จะจั่วการ์ด จำนวน 1 ใบ. [ด้ง!! x 1] [เทิร์นละ 1 ครั้ง] เมื่อคาแรกเตอร์ของฝ่ายเรา, ที่พาวเวอร์ตั้งต้น 5000 หรือสูงกว่า และมีคุณสมบัติ < อมาซอน • ลิลี่ > หรือ < กลุ่มโจรสลัดคุจา > ถูก KO, จะนำการ์ดจากบนสุดของ ไลฟ์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ขึ้นมือของเจ้าของ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-041_p1.png"
+            },
+            {
+                "id": "OP14-042",
+                "number": "OP14-042",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Arlong",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < เผ่ามนุษย์เงือก > ละก็, จะดูการ์ดจากบนเด็ค จำนวน 4 ใบ, และนำการ์ด ที่คอสต์ 2 หรือสูงกว่า จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-042.png"
+            },
+            {
+                "id": "OP14-042_p1",
+                "number": "OP14-042",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Arlong",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < เผ่ามนุษย์เงือก > ละก็, จะดูการ์ดจากบนเด็ค จำนวน 4 ใบ, และนำการ์ด ที่คอสต์ 2 หรือสูงกว่า จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-042_p1.png"
+            },
+            {
+                "id": "OP14-043",
+                "number": "OP14-043",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Aladine",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 3 หรือต่ำกว่า, และมีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. [เมื่อถูก KO] จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-043.png"
+            },
+            {
+                "id": "OP14-044",
+                "number": "OP14-044",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Edward.Newgate",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] จะนำการ์ดจากบนเด็คของเรา จำนวน 1 ใบ มาแสดงให้ดู, และถ้าการ์ดใบนั้น ระบุคำว่า [กลุ่มโจรสลัดหนวดขาว] อยู่ในคุณสมบัติละก็, จะจั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดในมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-044.png"
+            },
+            {
+                "id": "OP14-045",
+                "number": "OP14-045",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Kuroobi",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "เมื่อการ์ดในมือของเรา ถูกทิ้งจากความสามารถของใครก็ตาม, ในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อถูก KO] จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-045.png"
+            },
+            {
+                "id": "OP14-046",
+                "number": "OP14-046",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Koala",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เกาะฟูลเชาท์"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] สามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช : ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา, ที่มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +2000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-046.png"
+            },
+            {
+                "id": "OP14-047",
+                "number": "OP14-047",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Shirahoshi",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] จั่วการ์ด จำนวน 1 ใบ, แล้วนำคาแรกเตอร์การ์ด ที่คอสต์ 3 หรือต่ำกว่า, และมีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-047.png"
+            },
+            {
+                "id": "OP14-048",
+                "number": "OP14-048",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Shiryu",
+                "cost": "8",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะนำคาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ. จากนั้น, ทิ้งการ์ดในมือของเรา ทั้งหมด.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-048.png"
+            },
+            {
+                "id": "OP14-049",
+                "number": "OP14-049",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "เมื่อการ์ดในมือของเรา ถูกทิ้งจากความสามารถของใครก็ตาม, ในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อลงสนาม] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 2 ใบ : จั่วการ์ด จำนวน 2 ใบ, และนำคาแรกเตอร์ของใครก็ตาม ที่คอสต์ 7 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-049.png"
+            },
+            {
+                "id": "OP14-049_p1",
+                "number": "OP14-049",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "เมื่อการ์ดในมือของเรา ถูกทิ้งจากความสามารถของใครก็ตาม, ในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อลงสนาม] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 2 ใบ : จั่วการ์ด จำนวน 2 ใบ, และนำคาแรกเตอร์ของใครก็ตาม ที่คอสต์ 7 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-049_p1.png"
+            },
+            {
+                "id": "OP14-050",
+                "number": "OP14-050",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Chew",
+                "cost": "1",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < เผ่ามนุษย์เงือก > ละก็, จะจั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-050.png"
+            },
+            {
+                "id": "OP14-051",
+                "number": "OP14-051",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Hatchan",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "[ด้ง!! x 2] [เมื่อถูก KO] จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-051.png"
+            },
+            {
+                "id": "OP14-052",
+                "number": "OP14-052",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Hannyabal",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] สามารถทิ้งการ์ดในมือของเรา จำนวน 3 ใบ : นำคาแรกเตอร์การ์ด ที่คอสต์ 6 หรือต่ำกว่า และมีคุณสมบัติ < อิมเพลดาวน์ > จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-052.png"
+            },
+            {
+                "id": "OP14-053",
+                "number": "OP14-053",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Vista",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เทิร์นของคู่แข่ง] ถ้าเรามีการ์ดในมืออยู่ จำนวน 7 ใบ หรือน้อยกว่าละก็, พาวเวอร์ตั้งต้นของคาแรกเตอร์นี้ จะกลายเป็นเท่ากับ พาวเวอร์ตั้งต้นของลีดเดอร์ของเรา.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-053.png"
+            },
+            {
+                "id": "OP14-054",
+                "number": "OP14-054",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Fisher Tiger",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < เผ่ามนุษย์เงือก > ละก็, จะจั่วการ์ด จำนวน 3 ใบ. [เมื่อจบเทิร์นของเรา] จะต้องทิ้งการ์ด จนกว่าเราจะมีการ์ดในมืออยู่ จำนวน 5 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-054.png"
+            },
+            {
+                "id": "OP14-055",
+                "number": "OP14-055",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "The Macro Gang",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-055.png"
+            },
+            {
+                "id": "OP14-056",
+                "number": "OP14-056",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Wadatsumi",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "คาแรกเตอร์นี้ จะไม่สามารถโจมตี. เมื่อการ์ดในมือของเรา ถูกทิ้งจากความสามารถของใครก็ตาม, ในเทิร์นนี้, คาแรกเตอร์นี้ จะถูกทำให้ความสามารถไร้ผล.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-056.png"
+            },
+            {
+                "id": "OP14-057",
+                "number": "OP14-057",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Don't Worry!! I'm Here!!",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 2 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] ในเทิร์นนี้, ลีดเดอร์ กับ คาแรกเตอร์ ของฝ่ายเรา ทั้งหมด, ที่มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก >, จะพาวเวอร์ +1000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-057.png"
+            },
+            {
+                "id": "OP14-058",
+                "number": "OP14-058",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Ocean Current Shoulder Throw",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 3 ใบ : นำคาแรกเตอร์การ์ด ที่คอสต์ 3 หรือต่ำกว่า และมีคุณสมบัติ < เผ่ามนุษย์เงือก > จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, จะนำคาแรกเตอร์ของใครก็ตาม ที่พาวเวอร์ตั้งต้น 6000 จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ. [เคาน์เตอร์] จั่วการ์ด จำนวน 1 ใบ, ในแบทเทิลนี้, ลีดเดอร์ของฝ่ายเรา จะมีพาวเวอร์ +3000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-058.png"
+            },
+            {
+                "id": "OP14-059",
+                "number": "OP14-059",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Please Take Me with You!! I Can Be of Great Help to You!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] ถ้าลีดเดอร์ของฝ่ายเรา คือ [Jinbe], และเรามีการ์ดในมืออยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จะจั่วการ์ด จำนวน 2 ใบ. [ทริกเกอร์] จะนำคาแรกเตอร์ของใครก็ตาม ที่คอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-059.png"
+            },
+            {
+                "id": "OP14-060",
+                "number": "OP14-060",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Donquixote Doflamingo",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : เลือก ลีดเดอร์ของเรา หรือว่า คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > จำนวน 1 ใบ, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดที่เลือก.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-060.png"
+            },
+            {
+                "id": "OP14-060_p1",
+                "number": "OP14-060",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Donquixote Doflamingo",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : เลือก ลีดเดอร์ของเรา หรือว่า คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > จำนวน 1 ใบ, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดที่เลือก.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-060_p1.png"
+            },
+            {
+                "id": "OP14-061",
+                "number": "OP14-061",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Vergo",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์ของฝ่ายเรา ที่มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > กำลังจะถูกนำออกจากสนาม จากความสามารถของฝ่ายคู่แข่ง, จะสามารถนำ ด้ง!! ที่อยู่ในสนามของเรา จำนวน 1 ใบ กลับ ด้ง!! เด็ค แทนได้. [เมื่อโจมตี] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -2000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-061.png"
+            },
+            {
+                "id": "OP14-061_p1",
+                "number": "OP14-061",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Vergo",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์ของฝ่ายเรา ที่มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > กำลังจะถูกนำออกจากสนาม จากความสามารถของฝ่ายคู่แข่ง, จะสามารถนำ ด้ง!! ที่อยู่ในสนามของเรา จำนวน 1 ใบ กลับ ด้ง!! เด็ค แทนได้. [เมื่อโจมตี] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -2000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-061_p1.png"
+            },
+            {
+                "id": "OP14-062",
+                "number": "OP14-062",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gladius",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : จะ KO หรือว่า เรสต์, คาแรกเตอร์ของคู่แข่ง ที่พาวเวอร์ตั้งต้น 6000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-062.png"
+            },
+            {
+                "id": "OP14-063",
+                "number": "OP14-063",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Sugar",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ. [เมื่อถูก KO] ถ้า ด้ง!! ที่อยู่ในสนามของคู่แข่งมี จำนวน 6 ใบ หรือมากกว่าละก็, จะนำคาแรกเตอร์การ์ด ที่คอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-063.png"
+            },
+            {
+                "id": "OP14-064",
+                "number": "OP14-064",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Giolla",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์. จากนั้น, จะ KO คาแรกเตอร์ของคู่แข่ง ที่คอสต์ตั้งต้น 0, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-064.png"
+            },
+            {
+                "id": "OP14-065",
+                "number": "OP14-065",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Senor Pink",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] คู่แข่งจะต้องนำ ด้ง!! ในสนามของตัวเอง จำนวน 1 ใบ กลับ ด้ง!! เด็ค.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-065.png"
+            },
+            {
+                "id": "OP14-066",
+                "number": "OP14-066",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Diamante",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-066.png"
+            },
+            {
+                "id": "OP14-067",
+                "number": "OP14-067",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Dellinger",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์, แล้วดูการ์ดจากบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-067.png"
+            },
+            {
+                "id": "OP14-068",
+                "number": "OP14-068",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Trebol",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของคู่แข่ง] [เทิร์นละ 1 ครั้ง] เมื่อ ด้ง!! ในสนามของเรา ถูกนำกลับ ด้ง!! เด็ค, ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > ละก็, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-068.png"
+            },
+            {
+                "id": "OP14-069",
+                "number": "OP14-069",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Donquixote Doflamingo",
+                "cost": "10",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 3 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : เลือก 1 อย่าง จากต่อไปนี้. • ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > ละก็, จะ KO คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 8 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. • ทำให้คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 7 หรือต่ำกว่า จำนวนไม่เกิน 3 ใบ, จะไม่สามารถถูก เรสต์, จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-069.png"
+            },
+            {
+                "id": "OP14-069_p1",
+                "number": "OP14-069",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Donquixote Doflamingo",
+                "cost": "10",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 3 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : เลือก 1 อย่าง จากต่อไปนี้. • ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > ละก็, จะ KO คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 8 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. • ทำให้คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 7 หรือต่ำกว่า จำนวนไม่เกิน 3 ใบ, จะไม่สามารถถูก เรสต์, จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-069_p1.png"
+            },
+            {
+                "id": "OP14-070",
+                "number": "OP14-070",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Buffalo",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "เมื่อคาแรกเตอร์นี้ ถูกเรสต์ จากความสามารถของฝ่ายคู่แข่ง, จะสามารถนำ ด้ง!! ในสนามของเรา จำนวน 1 ใบ กลับเข้า ด้ง!! เด็คก็ได้, ถ้าทำละก็, จะแอ็คทีฟ คาแรกเตอร์นี้. [บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-070.png"
+            },
+            {
+                "id": "OP14-071",
+                "number": "OP14-071",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Pica",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อจบเทิร์นของเรา] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > ละก็, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-071.png"
+            },
+            {
+                "id": "OP14-072",
+                "number": "OP14-072",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Baby 5",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ. [เมื่อถูก KO] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : จะนำการ์ดจากบนสุดของ เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-072.png"
+            },
+            {
+                "id": "OP14-073",
+                "number": "OP14-073",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Machvise",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-073.png"
+            },
+            {
+                "id": "OP14-074",
+                "number": "OP14-074",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Monet",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > ละก็, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ. [เมื่อถูก KO] จะจั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดในมือของเรา จำนวน 1 ใบ. จากนั้น, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 2 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-074.png"
+            },
+            {
+                "id": "OP14-075",
+                "number": "OP14-075",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Lao.G",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -2000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-075.png"
+            },
+            {
+                "id": "OP14-076",
+                "number": "OP14-076",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Ever White",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 2 ใบ : ถ้าลีดเดอร์ของฝ่ายเรา คือ [Donquixote Doflamingo] ละก็, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์. [เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ของฝ่ายเรา จะมีพาวเวอร์ +3000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-076.png"
+            },
+            {
+                "id": "OP14-077",
+                "number": "OP14-077",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Penta-Chromatic String",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +4000. จากนั้น, ถ้าคู่แข่งมีคาแรกเตอร์ ที่พาวเวอร์ 6000 หรือสูงกว่า อยู่ด้วยละก็, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-077.png"
+            },
+            {
+                "id": "OP14-078",
+                "number": "OP14-078",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Bullet String",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เคาน์เตอร์] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > ละก็, ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +2000. จากนั้น, ในเทิร์นนี้, การ์ดใบนั้น จะพาวเวอร์ +2000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-078.png"
+            },
+            {
+                "id": "OP14-079",
+                "number": "OP14-079",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Crocodile",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "คาแรกเตอร์ของฝ่ายคู่แข่ง ทั้งหมด, จะไม่ถูกนำออกจากสนาม จากความสามารถของฝ่ายเรา. [สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] สามารถ KO คาแรกเตอร์ของเรา ที่ระบุคำว่า [B•W] อยู่ในคุณสมบัติ จำนวน 1 ใบ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะคอสต์ -10. จากนั้น, จะสามารถนำการ์ดจากบนเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรชก็ได้.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-079.png"
+            },
+            {
+                "id": "OP14-079_p1",
+                "number": "OP14-079",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Crocodile",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "คาแรกเตอร์ของฝ่ายคู่แข่ง ทั้งหมด, จะไม่ถูกนำออกจากสนาม จากความสามารถของฝ่ายเรา. [สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] สามารถ KO คาแรกเตอร์ของเรา ที่ระบุคำว่า [B•W] อยู่ในคุณสมบัติ จำนวน 1 ใบ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะคอสต์ -10. จากนั้น, จะสามารถนำการ์ดจากบนเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรชก็ได้.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-079_p1.png"
+            },
+            {
+                "id": "OP14-080",
+                "number": "OP14-080",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Gecko Moria",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] สามารถ KO คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จำนวน 1 ใบ : ในเทิร์นนี้, ลีดเดอร์ กับ คาแรกเตอร์ ของฝ่ายเรา ทั้งหมด, จะพาวเวอร์ +1000. [เมื่อโจมตี] สามารถทิ้งการ์ดในมือของเรา จำนวน 3 ใบ : จะนำการ์ดจากบนสุดของ เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-080.png"
+            },
+            {
+                "id": "OP14-080_p1",
+                "number": "OP14-080",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Gecko Moria",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] สามารถ KO คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จำนวน 1 ใบ : ในเทิร์นนี้, ลีดเดอร์ กับ คาแรกเตอร์ ของฝ่ายเรา ทั้งหมด, จะพาวเวอร์ +1000. [เมื่อโจมตี] สามารถทิ้งการ์ดในมือของเรา จำนวน 3 ใบ : จะนำการ์ดจากบนสุดของ เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-080_p1.png"
+            },
+            {
+                "id": "OP14-081",
+                "number": "OP14-081",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Spider Mice",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะนำการ์ดจากบนเด็คของเรา จำนวน 3 ใบ ไปวางที่แทรช. [เมื่อถูก KO] จะ KO คาแรกเตอร์ของคู่แข่ง ที่คอสต์ตั้งต้น 1, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-081.png"
+            },
+            {
+                "id": "OP14-082",
+                "number": "OP14-082",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Oinkchuck",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 2 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม ในสภาพเรสต์.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] คาแรกเตอร์ของฝ่ายเรา ทั้งหมด ที่มีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค >, จะคอสต์ +4 จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-082.png"
+            },
+            {
+                "id": "OP14-083",
+                "number": "OP14-083",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Ms. Wednesday",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] สามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 0 จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -3000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-083.png"
+            },
+            {
+                "id": "OP14-084",
+                "number": "OP14-084",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Ms. All Sunday",
+                "cost": "7",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา ระบุคำว่า [B•W] อยู่ในคุณสมบัติละก็, จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า กับ คอสต์ 1 อย่างละจำนวนไม่เกิน 1 ใบ, ซึ่งล้วนระบุคำว่า [B•W] อยู่ในคุณสมบัติ จากในแทรชของเรา, ลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-084.png"
+            },
+            {
+                "id": "OP14-084_p1",
+                "number": "OP14-084",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Ms. All Sunday",
+                "cost": "7",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา ระบุคำว่า [B•W] อยู่ในคุณสมบัติละก็, จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า กับ คอสต์ 1 อย่างละจำนวนไม่เกิน 1 ใบ, ซึ่งล้วนระบุคำว่า [B•W] อยู่ในคุณสมบัติ จากในแทรชของเรา, ลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-084_p1.png"
+            },
+            {
+                "id": "OP14-085",
+                "number": "OP14-085",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Miss.Goldenweek(Marianne)",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] จะจั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดในมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-085.png"
+            },
+            {
+                "id": "OP14-086",
+                "number": "OP14-086",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Miss Doublefinger(Zala)",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "ถ้าในแทรชของเรามีการ์ดอยู่ จำนวน 7 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้ จะพาวเวอร์ +1000, และคาแรกเตอร์ของฝ่ายเรา ทั้งหมด ที่ระบุคำว่า [B•W] อยู่ในคุณสมบัติ, จะคอสต์ +2.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-086.png"
+            },
+            {
+                "id": "OP14-087",
+                "number": "OP14-087",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Miss.Valentine(Mikita)",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา ระบุคำว่า [B•W] อยู่ในคุณสมบัติละก็, จะดูการ์ดจากบนเด็ค จำนวน 4 ใบ, และนำการ์ด ที่ระบุคำว่า [B•W] อยู่ในคุณสมบัติ นอกเหนือจาก [Miss.Valentine(Mikita)] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่แทรช.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-087.png"
+            },
+            {
+                "id": "OP14-088",
+                "number": "OP14-088",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Miss.MerryChristmas(Drophy)",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] ถ้าลีดเดอร์ของฝ่ายเรา ระบุคำว่า [B•W] อยู่ในคุณสมบัติละก็, จะจั่วการ์ด จำนวน 1 ใบ, และจะ KO สเตจของคู่แข่ง ที่คอสต์ 1, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-088.png"
+            },
+            {
+                "id": "OP14-089",
+                "number": "OP14-089",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ryuma",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม ในสภาพเรสต์.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] จะจั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดในมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-089.png"
+            },
+            {
+                "id": "OP14-090",
+                "number": "OP14-090",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.1(Daz.Bonez)",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "ถ้ามีคาแรกเตอร์ของใครก็ตาม ที่คอสต์ 0 หรือว่า ที่คอสต์ 8 หรือสูงกว่า อยู่ด้วยละก็, คาแรกเตอร์นี้ จะสามารถโจมตีใส่คาแรกเตอร์ ในเทิร์นที่เพิ่งลงสนามได้. [เมื่อลงสนาม] จะเรสต์ การ์ดของคู่แข่ง ที่คอสต์ 0, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-090.png"
+            },
+            {
+                "id": "OP14-090_p1",
+                "number": "OP14-090",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.1(Daz.Bonez)",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "ถ้ามีคาแรกเตอร์ของใครก็ตาม ที่คอสต์ 0 หรือว่า ที่คอสต์ 8 หรือสูงกว่า อยู่ด้วยละก็, คาแรกเตอร์นี้ จะสามารถโจมตีใส่คาแรกเตอร์ ในเทิร์นที่เพิ่งลงสนามได้. [เมื่อลงสนาม] จะเรสต์ การ์ดของคู่แข่ง ที่คอสต์ 0, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-090_p1.png"
+            },
+            {
+                "id": "OP14-091",
+                "number": "OP14-091",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Mr.2.Bon.Kurei(Bentham)",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 5 หรือต่ำกว่า และระบุคำว่า [B•W] อยู่ในคุณสมบัติ นอกเหนือจาก [Mr.2.Bon.Kurei(Bentham)] จากในมือ หรือ แทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-091.png"
+            },
+            {
+                "id": "OP14-091_p1",
+                "number": "OP14-091",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Mr.2.Bon.Kurei(Bentham)",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 5 หรือต่ำกว่า และระบุคำว่า [B•W] อยู่ในคุณสมบัติ นอกเหนือจาก [Mr.2.Bon.Kurei(Bentham)] จากในมือ หรือ แทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-091_p1.png"
+            },
+            {
+                "id": "OP14-092",
+                "number": "OP14-092",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.3(Galdino)",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของคู่แข่ง] [เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์นี้กำลังจะถูก KO, จะสามารถนำการ์ด จากในแทรชของเรา จำนวน 3 ใบ ไปวางที่ใต้เด็ค ในลำดับใดก็ได้แทน.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-092.png"
+            },
+            {
+                "id": "OP14-093",
+                "number": "OP14-093",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr.4(Babe)",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 8 หรือต่ำกว่า และระบุคำว่า [B•W] อยู่ในคุณสมบัติ จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ขึ้นมือ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-093.png"
+            },
+            {
+                "id": "OP14-094",
+                "number": "OP14-094",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Mr.5(Gem)",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้ามีคาแรกเตอร์ของใครก็ตาม ที่คอสต์ 0 หรือว่า ที่คอสต์ 8 หรือสูงกว่า อยู่ด้วยละก็, จะจั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดในมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-094.png"
+            },
+            {
+                "id": "OP14-095",
+                "number": "OP14-095",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr.9",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-095.png"
+            },
+            {
+                "id": "OP14-096",
+                "number": "OP14-096",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Ground Death",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 2 ใบ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล. [เคาน์เตอร์] ถ้าในแทรชของเรามีการ์ดอยู่ จำนวน 10 ใบ หรือมากกว่าละก็, ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +4000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-096.png"
+            },
+            {
+                "id": "OP14-096_p1",
+                "number": "OP14-096",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Ground Death",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 2 ใบ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล. [เคาน์เตอร์] ถ้าในแทรชของเรามีการ์ดอยู่ จำนวน 10 ใบ หรือมากกว่าละก็, ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +4000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-096_p1.png"
+            },
+            {
+                "id": "OP14-097",
+                "number": "OP14-097",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Hurry Up and Make Me the Pirate King!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] ดูการ์ดจากบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > นอกเหนือจาก [Make Me The Pirate King Quickly!!!] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่แทรช.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-097.png"
+            },
+            {
+                "id": "OP14-098",
+                "number": "OP14-098",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Crescent Cutlass",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์",
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] ถ้ามีคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 0 หรือว่า ที่คอสต์ 8 หรือสูงกว่า อยู่ด้วยละก็, คาแรกเตอร์ของฝ่ายเรา ทั้งหมด ที่ระบุคำว่า [B•W] อยู่ในคุณสมบัติ, จะคอสต์ +3 จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป. [เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ของเรา จะพาวเวอร์ +3000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-098.png"
+            },
+            {
+                "id": "OP14-099",
+                "number": "OP14-099",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Disappointed?",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] ดูการ์ดจากบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่ระบุคำว่า [B•W] อยู่ในคุณสมบัติ นอกเหนือจาก [Disappointed?] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่แทรช.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-099.png"
+            },
+            {
+                "id": "OP14-100",
+                "number": "OP14-100",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Absalom",
+                "cost": "3",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม ในสภาพเรสต์.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] จะดูการ์ดจากบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-100.png"
+            },
+            {
+                "id": "OP14-101",
+                "number": "OP14-101",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Oars",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าคนยักษ์",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-101.png"
+            },
+            {
+                "id": "OP14-102",
+                "number": "OP14-102",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kumacy",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม ในสภาพเรสต์.",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-102.png"
+            },
+            {
+                "id": "OP14-103",
+                "number": "OP14-103",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gloriosa (Grandma Nyon)",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "อมาซอน • ลิลี่"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] สามารถนำการ์ดจาก บนสุด หรือ ล่างสุด ของไลฟ์ของเรา จำนวน 1 ใบ ขึ้นมือ : นำการ์ดในมือของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-103.png"
+            },
+            {
+                "id": "OP14-104",
+                "number": "OP14-104",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Gecko Moria",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์ ในสภาพหงาย, หรือว่านำลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-104.png"
+            },
+            {
+                "id": "OP14-104_p1",
+                "number": "OP14-104",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Gecko Moria",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์ ในสภาพหงาย, หรือว่านำลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-104_p1.png"
+            },
+            {
+                "id": "OP14-105",
+                "number": "OP14-105",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Gorgon Sisters",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน",
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดคุจา > ละก็, จะนำการ์ดใบนี้ ลงสนาม.",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] สามารถนำการ์ด ที่มีคุณสมบัติ < อมาซอน • ลิลี่ > หรือ < กลุ่มโจรสลัดคุจา > จากในมือของเรา จำนวน 3 ใบ มาแสดงให้ดู : นำ ด้ง!! ที่เรสต์อยู่, ใส่ให้ ลีดเดอร์ กับ คาแรกเตอร์ของฝ่ายเรา ทั้งหมด, อย่างละ จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-105.png"
+            },
+            {
+                "id": "OP14-106",
+                "number": "OP14-106",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Salome",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "อมาซอน • ลิลี่"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-106.png"
+            },
+            {
+                "id": "OP14-107",
+                "number": "OP14-107",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Shakuyaku",
+                "cost": "6",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดคุจา > ละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "อมาซอน • ลิลี่"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าไลฟ์ของคู่แข่งมี จำนวน 3 ใบ หรือน้อยกว่า ละก็, จะจั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดในมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-107.png"
+            },
+            {
+                "id": "OP14-108",
+                "number": "OP14-108",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Silvers Rayleigh",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมื่อลงสนาม] ของการ์ดใบนี้.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "อดีตกลุ่มโจรสลัดโรเจอร์"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา มีหลายสี, และไลฟ์ของคู่แข่งมี จำนวน 3 ใบ หรือน้อยกว่าละก็, จะ KO คาแรกเตอร์ของคู่แข่ง ที่พาวเวอร์ตั้งต้น 7000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-108.png"
+            },
+            {
+                "id": "OP14-109",
+                "number": "OP14-109",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Victoria Cindry",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม ในสภาพเรสต์.",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-109.png"
+            },
+            {
+                "id": "OP14-110",
+                "number": "OP14-110",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Dr. Hogback",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม ในสภาพเรสต์.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อถูก KO] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า และมี [ทริกเกอร์] นอกเหนือจาก [Dr. Hogback] จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-110.png"
+            },
+            {
+                "id": "OP14-111",
+                "number": "OP14-111",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Perona",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม ในสภาพเรสต์.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] / [เมื่อถูก KO] จะทำให้ คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 6 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะไม่สามารถโจมตี จนกระทั่งจบเอนด์เฟสของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-111.png"
+            },
+            {
+                "id": "OP14-111_p1",
+                "number": "OP14-111",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Perona",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม ในสภาพเรสต์.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] / [เมื่อถูก KO] จะทำให้ คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 6 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะไม่สามารถโจมตี จนกระทั่งจบเอนด์เฟสของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-111_p1.png"
+            },
+            {
+                "id": "OP14-112",
+                "number": "OP14-112",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Boa Hancock",
+                "cost": "9",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่พาวเวอร์ 6000 หรือต่ำกว่า และมี [ทริกเกอร์] จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < เจ็ดเทพโจรสลัด > ละก็, จะนำการ์ดจากบนสุดของ เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์. จากนั้น, จะนำการ์ดจากบนสุดของ ไลฟ์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ขึ้นมือของเจ้าของ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-112.png"
+            },
+            {
+                "id": "OP14-112_p1",
+                "number": "OP14-112",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Boa Hancock",
+                "cost": "9",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่พาวเวอร์ 6000 หรือต่ำกว่า และมี [ทริกเกอร์] จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < เจ็ดเทพโจรสลัด > ละก็, จะนำการ์ดจากบนสุดของ เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์. จากนั้น, จะนำการ์ดจากบนสุดของ ไลฟ์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ขึ้นมือของเจ้าของ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-112_p1.png"
+            },
+            {
+                "id": "OP14-113",
+                "number": "OP14-113",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Marguerite",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดคุจา > ละก็, จะนำการ์ดใบนี้ ลงสนาม.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "อมาซอน • ลิลี่"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะดูการ์ดจากบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่คุณสมบัติ < อมาซอน • ลิลี่ > หรือ < กลุ่มโจรสลัดคุจา > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้, และทิ้งการ์ดในมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-113.png"
+            },
+            {
+                "id": "OP14-114",
+                "number": "OP14-114",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Ran",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดคุจา > ละก็, จะนำการ์ดใบนี้ ลงสนาม.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา, ที่มีคุณสมบัติ < กลุ่มโจรสลัดคุจา > จำนวน 1 ใบ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-114.png"
+            },
+            {
+                "id": "OP14-115",
+                "number": "OP14-115",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Rindo",
+                "cost": "5",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดคุจา > ละก็, จะนำการ์ดใบนี้ ลงสนาม.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของคู่แข่ง] [เมื่อถูก KO] จะนำการ์ดจากบนสุดของ เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์. จากนั้น, เราจะได้รับ ดาเมจ 1 หน่วย.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-115.png"
+            },
+            {
+                "id": "OP14-116",
+                "number": "OP14-116",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Salamander",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +2000. จากนั้น, จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < อมาซอน • ลิลี่ > หรือ < กลุ่มโจรสลัดคุจา > จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-116.png"
+            },
+            {
+                "id": "OP14-117",
+                "number": "OP14-117",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Brick Bat",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม ในสภาพเรสต์.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[เคาน์เตอร์] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > ละก็, ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +3000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-117.png"
+            },
+            {
+                "id": "OP14-118",
+                "number": "OP14-118",
+                "type": "R",
+                "class": "EVENT",
+                "name": "You'll Frighten Me... ♡",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่พาวเวอร์ 6000 หรือต่ำกว่า และมี [ทริกเกอร์] จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[เคาน์เตอร์] ถ้าไลฟ์ของเรามีอยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จะทำให้ คาแรกเตอร์ของคู่แข่ง ที่กำลังแอ็คทีฟอยู่ จำนวนไม่เกิน 1 ใบ, จะไม่สามารถโจมตี ในเทิร์นนี้.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-118.png"
+            },
+            {
+                "id": "OP14-118_p1",
+                "number": "OP14-118",
+                "type": "R",
+                "class": "EVENT",
+                "name": "You'll Frighten Me... ♡",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่พาวเวอร์ 6000 หรือต่ำกว่า และมี [ทริกเกอร์] จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[เคาน์เตอร์] ถ้าไลฟ์ของเรามีอยู่ จำนวน 2 ใบ หรือน้อยกว่าละก็, จะทำให้ คาแรกเตอร์ของคู่แข่ง ที่กำลังแอ็คทีฟอยู่ จำนวนไม่เกิน 1 ใบ, จะไม่สามารถโจมตี ในเทิร์นนี้.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-118_p1.png"
+            },
+            {
+                "id": "OP14-119",
+                "number": "OP14-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Dracule Mihawk",
+                "cost": "9",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] เมื่อคาแรกเตอร์นี้ ถูกเรสต์, จะทำให้คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 9 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะไม่สามารถถูกเรสต์ จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป. [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +2000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-119.png"
+            },
+            {
+                "id": "OP14-119_p1",
+                "number": "OP14-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Dracule Mihawk",
+                "cost": "9",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] เมื่อคาแรกเตอร์นี้ ถูกเรสต์, จะทำให้คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 9 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะไม่สามารถถูกเรสต์ จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป. [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +2000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-119_p1.png"
+            },
+            {
+                "id": "OP14-119_p2",
+                "number": "OP14-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Dracule Mihawk",
+                "cost": "9",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] เมื่อคาแรกเตอร์นี้ ถูกเรสต์, จะทำให้คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 9 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะไม่สามารถถูกเรสต์ จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป. [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +2000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-119_p2.png"
+            },
+            {
+                "id": "OP14-120",
+                "number": "OP14-120",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Crocodile",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะทำให้ คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 9 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะไม่สามารถโจมตี จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป. จากนั้น, ถ้าคู่แข่งมีคาแรกเตอร์ ที่คอสต์ 0 หรือว่า ที่คอสต์ 8 หรือสูงกว่า อยู่ด้วยละก็, จะจั่วการ์ด จำนวน 1 ใบ. [เมื่อถูก KO] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : จะนำคาแรกเตอร์การ์ดใบนี้ จากในแทรชมาลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-120.png"
+            },
+            {
+                "id": "OP14-120_p1",
+                "number": "OP14-120",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Crocodile",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะทำให้ คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 9 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะไม่สามารถโจมตี จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป. จากนั้น, ถ้าคู่แข่งมีคาแรกเตอร์ ที่คอสต์ 0 หรือว่า ที่คอสต์ 8 หรือสูงกว่า อยู่ด้วยละก็, จะจั่วการ์ด จำนวน 1 ใบ. [เมื่อถูก KO] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : จะนำคาแรกเตอร์การ์ดใบนี้ จากในแทรชมาลงสนาม.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-120_p1.png"
+            },
+            {
+                "id": "EB01-003_p3",
+                "number": "EB01-003",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Kid & Killer",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน",
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "2",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อโจมตี] ถ้าคู่แข่งมีไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, ในเทิร์นนี้, คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-003_p3.png"
+            },
+            {
+                "id": "OP06-093_p3",
+                "number": "OP06-093",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Perona",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ถ้าคู่แข่งมีการ์ดบนมือ จำนวน 5 ใบ หรือมากกว่า, เลือก 1 อย่าง จากดังต่อไปนี้. • คู่แข่งจะต้องทิ้งการ์ดในมือของตัวเอง จำนวน 1 ใบ. • ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -3.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP06-093_p3.png"
+            },
+            {
+                "id": "OP07-046_p2",
+                "number": "OP07-046",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Sengoku",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < เจ็ดเทพโจรสลัด > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-046_p2.png"
+            },
+            {
+                "id": "OP09-051_p5",
+                "number": "OP09-051",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ. จากนั้น, ถ้าเราไม่มีคาแรกเตอร์ ที่มีคอสต์ 5 หรือสูงกว่า จำนวน 5 ใบ อยู่ด้วยละก็, คาแรกเตอร์นี้ จะถูกนำไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-051_p5.png"
+            },
+            {
+                "id": "OP09-051_p6",
+                "number": "OP09-051",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ. จากนั้น, ถ้าเราไม่มีคาแรกเตอร์ ที่มีคอสต์ 5 หรือสูงกว่า จำนวน 5 ใบ อยู่ด้วยละก็, คาแรกเตอร์นี้ จะถูกนำไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-051_p6.png"
+            },
+            {
+                "id": "OP10-065_p1",
+                "number": "OP10-065",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Sugar",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ, และ เรสต์ คาแรกเตอร์นี้ : ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > ไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP10-065_p1.png"
+            },
+            {
+                "id": "OP12-030_p2",
+                "number": "OP12-030",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Dracule Mihawk",
+                "cost": "8",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ราชอาณาจักรชิคเคะอารุ",
+                    "เจ็ดเทพโจรสลัด"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ทำการ แอ็คทีฟ ด้ง!! ของเรา, จำนวนไม่เกิน 4 ใบ. จากนั้น, ในเทิร์นนี้, เราจะไม่สามารถนำ คาแรกเตอร์การ์ด ที่มีคอสต์ตั้งต้น 7 หรือมากกว่า, มาลงสนามอีก.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP12-030_p2.png"
+            },
+            {
+                "id": "OP14-112_p2",
+                "number": "OP14-112",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Boa Hancock",
+                "cost": "9",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] จะนำคาแรกเตอร์การ์ด ที่พาวเวอร์ 6000 หรือต่ำกว่า และมี [ทริกเกอร์] จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < เจ็ดเทพโจรสลัด > ละก็, จะนำการ์ดจากบนสุดของ เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์. จากนั้น, จะนำการ์ดจากบนสุดของ ไลฟ์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ขึ้นมือของเจ้าของ.",
+                "card_set": "-The Azure Sea’s Seven- [OP-14]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP14-112_p2.png"
+            }
+        ]
+    }
+}

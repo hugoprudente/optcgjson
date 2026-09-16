@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556106
+        "set": 556106,
+        "language": "en"
     },
     "data": {
         "code": "OP06",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Uta",
-                "image_path": "images/WingsofCaptainOP06/OP06-001.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -39,8 +39,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Uta (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-001_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -65,7 +64,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Inazuma",
-                "image_path": "images/WingsofCaptainOP06/OP06-002.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -80,7 +78,7 @@
                     "Revolutionary Army"
                 ],
                 "block_icon": "2",
-                "effect": "If this Character has 7000 power or more, this Character gains [Banish].(When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "effect": "If this Character has 7000 power or more, this Character gains [Banish]. (When this card deals damage, the target card is trashed without activating its Trigger.)",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-002.png"
             },
@@ -90,7 +88,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Emporio.Ivankov",
-                "image_path": "images/WingsofCaptainOP06/OP06-003.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -115,7 +112,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Baron Omatsuri",
-                "image_path": "images/WingsofCaptainOP06/OP06-004.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -141,7 +137,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Gasparde",
-                "image_path": "images/WingsofCaptainOP06/OP06-005.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -168,7 +163,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Saga",
-                "image_path": "images/WingsofCaptainOP06/OP06-006.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -194,7 +188,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Shanks",
-                "image_path": "images/WingsofCaptainOP06/OP06-007.png",
                 "cost": "10",
                 "attribute": [
                     "Slash"
@@ -221,7 +214,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Shanks (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-007_p1.png",
                 "cost": "10",
                 "attribute": [
                     "Slash"
@@ -248,7 +240,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Schneider",
-                "image_path": "images/WingsofCaptainOP06/OP06-008.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -274,7 +265,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Shuraiya",
-                "image_path": "images/WingsofCaptainOP06/OP06-009.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -290,7 +280,7 @@
                     "Shipbuilding Town"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[When Attacking]/[On Block] [Once Per Turn] This Character becomes the same power as your opponent's Leader until the start of your next turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [When Attacking]/[On Block] [Once Per Turn] This Character becomes the same power as your opponent's Leader until the start of your next turn.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-009.png"
             },
@@ -300,7 +290,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Shuraiya (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-009_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -316,7 +305,7 @@
                     "Shipbuilding Town"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[When Attacking]/[On Block] [Once Per Turn] This Character becomes the same power as your opponent's Leader until the start of your next turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [When Attacking]/[On Block] [Once Per Turn] This Character becomes the same power as your opponent's Leader until the start of your next turn.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-009_p1.png"
             },
@@ -326,7 +315,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Douglas Bullet",
-                "image_path": "images/WingsofCaptainOP06/OP06-010.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -342,7 +330,7 @@
                     "The Pirates Fest"
                 ],
                 "block_icon": "2",
-                "effect": "If your Leader has the {FILM} type, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If your Leader has the {FILM} type, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-010.png"
             },
@@ -352,7 +340,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Tot Musica",
-                "image_path": "images/WingsofCaptainOP06/OP06-011.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -377,7 +364,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Bear.King",
-                "image_path": "images/WingsofCaptainOP06/OP06-012.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -403,7 +389,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/WingsofCaptainOP06/OP06-013.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -429,7 +414,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-013_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -455,7 +439,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Ratchet",
-                "image_path": "images/WingsofCaptainOP06/OP06-014.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -481,7 +464,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Lily Carnation",
-                "image_path": "images/WingsofCaptainOP06/OP06-015.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -507,7 +489,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Raise Max",
-                "image_path": "images/WingsofCaptainOP06/OP06-016.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -533,11 +514,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Meteor-Strike of Love",
-                "image_path": "images/WingsofCaptainOP06/OP06-017.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -559,11 +537,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Gum-Gum King Kong Gatling",
-                "image_path": "images/WingsofCaptainOP06/OP06-018.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 5000 power or less.",
                 "power": "-",
                 "counter": "-",
@@ -585,11 +560,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Blue Dragon Seal Water Stream",
-                "image_path": "images/WingsofCaptainOP06/OP06-019.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 4000 power or less.",
                 "power": "-",
                 "counter": "-",
@@ -611,8 +583,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Hody Jones",
-                "image_path": "images/WingsofCaptainOP06/OP06-020.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -637,8 +608,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Hody Jones (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-020_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -663,8 +633,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Perona",
-                "image_path": "images/WingsofCaptainOP06/OP06-021.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -679,7 +648,7 @@
                     "Thriller Bark Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Activate: Main] [Once Per Turn] Choose one:• Rest up to 1 of your opponent's Characters with a cost of 4 or less.• Give up to 1 of your opponent's Characters −1 cost during this turn.",
+                "effect": "[Activate: Main] [Once Per Turn] Choose one: • Rest up to 1 of your opponent's Characters with a cost of 4 or less. • Give up to 1 of your opponent's Characters −1 cost during this turn.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-021.png"
             },
@@ -689,8 +658,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Perona (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-021_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -705,7 +673,7 @@
                     "Thriller Bark Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Activate: Main] [Once Per Turn] Choose one:• Rest up to 1 of your opponent's Characters with a cost of 4 or less.• Give up to 1 of your opponent's Characters −1 cost during this turn.",
+                "effect": "[Activate: Main] [Once Per Turn] Choose one: • Rest up to 1 of your opponent's Characters with a cost of 4 or less. • Give up to 1 of your opponent's Characters −1 cost during this turn.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-021_p1.png"
             },
@@ -715,8 +683,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Yamato",
-                "image_path": "images/WingsofCaptainOP06/OP06-022.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Strike"
                 ],
@@ -731,7 +698,7 @@
                     "Land of Wano"
                 ],
                 "block_icon": "2",
-                "effect": "[Double Attack] (This card deals 2 damage.)[Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
+                "effect": "[Double Attack] (This card deals 2 damage.) [Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-022.png"
             },
@@ -741,8 +708,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Yamato (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-022_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Strike"
                 ],
@@ -757,7 +723,7 @@
                     "Land of Wano"
                 ],
                 "block_icon": "2",
-                "effect": "[Double Attack] (This card deals 2 damage.)[Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
+                "effect": "[Double Attack] (This card deals 2 damage.) [Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-022_p1.png"
             },
@@ -767,7 +733,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Arlong",
-                "image_path": "images/WingsofCaptainOP06/OP06-023.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -794,7 +759,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Ikaros Much",
-                "image_path": "images/WingsofCaptainOP06/OP06-024.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -820,7 +784,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Camie",
-                "image_path": "images/WingsofCaptainOP06/OP06-025.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -845,7 +808,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Camie (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-025_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -870,7 +832,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Koushirou",
-                "image_path": "images/WingsofCaptainOP06/OP06-026.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -895,7 +856,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Gyro",
-                "image_path": "images/WingsofCaptainOP06/OP06-027.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -920,7 +880,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Zeo",
-                "image_path": "images/WingsofCaptainOP06/OP06-028.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -946,7 +905,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Daruma",
-                "image_path": "images/WingsofCaptainOP06/OP06-029.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -972,7 +930,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Dosun",
-                "image_path": "images/WingsofCaptainOP06/OP06-030.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -998,7 +955,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Hatchan",
-                "image_path": "images/WingsofCaptainOP06/OP06-031.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1024,7 +980,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Hammond",
-                "image_path": "images/WingsofCaptainOP06/OP06-032.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -1050,7 +1005,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vander Decken IX",
-                "image_path": "images/WingsofCaptainOP06/OP06-033.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -1076,7 +1030,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Hyouzou",
-                "image_path": "images/WingsofCaptainOP06/OP06-034.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1101,7 +1054,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Hody Jones",
-                "image_path": "images/WingsofCaptainOP06/OP06-035.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -1117,7 +1069,7 @@
                     "New Fish-Man Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[On Play] Rest up to a total of 2 of your opponent's Characters or DON!! cards. Then, add 1 card from the top of your Life cards to your hand.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [On Play] Rest up to a total of 2 of your opponent's Characters or DON!! cards. Then, add 1 card from the top of your Life cards to your hand.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-035.png"
             },
@@ -1127,7 +1079,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Hody Jones (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-035_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -1143,7 +1094,7 @@
                     "New Fish-Man Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[On Play] Rest up to a total of 2 of your opponent's Characters or DON!! cards. Then, add 1 card from the top of your Life cards to your hand.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [On Play] Rest up to a total of 2 of your opponent's Characters or DON!! cards. Then, add 1 card from the top of your Life cards to your hand.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-035_p1.png"
             },
@@ -1153,7 +1104,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Ryuma",
-                "image_path": "images/WingsofCaptainOP06/OP06-036.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1179,7 +1129,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Wadatsumi",
-                "image_path": "images/WingsofCaptainOP06/OP06-037.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -1205,11 +1154,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "The Billion-fold World Trichiliocosm",
-                "image_path": "images/WingsofCaptainOP06/OP06-038.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
                 "power": "-",
                 "counter": "-",
@@ -1231,11 +1177,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "You Ain't Even Worth Killing Time!!",
-                "image_path": "images/WingsofCaptainOP06/OP06-039.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1246,7 +1189,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[Main] Choose one:• Rest up to 1 of your opponent's Characters with a cost of 6 or less.• K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
+                "effect": "[Main] Choose one: • Rest up to 1 of your opponent's Characters with a cost of 6 or less. • K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-039.png"
             },
@@ -1256,11 +1199,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Shark Arrows",
-                "image_path": "images/WingsofCaptainOP06/OP06-040.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1282,11 +1222,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "The Ark Noah",
-                "image_path": "images/WingsofCaptainOP06/OP06-041.png",
                 "cost": "6",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Play this card.",
                 "power": "-",
                 "counter": "-",
@@ -1307,8 +1244,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Vinsmoke Reiju",
-                "image_path": "images/WingsofCaptainOP06/OP06-042.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -1334,8 +1270,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Vinsmoke Reiju (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-042_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -1361,7 +1296,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Aramaki",
-                "image_path": "images/WingsofCaptainOP06/OP06-043.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -1376,7 +1310,7 @@
                     "Navy"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Activate: Main] [Once Per Turn] You may trash 1 card from your hand and place 1 Character with a cost of 2 or less at the bottom of the owner's deck: This Character gains +3000 power during this turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Activate: Main] [Once Per Turn] You may trash 1 card from your hand and place 1 Character with a cost of 2 or less at the bottom of the owner's deck: This Character gains +3000 power during this turn.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-043.png"
             },
@@ -1386,7 +1320,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Aramaki (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-043_p1.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -1401,7 +1334,7 @@
                     "Navy"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Activate: Main] [Once Per Turn] You may trash 1 card from your hand and place 1 Character with a cost of 2 or less at the bottom of the owner's deck: This Character gains +3000 power during this turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Activate: Main] [Once Per Turn] You may trash 1 card from your hand and place 1 Character with a cost of 2 or less at the bottom of the owner's deck: This Character gains +3000 power during this turn.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-043_p1.png"
             },
@@ -1411,7 +1344,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Gion",
-                "image_path": "images/WingsofCaptainOP06/OP06-044.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1436,7 +1368,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Kuzan",
-                "image_path": "images/WingsofCaptainOP06/OP06-045.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -1461,7 +1392,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Sakazuki",
-                "image_path": "images/WingsofCaptainOP06/OP06-046.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1486,7 +1416,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Charlotte Pudding",
-                "image_path": "images/WingsofCaptainOP06/OP06-047.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -1511,7 +1440,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Zeff",
-                "image_path": "images/WingsofCaptainOP06/OP06-048.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1536,7 +1464,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sengoku",
-                "image_path": "images/WingsofCaptainOP06/OP06-049.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -1561,7 +1488,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Tashigi",
-                "image_path": "images/WingsofCaptainOP06/OP06-050.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -1586,7 +1512,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Tashigi (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-050_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -1611,7 +1536,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Tsuru",
-                "image_path": "images/WingsofCaptainOP06/OP06-051.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1636,7 +1560,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Tokikake",
-                "image_path": "images/WingsofCaptainOP06/OP06-052.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -1661,7 +1584,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jaguar.D.Saul",
-                "image_path": "images/WingsofCaptainOP06/OP06-053.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -1687,7 +1609,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Borsalino",
-                "image_path": "images/WingsofCaptainOP06/OP06-054.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -1702,7 +1623,7 @@
                     "Navy"
                 ],
                 "block_icon": "2",
-                "effect": "If you have 5 or less cards in your hand, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If you have 5 or less cards in your hand, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-054.png"
             },
@@ -1712,7 +1633,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Garp",
-                "image_path": "images/WingsofCaptainOP06/OP06-055.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -1737,11 +1657,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Ama no Murakumo Sword",
-                "image_path": "images/WingsofCaptainOP06/OP06-056.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1762,11 +1679,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "But I Will Never Doubt a Woman's Tears!!!!",
-                "image_path": "images/WingsofCaptainOP06/OP06-057.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Play up to 1 Character card with a cost of 2 from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -1788,11 +1702,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Gravity Blade Raging Tiger",
-                "image_path": "images/WingsofCaptainOP06/OP06-058.png",
                 "cost": "7",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Place up to 1 Character with a cost of 5 or less at the bottom of the owner's deck.",
                 "power": "-",
                 "counter": "-",
@@ -1813,11 +1724,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "White Snake",
-                "image_path": "images/WingsofCaptainOP06/OP06-059.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Look at 5 cards from the top of your deck and place them at the top or bottom of your deck in any order.",
                 "power": "-",
                 "counter": "-",
@@ -1838,7 +1746,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Ichiji",
-                "image_path": "images/WingsofCaptainOP06/OP06-060.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1864,7 +1771,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Ichiji",
-                "image_path": "images/WingsofCaptainOP06/OP06-061.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -1880,7 +1786,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, give up to 1 of your opponent's Characters −2000 power during this turn and this Character gains [Rush].(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, give up to 1 of your opponent's Characters −2000 power during this turn and this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-061.png"
             },
@@ -1890,7 +1796,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Ichiji (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-061_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -1906,7 +1811,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, give up to 1 of your opponent's Characters −2000 power during this turn and this Character gains [Rush].(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, give up to 1 of your opponent's Characters −2000 power during this turn and this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-061_p1.png"
             },
@@ -1916,7 +1821,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Judge",
-                "image_path": "images/WingsofCaptainOP06/OP06-062.png",
                 "cost": "8",
                 "attribute": [
                     "Slash"
@@ -1932,7 +1836,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may trash 2 cards from your hand: Play up to 4 {GERMA 66} type Character cards with different card names and 4000 power or less from your trash.[Activate: Main] [Once Per Turn] DON!! −1: Rest up to 1 of your opponent's DON!! cards.",
+                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may trash 2 cards from your hand: Play up to 4 {GERMA 66} type Character cards with different card names and 4000 power or less from your trash. [Activate: Main] [Once Per Turn] DON!! −1: Rest up to 1 of your opponent's DON!! cards.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-062.png"
             },
@@ -1942,7 +1846,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Judge (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-062_p1.png",
                 "cost": "8",
                 "attribute": [
                     "Slash"
@@ -1958,7 +1861,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may trash 2 cards from your hand: Play up to 4 {GERMA 66} type Character cards with different card names and 4000 power or less from your trash.[Activate: Main] [Once Per Turn] DON!! −1: Rest up to 1 of your opponent's DON!! cards.",
+                "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may trash 2 cards from your hand: Play up to 4 {GERMA 66} type Character cards with different card names and 4000 power or less from your trash. [Activate: Main] [Once Per Turn] DON!! −1: Rest up to 1 of your opponent's DON!! cards.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-062_p1.png"
             },
@@ -1968,7 +1871,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Sora",
-                "image_path": "images/WingsofCaptainOP06/OP06-063.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1994,7 +1896,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Niji",
-                "image_path": "images/WingsofCaptainOP06/OP06-064.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -2020,7 +1921,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Niji",
-                "image_path": "images/WingsofCaptainOP06/OP06-065.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2036,7 +1936,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, choose one:• K.O. up to 1 of your opponent's Characters with a cost of 2 or less.• Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
+                "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, choose one: • K.O. up to 1 of your opponent's Characters with a cost of 2 or less. • Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-065.png"
             },
@@ -2046,7 +1946,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Yonji",
-                "image_path": "images/WingsofCaptainOP06/OP06-066.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -2072,7 +1971,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Yonji",
-                "image_path": "images/WingsofCaptainOP06/OP06-067.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -2088,7 +1986,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "2",
-                "effect": "If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, this Character gains +1000 power.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, this Character gains +1000 power. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-067.png"
             },
@@ -2098,7 +1996,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Reiju",
-                "image_path": "images/WingsofCaptainOP06/OP06-068.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -2124,7 +2021,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Reiju",
-                "image_path": "images/WingsofCaptainOP06/OP06-069.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2150,7 +2046,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Reiju (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-069_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2176,7 +2071,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Eldoraggo",
-                "image_path": "images/WingsofCaptainOP06/OP06-070.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2202,7 +2096,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Gild Tesoro",
-                "image_path": "images/WingsofCaptainOP06/OP06-071.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2228,7 +2121,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Cosette",
-                "image_path": "images/WingsofCaptainOP06/OP06-072.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -2243,7 +2135,7 @@
                     "Kingdom of GERMA"
                 ],
                 "block_icon": "2",
-                "effect": "If your Leader has the {GERMA 66} type and the number of DON!! cards on your field is at least 2 less than the number on your opponent's field, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If your Leader has the {GERMA 66} type and the number of DON!! cards on your field is at least 2 less than the number on your opponent's field, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-072.png"
             },
@@ -2253,7 +2145,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Shiki",
-                "image_path": "images/WingsofCaptainOP06/OP06-073.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -2269,7 +2160,7 @@
                     "Golden Lion Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you have 8 or more DON!! cards on your field, draw 1 card and trash 1 card from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you have 8 or more DON!! cards on your field, draw 1 card and trash 1 card from your hand.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-073.png"
             },
@@ -2279,7 +2170,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Zephyr (Navy)",
-                "image_path": "images/WingsofCaptainOP06/OP06-074.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -2305,7 +2195,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Count Battler",
-                "image_path": "images/WingsofCaptainOP06/OP06-075.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -2331,7 +2220,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Hitokiri Kamazo",
-                "image_path": "images/WingsofCaptainOP06/OP06-076.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2358,11 +2246,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Black Bug",
-                "image_path": "images/WingsofCaptainOP06/OP06-077.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Place up to 1 of your opponent's Characters with a cost of 4 or less at the bottom of the owner's deck.",
                 "power": "-",
                 "counter": "-",
@@ -2384,11 +2269,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "GERMA 66",
-                "image_path": "images/WingsofCaptainOP06/OP06-078.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card.",
                 "power": "-",
                 "counter": "-",
@@ -2410,11 +2292,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Kingdom of GERMA",
-                "image_path": "images/WingsofCaptainOP06/OP06-079.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -2435,8 +2314,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Gecko Moria",
-                "image_path": "images/WingsofCaptainOP06/OP06-080.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -2461,8 +2339,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Gecko Moria (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-080_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -2487,7 +2364,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Absalom",
-                "image_path": "images/WingsofCaptainOP06/OP06-081.png",
                 "cost": "4",
                 "attribute": [
                     "Ranged"
@@ -2512,7 +2388,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Absalom (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-081_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Ranged"
@@ -2537,7 +2412,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Inuppe",
-                "image_path": "images/WingsofCaptainOP06/OP06-082.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -2562,7 +2436,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Oars",
-                "image_path": "images/WingsofCaptainOP06/OP06-083.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -2578,7 +2451,7 @@
                     "Thriller Bark Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "This Character cannot attack.[Activate: Main] You may K.O. 1 of your {Thriller Bark Pirates} type Characters: This Character's effect is negated during this turn.",
+                "effect": "This Character cannot attack. [Activate: Main] You may K.O. 1 of your {Thriller Bark Pirates} type Characters: This Character's effect is negated during this turn.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-083.png"
             },
@@ -2588,7 +2461,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jigoro of the Wind",
-                "image_path": "images/WingsofCaptainOP06/OP06-084.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -2613,7 +2485,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Kumacy",
-                "image_path": "images/WingsofCaptainOP06/OP06-085.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -2638,7 +2509,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Gecko Moria",
-                "image_path": "images/WingsofCaptainOP06/OP06-086.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -2664,7 +2534,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Gecko Moria (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-086_p1.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -2690,7 +2559,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Cerberus",
-                "image_path": "images/WingsofCaptainOP06/OP06-087.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -2715,7 +2583,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Sai",
-                "image_path": "images/WingsofCaptainOP06/OP06-088.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -2741,7 +2608,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Taralan",
-                "image_path": "images/WingsofCaptainOP06/OP06-089.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -2766,7 +2632,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Dr. Hogback",
-                "image_path": "images/WingsofCaptainOP06/OP06-090.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -2791,7 +2656,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Victoria Cindry",
-                "image_path": "images/WingsofCaptainOP06/OP06-091.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -2816,7 +2680,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Brook",
-                "image_path": "images/WingsofCaptainOP06/OP06-092.png",
                 "cost": "6",
                 "attribute": [
                     "Slash"
@@ -2831,7 +2694,7 @@
                     "Former Rumbar Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] Choose one:• Trash up to 1 of your opponent's Characters with a cost of 4 or less.• Your opponent places 3 cards from their trash at the bottom of their deck in any order.",
+                "effect": "[On Play] Choose one: • Trash up to 1 of your opponent's Characters with a cost of 4 or less. • Your opponent places 3 cards from their trash at the bottom of their deck in any order.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-092.png"
             },
@@ -2841,7 +2704,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Perona",
-                "image_path": "images/WingsofCaptainOP06/OP06-093.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2856,7 +2718,7 @@
                     "Thriller Bark Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] If your opponent has 5 or more cards in their hand, choose one:• Your opponent trashes 1 card from their hand.• Give up to 1 of your opponent's Characters −3 cost during this turn.",
+                "effect": "[On Play] If your opponent has 5 or more cards in their hand, choose one: • Your opponent trashes 1 card from their hand. • Give up to 1 of your opponent's Characters −3 cost during this turn.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-093.png"
             },
@@ -2866,7 +2728,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Perona (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-093_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2881,7 +2742,7 @@
                     "Thriller Bark Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] If your opponent has 5 or more cards in their hand, choose one:• Your opponent trashes 1 card from their hand.• Give up to 1 of your opponent's Characters −3 cost during this turn.",
+                "effect": "[On Play] If your opponent has 5 or more cards in their hand, choose one: • Your opponent trashes 1 card from their hand. • Give up to 1 of your opponent's Characters −3 cost during this turn.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-093_p1.png"
             },
@@ -2891,7 +2752,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Lola",
-                "image_path": "images/WingsofCaptainOP06/OP06-094.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2916,11 +2776,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Shadows Asgard",
-                "image_path": "images/WingsofCaptainOP06/OP06-095.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -2942,11 +2799,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "...Nothing...at All!!!",
-                "image_path": "images/WingsofCaptainOP06/OP06-096.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Counter] effect.",
                 "power": "-",
                 "counter": "-",
@@ -2967,11 +2821,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Negative Hollow",
-                "image_path": "images/WingsofCaptainOP06/OP06-097.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -2992,11 +2843,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Thriller Bark",
-                "image_path": "images/WingsofCaptainOP06/OP06-098.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -3017,7 +2865,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Aisa",
-                "image_path": "images/WingsofCaptainOP06/OP06-099.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -3042,7 +2889,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Inuarashi",
-                "image_path": "images/WingsofCaptainOP06/OP06-100.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -3069,7 +2915,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "O-Nami",
-                "image_path": "images/WingsofCaptainOP06/OP06-101.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -3084,7 +2929,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] Up to 1 of your Leader or Character cards gains [Banish] during this turn.(When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "effect": "[On Play] Up to 1 of your Leader or Character cards gains [Banish] during this turn. (When this card deals damage, the target card is trashed without activating its Trigger.)",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-101.png"
             },
@@ -3094,7 +2939,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "O-Nami (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-101_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -3109,7 +2953,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] Up to 1 of your Leader or Character cards gains [Banish] during this turn.(When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "effect": "[On Play] Up to 1 of your Leader or Character cards gains [Banish] during this turn. (When this card deals damage, the target card is trashed without activating its Trigger.)",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-101_p1.png"
             },
@@ -3119,7 +2963,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kamakiri",
-                "image_path": "images/WingsofCaptainOP06/OP06-102.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -3145,7 +2988,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kawamatsu",
-                "image_path": "images/WingsofCaptainOP06/OP06-103.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -3172,7 +3014,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kikunojo",
-                "image_path": "images/WingsofCaptainOP06/OP06-104.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -3198,7 +3039,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Genbo",
-                "image_path": "images/WingsofCaptainOP06/OP06-105.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -3224,7 +3064,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kouzuki Hiyori",
-                "image_path": "images/WingsofCaptainOP06/OP06-106.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -3250,7 +3089,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kouzuki Hiyori (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-106_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -3276,7 +3114,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kouzuki Momonosuke",
-                "image_path": "images/WingsofCaptainOP06/OP06-107.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -3292,7 +3129,7 @@
                     "Kouzuki Clan"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Add up to 1 of your {Land of Wano} type Characters other than [Kouzuki Momonosuke] to the top or bottom of the owner's Life cards face-up.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Add up to 1 of your {Land of Wano} type Characters other than [Kouzuki Momonosuke] to the top or bottom of the owner's Life cards face-up.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-107.png"
             },
@@ -3302,7 +3139,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kouzuki Momonosuke (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-107_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -3318,7 +3154,7 @@
                     "Kouzuki Clan"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Add up to 1 of your {Land of Wano} type Characters other than [Kouzuki Momonosuke] to the top or bottom of the owner's Life cards face-up.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Add up to 1 of your {Land of Wano} type Characters other than [Kouzuki Momonosuke] to the top or bottom of the owner's Life cards face-up.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-107_p1.png"
             },
@@ -3328,7 +3164,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Tenguyama Hitetsu",
-                "image_path": "images/WingsofCaptainOP06/OP06-108.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -3354,7 +3189,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Denjiro",
-                "image_path": "images/WingsofCaptainOP06/OP06-109.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -3380,7 +3214,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nekomamushi",
-                "image_path": "images/WingsofCaptainOP06/OP06-110.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -3407,7 +3240,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Braham",
-                "image_path": "images/WingsofCaptainOP06/OP06-111.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -3433,7 +3265,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Raizo",
-                "image_path": "images/WingsofCaptainOP06/OP06-112.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -3459,7 +3290,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Raki",
-                "image_path": "images/WingsofCaptainOP06/OP06-113.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -3475,7 +3305,7 @@
                     "Shandian Warrior"
                 ],
                 "block_icon": "2",
-                "effect": "If you have a {Shandian Warrior} type Character other than [Raki], this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If you have a {Shandian Warrior} type Character other than [Raki], this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-113.png"
             },
@@ -3485,7 +3315,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Wyper",
-                "image_path": "images/WingsofCaptainOP06/OP06-114.png",
                 "cost": "5",
                 "attribute": [
                     "Ranged"
@@ -3511,11 +3340,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "You're the One Who Should Disappear.",
-                "image_path": "images/WingsofCaptainOP06/OP06-115.png",
                 "cost": "-",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] If you have 0 Life cards, you may add up to 1 card from the top of your deck to the top of your Life cards. Then, trash 1 card from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -3536,11 +3362,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Reject",
-                "image_path": "images/WingsofCaptainOP06/OP06-116.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 1 card.",
                 "power": "-",
                 "counter": "-",
@@ -3552,7 +3375,7 @@
                     "Shandian Warrior"
                 ],
                 "block_icon": "2",
-                "effect": "[Main] Choose one:• K.O. up to 1 of your opponent's Characters with a cost of 5 or less.• If your opponent has 1 Life card, deal 1 damage to your opponent. Then, add 1 card from the top of your Life cards to your hand.",
+                "effect": "[Main] Choose one: • K.O. up to 1 of your opponent's Characters with a cost of 5 or less. • If your opponent has 1 Life card, deal 1 damage to your opponent. Then, add 1 card from the top of your Life cards to your hand.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-116.png"
             },
@@ -3562,11 +3385,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "The Ark Maxim",
-                "image_path": "images/WingsofCaptainOP06/OP06-117.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -3587,7 +3407,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/WingsofCaptainOP06/OP06-118.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -3602,7 +3421,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[When Attacking] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.[Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.",
+                "effect": "[When Attacking] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active. [Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-118.png"
             },
@@ -3612,7 +3431,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-118_p1.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -3627,7 +3445,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[When Attacking] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.[Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.",
+                "effect": "[When Attacking] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active. [Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-118_p1.png"
             },
@@ -3637,7 +3455,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-118_p2.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -3652,7 +3469,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[When Attacking] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.[Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.",
+                "effect": "[When Attacking] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active. [Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-118_p2.png"
             },
@@ -3662,7 +3479,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/WingsofCaptainOP06/OP06-119.png",
                 "cost": "9",
                 "attribute": [
                     "Strike"
@@ -3687,7 +3503,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Sanji (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP06-119_p1.png",
                 "cost": "9",
                 "attribute": [
                     "Strike"
@@ -3712,7 +3527,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Buggy (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP03-008_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -3727,7 +3541,7 @@
                     "Buggy Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "This Character cannot be K.O.'d in battle by <Slash> attribute cards.[On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "effect": "This Character cannot be K.O.'d in battle by <Slash> attribute cards. [On Play] Look at 5 cards from the top of your deck; reveal up to 1 red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP03-008_p1.png"
             },
@@ -3737,7 +3551,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Charlotte Linlin (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP03-114_p2.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -3763,7 +3576,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Sugar (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP04-024_p2.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -3778,7 +3590,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Opponent's Turn] [Once Per Turn] When your opponent plays a Character, if your Leader has the {Donquixote Pirates} type, rest up to 1 of your opponent's Characters. Then, rest this Character.[On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "effect": "[Opponent's Turn] [Once Per Turn] When your opponent plays a Character, if your Leader has the {Donquixote Pirates} type, rest up to 1 of your opponent's Characters. Then, rest this Character. [On Play] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-024_p2.png"
             },
@@ -3788,7 +3600,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Ms. All Sunday (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP04-064_p2.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -3813,7 +3624,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Borsalino (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP05-051_p2.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -3838,7 +3648,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Rebecca (Parallel)",
-                "image_path": "images/WingsofCaptainOP06/OP05-091_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -3853,7 +3662,7 @@
                     "Dressrosa"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Add up to 1 black Character card with a cost of 3 to 7 other than [Rebecca] from your trash to your hand. Then, play up to 1 black Character card with a cost of 3 or less from your hand rested.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Add up to 1 black Character card with a cost of 3 to 7 other than [Rebecca] from your trash to your hand. Then, play up to 1 black Character card with a cost of 3 or less from your hand rested.",
                 "card_set": "-Wings of Captain- [OP-06]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-091_p2.png"
             }

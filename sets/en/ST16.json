@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556016
+        "set": 556016,
+        "language": "en"
     },
     "data": {
         "code": "ST16",
@@ -13,7 +14,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Bartolomeo",
-                "image_path": "images/GreenUtaST16/P-029_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -40,11 +40,8 @@
                 "type": "P",
                 "class": "EVENT",
                 "name": "Fleeting Lullaby",
-                "image_path": "images/GreenUtaST16/P-057_p1.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -66,11 +63,8 @@
                 "type": "P",
                 "class": "EVENT",
                 "name": "Where the Wind Blows",
-                "image_path": "images/GreenUtaST16/P-058_p1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Set all of your {FILM} type Characters as active.",
                 "power": "-",
                 "counter": "-",
@@ -92,11 +86,8 @@
                 "type": "P",
                 "class": "EVENT",
                 "name": "The World's Continuation",
-                "image_path": "images/GreenUtaST16/P-059_p1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -118,11 +109,8 @@
                 "type": "P",
                 "class": "EVENT",
                 "name": "Tot Musica",
-                "image_path": "images/GreenUtaST16/P-060_p1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -144,7 +132,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/GreenUtaST16/P-061_r1.png",
                 "cost": "8",
                 "attribute": [
                     "Strike"
@@ -170,8 +157,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Uta",
-                "image_path": "images/GreenUtaST16/ST11-001_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -195,11 +181,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Backlight",
-                "image_path": "images/GreenUtaST16/ST11-003_p2.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -211,7 +194,7 @@
                     "FILM"
                 ],
                 "block_icon": "2",
-                "effect": "[Main] If your Leader is [Uta], choose one:• Rest up to 1 of your opponent's Characters with a cost of 5 or less.• K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
+                "effect": "[Main] If your Leader is [Uta], choose one: • Rest up to 1 of your opponent's Characters with a cost of 5 or less. • K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
                 "card_set": "-Green Uta- [ST-16]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST11-003_p2.png"
             },
@@ -221,11 +204,8 @@
                 "type": "SR",
                 "class": "EVENT",
                 "name": "New Genesis",
-                "image_path": "images/GreenUtaST16/ST11-004_p2.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -247,11 +227,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "I'm invincible",
-                "image_path": "images/GreenUtaST16/ST11-005_p2.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -273,7 +250,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Uta",
-                "image_path": "images/GreenUtaST16/ST16-001.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -288,7 +264,7 @@
                     "FILM"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Activate: Main] [Once Per Turn] You may trash 1 {FILM} type card from your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Activate: Main] [Once Per Turn] You may trash 1 {FILM} type card from your hand: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
                 "card_set": "-Green Uta- [ST-16]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST16-001.png"
             },
@@ -298,7 +274,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Gordon",
-                "image_path": "images/GreenUtaST16/ST16-002.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -313,7 +288,7 @@
                     "FILM"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Your Opponent's Attack] You may trash any number of {Music} type cards from your hand. Your Leader or 1 of your Characters gains +1000 power during this battle for every card trashed.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] You may trash any number of {Music} type cards from your hand. Your Leader or 1 of your Characters gains +1000 power during this battle for every card trashed.",
                 "card_set": "-Green Uta- [ST-16]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST16-002.png"
             },
@@ -323,7 +298,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Katakuri",
-                "image_path": "images/GreenUtaST16/ST16-003.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -349,7 +323,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Shanks",
-                "image_path": "images/GreenUtaST16/ST16-004.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -376,7 +349,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/GreenUtaST16/ST16-005.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"

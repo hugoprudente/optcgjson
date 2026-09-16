@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556011
+        "set": 556011,
+        "language": "en"
     },
     "data": {
         "code": "ST11",
@@ -13,7 +14,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Usopp (Parallel)",
-                "image_path": "images/SideUtaST11/OP02-028_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -39,7 +39,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jinbe (Parallel)",
-                "image_path": "images/SideUtaST11/OP02-033_p2.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -66,7 +65,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper (Parallel)",
-                "image_path": "images/SideUtaST11/OP02-034_p2.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -93,7 +91,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law (Parallel)",
-                "image_path": "images/SideUtaST11/OP02-035_p3.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -120,7 +117,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nico Robin (Parallel)",
-                "image_path": "images/SideUtaST11/OP02-037_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -146,7 +142,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Franky (Parallel)",
-                "image_path": "images/SideUtaST11/OP02-039_p2.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -172,7 +167,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Brook (Parallel)",
-                "image_path": "images/SideUtaST11/OP02-040_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -198,7 +192,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy (Parallel)",
-                "image_path": "images/SideUtaST11/OP02-041_p3.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -215,7 +208,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 4 or less from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 4 or less from your hand.",
                 "card_set": "-Side Uta- [ST-11]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-041_p3.png"
             },
@@ -225,7 +218,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro (Parallel)",
-                "image_path": "images/SideUtaST11/OP02-043_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -252,11 +244,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Three Sword Style Oni Giri (Parallel)",
-                "image_path": "images/SideUtaST11/OP02-045_p2.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Rest up to 1 of your opponent's Leader or Character cards with a cost of 5 or less.",
                 "power": "-",
                 "counter": "-",
@@ -279,8 +268,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Uta",
-                "image_path": "images/SideUtaST11/ST11-001.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -304,7 +292,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Uta",
-                "image_path": "images/SideUtaST11/ST11-002.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -319,7 +306,7 @@
                     "FILM"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[End of Your Turn] You may trash 1 Event from your hand: Set up to 1 of your {FILM} type Characters as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] You may trash 1 Event from your hand: Set up to 1 of your {FILM} type Characters as active.",
                 "card_set": "-Side Uta- [ST-11]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST11-002.png"
             },
@@ -329,11 +316,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Backlight",
-                "image_path": "images/SideUtaST11/ST11-003.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -345,7 +329,7 @@
                     "FILM"
                 ],
                 "block_icon": "2",
-                "effect": "[Main] If your Leader is [Uta], choose one:• Rest up to 1 of your opponent's Characters with a cost of 5 or less.• K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
+                "effect": "[Main] If your Leader is [Uta], choose one: • Rest up to 1 of your opponent's Characters with a cost of 5 or less. • K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
                 "card_set": "-Side Uta- [ST-11]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST11-003.png"
             },
@@ -355,11 +339,8 @@
                 "type": "SR",
                 "class": "EVENT",
                 "name": "New Genesis",
-                "image_path": "images/SideUtaST11/ST11-004.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -381,11 +362,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "I'm invincible",
-                "image_path": "images/SideUtaST11/ST11-005.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",

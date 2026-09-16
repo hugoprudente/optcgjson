@@ -1,0 +1,413 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 892796839,
+        "language": "ko"
+    },
+    "data": {
+        "code": "ST06",
+        "cards": [
+            {
+                "id": "ST06-001",
+                "number": "ST06-001",
+                "type": "L",
+                "class": "리더",
+                "name": "사카즈키",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】【턴 1회】③(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 자신의 패 1장을 버릴 수 있다: 상대의 코스트 0인 캐릭터를 1장까지 KO시킨다.",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130141000948"
+            },
+            {
+                "id": "ST06-002",
+                "number": "ST06-002",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "코비",
+                "cost": "1",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 패 1장을 버릴 수 있다: 상대의 코스트 0인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130141110622"
+            },
+            {
+                "id": "ST06-003",
+                "number": "ST06-003",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "쟝고",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130141208229"
+            },
+            {
+                "id": "ST06-004",
+                "number": "ST06-004",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "스모커",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "이 캐릭터는 효과로는 KO 당하지 않는다.<br>\r\n【두웅!!×1】코스트 0인 캐릭터가 있을 경우, 이 캐릭터는 【더블 어택】을 얻는다.<br>\r\n(이 카드가 주는 대미지는 2가 된다)",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130141316951"
+            },
+            {
+                "id": "ST06-005",
+                "number": "ST06-005",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "센고쿠",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【어택 시】이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -4.",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130141434589"
+            },
+            {
+                "id": "ST06-006",
+                "number": "ST06-006",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "타시기",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】이 캐릭터를 레스트할 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -2.",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130141560863"
+            },
+            {
+                "id": "ST06-007",
+                "number": "ST06-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "츠루",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130142051728"
+            },
+            {
+                "id": "ST06-008",
+                "number": "ST06-008",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "히나",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -4.",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130142128215"
+            },
+            {
+                "id": "ST06-009",
+                "number": "ST06-009",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "풀보디",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130142192381"
+            },
+            {
+                "id": "ST06-010",
+                "number": "ST06-010",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "헤르메포",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -3.",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130142271252"
+            },
+            {
+                "id": "ST06-011",
+                "number": "ST06-011",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "모몬가",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130142364531"
+            },
+            {
+                "id": "ST06-012",
+                "number": "ST06-012",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "몽키 D. 가프",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】자신의 패 1장을 버리고, 이 캐릭터를 레스트할 수 있다: 상대의 코스트 4 이하인 캐릭터를 1장까지 KO시킨다.",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130142440552"
+            },
+            {
+                "id": "ST06-013",
+                "number": "ST06-013",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "T본",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130142528520"
+            },
+            {
+                "id": "ST06-014",
+                "number": "ST06-014",
+                "type": "C",
+                "class": "이벤트",
+                "name": "충격파",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "상대의 코스트 4 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000. 그 후, 상대의 액티브 상태이고 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130143018161"
+            },
+            {
+                "id": "ST06-015",
+                "number": "ST06-015",
+                "type": "C",
+                "class": "이벤트",
+                "name": "대분화",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "상대는 자신의 패 1장을 버린다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】카드를 1장 뽑는다. 그 후, 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -2.",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130143123597"
+            },
+            {
+                "id": "ST06-016",
+                "number": "ST06-016",
+                "type": "C",
+                "class": "이벤트",
+                "name": "화이트 아웃",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "카드를 1장 뽑고, 이번 턴 동안, 자신의 캐릭터는 KO당하지 않는다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000.",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130143220790"
+            },
+            {
+                "id": "ST06-017",
+                "number": "ST06-017",
+                "type": "C",
+                "class": "스테이지",
+                "name": "해군본부",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -1.<br>\r\n【기동: 메인】이 스테이지를 레스트할 수 있다: 자신의 리더가 《해군》 특징을 가진 경우, 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -1.",
+                "card_set": "[STK-06] 스타트 덱 해군",
+                "image_url": "/fileDownload?downname=202406130143285322"
+            }
+        ]
+    }
+}

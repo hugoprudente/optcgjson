@@ -1,0 +1,3842 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563109,
+        "language": "th"
+    },
+    "data": {
+        "code": "OP09",
+        "cards": [
+            {
+                "id": "OP09-001",
+                "number": "OP09-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Shanks",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นละ 1 ครั้ง] เมื่อคู่แข่งโจมตี, จะสามารถใช้งาน. ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -1000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-001.png"
+            },
+            {
+                "id": "OP09-001_p1",
+                "number": "OP09-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Shanks",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นละ 1 ครั้ง] เมื่อคู่แข่งโจมตี, จะสามารถใช้งาน. ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -1000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-001_p1.png"
+            },
+            {
+                "id": "OP09-002",
+                "number": "OP09-002",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Uta",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดผมแดง > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-002.png"
+            },
+            {
+                "id": "OP09-002_p1",
+                "number": "OP09-002",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Uta",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดผมแดง > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-002_p1.png"
+            },
+            {
+                "id": "OP09-003",
+                "number": "OP09-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Shachi & Penguin",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -2000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-003.png"
+            },
+            {
+                "id": "OP09-004",
+                "number": "OP09-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Shanks",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์ของฝ่ายคู่แข่ง ทั้งหมด, จะมีพาวเวอร์ -1000. [จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้).",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-004.png"
+            },
+            {
+                "id": "OP09-004_p1",
+                "number": "OP09-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Shanks",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์ของฝ่ายคู่แข่ง ทั้งหมด, จะมีพาวเวอร์ -1000. [จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้).",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-004_p1.png"
+            },
+            {
+                "id": "OP09-004_p2",
+                "number": "OP09-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Shanks",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์ของฝ่ายคู่แข่ง ทั้งหมด, จะมีพาวเวอร์ -1000. [จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้).",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-004_p2.png"
+            },
+            {
+                "id": "OP09-005",
+                "number": "OP09-005",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Silvers Rayleigh",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดโรเจอร์"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้าคู่แข่งมีคาแรกเตอร์ ที่มีพาวเวอร์ตั้งต้น 5000 หรือสูงกว่า จำนวน 2 ใบ หรือมากกว่า อยู่ด้วยละก็, จะจั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-005.png"
+            },
+            {
+                "id": "OP09-006",
+                "number": "OP09-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Howling Gab",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-006.png"
+            },
+            {
+                "id": "OP09-007",
+                "number": "OP09-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Heat",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ในเทิร์นนี้, ลีดเดอร์ของเรา ที่มีพาวเวอร์ 4000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-007.png"
+            },
+            {
+                "id": "OP09-008",
+                "number": "OP09-008",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Building Snake",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถนำคาแรกเตอร์นี้ ไปวางที่ข้างใต้เด็คของเจ้าของ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -3000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-008.png"
+            },
+            {
+                "id": "OP09-009",
+                "number": "OP09-009",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Benn.Beckman",
+                "cost": "7",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 6000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-009.png"
+            },
+            {
+                "id": "OP09-009_p1",
+                "number": "OP09-009",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Benn.Beckman",
+                "cost": "7",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 6000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-009_p1.png"
+            },
+            {
+                "id": "OP09-010",
+                "number": "OP09-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bonk Punch",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำ [Monster] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. [ด้ง!! x 1] [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-010.png"
+            },
+            {
+                "id": "OP09-011",
+                "number": "OP09-011",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Hongo",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดผมแดง > ละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -2000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-011.png"
+            },
+            {
+                "id": "OP09-012",
+                "number": "OP09-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Monster",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าคาแรกเตอร์ [Bonk Punch] ของฝ่ายเรา กำลังจะถูก KO จากความสามารถของใครก็ตาม, จะสามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช แทนก็ได้.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-012.png"
+            },
+            {
+                "id": "OP09-013",
+                "number": "OP09-013",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Yasopp",
+                "cost": "5",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป. [ด้ง!! x 1] [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -1000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-013.png"
+            },
+            {
+                "id": "OP09-014",
+                "number": "OP09-014",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Limejuice",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 4000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะไม่สามารถใช้งาน [บล็อกเกอร์].",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-014.png"
+            },
+            {
+                "id": "OP09-015",
+                "number": "OP09-015",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Lucky.Roux",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดผมแดง > ละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ตั้งต้น 6000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-015.png"
+            },
+            {
+                "id": "OP09-016",
+                "number": "OP09-016",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Rockstar",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-016.png"
+            },
+            {
+                "id": "OP09-017",
+                "number": "OP09-017",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Wire",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 1] ถ้าลีดเดอร์ของเรา มีพาวเวอร์ 7000 หรือสูงกว่า, และมีคุณสมบัติ < กลุ่มโจรสลัดคิด > ด้วยละก็, คาแรกเตอร์นี้จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-017.png"
+            },
+            {
+                "id": "OP09-018",
+                "number": "OP09-018",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Get Out of Here!",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ทำการ KO คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 2 ใบ, ที่มีผลรวมของพาวเวอร์ รวมกันเท่ากับ 4000 หรือต่ำกว่า.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-018.png"
+            },
+            {
+                "id": "OP09-019",
+                "number": "OP09-019",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Nobody Hurts a Friend of Mine!!!!",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดผมแดง > ละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -3000. จากนั้น, ถ้าคู่แข่งมีคาแรกเตอร์ ที่มีพาวเวอร์ 5000 หรือสูงกว่า อยู่ด้วยละก็, จะจั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-019.png"
+            },
+            {
+                "id": "OP09-020",
+                "number": "OP09-020",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Come On!! We'll Fight You!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "ความสามารถ : [เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดผมแดง > นอกเหนือจาก [Come On!! We’ll Fight You!!] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-020.png"
+            },
+            {
+                "id": "OP09-021",
+                "number": "OP09-021",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Red Force",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ สเตจนี้ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดผมแดง > ละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -1000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-021.png"
+            },
+            {
+                "id": "OP09-022",
+                "number": "OP09-022",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Lim",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "ODYSSEY"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์การ์ดของฝ่ายเรา จะลงสนามมาในสภาพ เรสต์. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 3 ใบ : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์, และนำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < ODYSSEY > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-022.png"
+            },
+            {
+                "id": "OP09-022_p1",
+                "number": "OP09-022",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Lim",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "ODYSSEY"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์การ์ดของฝ่ายเรา จะลงสนามมาในสภาพ เรสต์. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 3 ใบ : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์, และนำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < ODYSSEY > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-022_p1.png"
+            },
+            {
+                "id": "OP09-023",
+                "number": "OP09-023",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Adio",
+                "cost": "9",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ODYSSEY > ละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 3 ใบ, เปลี่ยนเป็น แอ็คทีฟ. [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ : ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-023.png"
+            },
+            {
+                "id": "OP09-023_p1",
+                "number": "OP09-023",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Adio",
+                "cost": "9",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ODYSSEY > ละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 3 ใบ, เปลี่ยนเป็น แอ็คทีฟ. [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ : ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-023_p1.png"
+            },
+            {
+                "id": "OP09-024",
+                "number": "OP09-024",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากกว่าละก็, จะจั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-024.png"
+            },
+            {
+                "id": "OP09-025",
+                "number": "OP09-025",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Crocodile",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "เจ็ดเทพโจรสลัด",
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ODYSSEY > ละก็, คาแรกเตอร์นี้ จะไม่ถูก KO จากการแบทเทิลกับ ลีดเดอร์.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-025.png"
+            },
+            {
+                "id": "OP09-026",
+                "number": "OP09-026",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Sakazuki",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากกว่าละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-026.png"
+            },
+            {
+                "id": "OP09-027",
+                "number": "OP09-027",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Sabo",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] [เทิร์นละ 1 ครั้ง] ถ้าเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 3 ใบ หรือมากกว่าละก็, จะจั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-027.png"
+            },
+            {
+                "id": "OP09-028",
+                "number": "OP09-028",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อถูก KO] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : นำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า, และมีคุณสมบัติ < ODYSSEY > หรือ < กลุ่มหมวกฟาง > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนามในสภาพ เรสต์.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-028.png"
+            },
+            {
+                "id": "OP09-029",
+                "number": "OP09-029",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "สัตว์",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อจบเทิร์นของเรา] ทำให้ คาแรกเตอร์ของเรา ที่มีคอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < ODYSSEY > จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-029.png"
+            },
+            {
+                "id": "OP09-030",
+                "number": "OP09-030",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำคาแรกเตอร์ของเรา จำนวน 1 ใบ กลับขึ้นมือเจ้าของ : นำคาแรกเตอร์การ์ด ที่มีคอสต์ 3 หรือต่ำกว่า และมีคุณสมบัติ < ODYSSEY > นอกเหนือจาก [Trafalgar Law] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-030.png"
+            },
+            {
+                "id": "OP09-031",
+                "number": "OP09-031",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Donquixote Doflamingo",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อจบเทิร์นของเรา] ถ้าเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากกว่าละก็, จะทำการ แอ็คทีฟ คาแรกเตอร์นี้.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-031.png"
+            },
+            {
+                "id": "OP09-032",
+                "number": "OP09-032",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Donquixote Rosinante",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] ทำการ แอ็คทีฟ คาแรกเตอร์นี้.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-032.png"
+            },
+            {
+                "id": "OP09-033",
+                "number": "OP09-033",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากกว่าละก็, คาแรกเตอร์ของฝ่ายเราทั้งหมด ที่มีคุณสมบัติ < ODYSSEY > หรือ < กลุ่มหมวกฟาง >, จะไม่ถูก KO จากความสามารถของใครก็ตาม, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-033.png"
+            },
+            {
+                "id": "OP09-034",
+                "number": "OP09-034",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Perona",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ราชอาณาจักรชิคเคะอารุ",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำ [Dracule Mihawk] หรือว่าการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-034.png"
+            },
+            {
+                "id": "OP09-034_p1",
+                "number": "OP09-034",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Perona",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ราชอาณาจักรชิคเคะอารุ",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำ [Dracule Mihawk] หรือว่าการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-034_p1.png"
+            },
+            {
+                "id": "OP09-035",
+                "number": "OP09-035",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Portgas.D.Ace",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากกว่าละก็, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-035.png"
+            },
+            {
+                "id": "OP09-036",
+                "number": "OP09-036",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากกว่าละก็, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 6 หรือต่ำกว่า จำนวน 1 ใบ,หรือว่า ด้ง!! ของคู่แข่ง จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-036.png"
+            },
+            {
+                "id": "OP09-037",
+                "number": "OP09-037",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Lim",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ODYSSEY > นอกเหนือจาก [Lim] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค. [เมื่อจบเทิร์นของเรา] ถ้าเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 3 ใบ หรือมากกว่าละก็, จะทำการ แอ็คทีฟ คาแรกเตอร์นี้.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-037.png"
+            },
+            {
+                "id": "OP09-037_p1",
+                "number": "OP09-037",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Lim",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ODYSSEY > นอกเหนือจาก [Lim] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค. [เมื่อจบเทิร์นของเรา] ถ้าเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 3 ใบ หรือมากกว่าละก็, จะทำการ แอ็คทีฟ คาแรกเตอร์นี้.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-037_p1.png"
+            },
+            {
+                "id": "OP09-038",
+                "number": "OP09-038",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Rob Lucci",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "CP9"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-038.png"
+            },
+            {
+                "id": "OP09-039",
+                "number": "OP09-039",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Gum-Gum Cuatro Jet Cross Shock Bazooka",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ODYSSEY >, และเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากกว่าละก็, ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-039.png"
+            },
+            {
+                "id": "OP09-040",
+                "number": "OP09-040",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Thunder Lance Flip Caliber Phoenix Shot",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ถ้าเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากกว่าละก็, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-040.png"
+            },
+            {
+                "id": "OP09-041",
+                "number": "OP09-041",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Soul Franky Swing Arm Boxing Solid",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000. จากนั้น, ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ODYSSEY >, และเรามีคาแรกเตอร์ ที่กำลังเรสต์อยู่ จำนวน 2 ใบ หรือมากกว่าละก็, จะทำการ แอ็คทีฟ คาแรกเตอร์ของเรา, จำนวนไม่เกิน 2 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-041.png"
+            },
+            {
+                "id": "OP09-042",
+                "number": "OP09-042",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Buggy",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 5 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < ครอสกิลด์ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-042.png"
+            },
+            {
+                "id": "OP09-042_p1",
+                "number": "OP09-042",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Buggy",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 5 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < ครอสกิลด์ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-042_p1.png"
+            },
+            {
+                "id": "OP09-043",
+                "number": "OP09-043",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Alvida",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อถูก KO] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ครอสกิลด์ > ละก็, จะนำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า นอกเหนือจาก [Alvida] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-043.png"
+            },
+            {
+                "id": "OP09-044",
+                "number": "OP09-044",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Izo",
+                "cost": "3",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < วาโนะคุนิ > หรือว่า ที่ระบุคำว่า [กลุ่มโจรสลัดหนวดขาว] รวมอยู่ในคุณสมบัติ จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-044.png"
+            },
+            {
+                "id": "OP09-045",
+                "number": "OP09-045",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Cabaji",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "ถ้าคาแรกเตอร์ของฝ่ายเรามี [Buggy] หรือ [Mohji] อยู่ด้วยละก็, คาแรกเตอร์นี้จะไม่ถูก KO จากการแบทเทิล.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-045.png"
+            },
+            {
+                "id": "OP09-046",
+                "number": "OP09-046",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Crocodile",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์",
+                    "อดีต B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า, และมีคุณสมบัติ < ครอสกิลด์ > หรือว่า ที่ระบุคำว่า [B•W] รวมอยู่ในคุณสมบัติ จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-046.png"
+            },
+            {
+                "id": "OP09-046_p1",
+                "number": "OP09-046",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Crocodile",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์",
+                    "อดีต B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า, และมีคุณสมบัติ < ครอสกิลด์ > หรือว่า ที่ระบุคำว่า [B•W] รวมอยู่ในคุณสมบัติ จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-046_p1.png"
+            },
+            {
+                "id": "OP09-047",
+                "number": "OP09-047",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kouzuki Oden",
+                "cost": "9",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "3",
+                "effect": "[ดับเบิ้ลแอทแทค] (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย) [เมื่อถูก KO] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-047.png"
+            },
+            {
+                "id": "OP09-048",
+                "number": "OP09-048",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Dracule Mihawk",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-048.png"
+            },
+            {
+                "id": "OP09-048_p1",
+                "number": "OP09-048",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Dracule Mihawk",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-048_p1.png"
+            },
+            {
+                "id": "OP09-049",
+                "number": "OP09-049",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jozu",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-049.png"
+            },
+            {
+                "id": "OP09-050",
+                "number": "OP09-050",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำ อีเวนต์ ธีมสีฟ้า จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-050.png"
+            },
+            {
+                "id": "OP09-050_p1",
+                "number": "OP09-050",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำ อีเวนต์ ธีมสีฟ้า จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-050_p1.png"
+            },
+            {
+                "id": "OP09-051",
+                "number": "OP09-051",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ. จากนั้น, ถ้าเราไม่มีคาแรกเตอร์ ที่มีคอสต์ 5 หรือสูงกว่า จำนวน 5 ใบ อยู่ด้วยละก็, คาแรกเตอร์นี้ จะถูกนำไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-051.png"
+            },
+            {
+                "id": "OP09-051_p1",
+                "number": "OP09-051",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ. จากนั้น, ถ้าเราไม่มีคาแรกเตอร์ ที่มีคอสต์ 5 หรือสูงกว่า จำนวน 5 ใบ อยู่ด้วยละก็, คาแรกเตอร์นี้ จะถูกนำไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-051_p1.png"
+            },
+            {
+                "id": "OP09-051_p2",
+                "number": "OP09-051",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ. จากนั้น, ถ้าเราไม่มีคาแรกเตอร์ ที่มีคอสต์ 5 หรือสูงกว่า จำนวน 5 ใบ อยู่ด้วยละก็, คาแรกเตอร์นี้ จะถูกนำไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-051_p2.png"
+            },
+            {
+                "id": "OP09-052",
+                "number": "OP09-052",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Marco",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "3",
+                "effect": "[ในเทิร์นของคู่แข่ง] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ในตอนที่คาแรกเตอร์นี้ ถูก KO จากความสามารถของคู่แข่ง, คาแรกเตอร์การ์ดใบนี้ จะถูกนำลงสนามในสภาพ เรสต์ จากในแทรช.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-052.png"
+            },
+            {
+                "id": "OP09-053",
+                "number": "OP09-053",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Mohji",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำ [Richie] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, แล้วนำ [Richie] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-053.png"
+            },
+            {
+                "id": "OP09-054",
+                "number": "OP09-054",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Richie",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-054.png"
+            },
+            {
+                "id": "OP09-055",
+                "number": "OP09-055",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr.1(Daz.Bonez)",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์",
+                    "อดีต B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-055.png"
+            },
+            {
+                "id": "OP09-056",
+                "number": "OP09-056",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.3(Galdino)",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์",
+                    "อดีต B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ครอสกิลด์ > หรือว่า ที่ระบุคำว่า [B•W] รวมอยู่ในคุณสมบัติ จำนวนไม่เกิน 1 ใบ นอกเหนือจาก [Mr.3(Galdino)] มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-056.png"
+            },
+            {
+                "id": "OP09-057",
+                "number": "OP09-057",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Cross Guild",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ครอสกิลด์ > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-057.png"
+            },
+            {
+                "id": "OP09-058",
+                "number": "OP09-058",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Special Muggy Ball",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบากี้"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] คู่แข่งจะต้องนำ คาแรกเตอร์ของตัวเอง ที่มีคอสต์ 6 หรือต่ำกว่า จำนวน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-058.png"
+            },
+            {
+                "id": "OP09-059",
+                "number": "OP09-059",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Murder at the Steam Bath",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบากี้"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000. จากนั้น, จะต้องทิ้งการ์ดบนมือของเรา จำนวนไม่เกิน 2 ใบ. จะนำการ์ดใบบนสุดจากเด็คของเรา ไปวางที่แทรช, ในจำนวนเท่ากับที่ทิ้งไป.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-059.png"
+            },
+            {
+                "id": "OP09-060",
+                "number": "OP09-060",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Emptee Bluffs Island",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถนำการ์ดบนมือของเรา จำนวน 2 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, และ เรสต์ สเตจนี้ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ครอสกิลด์ > ละก็, จั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-060.png"
+            },
+            {
+                "id": "OP09-061",
+                "number": "OP09-061",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง",
+                    "ดำ"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 1] คาแรกเตอร์ของฝ่ายเรา ทั้งหมด, จะมีคอสต์ +1. [เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อมี ด้ง!! ในสนามของเรา จำนวน 2 ใบ หรือมากกว่า ถูกนำกลับด้ง!! เด็ค, จะนำ ด้ง!! จากด้ง!! เด็ค, มาวางเพิ่มแบบ แอ็คทีฟ จำนวนไม่เกิน 1 ใบ, ต่อจากนั้นจะได้วางเพิ่มแบบ เรสต์ จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-061.png"
+            },
+            {
+                "id": "OP09-061_p1",
+                "number": "OP09-061",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง",
+                    "ดำ"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 1] คาแรกเตอร์ของฝ่ายเรา ทั้งหมด, จะมีคอสต์ +1. [เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อมี ด้ง!! ในสนามของเรา จำนวน 2 ใบ หรือมากกว่า ถูกนำกลับด้ง!! เด็ค, จะนำ ด้ง!! จากด้ง!! เด็ค, มาวางเพิ่มแบบ แอ็คทีฟ จำนวนไม่เกิน 1 ใบ, ต่อจากนั้นจะได้วางเพิ่มแบบ เรสต์ จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-061_p1.png"
+            },
+            {
+                "id": "OP09-062",
+                "number": "OP09-062",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Nico Robin",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[แบนนิช] (ถ้าการ์ดใบนี้ทำดาเมจได้, การ์ดใบนั้นจะถูกนำไปวางที่แทรช, และทริกเกอร์จะไม่ทำงาน) [เมื่อโจมตี] สามารถทิ้งการ์ดที่มี [ทริกเกอร์] จากบนมือของเรา จำนวน 1 ใบ : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-062.png"
+            },
+            {
+                "id": "OP09-062_p1",
+                "number": "OP09-062",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Nico Robin",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[แบนนิช] (ถ้าการ์ดใบนี้ทำดาเมจได้, การ์ดใบนั้นจะถูกนำไปวางที่แทรช, และทริกเกอร์จะไม่ทำงาน) [เมื่อโจมตี] สามารถทิ้งการ์ดที่มี [ทริกเกอร์] จากบนมือของเรา จำนวน 1 ใบ : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-062_p1.png"
+            },
+            {
+                "id": "OP09-063",
+                "number": "OP09-063",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-063.png"
+            },
+            {
+                "id": "OP09-064",
+                "number": "OP09-064",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Killer",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำให้ ลีดเดอร์ของเรา ที่มีคุณสมบัติ < กลุ่มโจรสลัดคิด > จำนวนไม่เกิน 1 ใบ, เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-064.png"
+            },
+            {
+                "id": "OP09-065",
+                "number": "OP09-065",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "7",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ด้ง!! ในสนามของเรา จำนวน 1 ใบ หรือมากกว่า กลับด้ง!! เด็ค : ในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. จากนั้น, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 6 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-065.png"
+            },
+            {
+                "id": "OP09-065_p1",
+                "number": "OP09-065",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "7",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ด้ง!! ในสนามของเรา จำนวน 1 ใบ หรือมากกว่า กลับด้ง!! เด็ค : ในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. จากนั้น, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 6 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-065_p1.png"
+            },
+            {
+                "id": "OP09-066",
+                "number": "OP09-066",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Jean Bart",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าจำนวน ด้ง!! ที่อยู่บนสนามของคู่แข่ง มีมากกว่าจำนวน ด้ง!! ที่อยู่บนสนามของเราละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-066.png"
+            },
+            {
+                "id": "OP09-067",
+                "number": "OP09-067",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "7",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-067.png"
+            },
+            {
+                "id": "OP09-068",
+                "number": "OP09-068",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อจบเทิร์นของเรา] สามารถนำ ด้ง!! ในสนามของเรา จำนวน 1 ใบ หรือมากกว่า กลับด้ง!! เด็ค : ทำการ แอ็คทีฟ คาแรกเตอร์นี้. จากนั้น, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป, คาแรกเตอร์นี้ จะได้รับ [บล็อกเกอร์]. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-068.png"
+            },
+            {
+                "id": "OP09-069",
+                "number": "OP09-069",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคอสต์ 2 หรือสูงกว่า, และมีคุณสมบัติ < กลุ่มหมวกฟาง > หรือ < กลุ่มโจรสลัดฮาร์ท > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-069.png"
+            },
+            {
+                "id": "OP09-069_p1",
+                "number": "OP09-069",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคอสต์ 2 หรือสูงกว่า, และมีคุณสมบัติ < กลุ่มหมวกฟาง > หรือ < กลุ่มโจรสลัดฮาร์ท > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-069_p1.png"
+            },
+            {
+                "id": "OP09-070",
+                "number": "OP09-070",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ด้ง!! ในสนามของเรา จำนวน 1 ใบ หรือมากกว่า กลับด้ง!! เด็ค : นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 2 ใบ, ใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-070.png"
+            },
+            {
+                "id": "OP09-071",
+                "number": "OP09-071",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-071.png"
+            },
+            {
+                "id": "OP09-072",
+                "number": "OP09-072",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ), สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : จั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-072.png"
+            },
+            {
+                "id": "OP09-072_p1",
+                "number": "OP09-072",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Franky",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ), สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : จั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-072_p1.png"
+            },
+            {
+                "id": "OP09-073",
+                "number": "OP09-073",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อโจมตี] สามารถนำ ด้ง!! ในสนามของเรา จำนวน 1 ใบ หรือมากกว่า กลับด้ง!! เด็ค : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 2 ใบ, จะมีพาวเวอร์ -2000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-073.png"
+            },
+            {
+                "id": "OP09-074",
+                "number": "OP09-074",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bepo",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "3",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อมี ด้ง!! ในสนามของเรา ถูกนำกลับ ด้ง!! เด็ค, ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-074.png"
+            },
+            {
+                "id": "OP09-075",
+                "number": "OP09-075",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Eustass\"Captain\"Kid",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดคิด > ละก็, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-075.png"
+            },
+            {
+                "id": "OP09-076",
+                "number": "OP09-076",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ด้ง!! ในสนามของเรา จำนวน 1 ใบ หรือมากกว่า กลับด้ง!! เด็ค : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-076.png"
+            },
+            {
+                "id": "OP09-077",
+                "number": "OP09-077",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Gum-Gum Lightning",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 6000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-077.png"
+            },
+            {
+                "id": "OP09-078",
+                "number": "OP09-078",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Gum-Gum Giant",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ), สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มหมวกฟาง >, ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +4000. จากนั้น, จะจั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-078.png"
+            },
+            {
+                "id": "OP09-079",
+                "number": "OP09-079",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Jump Rope",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. จากนั้น, จะจั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-079.png"
+            },
+            {
+                "id": "OP09-080",
+                "number": "OP09-080",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Thousand Sunny",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[ในเทิร์นของคู่แข่ง] สามารถ เรสต์ สเตจนี้ : เมื่อคาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > ถูกนำออกจากสนาม จากความสามารถของคู่แข่ง, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-080.png"
+            },
+            {
+                "id": "OP09-081",
+                "number": "OP09-081",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Marshall.D.Teach",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "ความสามารถ [เมื่อลงสนาม] ของฝ่ายเรา จะกลายเป็นไร้ผล. [ใช้งาน : เมน] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป, ความสามารถ [เมื่อลงสนาม] ของฝ่ายคู่แข่ง จะกลายเป็นไร้ผล.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-081.png"
+            },
+            {
+                "id": "OP09-081_p1",
+                "number": "OP09-081",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Marshall.D.Teach",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "ความสามารถ [เมื่อลงสนาม] ของฝ่ายเรา จะกลายเป็นไร้ผล. [ใช้งาน : เมน] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป, ความสามารถ [เมื่อลงสนาม] ของฝ่ายคู่แข่ง จะกลายเป็นไร้ผล.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-081_p1.png"
+            },
+            {
+                "id": "OP09-082",
+                "number": "OP09-082",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Avalo Pizarro",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-082.png"
+            },
+            {
+                "id": "OP09-083",
+                "number": "OP09-083",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Van Augur",
+                "cost": "5",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ > ละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -3. [เมื่อถูก KO] จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-083.png"
+            },
+            {
+                "id": "OP09-084",
+                "number": "OP09-084",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Catarina Devon",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ > ละก็, คาแรกเตอร์นี้ จะได้รับ [ดับเบิ้ลแอทแทค] หรือว่า [แบนนิช] หรือว่า [บล็อกเกอร์] (เลือกอย่างใดอย่างหนึ่ง), จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-084.png"
+            },
+            {
+                "id": "OP09-085",
+                "number": "OP09-085",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gecko Moria",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 2 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนามในสภาพ เรสต์.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-085.png"
+            },
+            {
+                "id": "OP09-086",
+                "number": "OP09-086",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Jesus Burgess",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์นี้ จะไม่ถูก KO จากความสามารถของใครก็ตาม. ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ > ละก็, คาแรกเตอร์นี้ จะมีพาวเวอร์ +1000, ต่อจำนวนการ์ด ที่อยู่ในแทรชของเรา จำนวน 4 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-086.png"
+            },
+            {
+                "id": "OP09-087",
+                "number": "OP09-087",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Charlotte Pudding",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าคู่แข่งมีการ์ดบนมือ จำนวน 5 ใบ หรือมากกว่าละก็, คู่แข่งจะต้องทิ้งการ์ดบนมือของตัวเอง จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-087.png"
+            },
+            {
+                "id": "OP09-088",
+                "number": "OP09-088",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Shiryu",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] สามารถทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ : จั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-088.png"
+            },
+            {
+                "id": "OP09-089",
+                "number": "OP09-089",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Stronger",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ, และนำคาแรกเตอร์นี้ ไปวางที่แทรช : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ > ละก็, จั่วการ์ด จำนวน 1 ใบ. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -2.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-089.png"
+            },
+            {
+                "id": "OP09-090",
+                "number": "OP09-090",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Doc Q",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ > ละก็, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. [เมื่อถูก KO] จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-090.png"
+            },
+            {
+                "id": "OP09-091",
+                "number": "OP09-091",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Vasco Shot",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-091.png"
+            },
+            {
+                "id": "OP09-092",
+                "number": "OP09-092",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Marshall.D.Teach",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ถ้าการ์ดบนมือของเรา มีน้อยกว่า การ์ดบนมือของคู่แข่ง เป็นจำนวนตั้งแต่ 3 ใบ ขึ้นไปละก็, จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-092.png"
+            },
+            {
+                "id": "OP09-093",
+                "number": "OP09-093",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Marshall.D.Teach",
+                "cost": "10",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ >, และคาแรกเตอร์นี้ เพิ่งถูกนำลงสนามมาในเทิร์นนี้ละก็, ในเทิร์นนี้, ลีดเดอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล. จากนั้น, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล, และจะไม่สามารถโจมตี.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-093.png"
+            },
+            {
+                "id": "OP09-093_p1",
+                "number": "OP09-093",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Marshall.D.Teach",
+                "cost": "10",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ >, และคาแรกเตอร์นี้ เพิ่งถูกนำลงสนามมาในเทิร์นนี้ละก็, ในเทิร์นนี้, ลีดเดอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล. จากนั้น, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล, และจะไม่สามารถโจมตี.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-093_p1.png"
+            },
+            {
+                "id": "OP09-093_p2",
+                "number": "OP09-093",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Marshall.D.Teach",
+                "cost": "10",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ >, และคาแรกเตอร์นี้ เพิ่งถูกนำลงสนามมาในเทิร์นนี้ละก็, ในเทิร์นนี้, ลีดเดอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล. จากนั้น, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล, และจะไม่สามารถโจมตี.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-093_p2.png"
+            },
+            {
+                "id": "OP09-094",
+                "number": "OP09-094",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Peachbeard",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดชมพู",
+                    "พันธมิตรกลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-094.png"
+            },
+            {
+                "id": "OP09-095",
+                "number": "OP09-095",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Laffitte",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ, และ เรสต์ คาแรกเตอร์นี้ : ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-095.png"
+            },
+            {
+                "id": "OP09-096",
+                "number": "OP09-096",
+                "type": "R",
+                "class": "EVENT",
+                "name": "My Era...Begins!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ > นอกเหนือจาก [My Era...Begins!!] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่แทรช.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-096.png"
+            },
+            {
+                "id": "OP09-097",
+                "number": "OP09-097",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Black Vortex",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล, และจะมีพาวเวอร์ -4000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-097.png"
+            },
+            {
+                "id": "OP09-098",
+                "number": "OP09-098",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Black Hole",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ > ละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล. จากนั้น, ถ้าคาแรกเตอร์นั้น มีคอสต์ 4 หรือต่ำกว่าละก็, จะถูก KO.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-098.png"
+            },
+            {
+                "id": "OP09-099",
+                "number": "OP09-099",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Fullalead",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[ใช้งาน : เมน] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ, และ เรสต์ สเตจนี้ : ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-099.png"
+            },
+            {
+                "id": "OP09-100",
+                "number": "OP09-100",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Karasu",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กองทัพปฏิวัติ >, และผลรวมของจำนวน ไลฟ์ ของทั้งสองฝ่ายคือ จำนวน 5 ใบ หรือน้อยกว่าละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-100.png"
+            },
+            {
+                "id": "OP09-101",
+                "number": "OP09-101",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kuzan",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า จำนวน  1 ใบ, ไปวางเพิ่มที่ ข้างบนสุด หรือ ข้างล่างสุด ของไลฟ์ของคู่แข่ง แบบหงายหน้า : คู่แข่งจะต้องทิ้งการ์ดบนมือของตัวเอง จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-101.png"
+            },
+            {
+                "id": "OP09-102",
+                "number": "OP09-102",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Professor Clover",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมื่อลงสนาม] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "โอฮารา"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเราคือ [Nico Robin] ละก็, จะได้ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่มี [ทริกเกอร์] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-102.png"
+            },
+            {
+                "id": "OP09-103",
+                "number": "OP09-103",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Koala",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : นำคาแรกเตอร์ ที่มีคอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กองทัพปฏิวัติ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. ถ้านำลงสนามละก็, จะจั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-103.png"
+            },
+            {
+                "id": "OP09-103_p1",
+                "number": "OP09-103",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Koala",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : นำคาแรกเตอร์ ที่มีคอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กองทัพปฏิวัติ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. ถ้านำลงสนามละก็, จะจั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-103_p1.png"
+            },
+            {
+                "id": "OP09-104",
+                "number": "OP09-104",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Sabo",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเรา มีหลายธีมสี, จะจั่วการ์ด จำนวน 2 ใบ.",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < กองทัพปฏิวัติ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่ ข้างบนสุด ของไลฟ์ แบบหงายหน้า. จากนั้น, ถ้าเรามี ไลฟ์ จำนวน 2 ใบ หรือมากกว่าละก็, จะต้องนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-104.png"
+            },
+            {
+                "id": "OP09-105",
+                "number": "OP09-105",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < เอ็กเฮด > ละก็, จะนำการ์ดใบบนสุด จากเด็คของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์. จากนั้น, จะต้องทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-105.png"
+            },
+            {
+                "id": "OP09-106",
+                "number": "OP09-106",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nico Olvia",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเราคือ [Nico Robin] ละก็, จะต้องจั่วการ์ด จำนวน 3 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "โอฮารา"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ในเทิร์นนี้, ลีดเดอร์ [Nico Robin] ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-106.png"
+            },
+            {
+                "id": "OP09-107",
+                "number": "OP09-107",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์การ์ด ธีมสีเหลือง ที่มีคอสต์ 3 หรือต่ำกว่า จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าคู่แข่งมี ไลฟ์ จำนวน 3 ใบ หรือมากกว่าละก็, จะนำ ไลฟ์ ใบบนสุดของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-107.png"
+            },
+            {
+                "id": "OP09-107_p1",
+                "number": "OP09-107",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์การ์ด ธีมสีเหลือง ที่มีคอสต์ 3 หรือต่ำกว่า จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าคู่แข่งมี ไลฟ์ จำนวน 3 ใบ หรือมากกว่าละก็, จะนำ ไลฟ์ ใบบนสุดของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-107_p1.png"
+            },
+            {
+                "id": "OP09-108",
+                "number": "OP09-108",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Bartholomew Kuma",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กองทัพปฏิวัติ >, และผลรวมของจำนวน ไลฟ์ ของทั้งสองฝ่ายคือ จำนวน 5 ใบ หรือน้อยกว่าละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-108.png"
+            },
+            {
+                "id": "OP09-109",
+                "number": "OP09-109",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Jaguar.D.Saul",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเราคือ [Nico Robin] ละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "โอฮารา",
+                    "เผ่าคนยักษ์",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-109.png"
+            },
+            {
+                "id": "OP09-110",
+                "number": "OP09-110",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Pierre",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "เกาะแห่งท้องฟ้า"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-110.png"
+            },
+            {
+                "id": "OP09-111",
+                "number": "OP09-111",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < เอ็กเฮด >, และคู่แข่งมีการ์ดบนมือ จำนวน 6 ใบ หรือมากกว่าละก็, คู่แข่งจะต้องทิ้งการ์ดบนมือของตัวเอง จำนวน 2 ใบ.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-111.png"
+            },
+            {
+                "id": "OP09-112",
+                "number": "OP09-112",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Belo Betty",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กองทัพปฏิวัติ >, และผลรวมของจำนวน ไลฟ์ ของทั้งสองฝ่ายคือ จำนวน 5 ใบ หรือน้อยกว่าละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าเรามี ไลฟ์ จำนวน 2 ใบ หรือน้อยกว่าละก็, จะจั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-112.png"
+            },
+            {
+                "id": "OP09-113",
+                "number": "OP09-113",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Morley",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าคนยักษ์",
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-113.png"
+            },
+            {
+                "id": "OP09-114",
+                "number": "OP09-114",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Lindbergh",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าผลรวมของจำนวน ไลฟ์ ของทั้งสองฝ่ายคือ จำนวน 5 ใบ หรือน้อยกว่าละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] ถ้าผลรวมของจำนวน ไลฟ์ ของทั้งสองฝ่ายคือ จำนวน 5 ใบ หรือน้อยกว่าละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 2000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-114.png"
+            },
+            {
+                "id": "OP09-115",
+                "number": "OP09-115",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Ice Block Partisan",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า ที่มี [ทริกเกอร์], จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-115.png"
+            },
+            {
+                "id": "OP09-116",
+                "number": "OP09-116",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Never Underestimate the Power of Miracles!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < กองทัพปฏิวัติ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "3",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-116.png"
+            },
+            {
+                "id": "OP09-117",
+                "number": "OP09-117",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Dereshi!",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "โอฮารา"
+                ],
+                "block_icon": "3",
+                "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มี [ทริกเกอร์] นอกเหนือจาก [Dereshi!] จำนวนไม่เกิน 2 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-117.png"
+            },
+            {
+                "id": "OP09-118",
+                "number": "OP09-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Gol.D.Roger",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "13000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เจ้าแห่งโจรสลัด",
+                    "กลุ่มโจรสลัดโรเจอร์"
+                ],
+                "block_icon": "3",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) ตอนที่คู่แข่งใช้งาน [บล็อกเกอร์], ถ้าเราหรือคู่แข่งมี ไลฟ์ จำนวน 0 ใบละก็, เราจะเป็นฝ่ายชนะเกม.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-118.png"
+            },
+            {
+                "id": "OP09-118_p1",
+                "number": "OP09-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Gol.D.Roger",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "13000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เจ้าแห่งโจรสลัด",
+                    "กลุ่มโจรสลัดโรเจอร์"
+                ],
+                "block_icon": "3",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) ตอนที่คู่แข่งใช้งาน [บล็อกเกอร์], ถ้าเราหรือคู่แข่งมี ไลฟ์ จำนวน 0 ใบละก็, เราจะเป็นฝ่ายชนะเกม.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-118_p1.png"
+            },
+            {
+                "id": "OP09-118_p2",
+                "number": "OP09-118",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Gol.D.Roger",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "13000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เจ้าแห่งโจรสลัด",
+                    "กลุ่มโจรสลัดโรเจอร์"
+                ],
+                "block_icon": "3",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) ตอนที่คู่แข่งใช้งาน [บล็อกเกอร์], ถ้าเราหรือคู่แข่งมี ไลฟ์ จำนวน 0 ใบละก็, เราจะเป็นฝ่ายชนะเกม.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-118_p2.png"
+            },
+            {
+                "id": "OP09-119",
+                "number": "OP09-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "9",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ด้ง!! ในสนามของเรา จำนวน 1 ใบ หรือมากกว่า กลับด้ง!! เด็ค : จั่วการ์ด จำนวน 1 ใบ, และในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-119.png"
+            },
+            {
+                "id": "OP09-119_p1",
+                "number": "OP09-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "9",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ด้ง!! ในสนามของเรา จำนวน 1 ใบ หรือมากกว่า กลับด้ง!! เด็ค : จั่วการ์ด จำนวน 1 ใบ, และในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-119_p1.png"
+            },
+            {
+                "id": "OP09-119_p2",
+                "number": "OP09-119",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "9",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ด้ง!! ในสนามของเรา จำนวน 1 ใบ หรือมากกว่า กลับด้ง!! เด็ค : จั่วการ์ด จำนวน 1 ใบ, และในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-119_p2.png"
+            },
+            {
+                "id": "OP04-119_p2",
+                "number": "OP04-119",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Donquixote Rosinante",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "1",
+                "effect": "[ในเทิร์นของคู่แข่ง] ถ้าคาแรกเตอร์นี้ กำลังเรสต์อยู่, คาแรกเตอร์ของเรา ที่มีคอสต์ ตั้งต้น 5 ซึ่งกำลังแอ็คทีฟอยู่, จะไม่ถูก KO จากความสามารถใดๆ. [เมื่อลงสนาม] สามารถ เรสต์ คาแรกเตอร์นี้ : นำคาแรกเตอร์การ์ด ธีมสีเขียว ที่มีคอสต์ 5 จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP04-119_p2.png"
+            },
+            {
+                "id": "OP05-067_p4",
+                "number": "OP05-067",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Zoro-Juurou",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อโจมตี] ถ้าเรามี ไลฟ์ จำนวน 3 ใบ หรือน้อยกว่า, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP05-067_p4.png"
+            },
+            {
+                "id": "OP05-093_p2",
+                "number": "OP05-093",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Rob Lucci",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] สามารถนำการ์ดที่อยู่ในแทรชของเรา จำนวน 3 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กับคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า อีกจำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP05-093_p2.png"
+            },
+            {
+                "id": "OP05-119_p5",
+                "number": "OP05-119",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "10",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 10 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำคาแรกเตอร์ของฝ่ายเราทั้งหมด นอกเหนือจากคาแรกเตอร์นี้ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค. จากนั้น, หลังจากเล่นเทิร์นนี้แล้ว เราจะได้รับเทิร์นให้เล่นต่อเพิ่มอีก 1 เทิร์น. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] (1) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ) : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP05-119_p5.png"
+            },
+            {
+                "id": "OP07-015_p2",
+                "number": "OP07-015",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Dragon",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "2",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อลงสนาม] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 2 ใบ, ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ของเรา จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-015_p2.png"
+            },
+            {
+                "id": "OP07-051_p3",
+                "number": "OP07-051",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Boa Hancock",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] คาแรกเตอร์ของคู่แข่ง นอกเหนือจาก [Monkey.D.Luffy] จำนวนไม่เกิน 1 ใบ, จะไม่สามารถโจมตี จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป. จากนั้น, จะได้นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 1 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP07-051_p3.png"
+            },
+            {
+                "id": "OP08-106_p4",
+                "number": "OP08-106",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์]  ใช้งานความสามารถ [เมื่อลงสนาม] ของการ์ดใบนี้.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ด ที่มี [ทริกเกอร์] จากบนมือของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. จากนั้น, ถ้าเรามีการ์ดบนมือ จำนวน 3 ใบ หรือน้อยกว่า, จะได้จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP08-106_p4.png"
+            },
+            {
+                "id": "OP09-004_p3",
+                "number": "OP09-004",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Shanks",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "3",
+                "effect": "คาแรกเตอร์ของฝ่ายคู่แข่ง ทั้งหมด, จะมีพาวเวอร์ -1000. [จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้).",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-004_p3.png"
+            },
+            {
+                "id": "OP09-051_p3",
+                "number": "OP09-051",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "10",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "3",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ. จากนั้น, ถ้าเราไม่มีคาแรกเตอร์ ที่มีคอสต์ 5 หรือสูงกว่า จำนวน 5 ใบ อยู่ด้วยละก็, คาแรกเตอร์นี้ จะถูกนำไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-051_p3.png"
+            },
+            {
+                "id": "OP09-093_p3",
+                "number": "OP09-093",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Marshall.D.Teach",
+                "cost": "10",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดหนวดดำ"
+                ],
+                "block_icon": "3",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดหนวดดำ >, และคาแรกเตอร์นี้ เพิ่งถูกนำลงสนามมาในเทิร์นนี้ละก็, ในเทิร์นนี้, ลีดเดอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล. จากนั้น, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะถูกทำให้ความสามารถไร้ผล, และจะไม่สามารถโจมตี.",
+                "card_set": "-Emperors in the New World- [OP-09]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP09-093_p3.png"
+            }
+        ]
+    }
+}

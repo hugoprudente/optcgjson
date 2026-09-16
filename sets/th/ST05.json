@@ -1,0 +1,436 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563005,
+        "language": "th"
+    },
+    "data": {
+        "code": "ST05",
+        "cards": [
+            {
+                "id": "ST05-001",
+                "number": "ST05-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Shanks",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดผมแดง"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 3 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ในเทิร์นนี้, คาแรกเตอร์ของเราทั้งหมด ที่มีคุณสมบัติ < FILM >, จะมีพาวเวอร์ +2000.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-001.png"
+            },
+            {
+                "id": "ST05-002",
+                "number": "ST05-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ain",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มทหารเรือ NEO"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-002.png"
+            },
+            {
+                "id": "ST05-003",
+                "number": "ST05-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ann",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "เทศกาลโจรสลัด"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-003.png"
+            },
+            {
+                "id": "ST05-004",
+                "number": "ST05-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Uta",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    ""
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อบล็อก] ด้ง!! -1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-004.png"
+            },
+            {
+                "id": "ST05-005",
+                "number": "ST05-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Carina",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "แกรนด์ • เตโซโร"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ คาแรกเตอร์นี้, และนำการ์ดจากบนมือของเรา ที่มีคุณสมบัติ < FLIM > จำนวน 1 ใบ ไปวางที่แทรช : ถ้าจำนวน ด้ง!! ในสนามของคู่แข่ง มีมากกว่าจำนวน ด้ง!! ในสนามของเรา, นำ ด้ง!! จากด้ง!! เด็ค จำนวน 2 ใบ มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-005.png"
+            },
+            {
+                "id": "ST05-006",
+                "number": "ST05-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gild Tesoro",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "แกรนด์ • เตโซโร"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อโจมตี] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : จั่วการ์ด 2 ใบ.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-006.png"
+            },
+            {
+                "id": "ST05-007",
+                "number": "ST05-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gordon",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    ""
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-007.png"
+            },
+            {
+                "id": "ST05-008",
+                "number": "ST05-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Shiki",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มโจรสลัดราชสีห์ทองคำ"
+                ],
+                "block_icon": "1",
+                "effect": "ถ้าในสนามของเรามี ด้ง!! อยู่ 8 ใบ หรือมากกว่า, คาแรกเตอร์นี้จะไม่ถูก KO จากการแบทเทิล.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-008.png"
+            },
+            {
+                "id": "ST05-009",
+                "number": "ST05-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Scarlet",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "สัตว์",
+                    "กลุ่มโจรสลัดราชสีห์ทองคำ"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-009.png"
+            },
+            {
+                "id": "ST05-010",
+                "number": "ST05-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Z",
+                "cost": "7",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มทหารเรือ NEO"
+                ],
+                "block_icon": "1",
+                "effect": "ถ้าคาแรกเตอร์นี้ แบทเทิลกับ คาแรกเตอร์ ที่มีคุณลักษณะ (ตี), ในเทิร์นนี้, คาแรกเตอร์นี้จะมีพาวเวอร์ +3000. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ในเทิร์นนี้, คาแรกเตอร์นี้จะมีพาวเวอร์ +2000.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-010.png"
+            },
+            {
+                "id": "ST05-011",
+                "number": "ST05-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Douglas Bullet",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "เทศกาลโจรสลัด"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 4 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 6 หรือต่ำกว่า จำนวนไม่เกิน 2 ใบ. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์นี้จะได้รับ [ดับเบิ้ลแอทแทค]. (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย)",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-011.png"
+            },
+            {
+                "id": "ST05-012",
+                "number": "ST05-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Baccarat",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "แกรนด์ • เตโซโร"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-012.png"
+            },
+            {
+                "id": "ST05-013",
+                "number": "ST05-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Bins",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มทหารเรือ NEO"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-013.png"
+            },
+            {
+                "id": "ST05-014",
+                "number": "ST05-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Buena Festa",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "เทศกาลโจรสลัด"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ดที่มีคุณสมบัติ < FILM > นอกเหนือจาก [Buena Festa] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-014.png"
+            },
+            {
+                "id": "ST05-015",
+                "number": "ST05-015",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Dr. Indigo",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มโจรสลัดราชสีห์ทองคำ"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-015.png"
+            },
+            {
+                "id": "ST05-016",
+                "number": "ST05-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Lion’s Treat Imperial Earth Bind",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มโจรสลัดราชสีห์ทองคำ"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-016.png"
+            },
+            {
+                "id": "ST05-017",
+                "number": "ST05-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Union Armada",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "FILM",
+                    "เทศกาลโจรสลัด"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา ที่มีคุณสมบัติ < FILM > จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +4000. ถ้าการ์ดใบนั้นเป็น คาแรกเตอร์, ในเทิร์นนี้, คาแรกเตอร์นั้นจะไม่ถูก KO ไม่ว่าจากกรณีใดก็ตาม.",
+                "card_set": "-ONE PIECE FILM edition- [ST-05]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST05-017.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,3722 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 239122033,
+        "language": "ko"
+    },
+    "data": {
+        "code": "OP05",
+        "cards": [
+            {
+                "id": "OP05-001",
+                "number": "OP05-001",
+                "type": "L",
+                "class": "리더",
+                "name": "사보",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색",
+                    "흑색",
+                    "다색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【상대의 턴 동안】【턴 1회】자신의 파워 5000 이상인 캐릭터가 KO 당했을 때, 이번 턴 동안, 그 캐릭터는 KO 당하는 대신 파워 -1000 할 수 있다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281111058667"
+            },
+            {
+                "id": "OP05-001_P1",
+                "number": "OP05-001",
+                "type": "L",
+                "class": "리더",
+                "name": "사보",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색",
+                    "흑색",
+                    "다색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【상대의 턴 동안】【턴 1회】자신의 파워 5000 이상인 캐릭터가 KO 당했을 때, 이번 턴 동안, 그 캐릭터는 KO 당하는 대신 파워 -1000 할 수 있다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281111328516"
+            },
+            {
+                "id": "OP05-002",
+                "number": "OP05-002",
+                "type": "L",
+                "class": "리더",
+                "name": "벨로 베티",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 패에서 《혁명군》 특징을 가진 카드 1장을 버릴 수 있다: 이번 턴 동안, 자신의 《혁명군》 특징 또는 【트리거】를 가진 캐릭터 3장까지의 파워 +3000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281111474668"
+            },
+            {
+                "id": "OP05-002_P1",
+                "number": "OP05-002",
+                "type": "L",
+                "class": "리더",
+                "name": "벨로 베티",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 패에서 《혁명군》 특징을 가진 카드 1장을 버릴 수 있다: 이번 턴 동안, 자신의 《혁명군》 특징 또는 【트리거】를 가진 캐릭터 3장까지의 파워 +3000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281112020495"
+            },
+            {
+                "id": "OP05-003",
+                "number": "OP05-003",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "이나즈마",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "이 캐릭터 이외의 자신의 파워 7000 이상인 캐릭터가 있을 경우, 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281112231789"
+            },
+            {
+                "id": "OP05-004",
+                "number": "OP05-004",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "엠포리오 이반코프",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】이 캐릭터의 파워가 7000 이상인 경우, 자신의 패에서 「엠포리오 이반코프」 이외의 파워 5000 이하인 《혁명군》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281112336828"
+            },
+            {
+                "id": "OP05-005",
+                "number": "OP05-005",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "카라스",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 리더가 《혁명군》 특징을 가진 경우, 이번 턴 동안, 상대의 리더 또는 캐릭터 1장까지의 파워 -1000.\r\n【어택 시】이 캐릭터의 파워가 7000 이상인 경우, 이번 턴 동안, 상대의 리더 또는 캐릭터 1장까지의 파워 -1000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281112522765"
+            },
+            {
+                "id": "OP05-006",
+                "number": "OP05-006",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "코알라",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 리더가 《혁명군》 특징을 가진 경우, 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -3000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281113030024"
+            },
+            {
+                "id": "OP05-006_P1",
+                "number": "OP05-006",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "코알라",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 리더가 《혁명군》 특징을 가진 경우, 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -3000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281116112314"
+            },
+            {
+                "id": "OP05-007",
+                "number": "OP05-007",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "사보",
+                "cost": "6",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 캐릭터 2장까지를 파워의 합계가 4000 이하가 되도록 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281113143582"
+            },
+            {
+                "id": "OP05-007_P1",
+                "number": "OP05-007",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "사보",
+                "cost": "6",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 캐릭터 2장까지를 파워의 합계가 4000 이하가 되도록 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281116023651"
+            },
+            {
+                "id": "OP05-008",
+                "number": "OP05-008",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "챠카",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "알라바스타 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【기동: 메인】【턴 1회】자신의 리더 또는 캐릭터 1장에게 레스트 상태인 두웅!!을 2장까지 부여한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281113281206"
+            },
+            {
+                "id": "OP05-009",
+                "number": "OP05-009",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "토토",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "알라바스타 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 리더의 파워가 0 이하인 경우, 카드를 1장 뽑는다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281115427882"
+            },
+            {
+                "id": "OP05-010",
+                "number": "OP05-010",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "니코 로빈",
+                "cost": "1",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 파워 1000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281115507652"
+            },
+            {
+                "id": "OP05-011",
+                "number": "OP05-011",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "바솔로뮤 쿠마",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "【트리거】자신의 리더가 다색인 경우, 이 카드를 등장시킨다.",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 파워 2000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281117098826"
+            },
+            {
+                "id": "OP05-012",
+                "number": "OP05-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "핵",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "어인족",
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281117170491"
+            },
+            {
+                "id": "OP05-013",
+                "number": "OP05-013",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "바니 조",
+                "cost": "2",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281117239515"
+            },
+            {
+                "id": "OP05-014",
+                "number": "OP05-014",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "페루",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "알라바스타 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -2000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281119473341"
+            },
+            {
+                "id": "OP05-015",
+                "number": "OP05-015",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "벨로 베티",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「벨로 베티」 이외의 《혁명군》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281120003254"
+            },
+            {
+                "id": "OP05-015_P1",
+                "number": "OP05-015",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "벨로 베티",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「벨로 베티」 이외의 《혁명군》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281123455087"
+            },
+            {
+                "id": "OP05-016",
+                "number": "OP05-016",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "몰리",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "자신의 패 1장을 버릴 수 있다: 자신의 리더가 다색인 경우, 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "거인족",
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】이 캐릭터의 파워가 7000 이상인 경우, 이번 배틀 동안, 상대는 【블로커】를 발동할 수 없다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281124144388"
+            },
+            {
+                "id": "OP05-017",
+                "number": "OP05-017",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "린드버그",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "자신의 패 1장을 버릴 수 있다: 자신의 리더가 다색인 경우, 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밍크족",
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】이 캐릭터의 파워가 7000 이상인 경우, 상대의 파워 3000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281124482432"
+            },
+            {
+                "id": "OP05-018",
+                "number": "OP05-018",
+                "type": "C",
+                "class": "이벤트",
+                "name": "엠포리오 텐션 호르몬",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "자신의 패에서 파워 5000 이하인 《혁명군》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +3000. 그 후, 자신의 패에서 파워 5000 이하인 《혁명군》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281124554468"
+            },
+            {
+                "id": "OP05-019",
+                "number": "OP05-019",
+                "type": "R",
+                "class": "이벤트",
+                "name": "불주먹",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -4000. 그 후, 자신의 라이프가 2장 이하인 경우, 상대의 파워 0 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281125027600"
+            },
+            {
+                "id": "OP05-020",
+                "number": "OP05-020",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "4천장 기와 정권",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +1000.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "어인족",
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000. 그 후, 상대의 파워 2000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281126524007"
+            },
+            {
+                "id": "OP05-021",
+                "number": "OP05-021",
+                "type": "UC",
+                "class": "스테이지",
+                "name": "혁명군 총본부",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】자신의 패 1장을 버리고, 이 스테이지를 레스트할 수 있다: 자신의 덱 위에서 3장을 보고, 《혁명군》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281127177479"
+            },
+            {
+                "id": "OP05-022",
+                "number": "OP05-022",
+                "type": "L",
+                "class": "리더",
+                "name": "돈키호테 로시난테",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색",
+                    "청색",
+                    "다색"
+                ],
+                "feature": [
+                    "해군",
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【자신의 턴 종료 시】자신의 패가 6장 이하인 경우, 이 리더를 액티브로 한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281130304719"
+            },
+            {
+                "id": "OP05-022_P1",
+                "number": "OP05-022",
+                "type": "L",
+                "class": "리더",
+                "name": "돈키호테 로시난테",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색",
+                    "청색",
+                    "다색"
+                ],
+                "feature": [
+                    "해군",
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【자신의 턴 종료 시】자신의 패가 6장 이하인 경우, 이 리더를 액티브로 한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281134235618"
+            },
+            {
+                "id": "OP05-023",
+                "number": "OP05-023",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "베르고",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "해군",
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】상대의 레스트 상태이고 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281130391005"
+            },
+            {
+                "id": "OP05-024",
+                "number": "OP05-024",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "큐인",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281130467026"
+            },
+            {
+                "id": "OP05-025",
+                "number": "OP05-025",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "글라디우스",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 레스트할 수 있다: 상대의 코스트 3 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281132150059"
+            },
+            {
+                "id": "OP05-026",
+                "number": "OP05-026",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "사키스",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "베라미 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】【턴 1회】자신의 코스트 3 이상인 캐릭터 1장을 레스트할 수 있다: 이 캐릭터를 액티브로 한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281132236310"
+            },
+            {
+                "id": "OP05-027",
+                "number": "OP05-027",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "트라팔가 로",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 상대의 코스트 3 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281132362609"
+            },
+            {
+                "id": "OP05-028",
+                "number": "OP05-028",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "돈키호테 도플라밍고",
+                "cost": "1",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 상대의 레스트 상태이고 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281134082588"
+            },
+            {
+                "id": "OP05-029",
+                "number": "OP05-029",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "돈키호테 도플라밍고",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【상대의 어택 시】【턴 1회】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 상대의 코스트 6 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281134577460"
+            },
+            {
+                "id": "OP05-030",
+                "number": "OP05-030",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "돈키호테 로시난테",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "해군",
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【상대의 턴 동안】자신의 레스트 상태인 캐릭터가 KO 당했을 경우, 대신 이 캐릭터를 트래시에 놓을 수 있다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281135066519"
+            },
+            {
+                "id": "OP05-031",
+                "number": "OP05-031",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "버팔로",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】【턴 1회】자신의 레스트 상태인 캐릭터가 2장 이상인 경우, 자신의 레스트 상태이고 코스트 1인 캐릭터를 1장까지 액티브로 한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281135140865"
+            },
+            {
+                "id": "OP05-032",
+                "number": "OP05-032",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "피카",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 종료 시】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 이 캐릭터를 액티브로 한다.\r\n【턴 1회】 이 캐릭터가 KO 당했을 경우, 대신 「피카」 이외의 자신의 코스트 3 이상인 캐릭터 1장을 레스트할 수 있다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281135215304"
+            },
+            {
+                "id": "OP05-032_P1",
+                "number": "OP05-032",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "피카",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 종료 시】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 이 캐릭터를 액티브로 한다.\r\n【턴 1회】 이 캐릭터가 KO 당했을 경우, 대신 「피카」 이외의 자신의 코스트 3 이상인 캐릭터 1장을 레스트할 수 있다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281137033006"
+            },
+            {
+                "id": "OP05-033",
+                "number": "OP05-033",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "베이비 5",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 이 캐릭터를 레스트할 수 있다: 자신의 패에서 코스트 2 이하인 《돈키호테 해적단》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281135406986"
+            },
+            {
+                "id": "OP05-034",
+                "number": "OP05-034",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "베이비 5",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 이 캐릭터를 레스트할 수 있다: 자신의 덱 위에서 5장을 보고, 《돈키호테 해적단》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281135490782"
+            },
+            {
+                "id": "OP05-034_P1",
+                "number": "OP05-034",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "베이비 5",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 이 캐릭터를 레스트할 수 있다: 자신의 덱 위에서 5장을 보고, 《돈키호테 해적단》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281137138531"
+            },
+            {
+                "id": "OP05-035",
+                "number": "OP05-035",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "베라미",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281135588390"
+            },
+            {
+                "id": "OP05-036",
+                "number": "OP05-036",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "모네",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【블록 시】상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281136059997"
+            },
+            {
+                "id": "OP05-037",
+                "number": "OP05-037",
+                "type": "R",
+                "class": "이벤트",
+                "name": "승자만이, 정의다!!!!",
+                "cost": "0",
+                "attribute": [],
+                "trigger": "상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】자신의 패 1장을 버릴 수 있다: 이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +3000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281139179905"
+            },
+            {
+                "id": "OP05-038",
+                "number": "OP05-038",
+                "type": "C",
+                "class": "이벤트",
+                "name": "무용석",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "상대의 리더 또는 코스트 3 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000. 그 후, 자신의 패 1장을 버릴 수 있다. 버렸을 경우, 자신의 두웅!!을 3장까지 액티브로 한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281139296676"
+            },
+            {
+                "id": "OP05-039",
+                "number": "OP05-039",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "찐득 지휘봉 유성",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "상대의 레스트 상태이고 코스트 5 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000. 그 후, 상대의 레스트 상태이고 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281139371019"
+            },
+            {
+                "id": "OP05-040",
+                "number": "OP05-040",
+                "type": "C",
+                "class": "스테이지",
+                "name": "새장",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 리더가 「돈키호테 도플라밍고」인 경우, 코스트 5 이하인 모든 캐릭터는 서로의 리프레시 페이즈에 액티브 되지 않는다.\r\n【자신의 턴 종료 시】자신 필드에 두웅!!이 10장인 경우, 레스트 상태이고 코스트 5 이하인 모든 캐릭터를 KO 시킨다. 그 후, 이 스테이지를 트래시에 놓는다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281139450947"
+            },
+            {
+                "id": "OP05-041",
+                "number": "OP05-041",
+                "type": "L",
+                "class": "리더",
+                "name": "사카즈키",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "청색",
+                    "흑색",
+                    "다색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 패 1장을 버릴 수 있다: 카드를 1장 뽑는다.\r\n【어택 시】이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -1.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281140052540"
+            },
+            {
+                "id": "OP05-041_P1",
+                "number": "OP05-041",
+                "type": "L",
+                "class": "리더",
+                "name": "사카즈키",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "청색",
+                    "흑색",
+                    "다색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 패 1장을 버릴 수 있다: 카드를 1장 뽑는다.\r\n【어택 시】이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -1.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281140594959"
+            },
+            {
+                "id": "OP05-042",
+                "number": "OP05-042",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "잇쇼",
+                "cost": "6",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】다음 자신의 턴 개시 시까지, 상대의 코스트 7 이하인 캐릭터 1장까지는 어택할 수 없다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281140158359"
+            },
+            {
+                "id": "OP05-043",
+                "number": "OP05-043",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "울티",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "백수 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 리더가 다색인 경우, 자신의 덱 위에서 3장을 보고 1장까지를 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 위나 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281140247430"
+            },
+            {
+                "id": "OP05-043_P1",
+                "number": "OP05-043",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "울티",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "백수 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 리더가 다색인 경우, 자신의 덱 위에서 3장을 보고 1장까지를 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 위나 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281140515436"
+            },
+            {
+                "id": "OP05-044",
+                "number": "OP05-044",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "존 자이언트",
+                "cost": "8",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "거인족",
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281140390052"
+            },
+            {
+                "id": "OP05-045",
+                "number": "OP05-045",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "스테인리스",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】자신의 패 1장을 버리고, 이 캐릭터를 레스트할 수 있다: 코스트 2 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281141323106"
+            },
+            {
+                "id": "OP05-046",
+                "number": "OP05-046",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "달마시안",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【KO 시】카드를 1장 뽑고, 자신의 패 1장을 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281144402247"
+            },
+            {
+                "id": "OP05-047",
+                "number": "OP05-047",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "바질 호킨스",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "백수 해적단",
+                    "호킨스 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【블록 시】자신의 패가 3장 이하인 경우, 카드를 1장 뽑는다. 그 후, 이번 배틀 동안, 이 캐릭터의 파워 +1000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281144476554"
+            },
+            {
+                "id": "OP05-048",
+                "number": "OP05-048",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "바스티유",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】코스트 2 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281144568439"
+            },
+            {
+                "id": "OP05-049",
+                "number": "OP05-049",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "핫챠",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "거인족",
+                    "백수 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】코스트 3 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281145048984"
+            },
+            {
+                "id": "OP05-050",
+                "number": "OP05-050",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "히나",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패가 5장 이하인 경우, 카드를 1장 뽑는다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281145127134"
+            },
+            {
+                "id": "OP05-051",
+                "number": "OP05-051",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "볼사리노",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】코스트 4 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281145586375"
+            },
+            {
+                "id": "OP05-051_P1",
+                "number": "OP05-051",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "볼사리노",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】코스트 4 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270721302286"
+            },
+            {
+                "id": "OP05-052",
+                "number": "OP05-052",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "메이너드",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502281146104352"
+            },
+            {
+                "id": "OP05-053",
+                "number": "OP05-053",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "모잠비아",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【턴 1회】자신이 드로우 페이즈 이외에 카드를 뽑았을 때, 이번 턴 동안, 이 캐릭터의 파워 +2000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270721176542"
+            },
+            {
+                "id": "OP05-054",
+                "number": "OP05-054",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "몽키 D. 가프",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】카드 2장을 뽑고, 자신의 패 2장을 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270721503294"
+            },
+            {
+                "id": "OP05-055",
+                "number": "OP05-055",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "X 드레이크",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군",
+                    "드레이크 해적단",
+                    "백수 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 덱 위에서 5장을 보고 원하는 순서대로 덱 맨 위나 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270721577524"
+            },
+            {
+                "id": "OP05-055_P1",
+                "number": "OP05-055",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "X 드레이크",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군",
+                    "드레이크 해적단",
+                    "백수 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 덱 위에서 5장을 보고 원하는 순서대로 덱 맨 위나 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270722126255"
+            },
+            {
+                "id": "OP05-056",
+                "number": "OP05-056",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "X 배럴즈",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "전 해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】이 캐릭터 이외의 자신의 캐릭터 1장을 덱 맨 아래로 되돌릴 수 있다: 카드를 1장 뽑는다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270722353287"
+            },
+            {
+                "id": "OP05-057",
+                "number": "OP05-057",
+                "type": "R",
+                "class": "이벤트",
+                "name": "견교홍련",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "코스트 3 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +3000. 그 후, 코스트 2 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270722449282"
+            },
+            {
+                "id": "OP05-058",
+                "number": "OP05-058",
+                "type": "C",
+                "class": "이벤트",
+                "name": "생명이 아까워!!!",
+                "cost": "8",
+                "attribute": [],
+                "trigger": "코스트 2 이하인 모든 캐릭터를 주인의 덱 맨 아래로 되돌린다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】코스트 3 이하인 모든 캐릭터를 주인의 덱 맨 아래로 되돌린다. 그 후, 서로는 패가 5장이 되도록 본인의 패를 버린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270722525561"
+            },
+            {
+                "id": "OP05-059",
+                "number": "OP05-059",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "시작하자. '폭력의 세계'를!!!",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "자신의 리더가 다색인 경우, 카드를 2장 뽑는다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "사황",
+                    "백수 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】자신의 리더가 다색인 경우, 카드를 1장 뽑는다. 그 후, 코스트 5 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270723017121"
+            },
+            {
+                "id": "OP05-060",
+                "number": "OP05-060",
+                "type": "L",
+                "class": "리더",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 라이프 위에서 1장을 패에 더할 수 있다: 자신 필드의 두웅!!이 0장 또는 3장 이상인 경우, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270723102612"
+            },
+            {
+                "id": "OP05-060_P1",
+                "number": "OP05-060",
+                "type": "L",
+                "class": "리더",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 라이프 위에서 1장을 패에 더할 수 있다: 자신 필드의 두웅!!이 0장 또는 3장 이상인 경우, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270723198754"
+            },
+            {
+                "id": "OP05-061",
+                "number": "OP05-061",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "우소하치",
+                "cost": "3",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】자신 필드에 두웅!!이 8장 이상인 경우, 상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270723411842"
+            },
+            {
+                "id": "OP05-062",
+                "number": "OP05-062",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "오나미",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "자신 필드에 두웅!!이 10장인 경우, 이 캐릭터는 【블로커】를 얻는다.\r\n(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270724033772"
+            },
+            {
+                "id": "OP05-063",
+                "number": "OP05-063",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "오로비",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신 필드에 두웅!!이 8장 이상인 경우, 상대의 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270724289027"
+            },
+            {
+                "id": "OP05-064",
+                "number": "OP05-064",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "킬러",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "키드 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「킬러」 이외의 《키드 해적단》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270724369375"
+            },
+            {
+                "id": "OP05-065",
+                "number": "OP05-065",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "상고로",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270724439591"
+            },
+            {
+                "id": "OP05-066",
+                "number": "OP05-066",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "징베",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "어인족",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【상대의 턴 동안】자신 필드에 두웅!!이 10장인 경우, 이 캐릭터의 파워 +1000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270724508962"
+            },
+            {
+                "id": "OP05-067",
+                "number": "OP05-067",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "조로주로",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】자신의 라이프가 3장 이하인 경우, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270724584756"
+            },
+            {
+                "id": "OP05-067_P1",
+                "number": "OP05-067",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "조로주로",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】자신의 라이프가 3장 이하인 경우, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270725121084"
+            },
+            {
+                "id": "OP05-068",
+                "number": "OP05-068",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "쵸파에몬",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "동물",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신 필드에 두웅!!이 8장 이상인 경우, 자신의 파워 6000 이하이고 자색인 《밀짚모자 일당》 특징을 가진 캐릭터를 1장까지 액티브로 한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270725214966"
+            },
+            {
+                "id": "OP05-069",
+                "number": "OP05-069",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "트라팔가 로",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "하트 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】상대 필드의 두웅!! 수가 자신 필드의 두웅!! 수보다 많을 경우, 자신의 덱 위에서 5장을 보고, 《하트 해적단》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270725290308"
+            },
+            {
+                "id": "OP05-069_P1",
+                "number": "OP05-069",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "트라팔가 로",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "하트 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】상대 필드의 두웅!! 수가 자신 필드의 두웅!! 수보다 많을 경우, 자신의 덱 위에서 5장을 보고, 《하트 해적단》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270725429865"
+            },
+            {
+                "id": "OP05-069_P2",
+                "number": "OP05-069",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "트라팔가 로",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "하트 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】상대 필드의 두웅!! 수가 자신 필드의 두웅!! 수보다 많을 경우, 자신의 덱 위에서 5장을 보고, 《하트 해적단》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270726047286"
+            },
+            {
+                "id": "OP05-070",
+                "number": "OP05-070",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "프라노스케",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】자신 필드에 두웅!!이 8장 이상인 경우, 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270726151724"
+            },
+            {
+                "id": "OP05-071",
+                "number": "OP05-071",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "베포",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밍크족",
+                    "하트 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】상대 필드의 두웅!! 수가 자신 필드의 두웅!! 수보다 많을 경우, 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -2000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270726223516"
+            },
+            {
+                "id": "OP05-072",
+                "number": "OP05-072",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "본키치",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신 필드에 두웅!!이 8장 이상인 경우, 이번 턴 동안, 상대의 캐릭터 2장까지의 파워 -2000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270726286321"
+            },
+            {
+                "id": "OP05-073",
+                "number": "OP05-073",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "미스 더블 핑거(자라)",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 이 카드를 등장시킨다.",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "바로크 워크스"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패 1장을 버릴 수 있다: 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270726340532"
+            },
+            {
+                "id": "OP05-074",
+                "number": "OP05-074",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "유스타스 키드",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "키드 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【자신의 턴 동안】【턴 1회】자신 필드의 두웅!!이 두웅!! 덱으로 되돌려졌을 때, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270726399816"
+            },
+            {
+                "id": "OP05-074_P1",
+                "number": "OP05-074",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "유스타스 키드",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "키드 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【자신의 턴 동안】【턴 1회】자신 필드의 두웅!!이 두웅!! 덱으로 되돌려졌을 때, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270726488369"
+            },
+            {
+                "id": "OP05-074_P2",
+                "number": "OP05-074",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "유스타스 키드",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "키드 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【자신의 턴 동안】【턴 1회】자신 필드의 두웅!!이 두웅!! 덱으로 되돌려졌을 때, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270726552762"
+            },
+            {
+                "id": "OP05-075",
+                "number": "OP05-075",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "Mr.1(다즈 보네스)",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "바로크 워크스"
+                ],
+                "block_icon": "2",
+                "effect": "【상대의 어택 시】【턴 1회】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 패에서 코스트 3 이하인 《바로크 워크스》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270727040975"
+            },
+            {
+                "id": "OP05-076",
+                "number": "OP05-076",
+                "type": "R",
+                "class": "이벤트",
+                "name": "바다는 해적이 상대다!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】자신의 덱 위에서 3장을 보고, 《밀짚모자 일당》 또는 《키드 해적단》 또는 《하트 해적단》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270727118608"
+            },
+            {
+                "id": "OP05-077",
+                "number": "OP05-077",
+                "type": "C",
+                "class": "이벤트",
+                "name": "감마 나이프",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "하트 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -5000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270727281402"
+            },
+            {
+                "id": "OP05-078",
+                "number": "OP05-078",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "펑크 로튼",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "키드 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 이번 턴 동안, 자신의 《키드 해적단》 특징을 가진 리더 또는 캐릭터 1장까지의 파워 +5000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270727417876"
+            },
+            {
+                "id": "OP05-079",
+                "number": "OP05-079",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "비올라",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "드레스로자"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대는 자신의 트래시에서 카드 3장을 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270727528528"
+            },
+            {
+                "id": "OP05-080",
+                "number": "OP05-080",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "엘리자벨로 2세",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "프로덴스 왕국",
+                    "드레스로자"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】【턴 1회】자신의 트래시에서 카드 20장을 덱으로 되돌리고 셔플할 수 있다: 이번 배틀 동안, 이 캐릭터는 【더블 어택】을 얻고, 파워 +10000.\r\n(이 카드가 주는 대미지는 2가 된다)",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270728029272"
+            },
+            {
+                "id": "OP05-081",
+                "number": "OP05-081",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "외다리 병정",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "드레스로자"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -3.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270728093394"
+            },
+            {
+                "id": "OP05-082",
+                "number": "OP05-082",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "시라호시",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "인어족"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 레스트하고, 자신의 트래시에서 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 상대의 패가 6장 이상인 경우, 상대는 자신의 패 1장을 버린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270728186742"
+            },
+            {
+                "id": "OP05-083",
+                "number": "OP05-083",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "스테리",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "고아 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270728298942"
+            },
+            {
+                "id": "OP05-084",
+                "number": "OP05-084",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "차를로스 성",
+                "cost": "3",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "천룡인"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】자신 필드의 캐릭터가 《천룡인》 특징을 가진 캐릭터뿐이라면, 상대의 모든 캐릭터의 코스트 -4.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270728386229"
+            },
+            {
+                "id": "OP05-085",
+                "number": "OP05-085",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "네펠타리 코브라",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "알라바스타 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 덱 위에서 1장을 트래시에 놓는다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270728462004"
+            },
+            {
+                "id": "OP05-086",
+                "number": "OP05-086",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "네펠타리 비비",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "알라바스타 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 트래시가 10장 이상인 경우, 이 캐릭터는 【블로커】를 얻는다.\r\n(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270728592761"
+            },
+            {
+                "id": "OP05-087",
+                "number": "OP05-087",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "하쿠바",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "드레스로자",
+                    "아름다운 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】이 캐릭터 이외의 자신의 캐릭터 1장을 KO 시킬 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -5.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270729249911"
+            },
+            {
+                "id": "OP05-088",
+                "number": "OP05-088",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "맨셸리",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "톤타타족",
+                    "드레스로자"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 이 캐릭터를 레스트하고, 자신의 트래시에서 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 자신의 트래시에서 코스트 3에서 5인 흑색 캐릭터 카드를 1장까지 패에 더한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270729321575"
+            },
+            {
+                "id": "OP05-088_P1",
+                "number": "OP05-088",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "맨셸리",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "톤타타족",
+                    "드레스로자"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 이 캐릭터를 레스트하고, 자신의 트래시에서 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 자신의 트래시에서 코스트 3에서 5인 흑색 캐릭터 카드를 1장까지 패에 더한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270729480956"
+            },
+            {
+                "id": "OP05-089",
+                "number": "OP05-089",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "묘스가르드 성",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "천룡인"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다), 이 캐릭터와 자신의 캐릭터 1장을 레스트할 수 있다: 자신의 트래시에서 코스트 1인 흑색 캐릭터 카드를 1장까지 패에 더한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270730021471"
+            },
+            {
+                "id": "OP05-090",
+                "number": "OP05-090",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "리쿠 돌드 3세",
+                "cost": "4",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "드레스로자"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】/【KO 시】이번 턴 동안, 자신의 《드레스로자》 특징을 가진 캐릭터 1장까지의 파워 +2000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270730133627"
+            },
+            {
+                "id": "OP05-091",
+                "number": "OP05-091",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "레베카",
+                "cost": "4",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "드레스로자"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 트래시에서 「레베카」 이외의 코스트 3에서 7인 흑색 캐릭터 카드를 1장까지 패에 더한다. 그 후, 자신의 패에서 코스트 3 이하인 흑색 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270730228565"
+            },
+            {
+                "id": "OP05-091_P1",
+                "number": "OP05-091",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "레베카",
+                "cost": "4",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "드레스로자"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 트래시에서 「레베카」 이외의 코스트 3에서 7인 흑색 캐릭터 카드를 1장까지 패에 더한다. 그 후, 자신의 패에서 코스트 3 이하인 흑색 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270730364007"
+            },
+            {
+                "id": "OP05-092",
+                "number": "OP05-092",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "로즈워드 성",
+                "cost": "5",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "천룡인"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】자신 필드의 캐릭터가 《천룡인》 특징을 가진 캐릭터뿐이라면, 상대의 모든 캐릭터의 코스트 -6.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270730495035"
+            },
+            {
+                "id": "OP05-093",
+                "number": "OP05-093",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "로브 루치",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 트래시에서 카드 3장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 상대의 코스트 2 이하인 캐릭터 1장까지와 코스트 1 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270730573318"
+            },
+            {
+                "id": "OP05-093_P1",
+                "number": "OP05-093",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "로브 루치",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 트래시에서 카드 3장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 상대의 코스트 2 이하인 캐릭터 1장까지와 코스트 1 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270731083103"
+            },
+            {
+                "id": "OP05-094",
+                "number": "OP05-094",
+                "type": "R",
+                "class": "이벤트",
+                "name": "오트쿠튀르 패치★워크",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "카드를 2장 뽑고, 자신의 패 1장을 버린다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "톤타타족",
+                    "드레스로자"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -3. 그 후, 상대의 코스트 0인 캐릭터 1장까지는 다음 리프레시 페이즈에 액티브 되지 않는다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270731321032"
+            },
+            {
+                "id": "OP05-095",
+                "number": "OP05-095",
+                "type": "C",
+                "class": "이벤트",
+                "name": "용의 발톱",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "드레스로자",
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000. 그 후, 자신의 트래시가 15장 이상인 경우, 상대의 코스트 4 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270731413765"
+            },
+            {
+                "id": "OP05-096",
+                "number": "OP05-096",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "5억에 사겠다이~~!!!",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "상대의 코스트 6 이하인 캐릭터를 1장까지 KO 시키거나, 주인의 패로 되돌린다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "천룡인"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】상대의 코스트 1 이하인 캐릭터를 1장까지 KO 시키거나, 주인의 패로 되돌리거나, 라이프의 맨 위나 아래에 앞면으로 더한다. 그 후, 자신의 《천룡인》 특징을 가진 캐릭터가 있을 경우, 카드를 1장 뽑는다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270731507082"
+            },
+            {
+                "id": "OP05-097",
+                "number": "OP05-097",
+                "type": "C",
+                "class": "스테이지",
+                "name": "성지 마리조아",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "성지 마리조아"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】자신이 패에서 등장시키는 코스트 2 이상인 《천룡인》 특징을 가진 캐릭터 카드의 지불 코스트는 1 적어진다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270731564862"
+            },
+            {
+                "id": "OP05-098",
+                "number": "OP05-098",
+                "type": "L",
+                "class": "리더",
+                "name": "에넬",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【상대의 턴 동안】【턴 1회】자신의 라이프가 0장이 되었을 때, 자신의 덱 위에서 1장을 라이프 맨 위에 더한다. 그 후, 자신의 패 1장을 버린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270732033435"
+            },
+            {
+                "id": "OP05-098_P1",
+                "number": "OP05-098",
+                "type": "L",
+                "class": "리더",
+                "name": "에넬",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【상대의 턴 동안】【턴 1회】자신의 라이프가 0장이 되었을 때, 자신의 덱 위에서 1장을 라이프 맨 위에 더한다. 그 후, 자신의 패 1장을 버린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270732209909"
+            },
+            {
+                "id": "OP05-099",
+                "number": "OP05-099",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "아마존",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【상대의 어택 시】이 캐릭터를 레스트할 수 있다: 상대는 자신의 라이프 위에서 1장을 트래시에 놓을 수 있다. 놓지 않았다면, 이번 턴 동안, 상대의 리더 또는 캐릭터 1장까지의 파워 -2000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270732353808"
+            },
+            {
+                "id": "OP05-100",
+                "number": "OP05-100",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "에넬",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)\r\n【턴 1회】이 캐릭터가 필드를 벗어날 경우, 대신 자신의 라이프 위에서 1장을 트래시에 놓을 수 있다. 캐릭터인 「몽키 D. 루피」가 있을 경우, 이 효과는 무효가 된다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270732422582"
+            },
+            {
+                "id": "OP05-100_P1",
+                "number": "OP05-100",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "에넬",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)\r\n【턴 1회】이 캐릭터가 필드를 벗어날 경우, 대신 자신의 라이프 위에서 1장을 트래시에 놓을 수 있다. 캐릭터인 「몽키 D. 루피」가 있을 경우, 이 효과는 무효가 된다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270732516234"
+            },
+            {
+                "id": "OP05-101",
+                "number": "OP05-101",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "오움",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬",
+                    "신관"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 라이프가 2장 이하인 경우, 이 캐릭터의 파워 +1000.\r\n【등장 시】자신의 덱 위에서 5장을 보고, 「홀리」를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌리고, 자신의 패에서 「홀리」를 1장까지 등장시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270733025085"
+            },
+            {
+                "id": "OP05-102",
+                "number": "OP05-102",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "게다츠",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬",
+                    "신관"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 라이프 수 이하의 코스트를 가진 상대의 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270733211982"
+            },
+            {
+                "id": "OP05-102_P1",
+                "number": "OP05-102",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "게다츠",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬",
+                    "신관"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 라이프 수 이하의 코스트를 가진 상대의 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270733295279"
+            },
+            {
+                "id": "OP05-103",
+                "number": "OP05-103",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "코토리",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 「호토리」가 있을 경우, 상대의 라이프 수 이하의 코스트를 가진 상대의 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270733390575"
+            },
+            {
+                "id": "OP05-104",
+                "number": "OP05-104",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "코니스",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 스테이지 1장을 덱 맨 아래로 되돌릴 수 있다: 카드를 1장 뽑고, 자신의 패 1장을 버린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270733460266"
+            },
+            {
+                "id": "OP05-105",
+                "number": "OP05-105",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "사토리",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "자신의 패 1장을 버릴 수 있다: 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬",
+                    "신관"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270733517772"
+            },
+            {
+                "id": "OP05-106",
+                "number": "OP05-106",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "슈라",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬",
+                    "신관"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「슈라」 이외의 《하늘섬》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270733593681"
+            },
+            {
+                "id": "OP05-107",
+                "number": "OP05-107",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "스페이시 중위",
+                "cost": "3",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "달"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【턴 1회】자신의 라이프가 패에 추가되었을 때, 이번 턴 동안, 이 캐릭터의 파워 +2000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270734051986"
+            },
+            {
+                "id": "OP05-108",
+                "number": "OP05-108",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "노라",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "동물",
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270734126302"
+            },
+            {
+                "id": "OP05-109",
+                "number": "OP05-109",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "파가야",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【턴 1회】【트리거】가 발동했을 때, 카드를 2장 뽑고, 자신의 패 2장을 버린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270734193016"
+            },
+            {
+                "id": "OP05-110",
+                "number": "OP05-110",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "홀리",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "동물",
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270734253222"
+            },
+            {
+                "id": "OP05-111",
+                "number": "OP05-111",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "호토리",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패에서 「코토리」 1장을 등장시킬 수 있다: 상대의 코스트 3 이하인 캐릭터를 1장까지 상대의 라이프 맨 위나 아래에 앞면으로 더한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270734404876"
+            },
+            {
+                "id": "OP05-112",
+                "number": "OP05-112",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "맥킨리 대장",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【KO 시】자신의 패에서 코스트 1인 《하늘섬》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270734469217"
+            },
+            {
+                "id": "OP05-113",
+                "number": "OP05-113",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "야마",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270734540999"
+            },
+            {
+                "id": "OP05-114",
+                "number": "OP05-114",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "신의 심판",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "상대의 라이프 수 이하의 코스트를 가진 상대의 캐릭터를 1장까지 KO 시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000. 그 후, 상대의 라이프가 2장 이하인 경우, 이번 배틀 동안, 그 카드의 파워 +2000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270735006567"
+            },
+            {
+                "id": "OP05-115",
+                "number": "OP05-115",
+                "type": "R",
+                "class": "이벤트",
+                "name": "2억 볼트 뇌신",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "자신의 패 2장을 버릴 수 있다: 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +3000. 그 후, 자신의 라이프가 1장 이하인 경우, 상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270735337307"
+            },
+            {
+                "id": "OP05-116",
+                "number": "OP05-116",
+                "type": "C",
+                "class": "이벤트",
+                "name": "3000만 볼트 뇌조",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】 상대의 라이프 수 이하의 코스트를 가진 상대의 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270735183355"
+            },
+            {
+                "id": "OP05-117",
+                "number": "OP05-117",
+                "type": "UC",
+                "class": "스테이지",
+                "name": "어퍼야드",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 《하늘섬》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270735467662"
+            },
+            {
+                "id": "OP05-118",
+                "number": "OP05-118",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "카이도",
+                "cost": "10",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "사황",
+                    "백수 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 라이프가 3장 이하인 경우, 카드를 4장 뽑는다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270735528317"
+            },
+            {
+                "id": "OP05-118_P1",
+                "number": "OP05-118",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "카이도",
+                "cost": "10",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "사황",
+                    "백수 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 라이프가 3장 이하인 경우, 카드를 4장 뽑는다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270735589566"
+            },
+            {
+                "id": "OP05-119",
+                "number": "OP05-119",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "10",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "사황",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】두웅!!-10: 이 캐릭터 이외의 자신의 모든 캐릭터를 원하는 순서대로 덱 맨 아래로 되돌린다. 그 후, 이 턴이 끝난 후에 자신의 턴을 추가로 얻는다.\r\n【기동: 메인】【턴 1회】①: 두웅!! 덱에서 두웅!!을 1장까지 액티브로 추가한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270736083056"
+            },
+            {
+                "id": "OP05-119_P1",
+                "number": "OP05-119",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "10",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "사황",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】두웅!!-10: 이 캐릭터 이외의 자신의 모든 캐릭터를 원하는 순서대로 덱 맨 아래로 되돌린다. 그 후, 이 턴이 끝난 후에 자신의 턴을 추가로 얻는다.\r\n【기동: 메인】【턴 1회】①: 두웅!! 덱에서 두웅!!을 1장까지 액티브로 추가한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270736256077"
+            },
+            {
+                "id": "OP05-119_P2",
+                "number": "OP05-119",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "10",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "사황",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】두웅!!-10: 이 캐릭터 이외의 자신의 모든 캐릭터를 원하는 순서대로 덱 맨 아래로 되돌린다. 그 후, 이 턴이 끝난 후에 자신의 턴을 추가로 얻는다.\r\n【기동: 메인】【턴 1회】①: 두웅!! 덱에서 두웅!!을 1장까지 액티브로 추가한다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270736395780"
+            },
+            {
+                "id": "ST01-012_P2",
+                "number": "ST01-012",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "초신성",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)\r\n【두웅!!×2】【어택 시】이번 배틀 중, 상대는 【블로커】를 발동할 수 없다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270737364795"
+            },
+            {
+                "id": "ST01-012_P3",
+                "number": "ST01-012",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "초신성",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)\r\n【두웅!!×2】【어택 시】이번 배틀 중, 상대는 【블로커】를 발동할 수 없다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270737420850"
+            },
+            {
+                "id": "OP01-016_P4",
+                "number": "OP01-016",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "나미",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고 「나미」 이외의 《밀짚모자 일당》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270736478256"
+            },
+            {
+                "id": "OP01-121_P2",
+                "number": "OP01-121",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "야마토",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "1",
+                "effect": "룰 상, 이 카드의 카드명은 「코즈키 오뎅」으로도 취급한다.\r\n【더블 어택】(이 카드가 주는 대미지는 2가 된다)\r\n【배니시】(이 카드가 대미지를 주었을 경우, 트리거는 발동하지 않으며 그 카드는 트래시로 보내진다)",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270736570472"
+            },
+            {
+                "id": "OP02-120_P2",
+                "number": "OP02-120",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "우타",
+                "cost": "8",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】두웅!!-2(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 다음 자신의 턴 개시 시까지, 자신의 리더와 모든 캐릭터의 파워 +1000.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270737118096"
+            },
+            {
+                "id": "OP03-092_P2",
+                "number": "OP03-092",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "로브 루치",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 트래시에서 『CP』를 포함한 특징을 가진 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 이번 턴 동안, 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270737217389"
+            },
+            {
+                "id": "OP04-044_P2",
+                "number": "OP04-044",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "카이도",
+                "cost": "10",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "사황",
+                    "백수 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】코스트 8 이하인 캐릭터 1장까지와 코스트 3 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270737033537"
+            },
+            {
+                "id": "OP05-100_P2",
+                "number": "OP05-100",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "에넬",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)\r\n【턴 1회】이 캐릭터가 필드를 벗어날 경우, 대신 자신의 라이프 위에서 1장을 트래시에 놓을 수 있다. 캐릭터인 「몽키 D. 루피」가 있을 경우, 이 효과는 무효가 된다.",
+                "card_set": "[OPK-05] 부스터 팩 신시대의 주역",
+                "image_url": "/fileDownload?downname=202502270737283326"
+            }
+        ]
+    }
+}

@@ -1,0 +1,477 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 1147163215,
+        "language": "ko"
+    },
+    "data": {
+        "code": "ST13",
+        "cards": [
+            {
+                "id": "ST13-001",
+                "number": "ST13-001",
+                "type": "L",
+                "class": "리더",
+                "name": "사보",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "N/A",
+                "color": [
+                    "적색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "드레스로자",
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【기동: 메인】【턴 1회】자신의 코스트 3 이상이고 파워 7000 이상인 캐릭터 1장을 자신의 라이프 맨 위에 앞면으로 더할 수 있다: 다음 자신의 턴 개시 시까지, 자신의 캐릭터 1장까지의 파워 +2000.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_160525_baa8334d2b"
+            },
+            {
+                "id": "ST13-002",
+                "number": "ST13-002",
+                "type": "L",
+                "class": "리더",
+                "name": "포트거스 D. 에이스",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "N/A",
+                "color": [
+                    "적색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×2】【기동: 메인】【턴 1회】자신의 덱 위에서 5장을 보고, 코스트 5인 캐릭터 카드 1장까지를 라이프 맨 위에 앞면으로 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.\r\n【자신의 턴 종료 시】자신의 라이프의 앞면인 모든 카드를 트래시에 놓는다.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_160551_f47bdf2fe9"
+            },
+            {
+                "id": "ST13-003",
+                "number": "ST13-003",
+                "type": "L",
+                "class": "리더",
+                "name": "몽키 D. 루피",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "N/A",
+                "color": [
+                    "적색",
+                    "황색",
+                    "다색"
+                ],
+                "feature": [
+                    "초신성",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "룰상, 자신의 앞면인 라이프는 패에 추가되는 대신 덱 맨 아래로 되돌린다.\r\n【두웅!!×2】【기동: 메인】【턴 1회】자신의 패 1장을 버릴 수 있다: 자신의 라이프가 0장인 경우, 자신의 패 또는 트래시에서 코스트 5인 캐릭터 카드 2장까지를 라이프 맨 위에 앞면으로 더한다.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_160621_d9d8872e7a"
+            },
+            {
+                "id": "ST13-004",
+                "number": "ST13-004",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "에드워드 뉴게이트",
+                "cost": "6",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "사황",
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 1장을 라이프 맨 위에 더한다. 그 후, 자신의 모든 라이프를 보고 1장을 자신의 덱 맨 위로 되돌리고, 라이프를 원하는 순서대로 놓는다.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_160637_c8de10e3bc"
+            },
+            {
+                "id": "ST13-005",
+                "number": "ST13-005",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "엠포리오 이반코프",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 라이프 위나 아래에서 1장을 트래시에 놓을 수 있다: 자신의 패에서 코스트 5인 캐릭터 카드 1장를 공개하고 라이프 맨 위에 뒷면으로 더한다.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_160737_15ce19a339"
+            },
+            {
+                "id": "ST13-006",
+                "number": "ST13-006",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "컬리 다단",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "산적"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 패에서 코스트 2인 「사보」와 「포트거스 D. 에이스」와 「몽키 D. 루피」를 각각 1장까지 등장시킨다.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_160758_5274174695"
+            },
+            {
+                "id": "ST13-007",
+                "number": "ST13-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "사보",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "고아 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 자신의 라이프 맨 위에서 1장을 공개하고, 그 카드가 코스트 5인 「사보」인 경우, 등장시킬 수 있다. 등장시킨 경우, 다음 상대의 턴 종료 시까지, 자신의 리더 1장까지의 파워 +2000.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_160812_d7ff315fd1"
+            },
+            {
+                "id": "ST13-008",
+                "number": "ST13-008",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "사보",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "드레스로자",
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 라이프 위 또는 아래에서 1장을 트래시에 놓을 수 있다: 상대의 코스트 5 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_160825_7a9c1c8a30"
+            },
+            {
+                "id": "ST13-009",
+                "number": "ST13-009",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샹크스",
+                "cost": "7",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "사황",
+                    "빨간 머리 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 앞면인 라이프 1장을 뒷면으로 할 수 있다: 상대의 패가 7장 이상인 경우, 상대의 라이프 위에서 1장까지를 트래시에 놓는다.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_160838_391f88a995"
+            },
+            {
+                "id": "ST13-010",
+                "number": "ST13-010",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "포트거스 D. 에이스",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "고아 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 자신의 라이프 위에서 1장을 공개하고 그 카드가 코스트 5인 「포트거스 D. 에이스」인 경우, 등장시킬 수 있다. 등장시킨 경우, 다음 상대의 턴 종료 시까지, 자신의 리더 1장까지의 파워 +2000.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_160915_f9031ec710"
+            },
+            {
+                "id": "ST13-011",
+                "number": "ST13-011",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "포트거스 D. 에이스",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 라이프가 2장 이하인 경우, 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_160932_622930b249"
+            },
+            {
+                "id": "ST13-012",
+                "number": "ST13-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "마키노",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "후샤 마을"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 자신의 모든 라이프를 보고, 원하는 순서대로 놓는다.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_160945_b0d10976c1"
+            },
+            {
+                "id": "ST13-013",
+                "number": "ST13-013",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "몽키 D. 가프",
+                "cost": "1.0",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000.0",
+                "counter": "1000.0",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 코스트 5 이하인 「사보」 또는 「포트거스 D. 에이스」 또는 「몽키 D. 루피」를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_160957_8e56bce866"
+            },
+            {
+                "id": "ST13-014",
+                "number": "ST13-014",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "고아 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 자신의 라이프 위에서 1장을 공개하고, 그 카드가 코스트 5인 「몽키 D. 루피」인 경우, 등장시킬 수 있다. 등장시킨 경우, 다음 상대의 턴 종료 시까지, 자신의 리더 1장까지의 파워 +2000.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_161010_2b3a9728a6"
+            },
+            {
+                "id": "ST13-015",
+                "number": "ST13-015",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "초신성",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】다음 자신의 턴 개시 시까지, 이 캐릭터의 파워 +2000.  그 후, 자신의 라이프가 1장 이상인 경우, 카드를 1장 뽑고 자신의 라이프 위에서 1장을 트래시에 놓는다.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_161022_6cf45487cd"
+            },
+            {
+                "id": "ST13-016",
+                "number": "ST13-016",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "야마토",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "2",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)\r\n【등장 시】자신의 모든 라이프를 보고, 1장을 자신의 덱 맨 위로 되돌리고 라이프를 원하는 순서대로 놓는다.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_161036_6933e250a3"
+            },
+            {
+                "id": "ST13-017",
+                "number": "ST13-017",
+                "type": "C",
+                "class": "이벤트",
+                "name": "화염 용왕",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【트리거】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 자신의 패를 1장까지 라이프 맨 위에 더한다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "드레스로자",
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000. 그 후, 자신의 모든 라이프를 보고, 원하는 순서대로 놓는다.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_161047_b08591093a"
+            },
+            {
+                "id": "ST13-018",
+                "number": "ST13-018",
+                "type": "C",
+                "class": "이벤트",
+                "name": "고무고무 JET 창",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【트리거】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 자신의 패를 1장까지 라이프 맨 위에 더한다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "펑크 하자드",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000. 그 후, 자신의 라이프가 0장인 경우, 카드를 1장 뽑는다.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_161109_58383bc42a"
+            },
+            {
+                "id": "ST13-019",
+                "number": "ST13-019",
+                "type": "C",
+                "class": "이벤트",
+                "name": "3형제의 유대",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【트리거】이 카드의 【메인】효과를 발동한다.",
+                "power": "N/A",
+                "counter": "N/A",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "고아 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】자신의 덱 위에서 5장을 보고 코스트 5 이하인 「사보」 또는 「포트거스 D. 에이스」 또는 「몽키 D. 루피」를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[STK-13] 스타트 덱 3형제의 유대",
+                "image_url": "/fileDownload?downname=20250522_161124_211fa51943"
+            }
+        ]
+    }
+}

@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556201
+        "set": 556201,
+        "language": "en"
     },
     "data": {
         "code": "EB01",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Kouzuki Oden",
-                "image_path": "images/MemorialCollectionEB01/EB01-001.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -30,7 +30,7 @@
                     "Kouzuki Clan"
                 ],
                 "block_icon": "2",
-                "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules.[DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
+                "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules. [DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-001.png"
             },
@@ -40,8 +40,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Kouzuki Oden (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-001_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -57,7 +56,7 @@
                     "Kouzuki Clan"
                 ],
                 "block_icon": "2",
-                "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules.[DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
+                "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules. [DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p1.png"
             },
@@ -67,7 +66,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Izo",
-                "image_path": "images/MemorialCollectionEB01/EB01-002.png",
                 "cost": "5",
                 "attribute": [
                     "Ranged"
@@ -83,7 +81,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.[On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: If your Leader has the {Land of Wano} or {Whitebeard Pirates} type, give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
+                "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: If your Leader has the {Land of Wano} or {Whitebeard Pirates} type, give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-002.png"
             },
@@ -93,7 +91,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kid & Killer",
-                "image_path": "images/MemorialCollectionEB01/EB01-003.png",
                 "cost": "4",
                 "attribute": [
                     "Slash",
@@ -110,7 +107,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-003.png"
             },
@@ -120,7 +117,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kid & Killer (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-003_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash",
@@ -137,7 +133,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p1.png"
             },
@@ -147,7 +143,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Koza",
-                "image_path": "images/MemorialCollectionEB01/EB01-004.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -172,7 +167,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Doma",
-                "image_path": "images/MemorialCollectionEB01/EB01-005.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -197,7 +191,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/MemorialCollectionEB01/EB01-006.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -213,7 +206,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-006.png"
             },
@@ -223,7 +216,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-006_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -239,7 +231,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p1.png"
             },
@@ -249,7 +241,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-006_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -265,7 +256,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p2.png"
             },
@@ -275,7 +266,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Yamato",
-                "image_path": "images/MemorialCollectionEB01/EB01-007.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -300,7 +290,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "LittleOars Jr.",
-                "image_path": "images/MemorialCollectionEB01/EB01-008.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -326,11 +315,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Just Shut Up and Come with Us!!!!",
-                "image_path": "images/MemorialCollectionEB01/EB01-009.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -352,11 +338,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "There's No Way You Could Defeat Me!!",
-                "image_path": "images/MemorialCollectionEB01/EB01-010.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 5000 base power or less.",
                 "power": "-",
                 "counter": "-",
@@ -378,11 +361,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Mini-Merry",
-                "image_path": "images/MemorialCollectionEB01/EB01-011.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -403,7 +383,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Cavendish",
-                "image_path": "images/MemorialCollectionEB01/EB01-012.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -429,7 +408,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Cavendish (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-012_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -455,7 +433,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kouzuki Hiyori",
-                "image_path": "images/MemorialCollectionEB01/EB01-013.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -481,7 +458,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kouzuki Hiyori (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-013_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -507,7 +483,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/MemorialCollectionEB01/EB01-014.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -533,7 +508,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Scratchmen Apoo",
-                "image_path": "images/MemorialCollectionEB01/EB01-015.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -559,7 +533,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bingoh",
-                "image_path": "images/MemorialCollectionEB01/EB01-016.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -584,7 +557,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Blueno",
-                "image_path": "images/MemorialCollectionEB01/EB01-017.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -610,7 +582,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Mountain God",
-                "image_path": "images/MemorialCollectionEB01/EB01-018.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -636,11 +607,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Off-White",
-                "image_path": "images/MemorialCollectionEB01/EB01-019.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -662,11 +630,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Chambres",
-                "image_path": "images/MemorialCollectionEB01/EB01-020.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -688,8 +653,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Hannyabal",
-                "image_path": "images/MemorialCollectionEB01/EB01-021.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -714,8 +678,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Hannyabal (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-021_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -740,7 +703,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Inazuma",
-                "image_path": "images/MemorialCollectionEB01/EB01-022.png",
                 "cost": "6",
                 "attribute": [
                     "Slash"
@@ -766,7 +728,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Inazuma (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-022_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Slash"
@@ -792,7 +753,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Edward Weevil",
-                "image_path": "images/MemorialCollectionEB01/EB01-023.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -817,7 +777,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Hamlet",
-                "image_path": "images/MemorialCollectionEB01/EB01-024.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -843,7 +802,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Fourtricks",
-                "image_path": "images/MemorialCollectionEB01/EB01-025.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -869,7 +827,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Prince Bellett",
-                "image_path": "images/MemorialCollectionEB01/EB01-026.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -894,7 +851,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Mr.1(Daz.Bonez)",
-                "image_path": "images/MemorialCollectionEB01/EB01-027.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -909,7 +865,7 @@
                     "Baroque Works"
                 ],
                 "block_icon": "2",
-                "effect": "If your Leader's type includes \"Baroque Works\", this Character gains +1000 power for every 2 Events in your trash.[On Play] Draw 2 cards and trash 1 card from your hand.",
+                "effect": "If your Leader's type includes \"Baroque Works\", this Character gains +1000 power for every 2 Events in your trash. [On Play] Draw 2 cards and trash 1 card from your hand.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-027.png"
             },
@@ -919,7 +875,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Mr.1(Daz.Bonez) (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-027_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -934,7 +889,7 @@
                     "Baroque Works"
                 ],
                 "block_icon": "2",
-                "effect": "If your Leader's type includes \"Baroque Works\", this Character gains +1000 power for every 2 Events in your trash.[On Play] Draw 2 cards and trash 1 card from your hand.",
+                "effect": "If your Leader's type includes \"Baroque Works\", this Character gains +1000 power for every 2 Events in your trash. [On Play] Draw 2 cards and trash 1 card from your hand.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-027_p1.png"
             },
@@ -944,11 +899,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Gum-Gum Champion Rifle",
-                "image_path": "images/MemorialCollectionEB01/EB01-028.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the bottom of the owner's deck.",
                 "power": "-",
                 "counter": "-",
@@ -970,11 +922,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Sorry. I'm a Goner.",
-                "image_path": "images/MemorialCollectionEB01/EB01-029.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 Character with a cost of 8 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -996,11 +945,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Loguetown",
-                "image_path": "images/MemorialCollectionEB01/EB01-030.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Play this card.",
                 "power": "-",
                 "counter": "-",
@@ -1021,7 +967,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kalifa",
-                "image_path": "images/MemorialCollectionEB01/EB01-031.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -1047,7 +992,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kalifa (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-031_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -1073,7 +1017,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Army Wolves",
-                "image_path": "images/MemorialCollectionEB01/EB01-032.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -1099,7 +1042,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Blueno",
-                "image_path": "images/MemorialCollectionEB01/EB01-033.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1124,7 +1066,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Ms. Wednesday",
-                "image_path": "images/MemorialCollectionEB01/EB01-034.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1139,7 +1080,7 @@
                     "Baroque Works"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-034.png"
             },
@@ -1149,7 +1090,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Ms. Wednesday (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-034_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1164,7 +1104,7 @@
                     "Baroque Works"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-034_p1.png"
             },
@@ -1174,7 +1114,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Ms. Monday",
-                "image_path": "images/MemorialCollectionEB01/EB01-035.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1199,7 +1138,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Minochihuahua",
-                "image_path": "images/MemorialCollectionEB01/EB01-036.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1215,7 +1153,7 @@
                     "Jailer Beast"
                 ],
                 "block_icon": "2",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-036.png"
             },
@@ -1225,7 +1163,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Mr. 9",
-                "image_path": "images/MemorialCollectionEB01/EB01-037.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1250,11 +1187,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Oh Come My Way",
-                "image_path": "images/MemorialCollectionEB01/EB01-038.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] DON!! −1: Draw 2 cards.",
                 "power": "-",
                 "counter": "-",
@@ -1275,11 +1209,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Conquerer of Three Worlds Ragnaraku",
-                "image_path": "images/MemorialCollectionEB01/EB01-039.png",
                 "cost": "5",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "power": "-",
                 "counter": "-",
@@ -1301,8 +1232,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Kyros",
-                "image_path": "images/MemorialCollectionEB01/EB01-040.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -1327,8 +1257,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Kyros (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-040_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -1353,7 +1282,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Crocus",
-                "image_path": "images/MemorialCollectionEB01/EB01-041.png",
                 "cost": "6",
                 "attribute": [
                     "Wisdom"
@@ -1378,7 +1306,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Scarlet",
-                "image_path": "images/MemorialCollectionEB01/EB01-042.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -1403,7 +1330,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Spandine",
-                "image_path": "images/MemorialCollectionEB01/EB01-043.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -1428,7 +1354,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Funkfreed",
-                "image_path": "images/MemorialCollectionEB01/EB01-044.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -1453,7 +1378,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Brook",
-                "image_path": "images/MemorialCollectionEB01/EB01-045.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1468,7 +1392,7 @@
                     "Rumbar Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] If your opponent has a Character with a cost of 0, this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] If your opponent has a Character with a cost of 0, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-045.png"
             },
@@ -1478,7 +1402,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Brook",
-                "image_path": "images/MemorialCollectionEB01/EB01-046.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1503,7 +1426,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Brook (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-046_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1528,7 +1450,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Laboon",
-                "image_path": "images/MemorialCollectionEB01/EB01-047.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -1553,7 +1474,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Laboon",
-                "image_path": "images/MemorialCollectionEB01/EB01-048.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1578,7 +1498,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Laboon (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-048_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1603,7 +1522,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "T-Bone",
-                "image_path": "images/MemorialCollectionEB01/EB01-049.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1629,7 +1547,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "T-Bone (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-049_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1655,11 +1572,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "...I Want to Live!!",
-                "image_path": "images/MemorialCollectionEB01/EB01-050.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1680,11 +1594,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Finger Pistol",
-                "image_path": "images/MemorialCollectionEB01/EB01-051.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1705,7 +1616,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Viola",
-                "image_path": "images/MemorialCollectionEB01/EB01-052.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -1720,7 +1630,7 @@
                     "Dressrosa"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Choose one:• Look at all of your opponent's Life cards and place them back in their Life area in any order.• Turn all of your Life cards face-down.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Choose one: • Look at all of your opponent's Life cards and place them back in their Life area in any order. • Turn all of your Life cards face-down.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-052.png"
             },
@@ -1730,7 +1640,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Viola (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-052_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -1745,7 +1654,7 @@
                     "Dressrosa"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Choose one:• Look at all of your opponent's Life cards and place them back in their Life area in any order.• Turn all of your Life cards face-down.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Choose one: • Look at all of your opponent's Life cards and place them back in their Life area in any order. • Turn all of your Life cards face-down.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-052_p1.png"
             },
@@ -1755,7 +1664,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Gastino",
-                "image_path": "images/MemorialCollectionEB01/EB01-053.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -1780,7 +1688,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Gan.Fall",
-                "image_path": "images/MemorialCollectionEB01/EB01-054.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -1795,7 +1702,7 @@
                     "Sky Island"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If your opponent has 1 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If your opponent has 1 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-054.png"
             },
@@ -1805,7 +1712,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Compote",
-                "image_path": "images/MemorialCollectionEB01/EB01-055.png",
                 "cost": "7",
                 "attribute": [
                     "Wisdom"
@@ -1830,7 +1736,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Charlotte Flampe",
-                "image_path": "images/MemorialCollectionEB01/EB01-056.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -1855,7 +1760,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Charlotte Flampe (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-056_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -1880,7 +1784,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Shirahoshi",
-                "image_path": "images/MemorialCollectionEB01/EB01-057.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -1895,7 +1798,7 @@
                     "Merfolk"
                 ],
                 "block_icon": "2",
-                "effect": "When this Character is K.O.'d by your opponent's effect, add up to 1 card from the top of your deck to the top of your Life cards.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "When this Character is K.O.'d by your opponent's effect, add up to 1 card from the top of your deck to the top of your Life cards. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-057.png"
             },
@@ -1905,7 +1808,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Shirahoshi (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-057_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -1920,7 +1822,7 @@
                     "Merfolk"
                 ],
                 "block_icon": "2",
-                "effect": "When this Character is K.O.'d by your opponent's effect, add up to 1 card from the top of your deck to the top of your Life cards.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "When this Character is K.O.'d by your opponent's effect, add up to 1 card from the top of your deck to the top of your Life cards. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-057_p1.png"
             },
@@ -1930,7 +1832,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Mont Blanc Cricket",
-                "image_path": "images/MemorialCollectionEB01/EB01-058.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -1955,11 +1856,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Kingdom Come",
-                "image_path": "images/MemorialCollectionEB01/EB01-059.png",
                 "cost": "6",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the total of your and your opponent's Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -1980,11 +1878,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Did Someone Say...Kami?",
-                "image_path": "images/MemorialCollectionEB01/EB01-060.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -2005,7 +1900,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Mr.2.Bon.Kurei(Bentham)",
-                "image_path": "images/MemorialCollectionEB01/EB01-061.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2020,7 +1914,7 @@
                     "Former Baroque Works"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.[When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.",
+                "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-061.png"
             },
@@ -2030,7 +1924,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Mr.2.Bon.Kurei(Bentham) (Parallel)",
-                "image_path": "images/MemorialCollectionEB01/EB01-061_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2045,7 +1938,7 @@
                     "Former Baroque Works"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active.[When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.",
+                "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.",
                 "card_set": "-Memorial Collection- [EB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-061_p1.png"
             }

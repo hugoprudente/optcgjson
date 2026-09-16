@@ -1,0 +1,469 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563010,
+        "language": "th"
+    },
+    "data": {
+        "code": "ST10",
+        "cards": [
+            {
+                "id": "OP01-016_p3",
+                "number": "OP01-016",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Nami (Parallel)",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ดที่มีคุณสมบัติ < กลุ่มโจรสลัดหมวกฟาง > นอกเหนือจาก [Nami] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP01-016_p3.png"
+            },
+            {
+                "id": "OP01-025_p2",
+                "number": "OP01-025",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro (Parallel)",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้).",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP01-025_p2.png"
+            },
+            {
+                "id": "ST10-001",
+                "number": "ST10-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Trafalgar Law",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 3 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำคาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 3000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ ไปวางที่ข้างใต้เด็คของเจ้าของ, และนำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-001.png"
+            },
+            {
+                "id": "ST10-002",
+                "number": "ST10-002",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Monkey.D.Luffy",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าในสนามของเรามี ด้ง!! อยู่ 0 ใบ, หรือว่า ถ้าในสนามของเรามี ด้ง!! อยู่จำนวน 8 ใบ หรือมากกว่า, จะนำ ด้ง!! จากด้ง!! เด็ค ของเรา จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-002.png"
+            },
+            {
+                "id": "ST10-003",
+                "number": "ST10-003",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Eustass\"Captain\"Kid",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "2",
+                "effect": "[เทิร์นตัวเอง] ถ้าเรามี ไลฟ์ จำนวน 4 ใบ หรือมากกว่า, ลีดเดอร์นี้ จะมีพาวเวอร์ -1000. [เมื่อโจมตี] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : ในเทิร์นนี้, ลีดเดอร์นี้, จะมีพาวเวอร์ +2000.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-003.png"
+            },
+            {
+                "id": "ST10-004",
+                "number": "ST10-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ถ้าคู่แข่งมีคาแรคเตอร์ ที่มีพาวเวอร์ 5000 หรือมากกว่า อยู่ด้วย, ในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-004.png"
+            },
+            {
+                "id": "ST10-005",
+                "number": "ST10-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jinbe",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ในเทิร์นนี้ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ –2000.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-005.png"
+            },
+            {
+                "id": "ST10-006",
+                "number": "ST10-006",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "10",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "11000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เทิร์นละ 1 ครั้ง] ตอนที่คู่แข่งใช้งาน [บล็อกเกอร์], จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 8000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-006.png"
+            },
+            {
+                "id": "ST10-007",
+                "number": "ST10-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Killer",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "2",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อมี ด้ง!! ในสนามของเรา ถูกนำกลับ ด้ง!! เด็ค, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า ที่กำลังเรสต์อยู่ จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-007.png"
+            },
+            {
+                "id": "ST10-008",
+                "number": "ST10-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Shachi & Penguin",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ถ้าในสนามของเรามี ด้ง!! อยู่จำนวน 3 ใบ หรือน้อยกว่า, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 2 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-008.png"
+            },
+            {
+                "id": "ST10-009",
+                "number": "ST10-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jean Bart",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] (1) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ) : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-009.png"
+            },
+            {
+                "id": "ST10-010",
+                "number": "ST10-010",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าคู่แข่งมีการ์ดบนมืออยู่ จำนวน 7 ใบ หรือมากกว่า, จะทิ้งการ์ดบนมือของคู่แข่ง จำนวน 2 ใบ.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-010.png"
+            },
+            {
+                "id": "ST10-011",
+                "number": "ST10-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Heat",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "2",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] เมื่อมี ด้ง!! ในสนามของเรา ถูกนำกลับ ด้ง!! เด็ค, จนกระทั่งถึงช่วงเริ่มต้นเทิร์นของเราในครั้งถัดไป, คาแรกเตอร์นี้, จะมีพาวเวอร์ +2000.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-011.png"
+            },
+            {
+                "id": "ST10-012",
+                "number": "ST10-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bepo",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เผ่ามิงค์",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ถ้าจำนวน ด้ง!! ที่อยู่บนสนามของคู่แข่ง มีมากกว่าจำนวน ด้ง!! ที่อยู่บนสนามของเรา, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-012.png"
+            },
+            {
+                "id": "ST10-013",
+                "number": "ST10-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Eustass\"Captain\"Kid",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : จนกระทั่งถึงช่วงเริ่มต้นเทิร์นของเราในครั้งถัดไป, ลีดเดอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-013.png"
+            },
+            {
+                "id": "ST10-014",
+                "number": "ST10-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Wire",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เทิร์นละ 1 ครั้ง] เมื่อมี ด้ง!! ในสนามของเรา ถูกนำกลับ ด้ง!! เด็ค, จะจั่วการ์ด จำนวน 1 ใบ, และทิ้งการ์ดบนมือ จำนวน 1 ใบ.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-014.png"
+            },
+            {
+                "id": "ST10-015",
+                "number": "ST10-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Giant Sumo Slap",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000, และทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 2000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-015.png"
+            },
+            {
+                "id": "ST10-016",
+                "number": "ST10-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Kong Gatling",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จนกระทั่งถึงตอนจบเทิร์นของเราในครั้งถัดไป, ลีดเดอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 7000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-016.png"
+            },
+            {
+                "id": "ST10-017",
+                "number": "ST10-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Punk Vise",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, และนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-The Three Captains- [ST-10]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST10-017.png"
+            }
+        ]
+    }
+}

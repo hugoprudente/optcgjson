@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556015
+        "set": 556015,
+        "language": "en"
     },
     "data": {
         "code": "ST15",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Edward.Newgate",
-                "image_path": "images/RedEdwardNewgateST15/OP02-001_p4.png",
-                "cost": "Life6",
+                "cost": "6",
                 "attribute": [
                     "Special"
                 ],
@@ -39,7 +39,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Jozu",
-                "image_path": "images/RedEdwardNewgateST15/OP02-008_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -54,7 +53,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x1] If you have 2 or less Life cards and your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush].(This card can attack on the turn in which it is played.)",
+                "effect": "[DON!! x1] If you have 2 or less Life cards and your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Red Edward.Newgate- [ST-15]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-008_r1.png"
             },
@@ -64,7 +63,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Marco",
-                "image_path": "images/RedEdwardNewgateST15/OP02-018_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -79,7 +77,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
                 "card_set": "-Red Edward.Newgate- [ST-15]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-018_r1.png"
             },
@@ -89,7 +87,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Rakuyo",
-                "image_path": "images/RedEdwardNewgateST15/OP02-019_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -114,11 +111,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "You May Be a Fool...but I Still Love You",
-                "image_path": "images/RedEdwardNewgateST15/OP02-023_r1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -140,7 +134,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Izo",
-                "image_path": "images/RedEdwardNewgateST15/OP03-003_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -166,7 +159,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Speed Jil",
-                "image_path": "images/RedEdwardNewgateST15/OP03-006_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -191,7 +183,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Namule",
-                "image_path": "images/RedEdwardNewgateST15/OP03-007_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -217,7 +208,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Haruta",
-                "image_path": "images/RedEdwardNewgateST15/OP03-009_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -242,7 +232,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Fossa",
-                "image_path": "images/RedEdwardNewgateST15/OP03-010_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -267,7 +256,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Atmos",
-                "image_path": "images/RedEdwardNewgateST15/ST15-001.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -292,7 +280,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Edward.Newgate",
-                "image_path": "images/RedEdwardNewgateST15/ST15-002.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -308,7 +295,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with 5000 power or less.",
+                "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. [Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with 5000 power or less.",
                 "card_set": "-Red Edward.Newgate- [ST-15]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST15-002.png"
             },
@@ -318,7 +305,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kingdew",
-                "image_path": "images/RedEdwardNewgateST15/ST15-003.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -333,7 +319,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Opponent's Turn] When this Character is K.O.'d by an effect, up to 1 of your Leader gains +2000 power during this turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] When this Character is K.O.'d by an effect, up to 1 of your Leader gains +2000 power during this turn.",
                 "card_set": "-Red Edward.Newgate- [ST-15]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST15-003.png"
             },
@@ -343,7 +329,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Thatch",
-                "image_path": "images/RedEdwardNewgateST15/ST15-004.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -368,7 +353,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Portgas.D.Ace",
-                "image_path": "images/RedEdwardNewgateST15/ST15-005.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -383,7 +367,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "3",
-                "effect": "If your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush].(This card can attack on the turn in which it is played.)[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may give this Character −2000 power during this turn instead.",
+                "effect": "If your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush]. (This card can attack on the turn in which it is played.) [Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may give this Character −2000 power during this turn instead.",
                 "card_set": "-Red Edward.Newgate- [ST-15]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST15-005.png"
             }

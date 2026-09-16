@@ -6,6 +6,13 @@ import re
 
 from optcg.consts import clean_sentinel, set_type_for_code
 
+# Class strings that identify a Leader card across the scraped languages.
+# The standard sites emit "LEADER"; the Korean site emits "리더".
+# The scraped ``cost`` field shares its HTML cell with the Life value on
+# Leader cards, so on Leaders we move that value into a dedicated ``life``
+# field and leave ``cost`` null.
+LEADER_CLASSES = frozenset({"LEADER", "리더"})
+
 
 def normalize_card(raw: dict) -> dict:
     """Transform a single raw card dict (from the scraper) into the internal
@@ -21,7 +28,13 @@ def normalize_card(raw: dict) -> dict:
     rarity = (raw.get("type") or "").strip()
     card_class = (raw.get("class") or "").strip()
 
-    cost = _clean(raw.get("cost"))
+    raw_cost = _clean(raw.get("cost"))
+    if card_class.upper() in LEADER_CLASSES:
+        cost = None
+        life = raw_cost
+    else:
+        cost = raw_cost
+        life = None
     power = _clean(raw.get("power"))
     counter = _clean(raw.get("counter"))
     block_icon = _clean(raw.get("block_icon"))
@@ -42,6 +55,7 @@ def normalize_card(raw: dict) -> dict:
         "rarity": rarity or None,
         "card_class": card_class or None,
         "cost": cost,
+        "life": life,
         "attribute": attribute or None,
         "power": power,
         "counter": counter,

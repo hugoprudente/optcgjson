@@ -1,0 +1,369 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 1876043916,
+        "language": "ko"
+    },
+    "data": {
+        "code": "ST08",
+        "cards": [
+            {
+                "id": "ST08-001",
+                "number": "ST08-001",
+                "type": "L",
+                "class": "리더",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【자신의 턴 동안】캐릭터가 KO 당했을 때, 이 리더에게 레스트 상태인 두웅!!을 1장까지 부여한다.",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041038457847"
+            },
+            {
+                "id": "ST08-002",
+                "number": "ST08-002",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "우타",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "1",
+                "effect": "이 캐릭터는 리더와의 배틀에서는 KO 당하지 않는다.<br>\r\n【기동: 메인】이 캐릭터를 레스트 할 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -2.",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041038589493"
+            },
+            {
+                "id": "ST08-003",
+                "number": "ST08-003",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "가이몬",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "이스트 블루"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041039084922"
+            },
+            {
+                "id": "ST08-004",
+                "number": "ST08-004",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "코비",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【기동: 메인】 이 캐릭터를 레스트 할 수 있다: 상대의 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041039257762"
+            },
+            {
+                "id": "ST08-005",
+                "number": "ST08-005",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "샹크스",
+                "cost": "9",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "빨간 머리 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 패 1장을 버릴 수 있다: 코스트 1 이하인 모든 캐릭터를 KO 시킨다.",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041039361278"
+            },
+            {
+                "id": "ST08-006",
+                "number": "ST08-006",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "시라호시",
+                "cost": "4",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "인어족"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)<br>\r\n【등장 시】이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -4.",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041039470402"
+            },
+            {
+                "id": "ST08-007",
+                "number": "ST08-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "네펠타리 비비",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "이 카드를 등장시킨다.",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "알라바스타 왕국"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041039590609"
+            },
+            {
+                "id": "ST08-008",
+                "number": "ST08-008",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "히그마",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "산적"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -2.",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041040125882"
+            },
+            {
+                "id": "ST08-009",
+                "number": "ST08-009",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "마키노",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "후샤 마을"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】코스트 0인 캐릭터가 있을 경우, 카드를 1장 뽑는다.",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041040212234"
+            },
+            {
+                "id": "ST08-010",
+                "number": "ST08-010",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "몽키 D. 가프",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041040325534"
+            },
+            {
+                "id": "ST08-011",
+                "number": "ST08-011",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041040450730"
+            },
+            {
+                "id": "ST08-012",
+                "number": "ST08-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "라분",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "동물"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041040547139"
+            },
+            {
+                "id": "ST08-013",
+                "number": "ST08-013",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "Mr.2 봉쿠레(벤담)",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "전 바로크 워크스"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】이 캐릭터가 상대의 캐릭터와 배틀한 배틀 종료 시, 배틀한 상대의 캐릭터를 KO 시킬 수 있다. 이 경우, 이 캐릭터를 KO 시킨다.",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041041097985"
+            },
+            {
+                "id": "ST08-014",
+                "number": "ST08-014",
+                "type": "C",
+                "class": "이벤트",
+                "name": "고무고무 종",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "자신의 트래시에서 코스트 2 이하인 흑색 캐릭터 카드를 1장까지 패에 더한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】 자신의 라이프 위에서 1장을 패에 더 할 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -7.",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041041221871"
+            },
+            {
+                "id": "ST08-015",
+                "number": "ST08-015",
+                "type": "C",
+                "class": "이벤트",
+                "name": "고무고무 총",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "카드를 1장 뽑는다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【메인】 상대의 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+                "image_url": "/fileDownload?downname=202409041041370065"
+            }
+        ]
+    }
+}

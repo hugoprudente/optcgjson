@@ -1,0 +1,2193 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563203,
+        "language": "th"
+    },
+    "data": {
+        "code": "EB03",
+        "cards": [
+            {
+                "id": "EB03-001",
+                "number": "EB03-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Nefeltari Vivi",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์ของฝ่ายเรา ที่คอสต์ตั้งต้น 4 หรือสูงกว่า กำลังจะถูก KO, จะสามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ แทนได้. [สั่งใช้ : เมน] สามารถ เรสต์ ลีดเดอร์นี้ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -2000. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์ของเรา ที่ไม่มีความสามารถ [เมื่อโจมตี] จำนวนไม่เกิน 1 ใบ, จะได้รับ  [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-001.png"
+            },
+            {
+                "id": "EB03-001_p1",
+                "number": "EB03-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Nefeltari Vivi",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์ของฝ่ายเรา ที่คอสต์ตั้งต้น 4 หรือสูงกว่า กำลังจะถูก KO, จะสามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ แทนได้. [สั่งใช้ : เมน] สามารถ เรสต์ ลีดเดอร์นี้ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -2000. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์ของเรา ที่ไม่มีความสามารถ [เมื่อโจมตี] จำนวนไม่เกิน 1 ใบ, จะได้รับ  [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-001_p1.png"
+            },
+            {
+                "id": "EB03-002",
+                "number": "EB03-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ain",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มทหารเรือ NEO"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-002.png"
+            },
+            {
+                "id": "EB03-003",
+                "number": "EB03-003",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Uta",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา คือ [Uta] ละก็, จะจั่วการ์ด จำนวน 2 ใบ. จากนั้น, จะนำคาแรกเตอร์การ์ด ที่พาวเวอร์ 6000 หรือต่ำกว่า และไม่มีความสามารถดั้งเดิม จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-003.png"
+            },
+            {
+                "id": "EB03-003_p1",
+                "number": "EB03-003",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Uta",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา คือ [Uta] ละก็, จะจั่วการ์ด จำนวน 2 ใบ. จากนั้น, จะนำคาแรกเตอร์การ์ด ที่พาวเวอร์ 6000 หรือต่ำกว่า และไม่มีความสามารถดั้งเดิม จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-003_p1.png"
+            },
+            {
+                "id": "EB03-004",
+                "number": "EB03-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Carina",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "FILM",
+                    "แกรนด์ • เตโซโร"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เทิร์นของคู่แข่ง] ถ้าลีดเดอร์ของฝ่ายเรา มีหลายสี, และไม่มี คาแรกเตอร์ของฝ่ายเรา ที่พาวเวอร์ตั้งต้น 6000 หรือสูงกว่า อยู่เลยละก็, คาแรกเตอร์นี้ จะพาวเวอร์ +4000.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-004.png"
+            },
+            {
+                "id": "EB03-005",
+                "number": "EB03-005",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Sugar",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา คือ [Sugar] ละก็, จะนำคาแรกเตอร์การ์ด ที่พาวเวอร์ 6000 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม ในสภาพเรสต์.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-005.png"
+            },
+            {
+                "id": "EB03-006",
+                "number": "EB03-006",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] สามารถทำให้ ลีดเดอร์ของเรา ที่กำลังแอ็คทีฟอยู่, ในเทิร์นนี้ จะพาวเวอร์ -5000 : จั่วการ์ด จำนวน 1 ใบ. [สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < ราชอาณาจักรอลาบาสต้า > ละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -1000.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-006.png"
+            },
+            {
+                "id": "EB03-007",
+                "number": "EB03-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Baccarat",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "FILM",
+                    "แกรนด์ • เตโซโร"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO] จะนำคาแรกเตอร์การ์ด ที่พาวเวอร์ 6000 หรือต่ำกว่า และไม่มีความสามารถดั้งเดิม จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-007.png"
+            },
+            {
+                "id": "EB03-008",
+                "number": "EB03-008",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Hibari",
+                "cost": "3",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ในเทิร์นนี้, ทำให้ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, ที่มีคุณสมบัติ < SWORD >, จะสามารถโจมตีใส่คาแรกเตอร์ของคู่แข่งที่กำลังแอ็คทีฟอยู่ได้ด้วย. [สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -1000.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-008.png"
+            },
+            {
+                "id": "EB03-008_p1",
+                "number": "EB03-008",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Hibari",
+                "cost": "3",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ในเทิร์นนี้, ทำให้ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, ที่มีคุณสมบัติ < SWORD >, จะสามารถโจมตีใส่คาแรกเตอร์ของคู่แข่งที่กำลังแอ็คทีฟอยู่ได้ด้วย. [สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -1000.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-008_p1.png"
+            },
+            {
+                "id": "EB03-009",
+                "number": "EB03-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Makino",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "หมู่บ้านฟูชา"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ในเทิร์นนี้, คาแรกเตอร์ของเรา ที่แต่เดิมไม่มีความสามารถ จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +2000.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-009.png"
+            },
+            {
+                "id": "EB03-010",
+                "number": "EB03-010",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Monet",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พังค์ฮาซาร์ด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ดูการ์ดจากบนเด็คของเรา จำนวน 5 ใบ, และนำคาแรกเตอร์การ์ด ที่พาวเวอร์ 1000 หรือต่ำกว่า หรือว่า อีเวนต์ จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-010.png"
+            },
+            {
+                "id": "EB03-011",
+                "number": "EB03-011",
+                "type": "C",
+                "class": "EVENT",
+                "name": "But If We Ever See Each Other Again... Will You Call Me Your Shipmate?!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ -2000.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "4",
+                "effect": "[เคาน์เตอร์] ถ้าลีดเดอร์ของฝ่ายเรา คือ [Nefeltari Vivi] ละก็, ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +4000.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-011.png"
+            },
+            {
+                "id": "EB03-012",
+                "number": "EB03-012",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Otama",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : จะเรสต์ ด้ง!! หรือว่า คาแรกเตอร์ ของฝ่ายคู่แข่ง, ที่คอสต์ 3 หรือต่ำกว่า และมีคุณสมบัติ < สัตว์ > หรือ < SMILE > จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-012.png"
+            },
+            {
+                "id": "EB03-013",
+                "number": "EB03-013",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Carrot",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามิงค์"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์นี้ ถูกนำลงสนามในเทิร์นนี้ละก็, จะ KO คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 5 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่ จำนวนไม่เกิน 1 ใบ. จากนั้น, จะนำ [Zou] จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-013.png"
+            },
+            {
+                "id": "EB03-013_p1",
+                "number": "EB03-013",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Carrot",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามิงค์"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์นี้ ถูกนำลงสนามในเทิร์นนี้ละก็, จะ KO คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 5 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่ จำนวนไม่เกิน 1 ใบ. จากนั้น, จะนำ [Zou] จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-013_p1.png"
+            },
+            {
+                "id": "EB03-014",
+                "number": "EB03-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kuina",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "หมู่บ้านชิโมสึกิ"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 2 ใบ, ใส่ให้ ลีดเดอร์ของเรา ที่มีคุณลักษณะ (ฟัน).",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-014.png"
+            },
+            {
+                "id": "EB03-015",
+                "number": "EB03-015",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Camie",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา ที่มีคุณสมบัติ < เผ่ามนุษย์เงือก > หรือ < เผ่าเงือก > จำนวน 1 ใบ. จากนั้น, จะเรสต์ คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-015.png"
+            },
+            {
+                "id": "EB03-016",
+                "number": "EB03-016",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kouzuki Hiyori",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "ตระกูลโคสึกิ"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา คือ [Kouzuki Oden] ละก็, จะจั่วการ์ด จำนวน 1 ใบ. [สั่งใช้ : เมน] สามารถนำ คาแรกเตอร์นี้ ไปวางที่แทรช : นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้ ลีดเดอร์ของฝ่ายเรา ที่มีคุณสมบัติ < วาโนะคุนิ >.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-016.png"
+            },
+            {
+                "id": "EB03-017",
+                "number": "EB03-017",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Jewelry Bonney",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดบอนนี่"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < ซูเปอร์โนวา > ละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, แอ็คทีฟ. จากนั้น, ทำให้คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 8 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะไม่สามารถถูก เรสต์, จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-017.png"
+            },
+            {
+                "id": "EB03-018",
+                "number": "EB03-018",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Tashigi",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของคู่แข่ง] คาแรกเตอร์นี้จะไม่ถูก KO จากความสามารถของฝ่ายคู่แข่ง, และจะได้รับ [บล็อกเกอร์]. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้). [เมื่อจบเทิร์นของเรา] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ, และทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : จะแอ็คทีฟ คาแรกเตอร์นี้.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-018.png"
+            },
+            {
+                "id": "EB03-018_p1",
+                "number": "EB03-018",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Tashigi",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของคู่แข่ง] คาแรกเตอร์นี้จะไม่ถูก KO จากความสามารถของฝ่ายคู่แข่ง, และจะได้รับ [บล็อกเกอร์]. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้). [เมื่อจบเทิร์นของเรา] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ, และทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : จะแอ็คทีฟ คาแรกเตอร์นี้.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-018_p1.png"
+            },
+            {
+                "id": "EB03-019",
+                "number": "EB03-019",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Wanda",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามิงค์"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-019.png"
+            },
+            {
+                "id": "EB03-020",
+                "number": "EB03-020",
+                "type": "C",
+                "class": "EVENT",
+                "name": "There You Are, Sore Loser!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จะแอ็คทีฟ คาแรกเตอร์ของเรา จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "4",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +2000. จากนั้น, การ์ดดังกล่าว จะพาวเวอร์เพิ่มขึ้นอีก +2000, ถ้าเรามีคาแรกเตอร์ ที่มีคุณสมบัติ < FILM > จำนวน 2 ใบ หรือมากกว่า อยู่ด้วย.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-020.png"
+            },
+            {
+                "id": "EB03-021",
+                "number": "EB03-021",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Alvida",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ครอสกิลด์"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : จะนำคาแรกเตอร์ของฝ่ายคู่แข่ง, ที่พาวเวอร์ตั้งต้น 4000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ กับ ที่คอสต์ตั้งต้น 3 หรือต่ำกว่า อีกจำนวนไม่เกิน 1 ใบ, ไปวางที่ใต้เด็คของเจ้าของ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-021.png"
+            },
+            {
+                "id": "EB03-022",
+                "number": "EB03-022",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Isuka",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] จะนำคาแรกเตอร์ของใครก็ตาม ที่คอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่ใต้เด็คของเจ้าของ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-022.png"
+            },
+            {
+                "id": "EB03-023",
+                "number": "EB03-023",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kaya",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากบนเด็คของเรา จำนวน 5 ใบ, และนำมาเรียงในลำดับใดก็ได้, แล้วค่อยนำไปวางที่บนเด็ค หรือ ใต้เด็ค.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-023.png"
+            },
+            {
+                "id": "EB03-024",
+                "number": "EB03-024",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nefeltari Vivi",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 5 หรือต่ำกว่า, และมีคุณสมบัติ < กลุ่มหมวกฟาง > หรือ < ราชอาณาจักรอลาบาสต้า > จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, เราจะไม่สามารถนำ คาแรกเตอร์การ์ด ลงสนามอีก ในเทิร์นนี้.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-024.png"
+            },
+            {
+                "id": "EB03-024_p1",
+                "number": "EB03-024",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nefeltari Vivi",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 5 หรือต่ำกว่า, และมีคุณสมบัติ < กลุ่มหมวกฟาง > หรือ < ราชอาณาจักรอลาบาสต้า > จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, เราจะไม่สามารถนำ คาแรกเตอร์การ์ด ลงสนามอีก ในเทิร์นนี้.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-024_p1.png"
+            },
+            {
+                "id": "EB03-025",
+                "number": "EB03-025",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Hina",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : จะนำคาแรกเตอร์ของใครก็ตาม ที่พาวเวอร์ตั้งต้น 6000 จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-025.png"
+            },
+            {
+                "id": "EB03-025_p1",
+                "number": "EB03-025",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Hina",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : จะนำคาแรกเตอร์ของใครก็ตาม ที่พาวเวอร์ตั้งต้น 6000 จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-025_p1.png"
+            },
+            {
+                "id": "EB03-026",
+                "number": "EB03-026",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Boa Hancock",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าคู่แข่งมีการ์ดในมืออยู่ จำนวน 5 ใบ หรือมากกว่าละก็, คู่แข่งจะต้องนำการ์ดในมือของตัวเอง จำนวน 1 ใบ ไปวางที่ใต้เด็ค. [สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] สามารถนำ คาแรกเตอร์ของเรา จำนวน 1 ใบ ไปวางที่ใต้เด็คของเจ้าของ : นำ ด้ง!! ที่เรสต์อยู่ ใส่ให้ ลีดเดอร์ของฝ่ายเรา กับ คาแรกเตอร์ของเรา อีกจำนวน 1 ใบ, อย่างละ จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-026.png"
+            },
+            {
+                "id": "EB03-026_p1",
+                "number": "EB03-026",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Boa Hancock",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าคู่แข่งมีการ์ดในมืออยู่ จำนวน 5 ใบ หรือมากกว่าละก็, คู่แข่งจะต้องนำการ์ดในมือของตัวเอง จำนวน 1 ใบ ไปวางที่ใต้เด็ค. [สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] สามารถนำ คาแรกเตอร์ของเรา จำนวน 1 ใบ ไปวางที่ใต้เด็คของเจ้าของ : นำ ด้ง!! ที่เรสต์อยู่ ใส่ให้ ลีดเดอร์ของฝ่ายเรา กับ คาแรกเตอร์ของเรา อีกจำนวน 1 ใบ, อย่างละ จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-026_p1.png"
+            },
+            {
+                "id": "EB03-027",
+                "number": "EB03-027",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Marguerite",
+                "cost": "6",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อมาซอน • ลิลี่"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะนำคาแรกเตอร์ของใครก็ตาม ที่พาวเวอร์ตั้งต้น 7000 จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-027.png"
+            },
+            {
+                "id": "EB03-028",
+                "number": "EB03-028",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Yu",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะทิ้งการ์ดในมือของเรา จำนวน 1 ใบ. [สั่งใช้ : เมน] สามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช : ถ้าเรามีการ์ดในมืออยู่ จำนวน 4 ใบ หรือน้อยกว่าละก็, จั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-028.png"
+            },
+            {
+                "id": "EB03-029",
+                "number": "EB03-029",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Insolent Fool!! Stand Down!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 4 ใบ : ถ้าลีดเดอร์ของฝ่ายเรา คือ [Boa Hancock ละก็, จะนำคาแรกเตอร์การ์ด ที่คอสต์ 6 หรือต่ำกว่า, และมีคุณสมบัติ < อมาซอน • ลิลี่ > หรือ < กลุ่มโจรสลัดคุจา > จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. [เคาน์เตอร์] ในแบทเทิลนี้, [Boa Hancock] ของฝ่ายเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +3000.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-029.png"
+            },
+            {
+                "id": "EB03-030",
+                "number": "EB03-030",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Viola",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-030.png"
+            },
+            {
+                "id": "EB03-031",
+                "number": "EB03-031",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Vinsmoke Reiju",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค",
+                    "เจอร์ม่า 66"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] [เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของฝ่ายเรา คือ [Sanji] ละก็, จะใช้งานความสามารถ [เมน] ของอีเวนต์ ที่คอสต์ 7 หรือต่ำกว่า, ซึ่งอยู่ในแทรชของเรา จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-031.png"
+            },
+            {
+                "id": "EB03-031_p1",
+                "number": "EB03-031",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Vinsmoke Reiju",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค",
+                    "เจอร์ม่า 66"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] [เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของฝ่ายเรา คือ [Sanji] ละก็, จะใช้งานความสามารถ [เมน] ของอีเวนต์ ที่คอสต์ 7 หรือต่ำกว่า, ซึ่งอยู่ในแทรชของเรา จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-031_p1.png"
+            },
+            {
+                "id": "EB03-032",
+                "number": "EB03-032",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Charlotte Flampe",
+                "cost": "1",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] [เมื่อลงสนาม] ในเทิร์นนี้, [Charlotte Katakuri] ของฝ่ายเรา จำนวนไม่เกิน 1 ใบ, จะพาวเวอร์ +2000.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-032.png"
+            },
+            {
+                "id": "EB03-033",
+                "number": "EB03-033",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Charlotte Brulee",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของคู่แข่ง] [เทิร์นละ 1 ครั้ง] เมื่อ ด้ง!! ในสนามของเรา ถูกนำกลับด้ง!! เด็ค จากความสามารถของฝ่ายเรา, ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม > ละก็, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-033.png"
+            },
+            {
+                "id": "EB03-034",
+                "number": "EB03-034",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Linlin",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดร็อคส์"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จั่วการ์ด จำนวน 1 ใบ, แล้วนำการ์ดในมือของเรา จำนวน 1 ใบ ไปวางที่บนเด็ค. จากนั้น, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ. [เมื่อถูก KO] ด้ง!! - 1 [สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ] : จะนำการ์ดจากบนสุดของ เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-034.png"
+            },
+            {
+                "id": "EB03-034_p1",
+                "number": "EB03-034",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Linlin",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดร็อคส์"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จั่วการ์ด จำนวน 1 ใบ, แล้วนำการ์ดในมือของเรา จำนวน 1 ใบ ไปวางที่บนเด็ค. จากนั้น, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ. [เมื่อถูก KO] ด้ง!! - 1 [สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ] : จะนำการ์ดจากบนสุดของ เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-034_p1.png"
+            },
+            {
+                "id": "EB03-035",
+                "number": "EB03-035",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Pudding",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้า ด้ง!! ที่อยู่ในสนามของเรา มีจำนวนไม่มากไปกว่า ด้ง!! ที่อยู่ในสนามของคู่แข่งละก็, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-035.png"
+            },
+            {
+                "id": "EB03-036",
+                "number": "EB03-036",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Baby 5",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : จะ KO คาแรกเตอร์ของคู่แข่ง ที่คอสต์ตั้งต้น 3 หรือต่ำกว่า, จำนวนไม่เกิน 2 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-036.png"
+            },
+            {
+                "id": "EB03-037",
+                "number": "EB03-037",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Lim",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "ODYSSEY"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าในสนามของเรามี ด้ง!! จำนวน 7 ใบ หรือมากกว่าละก็, ลีดเดอร์ กับ คาแรกเตอร์ ของฝ่ายเรา ทั้งหมด ที่มีคุณสมบัติ < ODYSSEY >, จะพาวเวอร์ +1000 จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-037.png"
+            },
+            {
+                "id": "EB03-038",
+                "number": "EB03-038",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Thanks for the Treat. ♡",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค",
+                    "เจอร์ม่า 66"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ : ถ้า ด้ง!! ที่อยู่ในสนามของเรา มีจำนวนไม่มากไปกว่า ด้ง!! ที่อยู่ในสนามของคู่แข่ง, และคาแรกเตอร์ของฝ่ายเรา มีแต่ที่ระบุคำว่า [เจอร์ม่า] อยู่ในคุณสมบัติ เท่านั้น ละก็, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 2 ใบ, มาวางเพิ่มแบบ เรสต์. [เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ของเรา จะพาวเวอร์ +3000.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-038.png"
+            },
+            {
+                "id": "EB03-039",
+                "number": "EB03-039",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Ulti",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดร้อยอสูร"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดร้อยอสูร > ละก็, จะจั่วการ์ด จำนวน 1 ใบ, และทิ้งการ์ดในมือของเรา จำนวน 1 ใบ. จากนั้น, จะนำคาแรกเตอร์การ์ด ที่พาวเวอร์ 6000 หรือต่ำกว่า และไม่มีความสามารถดั้งเดิม จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-039.png"
+            },
+            {
+                "id": "EB03-040",
+                "number": "EB03-040",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kalifa",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "4",
+                "effect": "-",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-040.png"
+            },
+            {
+                "id": "EB03-041",
+                "number": "EB03-041",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kujyaku",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของคู่แข่ง] คาแรกเตอร์ของฝ่ายเรา ทั้งหมด ที่คอสต์ 6 หรือต่ำกว่า และมีคุณสมบัติ < SWORD >, จะพาวเวอร์ +2000. [เมื่อลงสนาม] สามารถทิ้งการ์ด ที่มีคุณสมบัติ < กองทัพเรือ > จากในมือของเรา จำนวน 1 ใบ : จั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-041.png"
+            },
+            {
+                "id": "EB03-041_p1",
+                "number": "EB03-041",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kujyaku",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "SWORD"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของคู่แข่ง] คาแรกเตอร์ของฝ่ายเรา ทั้งหมด ที่คอสต์ 6 หรือต่ำกว่า และมีคุณสมบัติ < SWORD >, จะพาวเวอร์ +2000. [เมื่อลงสนาม] สามารถทิ้งการ์ด ที่มีคุณสมบัติ < กองทัพเรือ > จากในมือของเรา จำนวน 1 ใบ : จั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-041_p1.png"
+            },
+            {
+                "id": "EB03-042",
+                "number": "EB03-042",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Koala",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "4",
+                "effect": "ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กองทัพปฏิวัติ > ละก็, คาแรกเตอร์นี้ จะคอสต์ +4. [เทิร์นของคู่แข่ง] [เมื่อถูก KO] จะนำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < กองทัพปฏิวัติ > นอกเหนือจาก [Koala], หรือว่า [Nico Robin], ที่คอสต์ 6 หรือต่ำกว่า จากในมือ หรือ แทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-042.png"
+            },
+            {
+                "id": "EB03-042_p1",
+                "number": "EB03-042",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Koala",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "4",
+                "effect": "ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กองทัพปฏิวัติ > ละก็, คาแรกเตอร์นี้ จะคอสต์ +4. [เทิร์นของคู่แข่ง] [เมื่อถูก KO] จะนำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < กองทัพปฏิวัติ > นอกเหนือจาก [Koala], หรือว่า [Nico Robin], ที่คอสต์ 6 หรือต่ำกว่า จากในมือ หรือ แทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-042_p1.png"
+            },
+            {
+                "id": "EB03-043",
+                "number": "EB03-043",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Stussy",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] สามารถนำการ์ด ที่ระบุคำว่า [CP] อยู่ในคุณสมบัติ จากในแทรชของเรา จำนวน 2 ใบ ไปวางที่ใต้เด็ค ในลำดับใดก็ได้ : จะ KO คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-043.png"
+            },
+            {
+                "id": "EB03-044",
+                "number": "EB03-044",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Black Maria",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดร้อยอสูร"
+                ],
+                "block_icon": "4",
+                "effect": "ถ้าลีดเดอร์ของฝ่ายเรา มีหลายสี ละก็, คาแรกเตอร์นี้ จะได้รับ [บล็อกเกอร์]. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ดูการ์ดจากบนเด็คของเรา จำนวน 5 ใบ, และนำ [Onigashima Island] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้, และนำ [Onigashima Island] จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-044.png"
+            },
+            {
+                "id": "EB03-045",
+                "number": "EB03-045",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Perona",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "ราชอาณาจักรชิคเคะอารุ",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] จะนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ. จากนั้น, ถ้าในแทรชของเรามีการ์ดอยู่ จำนวน 10 ใบ หรือมากกว่าละก็, จะนำคาแรกเตอร์การ์ด ที่คอสต์ 2 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม ในสภาพเรสต์.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-045.png"
+            },
+            {
+                "id": "EB03-045_p1",
+                "number": "EB03-045",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Perona",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "ราชอาณาจักรชิคเคะอารุ",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] จะนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ. จากนั้น, ถ้าในแทรชของเรามีการ์ดอยู่ จำนวน 10 ใบ หรือมากกว่าละก็, จะนำคาแรกเตอร์การ์ด ที่คอสต์ 2 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม ในสภาพเรสต์.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-045_p1.png"
+            },
+            {
+                "id": "EB03-046",
+                "number": "EB03-046",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Miss Doublefinger(Zala)",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้ามีคาแรกเตอร์ของใครก็ตาม ที่คอสต์ 0 หรือว่า ที่คอสต์ 8 หรือสูงกว่า อยู่ด้วยละก็, จะจั่วการ์ด จำนวน 1 ใบ. [เมื่อถูก KO] นำการ์ดจากบนเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-046.png"
+            },
+            {
+                "id": "EB03-047",
+                "number": "EB03-047",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Miss.Valentine(Mikita)",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] นำการ์ดจากบนเด็คของเรา จำนวน 3 ใบ ไปวางที่แทรช. [เมื่อถูก KO] จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-047.png"
+            },
+            {
+                "id": "EB03-048",
+                "number": "EB03-048",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Rebecca",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ดูการ์ดจากบนเด็คของเรา จำนวน 5 ใบ, และนำสเตจการ์ด ที่มีคุณสมบัติ < เดรสโรซ่า > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้, และนำสเตจการ์ด ที่คอสต์ 1 และมีคุณสมบัติ < เดรสโรซ่า > จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-048.png"
+            },
+            {
+                "id": "EB03-049",
+                "number": "EB03-049",
+                "type": "C",
+                "class": "EVENT",
+                "name": "I Knew You People Were Behind This.",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 7 ใบ : ถ้าลีดเดอร์ของฝ่ายเรา คือ [Perona] ละก็, จะนำคาแรกเตอร์การ์ด ที่คอสต์ 6 หรือต่ำกว่า กับ ที่คอสต์ 4 หรือต่ำกว่า, และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จำนวนอย่างละไม่เกิน 1 ใบ จากในมือ หรือ แทรชของเรา, ลงสนาม. [เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ของเรา จะพาวเวอร์ +3000.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-049.png"
+            },
+            {
+                "id": "EB03-050",
+                "number": "EB03-050",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Conis",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เกาะแห่งท้องฟ้า"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ในเทิร์นนี้, คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < เกาะแห่งท้องฟ้า > จำนวนไม่เกิน 1 ใบ, จะได้รับ [ดับเบิ้ลแอทแทค]. (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย)",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-050.png"
+            },
+            {
+                "id": "EB03-051",
+                "number": "EB03-051",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Charlotte Smoothie",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าไลฟ์ของเรา มีการ์ดที่หงายอยู่ละก็, จะ KO คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. จากนั้น, ทำให้ ไลฟ์ของเรา ทั้งหมด เปลี่ยนเป็นคว่ำ",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-051.png"
+            },
+            {
+                "id": "EB03-052",
+                "number": "EB03-052",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Shirahoshi",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "เกาะมนุษย์เงือก"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] สามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช : ถ้าลีดเดอร์ของฝ่ายเรา คือ [Shirahoshi] ละก็, จะนำการ์ดจากบนสุดของ เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์ของฝ่ายเรา ทั้งหมด ที่มีคุณสมบัติ < เจ้าทะเล >, จะพาวเวอร์ +1000.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-052.png"
+            },
+            {
+                "id": "EB03-053",
+                "number": "EB03-053",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้ ลีดเดอร์ของฝ่ายเรา. จากนั้น, ถ้าไลฟ์ของคู่แข่งมี จำนวน 3 ใบ หรือมากกว่าละก็, จะนำการ์ดจากบนสุดของ ไลฟ์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ขึ้นมือของเจ้าของ. [เมื่อถูก KO] สามารถหงายการ์ดจากบนสุดของ ไลฟ์ของเรา จำนวน 1 ใบ : นำคาแรกเตอร์การ์ด ที่พาวเวอร์ 6000 หรือต่ำกว่า จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-053.png"
+            },
+            {
+                "id": "EB03-053_p1",
+                "number": "EB03-053",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้ ลีดเดอร์ของฝ่ายเรา. จากนั้น, ถ้าไลฟ์ของคู่แข่งมี จำนวน 3 ใบ หรือมากกว่าละก็, จะนำการ์ดจากบนสุดของ ไลฟ์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ขึ้นมือของเจ้าของ. [เมื่อถูก KO] สามารถหงายการ์ดจากบนสุดของ ไลฟ์ของเรา จำนวน 1 ใบ : นำคาแรกเตอร์การ์ด ที่พาวเวอร์ 6000 หรือต่ำกว่า จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-053_p1.png"
+            },
+            {
+                "id": "EB03-054",
+                "number": "EB03-054",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : นำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] สามารถนำการ์ดจากบนสุดของ ไลฟ์ของเรา จำนวน 1 ใบ ไปวางที่แทรช : นำการ์ดจากบนสุดของ เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-054.png"
+            },
+            {
+                "id": "EB03-055",
+                "number": "EB03-055",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "7",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] สามารถนำการ์ดจากบนสุดของ ไลฟ์ของเรา จำนวน 1 ใบ ไปวางที่แทรช : ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มหมวกฟาง > ละก็, จะนำการ์ดจากบนสุดของ เด็คของเรา จำนวนไม่เกิน 2 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์. [เทิร์นของคู่แข่ง] [เมื่อถูก KO] จะสามารถทำ ดาเมจ 1 หน่วย ใส่คู่แข่งก็ได้.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-055.png"
+            },
+            {
+                "id": "EB03-055_p1",
+                "number": "EB03-055",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "7",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] สามารถนำการ์ดจากบนสุดของ ไลฟ์ของเรา จำนวน 1 ใบ ไปวางที่แทรช : ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มหมวกฟาง > ละก็, จะนำการ์ดจากบนสุดของ เด็คของเรา จำนวนไม่เกิน 2 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์. [เทิร์นของคู่แข่ง] [เมื่อถูก KO] จะสามารถทำ ดาเมจ 1 หน่วย ใส่คู่แข่งก็ได้.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-055_p1.png"
+            },
+            {
+                "id": "EB03-056",
+                "number": "EB03-056",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Belo Betty",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] สามารถหงายการ์ดจากบนสุดของ ไลฟ์ของเรา จำนวน 1 ใบ : จะ KO คาแรกเตอร์ของคู่แข่ง ที่คอสต์ตั้งต้น 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-056.png"
+            },
+            {
+                "id": "EB03-057",
+                "number": "EB03-057",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Yamato",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 3 ใบ, ใส่ให้ ลีดเดอร์ของฝ่ายเรา ที่มีคุณสมบัติ < วาโนะคุนิ >. [เมื่อถูก KO] จะนำการ์ดจากบนสุดของ ไลฟ์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-057.png"
+            },
+            {
+                "id": "EB03-057_p1",
+                "number": "EB03-057",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Yamato",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 3 ใบ, ใส่ให้ ลีดเดอร์ของฝ่ายเรา ที่มีคุณสมบัติ < วาโนะคุนิ >. [เมื่อถูก KO] จะนำการ์ดจากบนสุดของ ไลฟ์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-057_p1.png"
+            },
+            {
+                "id": "EB03-058",
+                "number": "EB03-058",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Lilith",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของฝ่ายเรา คือ [Vegapunk] ละก็, จะนำการ์ดใบนี้ลงสนาม.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เอ็กเฮด",
+                    "นักวิทยาศาสตร์"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] [เมื่อลงสนาม] ถ้าไลฟ์ของเรามี จำนวน 2 ใบ หรือน้อยกว่าละก็, จะจั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-058.png"
+            },
+            {
+                "id": "EB03-059",
+                "number": "EB03-059",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "S-Snake",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] ทำให้ คาแรกเตอร์ของคู่แข่ง ที่คอสต์ 6 หรือต่ำกว่า นอกเหนือจาก [Monkey.D.Luffy] จำนวนไม่เกิน 1 ใบ, จะไม่สามารถโจมตี ในเทิร์นนี้.",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เซราฟิม",
+                    "เอ็กเฮด"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < เอ็กเฮด >, และไลฟ์ของเรามี จำนวน 2 ใบ หรือมากกว่าละก็, จะนำคาแรกเตอร์การ์ด ที่มี [ทริกเกอร์] จากในมือของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์ ในสภาพหงาย.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-059.png"
+            },
+            {
+                "id": "EB03-060",
+                "number": "EB03-060",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Will You Be My Servant?",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมน] ถ้าลีดเดอร์ของฝ่ายเรา คือ [Nami] ละก็, ดูการ์ดจากบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่คอสต์ตั้งแต่ 2 จนถึง 8 จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่ใต้เด็ค ในลำดับใดก็ได้. [เคาน์เตอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-060.png"
+            },
+            {
+                "id": "EB03-061",
+                "number": "EB03-061",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Uta",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, แอ็คทีฟ. จากนั้น, จะเรสต์ ด้ง!! หรือว่า คาแรกเตอร์ ที่คอสต์ 4 หรือต่ำกว่า ของฝ่ายคู่แข่ง, จำนวนไม่เกิน 1 ใบ. [เมื่อจบเทิร์นของเรา] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ : ทำให้ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < FILM > จำนวนไม่เกิน 1 ใบ, แอ็คทีฟ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-061.png"
+            },
+            {
+                "id": "EB03-061_p1",
+                "number": "EB03-061",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Uta",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, แอ็คทีฟ. จากนั้น, จะเรสต์ ด้ง!! หรือว่า คาแรกเตอร์ ที่คอสต์ 4 หรือต่ำกว่า ของฝ่ายคู่แข่ง, จำนวนไม่เกิน 1 ใบ. [เมื่อจบเทิร์นของเรา] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ : ทำให้ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < FILM > จำนวนไม่เกิน 1 ใบ, แอ็คทีฟ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-061_p1.png"
+            },
+            {
+                "id": "EB03-061_p2",
+                "number": "EB03-061",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Uta",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "4",
+                "effect": "[สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ, แอ็คทีฟ. จากนั้น, จะเรสต์ ด้ง!! หรือว่า คาแรกเตอร์ ที่คอสต์ 4 หรือต่ำกว่า ของฝ่ายคู่แข่ง, จำนวนไม่เกิน 1 ใบ. [เมื่อจบเทิร์นของเรา] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ : ทำให้ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < FILM > จำนวนไม่เกิน 1 ใบ, แอ็คทีฟ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-061_p2.png"
+            },
+            {
+                "id": "EB03-062",
+                "number": "EB03-062",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "8",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "4",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้). [สั่งใช้ : เมน] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ, และนำคาแรกเตอร์นี้ ไปวางที่แทรช : นำการ์ดจากที่อยู่บนสุดของ เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์. จากนั้น, จะนำ [Trafalgar Law] ที่คอสต์ 7 หรือต่ำกว่า จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-062.png"
+            },
+            {
+                "id": "EB03-062_p1",
+                "number": "EB03-062",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Trafalgar Law",
+                "cost": "8",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "4",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้). [สั่งใช้ : เมน] สามารถทิ้งการ์ดในมือของเรา จำนวน 1 ใบ, และนำคาแรกเตอร์นี้ ไปวางที่แทรช : นำการ์ดจากที่อยู่บนสุดของ เด็คของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์. จากนั้น, จะนำ [Trafalgar Law] ที่คอสต์ 7 หรือต่ำกว่า จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-062_p1.png"
+            },
+            {
+                "id": "EB03-003_p2",
+                "number": "EB03-003",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Uta",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "FILM"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของฝ่ายเรา คือ [Uta] ละก็, จะจั่วการ์ด จำนวน 2 ใบ. จากนั้น, จะนำคาแรกเตอร์การ์ด ที่พาวเวอร์ 6000 หรือต่ำกว่า และไม่มีความสามารถดั้งเดิม จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-003_p2.png"
+            },
+            {
+                "id": "EB03-018_p2",
+                "number": "EB03-018",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Tashigi",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของคู่แข่ง] คาแรกเตอร์นี้จะไม่ถูก KO จากความสามารถของฝ่ายคู่แข่ง, และจะได้รับ [บล็อกเกอร์]. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้). [เมื่อจบเทิร์นของเรา] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 1 ใบ, และทิ้งการ์ดในมือของเรา จำนวน 1 ใบ : จะแอ็คทีฟ คาแรกเตอร์นี้.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-018_p2.png"
+            },
+            {
+                "id": "EB03-024_p2",
+                "number": "EB03-024",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Nefeltari Vivi",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] จะนำคาแรกเตอร์การ์ด ที่คอสต์ 5 หรือต่ำกว่า, และมีคุณสมบัติ < กลุ่มหมวกฟาง > หรือ < ราชอาณาจักรอลาบาสต้า > จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, เราจะไม่สามารถนำ คาแรกเตอร์การ์ด ลงสนามอีก ในเทิร์นนี้.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-024_p2.png"
+            },
+            {
+                "id": "EB03-026_p2",
+                "number": "EB03-026",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Boa Hancock",
+                "cost": "6",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดคุจา"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] ถ้าคู่แข่งมีการ์ดในมืออยู่ จำนวน 5 ใบ หรือมากกว่าละก็, คู่แข่งจะต้องนำการ์ดในมือของตัวเอง จำนวน 1 ใบ ไปวางที่ใต้เด็ค. [สั่งใช้ : เมน] [เทิร์นละ 1 ครั้ง] สามารถนำ คาแรกเตอร์ของเรา จำนวน 1 ใบ ไปวางที่ใต้เด็คของเจ้าของ : นำ ด้ง!! ที่เรสต์อยู่ ใส่ให้ ลีดเดอร์ของฝ่ายเรา กับ คาแรกเตอร์ของเรา อีกจำนวน 1 ใบ, อย่างละ จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-026_p2.png"
+            },
+            {
+                "id": "EB03-031_p2",
+                "number": "EB03-031",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Vinsmoke Reiju",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค",
+                    "เจอร์ม่า 66"
+                ],
+                "block_icon": "4",
+                "effect": "[เทิร์นของเรา] [เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของฝ่ายเรา คือ [Sanji] ละก็, จะใช้งานความสามารถ [เมน] ของอีเวนต์ ที่คอสต์ 7 หรือต่ำกว่า, ซึ่งอยู่ในแทรชของเรา จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-031_p2.png"
+            },
+            {
+                "id": "EB03-042_p2",
+                "number": "EB03-042",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Koala",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า",
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "4",
+                "effect": "ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กองทัพปฏิวัติ > ละก็, คาแรกเตอร์นี้ จะคอสต์ +4. [เทิร์นของคู่แข่ง] [เมื่อถูก KO] จะนำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < กองทัพปฏิวัติ > นอกเหนือจาก [Koala], หรือว่า [Nico Robin], ที่คอสต์ 6 หรือต่ำกว่า จากในมือ หรือ แทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-042_p2.png"
+            },
+            {
+                "id": "EB03-045_p2",
+                "number": "EB03-045",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Perona",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "ราชอาณาจักรชิคเคะอารุ",
+                    "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+                ],
+                "block_icon": "4",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] จะนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ. จากนั้น, ถ้าในแทรชของเรามีการ์ดอยู่ จำนวน 10 ใบ หรือมากกว่าละก็, จะนำคาแรกเตอร์การ์ด ที่คอสต์ 2 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม ในสภาพเรสต์.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-045_p2.png"
+            },
+            {
+                "id": "EB03-053_p2",
+                "number": "EB03-053",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] จะนำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้ ลีดเดอร์ของฝ่ายเรา. จากนั้น, ถ้าไลฟ์ของคู่แข่งมี จำนวน 3 ใบ หรือมากกว่าละก็, จะนำการ์ดจากบนสุดของ ไลฟ์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ขึ้นมือของเจ้าของ. [เมื่อถูก KO] สามารถหงายการ์ดจากบนสุดของ ไลฟ์ของเรา จำนวน 1 ใบ : นำคาแรกเตอร์การ์ด ที่พาวเวอร์ 6000 หรือต่ำกว่า จากในมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-053_p2.png"
+            },
+            {
+                "id": "EB03-055_p2",
+                "number": "EB03-055",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Nico Robin",
+                "cost": "7",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "4",
+                "effect": "[เมื่อลงสนาม] สามารถนำการ์ดจากบนสุดของ ไลฟ์ของเรา จำนวน 1 ใบ ไปวางที่แทรช : ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มหมวกฟาง > ละก็, จะนำการ์ดจากบนสุดของ เด็คของเรา จำนวนไม่เกิน 2 ใบ, มาวางเพิ่มที่บนสุดของไลฟ์. [เทิร์นของคู่แข่ง] [เมื่อถูก KO] จะสามารถทำ ดาเมจ 1 หน่วย ใส่คู่แข่งก็ได้.",
+                "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB03-055_p2.png"
+            }
+        ]
+    }
+}

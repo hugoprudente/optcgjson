@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556001
+        "set": 556001,
+        "language": "en"
     },
     "data": {
         "code": "ST01",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/StrawHatCrewST01/ST01-001.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -39,7 +39,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Usopp",
-                "image_path": "images/StrawHatCrewST01/ST01-002.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -64,7 +63,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Karoo",
-                "image_path": "images/StrawHatCrewST01/ST01-003.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -90,7 +88,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/StrawHatCrewST01/ST01-004.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -105,7 +102,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x2] This Character gains [Rush].(This card can attack on the turn in which it is played.)",
+                "effect": "[DON!! x2] This Character gains [Rush]. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Straw Hat Crew- [ST-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-004.png"
             },
@@ -115,7 +112,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jinbe",
-                "image_path": "images/StrawHatCrewST01/ST01-005.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -141,7 +137,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/StrawHatCrewST01/ST01-006.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -167,7 +162,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/StrawHatCrewST01/ST01-007.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -192,7 +186,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/StrawHatCrewST01/ST01-008.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -217,7 +210,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Nefeltari Vivi",
-                "image_path": "images/StrawHatCrewST01/ST01-009.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -242,7 +234,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Franky",
-                "image_path": "images/StrawHatCrewST01/ST01-010.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -267,7 +258,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Brook",
-                "image_path": "images/StrawHatCrewST01/ST01-011.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -292,7 +282,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/StrawHatCrewST01/ST01-012.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -308,7 +297,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "1",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
                 "card_set": "-Straw Hat Crew- [ST-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png"
             },
@@ -318,7 +307,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/StrawHatCrewST01/ST01-013.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -344,11 +332,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Guard Point",
-                "image_path": "images/StrawHatCrewST01/ST01-014.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Your Leader or 1 of your Characters gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -370,11 +355,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Gum-Gum Jet Pistol",
-                "image_path": "images/StrawHatCrewST01/ST01-015.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -396,11 +378,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Diable Jambe",
-                "image_path": "images/StrawHatCrewST01/ST01-016.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. 1 of your opponent's [Blocker] Characters with a cost of 3 or less.",
                 "power": "-",
                 "counter": "-",
@@ -421,11 +400,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Thousand Sunny",
-                "image_path": "images/StrawHatCrewST01/ST01-017.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",

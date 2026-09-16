@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556002
+        "set": 556002,
+        "language": "en"
     },
     "data": {
         "code": "ST02",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/WorstGenerationST02/ST02-001.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Special"
                 ],
@@ -39,7 +39,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vito",
-                "image_path": "images/WorstGenerationST02/ST02-002.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -64,7 +63,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Urouge",
-                "image_path": "images/WorstGenerationST02/ST02-003.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -90,7 +88,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Capone\"Gang\"Bege",
-                "image_path": "images/WorstGenerationST02/ST02-004.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -116,7 +113,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Killer",
-                "image_path": "images/WorstGenerationST02/ST02-005.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -142,7 +138,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Koby",
-                "image_path": "images/WorstGenerationST02/ST02-006.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -167,7 +162,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/WorstGenerationST02/ST02-007.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -193,7 +187,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Scratchmen Apoo",
-                "image_path": "images/WorstGenerationST02/ST02-008.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -219,7 +212,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/WorstGenerationST02/ST02-009.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -245,7 +237,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Basil Hawkins",
-                "image_path": "images/WorstGenerationST02/ST02-010.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -271,7 +262,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Heat",
-                "image_path": "images/WorstGenerationST02/ST02-011.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -296,7 +286,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bepo",
-                "image_path": "images/WorstGenerationST02/ST02-012.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -322,7 +311,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/WorstGenerationST02/ST02-013.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -338,7 +326,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] [End of Your Turn] Set this card as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [End of Your Turn] Set this card as active.",
                 "card_set": "-Worst Generation- [ST-02]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-013.png"
             },
@@ -348,7 +336,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "X.Drake",
-                "image_path": "images/WorstGenerationST02/ST02-014.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -375,11 +362,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Scalpel",
-                "image_path": "images/WorstGenerationST02/ST02-015.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Set up to 2 of your DON!! cards as active.",
                 "power": "-",
                 "counter": "-",
@@ -401,11 +385,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Repel",
-                "image_path": "images/WorstGenerationST02/ST02-016.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -427,11 +408,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Straw Sword",
-                "image_path": "images/WorstGenerationST02/ST02-017.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Play 1 {Supernovas} type card with a cost of 2 or less from your hand.",
                 "power": "-",
                 "counter": "-",

@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556018
+        "set": 556018,
+        "language": "en"
     },
     "data": {
         "code": "ST18",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/PurpleMonkeyDLuffyST18/OP05-060_p3.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -38,7 +38,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Uso-Hachi",
-                "image_path": "images/PurpleMonkeyDLuffyST18/OP05-061_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -63,7 +62,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "O-Robi",
-                "image_path": "images/PurpleMonkeyDLuffyST18/OP05-063_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -88,7 +86,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jinbe",
-                "image_path": "images/PurpleMonkeyDLuffyST18/OP05-066_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -104,7 +101,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Opponent's Turn] If you have 10 DON!! cards on your field, this Character gains +1000 power.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] If you have 10 DON!! cards on your field, this Character gains +1000 power.",
                 "card_set": "-Purple Monkey.D.Luffy- [ST-18]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-066_r1.png"
             },
@@ -114,7 +111,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Zoro-Juurou",
-                "image_path": "images/PurpleMonkeyDLuffyST18/OP05-067_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -139,7 +135,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Chopa-Emon",
-                "image_path": "images/PurpleMonkeyDLuffyST18/OP05-068_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -165,7 +160,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Fra-Nosuke",
-                "image_path": "images/PurpleMonkeyDLuffyST18/OP05-070_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -180,7 +174,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[DON!! x1] If you have 8 or more DON!! cards on your field, this Character gains [Rush].(This card can attack on the turn in which it is played.)",
+                "effect": "[DON!! x1] If you have 8 or more DON!! cards on your field, this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Purple Monkey.D.Luffy- [ST-18]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-070_r1.png"
             },
@@ -190,7 +184,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Hone-Kichi",
-                "image_path": "images/PurpleMonkeyDLuffyST18/OP05-072_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -215,11 +208,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "When You're at Sea You Fight against Pirates!!",
-                "image_path": "images/PurpleMonkeyDLuffyST18/OP05-076_p1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -240,7 +230,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/PurpleMonkeyDLuffyST18/P-041_r1.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -266,7 +255,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Uso-Hachi",
-                "image_path": "images/PurpleMonkeyDLuffyST18/ST18-001.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -291,7 +279,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "O-Nami",
-                "image_path": "images/PurpleMonkeyDLuffyST18/ST18-002.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -306,7 +293,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] If you have 8 or more DON!! cards on your field, trash 1 card from your hand and draw 2 cards.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you have 8 or more DON!! cards on your field, trash 1 card from your hand and draw 2 cards.",
                 "card_set": "-Purple Monkey.D.Luffy- [ST-18]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST18-002.png"
             },
@@ -316,7 +303,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "San-Gorou",
-                "image_path": "images/PurpleMonkeyDLuffyST18/ST18-003.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -341,7 +327,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Zoro-Juurou",
-                "image_path": "images/PurpleMonkeyDLuffyST18/ST18-004.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -366,7 +351,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Luffy-Tarou",
-                "image_path": "images/PurpleMonkeyDLuffyST18/ST18-005.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"

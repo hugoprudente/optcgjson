@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556105
+        "set": 556105,
+        "language": "en"
     },
     "data": {
         "code": "OP05",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Sabo",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-001.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -39,8 +39,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Sabo (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-001_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -65,8 +64,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Belo Betty",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-002.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -91,8 +89,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Belo Betty (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-002_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -117,7 +114,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Inazuma",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-003.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -132,7 +128,7 @@
                     "Revolutionary Army"
                 ],
                 "block_icon": "2",
-                "effect": "If you have a Character with 7000 power or more other than this Character, this Character gains [Rush].(This card can attack on the turn in which it is played.)",
+                "effect": "If you have a Character with 7000 power or more other than this Character, this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-003.png"
             },
@@ -142,7 +138,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Emporio.Ivankov",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-004.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -167,7 +162,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Karasu",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-005.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -182,7 +176,7 @@
                     "Revolutionary Army"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] If your Leader has the {Revolutionary Army} type, give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.[When Attacking] If this Character has 7000 power or more, give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.",
+                "effect": "[On Play] If your Leader has the {Revolutionary Army} type, give up to 1 of your opponent's Leader or Character cards −1000 power during this turn. [When Attacking] If this Character has 7000 power or more, give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-005.png"
             },
@@ -192,7 +186,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Koala",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-006.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -217,7 +210,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Koala (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-006_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -242,7 +234,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sabo",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-007.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -267,7 +258,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sabo (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-007_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -292,7 +282,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Chaka",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-008.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -317,7 +306,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Toh-Toh",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-009.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -342,7 +330,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-010.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -367,7 +354,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bartholomew Kuma",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-011.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -393,7 +379,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Hack",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-012.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -419,7 +404,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bunny Joe",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-013.png",
                 "cost": "2",
                 "attribute": [
                     "Ranged"
@@ -444,7 +428,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Pell",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-014.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -469,7 +452,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Belo Betty",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-015.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -494,7 +476,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Belo Betty (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-015_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -519,7 +500,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Morley",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-016.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -545,7 +525,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Lindbergh",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-017.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -571,11 +550,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Emporio Energy Hormone",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-018.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Play up to 1 {Revolutionary Army} type Character card with 5000 power or less from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -596,11 +572,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Fire Fist",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-019.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -621,11 +594,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Four Thousand-Brick Fist",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-020.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -647,11 +617,8 @@
                 "type": "UC",
                 "class": "STAGE",
                 "name": "Revolutionary Army HQ",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-021.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -672,8 +639,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Donquixote Rosinante",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-022.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -689,7 +655,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-022.png"
             },
@@ -699,8 +665,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Donquixote Rosinante (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-022_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -716,7 +681,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [End of Your Turn] If you have 6 or less cards in your hand, set this Leader as active.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-022_p1.png"
             },
@@ -726,7 +691,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vergo",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-023.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -752,7 +716,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kuween",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-024.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -777,7 +740,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Gladius",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-025.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -802,7 +764,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sarquiss",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-026.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -827,7 +788,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-027.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -852,7 +812,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Donquixote Doflamingo",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-028.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -877,7 +836,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Donquixote Doflamingo",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-029.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -902,7 +860,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Donquixote Rosinante",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-030.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -918,7 +875,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Opponent's Turn] If your rested Character would be K.O.'d, you may trash this Character instead.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] If your rested Character would be K.O.'d, you may trash this Character instead.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-030.png"
             },
@@ -928,7 +885,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Buffalo",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-031.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -953,7 +909,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Pica",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-032.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -968,7 +923,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[End of Your Turn] ①: Set this Character as active.[Once Per Turn] If this Character would be K.O.'d, you may rest 1 of your Characters with a cost of 3 or more other than [Pica] instead.",
+                "effect": "[End of Your Turn] ①: Set this Character as active. [Once Per Turn] If this Character would be K.O.'d, you may rest 1 of your Characters with a cost of 3 or more other than [Pica] instead.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-032.png"
             },
@@ -978,7 +933,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Pica (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-032_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -993,7 +947,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[End of Your Turn] ①: Set this Character as active.[Once Per Turn] If this Character would be K.O.'d, you may rest 1 of your Characters with a cost of 3 or more other than [Pica] instead.",
+                "effect": "[End of Your Turn] ①: Set this Character as active. [Once Per Turn] If this Character would be K.O.'d, you may rest 1 of your Characters with a cost of 3 or more other than [Pica] instead.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-032_p1.png"
             },
@@ -1003,7 +957,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Baby 5",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-033.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -1028,7 +981,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Baby 5",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-034.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -1053,7 +1005,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Baby 5 (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-034_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -1078,7 +1029,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Bellamy",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-035.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1103,7 +1053,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Monet",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-036.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -1118,7 +1067,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-036.png"
             },
@@ -1128,11 +1077,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Because the Side of Justice Will Be Whichever Side Wins!!",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-037.png",
                 "cost": "-",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -1153,11 +1099,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Charlestone",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-038.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Rest up to 1 of your opponent's Leader or Character cards with a cost of 3 or less.",
                 "power": "-",
                 "counter": "-",
@@ -1178,11 +1121,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Stick-Stickem Meteora",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-039.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.",
                 "power": "-",
                 "counter": "-",
@@ -1203,11 +1143,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Birdcage",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-040.png",
                 "cost": "5",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1218,7 +1155,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "If your Leader is [Donquixote Doflamingo], all Characters with a cost of 5 or less do not become active in your and your opponent's Refresh Phases.[End of Your Turn] If you have 10 DON!! cards on your field, K.O. all rested Characters with a cost of 5 or less. Then, trash this Stage.",
+                "effect": "If your Leader is [Donquixote Doflamingo], all Characters with a cost of 5 or less do not become active in your and your opponent's Refresh Phases. [End of Your Turn] If you have 10 DON!! cards on your field, K.O. all rested Characters with a cost of 5 or less. Then, trash this Stage.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-040.png"
             },
@@ -1228,8 +1165,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Sakazuki",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-041.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -1244,7 +1180,7 @@
                     "Navy"
                 ],
                 "block_icon": "2",
-                "effect": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Draw 1 card.[When Attacking] Give up to 1 of your opponent's Characters −1 cost during this turn.",
+                "effect": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Draw 1 card. [When Attacking] Give up to 1 of your opponent's Characters −1 cost during this turn.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-041.png"
             },
@@ -1254,8 +1190,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Sakazuki (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-041_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -1270,7 +1205,7 @@
                     "Navy"
                 ],
                 "block_icon": "2",
-                "effect": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Draw 1 card.[When Attacking] Give up to 1 of your opponent's Characters −1 cost during this turn.",
+                "effect": "[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Draw 1 card. [When Attacking] Give up to 1 of your opponent's Characters −1 cost during this turn.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-041_p1.png"
             },
@@ -1280,7 +1215,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Issho",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-042.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -1305,7 +1239,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Ulti",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-043.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1330,7 +1263,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Ulti (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-043_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1355,7 +1287,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "John Giant",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-044.png",
                 "cost": "8",
                 "attribute": [
                     "Slash"
@@ -1381,7 +1312,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Stainless",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-045.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1406,7 +1336,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Dalmatian",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-046.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1431,7 +1360,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Basil Hawkins",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-047.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1447,7 +1375,7 @@
                     "Hawkins Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Block] Draw 1 card if you have 3 or less cards in your hand. Then, this Character gains +1000 power during this battle.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] Draw 1 card if you have 3 or less cards in your hand. Then, this Character gains +1000 power during this battle.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-047.png"
             },
@@ -1457,7 +1385,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Bastille",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-048.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1482,7 +1409,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Haccha",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-049.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -1508,7 +1434,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Hina",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-050.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -1533,7 +1458,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Borsalino",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-051.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -1558,7 +1482,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Borsalino (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-051_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -1583,7 +1506,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Maynard",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-052.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -1608,7 +1530,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Mozambia",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-053.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -1633,7 +1554,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Garp",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-054.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1658,7 +1578,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "X.Drake",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-055.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1675,7 +1594,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-055.png"
             },
@@ -1685,7 +1604,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "X.Drake (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-055_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -1702,7 +1620,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 5 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-055_p1.png"
             },
@@ -1712,7 +1630,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "X.Barrels",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-056.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -1737,11 +1654,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Hound Blaze",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-057.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -1762,11 +1676,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "It's a Waste of Human Life!!",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-058.png",
                 "cost": "8",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Place all Characters with a cost of 2 or less at the bottom of the owner's deck.",
                 "power": "-",
                 "counter": "-",
@@ -1787,11 +1698,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Let Us Begin the World of Violence!!!",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-059.png",
                 "cost": "5",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] If your Leader is multicolored, draw 2 cards.",
                 "power": "-",
                 "counter": "-",
@@ -1813,8 +1721,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-060.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -1838,8 +1745,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Monkey.D.Luffy (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-060_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -1863,7 +1769,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Uso-Hachi",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-061.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -1888,7 +1793,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "O-Nami",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-062.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -1903,7 +1807,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "If you have 10 DON!! cards on your field, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If you have 10 DON!! cards on your field, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-062.png"
             },
@@ -1913,7 +1817,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "O-Robi",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-063.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1938,7 +1841,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Killer",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-064.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -1963,7 +1865,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "San-Gorou",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-065.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -1988,7 +1889,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Jinbe",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-066.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -2004,7 +1904,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Opponent's Turn] If you have 10 DON!! cards on your field, this Character gains +1000 power.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] If you have 10 DON!! cards on your field, this Character gains +1000 power.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-066.png"
             },
@@ -2014,7 +1914,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Zoro-Juurou",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-067.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -2039,7 +1938,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Zoro-Juurou (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-067_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -2064,7 +1962,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Chopa-Emon",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-068.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -2090,7 +1987,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-069.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -2115,7 +2011,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-069_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -2140,7 +2035,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-069_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -2165,7 +2059,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Fra-Nosuke",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-070.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -2180,7 +2073,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[DON!! x1] If you have 8 or more DON!! cards on your field, this Character gains [Rush].(This card can attack on the turn in which it is played.)",
+                "effect": "[DON!! x1] If you have 8 or more DON!! cards on your field, this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-070.png"
             },
@@ -2190,7 +2083,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Bepo",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-071.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -2216,7 +2108,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Hone-Kichi",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-072.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2241,7 +2132,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Miss Doublefinger(Zala)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-073.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2266,7 +2156,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-074.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2281,7 +2170,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker][Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[Blocker] [Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-074.png"
             },
@@ -2291,7 +2180,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-074_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2306,7 +2194,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker][Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[Blocker] [Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-074_p1.png"
             },
@@ -2316,7 +2204,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-074_p2.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2331,7 +2218,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker][Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[Blocker] [Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-074_p2.png"
             },
@@ -2341,7 +2228,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Mr.1(Daz.Bonez)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-075.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -2366,11 +2252,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "When You're at Sea You Fight against Pirates!!",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-076.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -2391,11 +2274,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Gamma Knife",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-077.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "power": "-",
                 "counter": "-",
@@ -2416,11 +2296,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Punk Rotten",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-078.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "power": "-",
                 "counter": "-",
@@ -2441,7 +2318,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Viola",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-079.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -2466,7 +2342,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Elizabello II",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-080.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -2482,7 +2357,7 @@
                     "Dressrosa"
                 ],
                 "block_icon": "2",
-                "effect": "[When Attacking] [Once Per Turn] You may return 20 cards from your trash to your deck and shuffle it: This Character gains [Double Attack] and +10000 power during this battle.(This card deals 2 damage.)",
+                "effect": "[When Attacking] [Once Per Turn] You may return 20 cards from your trash to your deck and shuffle it: This Character gains [Double Attack] and +10000 power during this battle. (This card deals 2 damage.)",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-080.png"
             },
@@ -2492,7 +2367,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "One-Legged Toy Soldier",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-081.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -2517,7 +2391,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Shirahoshi",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-082.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -2542,7 +2415,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Sterry",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-083.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -2567,7 +2439,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Saint Charlos",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-084.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -2592,7 +2463,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nefeltari Cobra",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-085.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -2607,7 +2477,7 @@
                     "Alabasta"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Trash 1 card from the top of your deck.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Trash 1 card from the top of your deck.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-085.png"
             },
@@ -2617,7 +2487,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Nefeltari Vivi",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-086.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -2632,7 +2501,7 @@
                     "Alabasta"
                 ],
                 "block_icon": "2",
-                "effect": "If you have 10 or more cards in your trash, this Character gains [Blocker].(After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If you have 10 or more cards in your trash, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-086.png"
             },
@@ -2642,7 +2511,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Hakuba",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-087.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -2668,7 +2536,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Mansherry",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-088.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -2694,7 +2561,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Mansherry (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-088_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -2720,7 +2586,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Saint Mjosgard",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-089.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -2745,7 +2610,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Riku Doldo III",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-090.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -2760,7 +2624,7 @@
                     "Dressrosa"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play]/[On K.O.] Up to 1 of your {Dressrosa} type Characters gains +2000 power during this turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play]/[On K.O.] Up to 1 of your {Dressrosa} type Characters gains +2000 power during this turn.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-090.png"
             },
@@ -2770,7 +2634,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Rebecca",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-091.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -2785,7 +2648,7 @@
                     "Dressrosa"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker][On Play] Add up to 1 black Character card with a cost of 3 to 7 other than [Rebecca] from your trash to your hand. Then, play up to 1 black Character card with a cost of 3 or less from your hand rested.",
+                "effect": "[Blocker] [On Play] Add up to 1 black Character card with a cost of 3 to 7 other than [Rebecca] from your trash to your hand. Then, play up to 1 black Character card with a cost of 3 or less from your hand rested.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-091.png"
             },
@@ -2795,7 +2658,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Rebecca (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-091_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -2810,7 +2672,7 @@
                     "Dressrosa"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker][On Play] Add up to 1 black Character card with a cost of 3 to 7 other than [Rebecca] from your trash to your hand. Then, play up to 1 black Character card with a cost of 3 or less from your hand rested.",
+                "effect": "[Blocker] [On Play] Add up to 1 black Character card with a cost of 3 to 7 other than [Rebecca] from your trash to your hand. Then, play up to 1 black Character card with a cost of 3 or less from your hand rested.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-091_p1.png"
             },
@@ -2820,7 +2682,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Saint Rosward",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-092.png",
                 "cost": "5",
                 "attribute": [
                     "Ranged"
@@ -2845,7 +2706,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Rob Lucci",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-093.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -2870,7 +2730,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Rob Lucci (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-093_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -2895,11 +2754,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Haute Couture Patch★Work",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-094.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -2921,11 +2777,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Dragon Claw",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-095.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -2947,11 +2800,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "I Bid 500 Million!!",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-096.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 6 or less, or return it to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -2962,7 +2812,7 @@
                     "Celestial Dragons"
                 ],
                 "block_icon": "2",
-                "effect": "[Main] Choose one:• K.O. up to 1 of your opponent's Characters with a cost of 1 or less.• Return up to 1 of your opponent's Characters with a cost of 1 or less to the owner's hand.• Place up to 1 of your opponent's Characters with a cost of 1 or less at the top or bottom of their Life cards face-up.Then, if you have a {Celestial Dragons} type Character, draw 1 card.",
+                "effect": "[Main] Choose one: • K.O. up to 1 of your opponent's Characters with a cost of 1 or less. • Return up to 1 of your opponent's Characters with a cost of 1 or less to the owner's hand. • Place up to 1 of your opponent's Characters with a cost of 1 or less at the top or bottom of their Life cards face-up. Then, if you have a {Celestial Dragons} type Character, draw 1 card.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-096.png"
             },
@@ -2972,11 +2822,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Mary Geoise",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-097.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -2997,8 +2844,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Enel",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-098.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -3022,8 +2868,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Enel (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-098_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Special"
                 ],
@@ -3047,7 +2892,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Amazon",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-099.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -3072,7 +2916,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Enel",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-100.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -3087,7 +2930,7 @@
                     "Sky Island"
                 ],
                 "block_icon": "2",
-                "effect": "[Rush][Once Per Turn] If this Character would leave the field, you may trash 1 card from the top of your Life cards instead. If there is a [Monkey.D.Luffy] Character, this effect is negated.",
+                "effect": "[Rush] [Once Per Turn] If this Character would leave the field, you may trash 1 card from the top of your Life cards instead. If there is a [Monkey.D.Luffy] Character, this effect is negated.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-100.png"
             },
@@ -3097,7 +2940,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Enel (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-100_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -3112,7 +2954,7 @@
                     "Sky Island"
                 ],
                 "block_icon": "2",
-                "effect": "[Rush][Once Per Turn] If this Character would leave the field, you may trash 1 card from the top of your Life cards instead. If there is a [Monkey.D.Luffy] Character, this effect is negated.",
+                "effect": "[Rush] [Once Per Turn] If this Character would leave the field, you may trash 1 card from the top of your Life cards instead. If there is a [Monkey.D.Luffy] Character, this effect is negated.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-100_p1.png"
             },
@@ -3122,7 +2964,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Ohm",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-101.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -3138,7 +2979,7 @@
                     "Vassals"
                 ],
                 "block_icon": "2",
-                "effect": "If you have 2 or less Life cards, this Character gains +1000 power.[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Holly] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Holly] from your hand.",
+                "effect": "If you have 2 or less Life cards, this Character gains +1000 power. [On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Holly] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Holly] from your hand.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-101.png"
             },
@@ -3148,7 +2989,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Gedatsu",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-102.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3174,7 +3014,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Gedatsu (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-102_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3200,7 +3039,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Kotori",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-103.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -3225,7 +3063,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Conis",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-104.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -3250,7 +3087,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Satori",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-105.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3276,7 +3112,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Shura",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-106.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -3302,7 +3137,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Lieutenant Spacey",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-107.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -3327,7 +3161,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Nola",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-108.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3353,7 +3186,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Pagaya",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-109.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -3378,7 +3210,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Holly",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-110.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -3404,7 +3235,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Hotori",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-111.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -3429,7 +3259,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Captain McKinley",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-112.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -3444,7 +3273,7 @@
                     "Sky Island"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] Play up to 1 {Sky Island} type Character card with a cost of 1 from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] Play up to 1 {Sky Island} type Character card with a cost of 1 from your hand.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-112.png"
             },
@@ -3454,7 +3283,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Yama",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-113.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -3479,11 +3307,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "El Thor",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-114.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -3504,11 +3329,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Two-Hundred Million Volts Amaru",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-115.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -3529,11 +3351,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Hino Bird Zap",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-116.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -3554,11 +3373,8 @@
                 "type": "UC",
                 "class": "STAGE",
                 "name": "Upper Yard",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-117.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -3579,7 +3395,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Kaido",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-118.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -3605,7 +3420,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Kaido (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-118_p1.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -3631,7 +3445,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-119.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -3647,7 +3460,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one.[Activate: Main] [Once Per Turn] ➀: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one. [Activate: Main] [Once Per Turn] ➀: Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-119.png"
             },
@@ -3657,7 +3470,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-119_p1.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -3673,7 +3485,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one.[Activate: Main] [Once Per Turn] ➀: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one. [Activate: Main] [Once Per Turn] ➀: Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-119_p1.png"
             },
@@ -3683,7 +3495,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-119_p2.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -3699,7 +3510,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one.[Activate: Main] [Once Per Turn] ➀: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one. [Activate: Main] [Once Per Turn] ➀: Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-119_p2.png"
             },
@@ -3709,7 +3520,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/ST01-012_p3.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3725,7 +3535,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "1",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p3.png"
             },
@@ -3735,7 +3545,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/ST01-012_p4.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3751,7 +3560,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "1",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-012_p4.png"
             },
@@ -3761,7 +3570,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Nami (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP01-016_p4.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -3786,7 +3594,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Yamato (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP01-121_p2.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -3801,7 +3608,7 @@
                     "Land of Wano"
                 ],
                 "block_icon": "1",
-                "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.[Double Attack] (This card deals 2 damage.)[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules. [Double Attack] (This card deals 2 damage.) [Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-121_p2.png"
             },
@@ -3811,7 +3618,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Uta (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP02-120_p2.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -3836,7 +3642,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Rob Lucci (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP03-092_p2.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -3851,7 +3656,7 @@
                     "CP9"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] You may place 2 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: This Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] You may place 2 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP03-092_p2.png"
             },
@@ -3861,7 +3666,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Kaido (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP04-044_p2.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -3887,7 +3691,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Enel (Parallel)",
-                "image_path": "images/AwakeningoftheNewEraOP05/OP05-100_p2.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -3902,7 +3705,7 @@
                     "Sky Island"
                 ],
                 "block_icon": "2",
-                "effect": "[Rush][Once Per Turn] If this Character would leave the field, you may trash 1 card from the top of your Life cards instead. If there is a [Monkey.D.Luffy] Character, this effect is negated.",
+                "effect": "[Rush] [Once Per Turn] If this Character would leave the field, you may trash 1 card from the top of your Life cards instead. If there is a [Monkey.D.Luffy] Character, this effect is negated.",
                 "card_set": "-Awakening of the New Era- [OP-05]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-100_p2.png"
             }

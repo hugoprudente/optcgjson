@@ -1,0 +1,394 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 554007,
+        "language": "zh-Hant"
+    },
+    "data": {
+        "code": "ST07",
+        "cards": [
+            {
+                "id": "ST07-001",
+                "number": "ST07-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "夏洛特・莉莉",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "四皇",
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×2】【攻擊時】可將1張自己生命值區上面或下面的卡片加入手牌：若自己的生命值卡在2張以下時，將最多1張自己的手牌加入生命值區上面。",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-001.png"
+            },
+            {
+                "id": "ST07-002",
+                "number": "ST07-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "夏洛特・亞娜娜",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-002.png"
+            },
+            {
+                "id": "ST07-003",
+                "number": "ST07-003",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "夏洛特・卡塔克利",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】查看最多1張自己或對手生命值區上面的卡片，並放置在生命值區的上面或下面。之後，若自己的生命值卡張數比對手少時，這張角色卡，在這個回合，獲得【速攻】。 (這張卡片在登場的回合即可攻擊)",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-003.png"
+            },
+            {
+                "id": "ST07-004",
+                "number": "ST07-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "夏洛特・史納克",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】【攻擊時】可將1張自己生命值區上面或下面的卡片加入手牌：這張角色卡，在這個回合，獲得【消失】，力量值+1000。 (若這張卡片造成傷害時，觸發器不會發動且該張卡片即放置到廢棄區)",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-004.png"
+            },
+            {
+                "id": "ST07-005",
+                "number": "ST07-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "夏洛特・代佛克",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【咚‼×1】【攻擊時】可將1張自己生命值區上面或下面的卡片加入手牌：將最多1張自己卡組上面的卡片加入生命值區上面。",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-005.png"
+            },
+            {
+                "id": "ST07-006",
+                "number": "ST07-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "夏洛特・芙蘭佩",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-006.png"
+            },
+            {
+                "id": "ST07-007",
+                "number": "ST07-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "夏洛特・布璃叡",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】使這張卡片登場。",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-007.png"
+            },
+            {
+                "id": "ST07-008",
+                "number": "ST07-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "夏洛特・普琳",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】查看最多1張自己或對手生命值區上面的卡片，並放置在生命值區的上面或下面。",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-008.png"
+            },
+            {
+                "id": "ST07-009",
+                "number": "ST07-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "夏洛特・蒙德爾",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】可以廢棄1張自己的手牌：使這張卡片登場。",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可將這張角色卡置為休息狀態，並將1張自己生命值區上面或下面的卡片加入手牌：KO最多1張對手費用3以下的角色卡。",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-009.png"
+            },
+            {
+                "id": "ST07-010",
+                "number": "ST07-010",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "夏洛特・莉莉",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "四皇",
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】對手選擇下列其中一項。 ・將1張對手生命值區上面的卡片放置到廢棄區。 ・將1張自己卡組上面的卡片加入生命值區上面。",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-010.png"
+            },
+            {
+                "id": "ST07-011",
+                "number": "ST07-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "宙斯",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】使這張卡片登場。",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團",
+                    "歡樂友人"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可將這張角色卡置為休息狀態：最多1張自己的「夏洛特・莉莉」，在這個回合，獲得【消失】。 (若這張卡片造成傷害時，觸發器不會發動且該張卡片即放置到廢棄區)",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-011.png"
+            },
+            {
+                "id": "ST07-012",
+                "number": "ST07-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "塔馬哥男爵",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-012.png"
+            },
+            {
+                "id": "ST07-013",
+                "number": "ST07-013",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "普羅米修斯",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】使這張卡片登場。",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團",
+                    "歡樂友人"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可將這張角色卡置為休息狀態：最多1張自己的「夏洛特・莉莉」，在這個回合，獲得【雙重攻擊】。 (這張卡片造成的傷害為2)",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-013.png"
+            },
+            {
+                "id": "ST07-014",
+                "number": "ST07-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "波哥姆斯",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "純毛族",
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-014.png"
+            },
+            {
+                "id": "ST07-015",
+                "number": "ST07-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "靈魂質問",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "四皇",
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【主要】對手選擇下列其中一項。 ・將1張對手生命值區上面的卡片放置到廢棄區。 ・將1張自己卡組上面的卡片加入生命值區上面。",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-015.png"
+            },
+            {
+                "id": "ST07-016",
+                "number": "ST07-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "力餅",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【觸發器】抽1張卡片，查看最多1張自己或對手生命值區上面的卡片，並放置在生命值區的上面或下面。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】查看最多1張自己或對手生命值區上面的卡片，並放置在生命值區的上面或下面。之後，最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-016.png"
+            },
+            {
+                "id": "ST07-017",
+                "number": "ST07-017",
+                "type": "C",
+                "class": "STAGE",
+                "name": "女王・媽媽・聖歌號",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】使這張卡片登場。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "黃"
+                ],
+                "feature": [
+                    "BIG MOM海賊團",
+                    "歡樂友人"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】可將這張舞台卡置為休息狀態，並將1張自己生命值區上面或下面的卡片加入手牌：將最多1張自己費用3的角色卡以正面朝上加入持有者的生命值區上面。",
+                "card_set": "BIG MOM海賊團【ST-07】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST07-017.png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,3728 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563103,
+        "language": "th"
+    },
+    "data": {
+        "code": "OP03",
+        "cards": [
+            {
+                "id": "OP03-001",
+                "number": "OP03-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Portgas.D.Ace",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "เมื่อลีดเดอร์นี้ โจมตี หรือ ถูกโจมตี, จะสามารถทิ้ง อีเวนต์ หรือ สเตจการ์ด จากบนมือของเรา จำนวนกี่ใบก็ได้. ในแบทเทิลนี้, ลีดเดอร์นี้, จะมีพาวเวอร์ +1000 ต่อจำนวนการ์ด ที่ทิ้งไป 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-001.png"
+            },
+            {
+                "id": "OP03-001_p1",
+                "number": "OP03-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Portgas.D.Ace (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "เมื่อลีดเดอร์นี้ โจมตี หรือ ถูกโจมตี, จะสามารถทิ้ง อีเวนต์ หรือ สเตจการ์ด จากบนมือของเรา จำนวนกี่ใบก็ได้. ในแบทเทิลนี้, ลีดเดอร์นี้, จะมีพาวเวอร์ +1000 ต่อจำนวนการ์ด ที่ทิ้งไป 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-001_p1.png"
+            },
+            {
+                "id": "OP03-002",
+                "number": "OP03-002",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Adio",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ODYSSEY"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ในแบทเทิลนี้, คู่แข่งจะไม่สามารถใช้งาน [บล็อกเกอร์] ของคาแรกเตอร์ ที่มีพาวเวอร์ 2000 หรือต่ำกว่า.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-002.png"
+            },
+            {
+                "id": "OP03-003",
+                "number": "OP03-003",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Izo",
+                "cost": "1",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ดที่ระบุคำว่า [กลุ่มโจรสลัดหนวดขาว] รวมอยู่ในคุณสมบัติ นอกเหนือจาก [Izo] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-003.png"
+            },
+            {
+                "id": "OP03-004",
+                "number": "OP03-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Curiel",
+                "cost": "3",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "คาแรกเตอร์นี้ จะยังไม่สามารถโจมตีใส่ ลีดเดอร์, ในเทิร์นที่เพิ่งลงสนาม. [ด้ง!! x 1] คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-004.png"
+            },
+            {
+                "id": "OP03-005",
+                "number": "OP03-005",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Thatch",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ในเทิร์นนี้, คาแรกเตอร์นี้, จะมีพาวเวอร์ +2000. จากนั้น, เมื่อจบเทิร์นนี้, คาแรกเตอร์นี้จะถูกนำไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-005.png"
+            },
+            {
+                "id": "OP03-006",
+                "number": "OP03-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Speed Jil",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-006.png"
+            },
+            {
+                "id": "OP03-007",
+                "number": "OP03-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Namule",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-007.png"
+            },
+            {
+                "id": "OP03-008",
+                "number": "OP03-008",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบากี้"
+                ],
+                "block_icon": "1",
+                "effect": "คาแรกเตอร์นี้ จะไม่ถูก KO จากการแบทเทิลกับการ์ด ที่มีคุณลักษณะ (ฟัน). [เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำ อีเวนต์ ธีมสีแดง จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-008.png"
+            },
+            {
+                "id": "OP03-009",
+                "number": "OP03-009",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Haruta",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-009.png"
+            },
+            {
+                "id": "OP03-010",
+                "number": "OP03-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Fossa",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-010.png"
+            },
+            {
+                "id": "OP03-011",
+                "number": "OP03-011",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Blamenco",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -2000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-011.png"
+            },
+            {
+                "id": "OP03-012",
+                "number": "OP03-012",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Marshall.D.Teach",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อโจมตี] สามารถนำคาแรกเตอร์ ธีมสีแดง ของเรา ที่มีพาวเวอร์ 4000 หรือมากกว่า จำนวน 1 ใบ ไปวางที่แทรช : จั่วการ์ด จำนวน 1 ใบ, จากนั้น, ในแบทเทิลนี้, คาแรกเตอร์นี้, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-012.png"
+            },
+            {
+                "id": "OP03-013",
+                "number": "OP03-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Marco",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[ในเทิร์นของเรา] [เมื่อลงสนาม] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 3000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ. [เมื่อถูก KO] สามารถทิ้ง อีเวนต์ จากบนมือของเรา จำนวน 1 ใบ : นำคาแรกเตอร์การ์ดใบนี้ จากในแทรชของเรา ลงสนามในสภาพ เรสต์.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-013.png"
+            },
+            {
+                "id": "OP03-013_p1",
+                "number": "OP03-013",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Marco (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[ในเทิร์นของเรา] [เมื่อลงสนาม] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 3000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ. [เมื่อถูก KO] สามารถทิ้ง อีเวนต์ จากบนมือของเรา จำนวน 1 ใบ : นำคาแรกเตอร์การ์ดใบนี้ จากในแทรชของเรา ลงสนามในสภาพ เรสต์.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-013_p1.png"
+            },
+            {
+                "id": "OP03-014",
+                "number": "OP03-014",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Garp",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อโจมตี] นำคาแรกเตอร์ ธีมสีแดง ที่มีคอสต์ 1 จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-014.png"
+            },
+            {
+                "id": "OP03-015",
+                "number": "OP03-015",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Lim",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ODYSSEY"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ในเทิร์นของคู่แข่ง] เมื่อคาแรกเตอร์นี้ถูก KO, ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -2000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-015.png"
+            },
+            {
+                "id": "OP03-016",
+                "number": "OP03-016",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Flame Emperor",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 6000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ถ้าลีดเดอร์ของเราคือ [Portgas.D.Ace], ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 8000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ, และในเทิร์นนี้, ลีดเดอร์ของเราจะได้รับ [ดับเบิ้ลแอทแทค], และจะมีพาวเวอร์ +3000. (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-016.png"
+            },
+            {
+                "id": "OP03-017",
+                "number": "OP03-017",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Cross Fire",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] / [เคาน์เตอร์] ถ้าลีดเดอร์ของเรา ระบุคำว่า [กลุ่มโจรสลัดหนวดขาว] รวมอยู่ในคุณสมบัติ, ในเทิร์นนี้, คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ –4000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-017.png"
+            },
+            {
+                "id": "OP03-018",
+                "number": "OP03-018",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Fire Fist",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 5000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] สามารถทิ้ง อีเวนต์ จากบนมือของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 5000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, พร้อมกับคาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 4000 หรือต่ำกว่า, อีกจำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-018.png"
+            },
+            {
+                "id": "OP03-018_p1",
+                "number": "OP03-018",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Fire Fist (Parallel)",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 5000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] สามารถทิ้ง อีเวนต์ จากบนมือของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 5000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, พร้อมกับคาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 4000 หรือต่ำกว่า, อีกจำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-018_p1.png"
+            },
+            {
+                "id": "OP03-019",
+                "number": "OP03-019",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Fiery Doll",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ –10000.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ในเทิร์นนี้, ลีดเดอร์ของเรา, จะมีพาวเวอร์ +4000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-019.png"
+            },
+            {
+                "id": "OP03-020",
+                "number": "OP03-020",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Striker",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] (2) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ), สามารถ เรสต์ สเตจนี้ : ถ้าลีดเดอร์ของเราคือ [Portgas.D.Ace], ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำ อีเวนต์ จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-020.png"
+            },
+            {
+                "id": "OP03-021",
+                "number": "OP03-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kuro",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดคุโระเนโกะ (กลุ่มโจรสลัดแมวดำ)"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] (3) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ), สามารถ เรสต์ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < อีสต์บลู > จำนวน 2 ใบ : ทำการ แอ็คทีฟ ลีดเดอร์นี้, และทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-021.png"
+            },
+            {
+                "id": "OP03-021_p1",
+                "number": "OP03-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kuro (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดคุโระเนโกะ (กลุ่มโจรสลัดแมวดำ)"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] (3) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ), สามารถ เรสต์ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < อีสต์บลู > จำนวน 2 ใบ : ทำการ แอ็คทีฟ ลีดเดอร์นี้, และทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-021_p1.png"
+            },
+            {
+                "id": "OP03-022",
+                "number": "OP03-022",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Arlong",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดอาร์ลอง"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 2] [เมื่อโจมตี] (1) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ) : นำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า ที่มี [ทริกเกอร์] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-022.png"
+            },
+            {
+                "id": "OP03-022_p1",
+                "number": "OP03-022",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Arlong (Parallel)",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดอาร์ลอง"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 2] [เมื่อโจมตี] (1) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ) : นำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า ที่มี [ทริกเกอร์] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-022_p1.png"
+            },
+            {
+                "id": "OP03-023",
+                "number": "OP03-023",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Alvida",
+                "cost": "1",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดอัลวีด้า"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-023.png"
+            },
+            {
+                "id": "OP03-024",
+                "number": "OP03-024",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Gin",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดครีก"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรามีคุณสมบัติ < อีสต์บลู >, ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 2 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-024.png"
+            },
+            {
+                "id": "OP03-024_p1",
+                "number": "OP03-024",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Gin (Parallel)",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดครีก"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรามีคุณสมบัติ < อีสต์บลู >, ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 2 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-024_p1.png"
+            },
+            {
+                "id": "OP03-025",
+                "number": "OP03-025",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Krieg",
+                "cost": "6",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดครีก"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า ที่กำลังเรสต์อยู่ จำนวนไม่เกิน 2 ใบ. [ด้ง!! x 1] คาแรกเตอร์นี้จะได้รับ [ดับเบิ้ลแอทแทค]. (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-025.png"
+            },
+            {
+                "id": "OP03-025_p1",
+                "number": "OP03-025",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Krieg (Parallel)",
+                "cost": "6",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดครีก"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า ที่กำลังเรสต์อยู่ จำนวนไม่เกิน 2 ใบ. [ด้ง!! x 1] คาแรกเตอร์นี้จะได้รับ [ดับเบิ้ลแอทแทค]. (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-025_p1.png"
+            },
+            {
+                "id": "OP03-026",
+                "number": "OP03-026",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Kuroobi",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดอาร์ลอง"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < อีสต์บลู >, ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-026.png"
+            },
+            {
+                "id": "OP03-027",
+                "number": "OP03-027",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sham",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดคุโระเนโกะ (กลุ่มโจรสลัดแมวดำ)"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < อีสต์บลู >, ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, และถ้าเราไม่มี [Buchi] อยู่ด้วยละก็, ให้นำ [Buchi] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-027.png"
+            },
+            {
+                "id": "OP03-028",
+                "number": "OP03-028",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Jango",
+                "cost": "5",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดคุโระเนโกะ (กลุ่มโจรสลัดแมวดำ)"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] เลือก 1 อย่าง จากดังต่อไปนี้. • ทำการ แอ็คทีฟ ลีดเดอร์ หรือ คาแรกเตอร์ของเรา ที่มีคอสต์ 6 หรือต่ำกว่า ที่มีคุณสมบัติ < อีสต์บลู > จำนวนไม่เกิน 1 ใบ. • ทำการ เรสต์ คาแรกเตอร์นี้, พร้อมกับคาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-028.png"
+            },
+            {
+                "id": "OP03-029",
+                "number": "OP03-029",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Chew",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดอาร์ลอง"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-029.png"
+            },
+            {
+                "id": "OP03-030",
+                "number": "OP03-030",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Nami",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดอาร์ลอง"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ธีมสีเขียว ที่มีคุณสมบัติ < อีสต์บลู > นอกเหนือจาก [Nami] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-030.png"
+            },
+            {
+                "id": "OP03-031",
+                "number": "OP03-031",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Pearl",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดครีก"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-031.png"
+            },
+            {
+                "id": "OP03-032",
+                "number": "OP03-032",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Buggy",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดบากี้"
+                ],
+                "block_icon": "1",
+                "effect": "คาแรกเตอร์นี้, จะไม่ถูก KO จากการแบทเทิลกับการ์ดที่มีคุณลักษณะ (ฟัน).",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-032.png"
+            },
+            {
+                "id": "OP03-033",
+                "number": "OP03-033",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Hatchan",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < อีสต์บลู >, นำการ์ดใบนี้ลงสนาม.",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดอาร์ลอง"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-033.png"
+            },
+            {
+                "id": "OP03-034",
+                "number": "OP03-034",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Buchi",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดคุโระเนโกะ (กลุ่มโจรสลัดแมวดำ)"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-034.png"
+            },
+            {
+                "id": "OP03-035",
+                "number": "OP03-035",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Momoo",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-035.png"
+            },
+            {
+                "id": "OP03-036",
+                "number": "OP03-036",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Out-of-the-Bag",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดคุโระเนโกะ (กลุ่มโจรสลัดแมวดำ)"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] สามารถ เรสต์ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < อีสต์บลู > จำนวน 1 ใบ : ทำการ แอ็คทีฟ [Kuro] ของฝ่ายเรา, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-036.png"
+            },
+            {
+                "id": "OP03-037",
+                "number": "OP03-037",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Tooth Attack",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า และมี [ทริกเกอร์] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เผ่ามนุษย์เงือก",
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดอาร์ลอง"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] สามารถ เรสต์ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < อีสต์บลู > จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-037.png"
+            },
+            {
+                "id": "OP03-038",
+                "number": "OP03-038",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Deathly Poison Gas Bomb MH5",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดครีก"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 2 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-038.png"
+            },
+            {
+                "id": "OP03-039",
+                "number": "OP03-039",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "One, Two, Jango",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มโจรสลัดคุโระเนโกะ (กลุ่มโจรสลัดแมวดำ)"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ + 1000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-039.png"
+            },
+            {
+                "id": "OP03-040",
+                "number": "OP03-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Nami",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "ถ้าในเด็คของเราเหลือการ์ด จำนวน 0 ใบ, เราจะเป็นฝ่ายชนะ, แทนที่จะแพ้ตามกฎ. [ด้ง!! x 1] เมื่อการโจมตีของ ลีดเดอร์นี้ ทำแดเมจกับไลฟ์ของคู่แข่ง, จะสามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 1 ใบ ไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-040.png"
+            },
+            {
+                "id": "OP03-040_p1",
+                "number": "OP03-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Nami (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "ถ้าในเด็คของเราเหลือการ์ด จำนวน 0 ใบ, เราจะเป็นฝ่ายชนะ, แทนที่จะแพ้ตามกฎ. [ด้ง!! x 1] เมื่อการโจมตีของ ลีดเดอร์นี้ ทำแดเมจกับไลฟ์ของคู่แข่ง, จะสามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 1 ใบ ไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-040_p1.png"
+            },
+            {
+                "id": "OP03-041",
+                "number": "OP03-041",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Usopp",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้). [ด้ง!! x 1] เมื่อการโจมตีของ คาแรกเตอร์นี้ ทำแดเมจกับไลฟ์ของคู่แข่ง, จะสามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 7 ใบ ไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-041.png"
+            },
+            {
+                "id": "OP03-041_p1",
+                "number": "OP03-041",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Usopp (Parallel)",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้). [ด้ง!! x 1] เมื่อการโจมตีของ คาแรกเตอร์นี้ ทำแดเมจกับไลฟ์ของคู่แข่ง, จะสามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 7 ใบ ไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-041_p1.png"
+            },
+            {
+                "id": "OP03-042",
+                "number": "OP03-042",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Usopp's Pirate Crew",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] นำ [Usopp] ที่เป็นธีมสีฟ้า ซึ่งอยู่ในแทรชของเรา จำนวนไม่เกิน 1 ใบ, เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-042.png"
+            },
+            {
+                "id": "OP03-043",
+                "number": "OP03-043",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gaimon",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "เมื่อเรา ทำแดเมจกับไลฟ์ของคู่แข่ง, จะสามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 3 ใบ ไปวางที่แทรช. ถ้าทำเช่นนั้น, ให้นำคาแรกเตอร์นี้ไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-043.png"
+            },
+            {
+                "id": "OP03-044",
+                "number": "OP03-044",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kaya",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-044.png"
+            },
+            {
+                "id": "OP03-045",
+                "number": "OP03-045",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Carne",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ในเทิร์นของคู่แข่ง] ถ้าในเด็คของเรามีการ์ดอยู่ จำนวน 20 ใบ หรือน้อยกว่า, คาแรกเตอร์นี้ จะมีพาวเวอร์ +3000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-045.png"
+            },
+            {
+                "id": "OP03-046",
+                "number": "OP03-046",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Genzo",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-046.png"
+            },
+            {
+                "id": "OP03-047",
+                "number": "OP03-047",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Zeff",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] เมื่อการโจมตีของ คาแรกเตอร์นี้ ทำแดเมจกับไลฟ์ของคู่แข่ง, จะสามารถนำการ์ด ใบบนสุดของเด็คของเรา จำนวน 7 ใบ ไปวางที่แทรช. [เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ, และจะสามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-047.png"
+            },
+            {
+                "id": "OP03-047_p1",
+                "number": "OP03-047",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Zeff (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] เมื่อการโจมตีของ คาแรกเตอร์นี้ ทำแดเมจกับไลฟ์ของคู่แข่ง, จะสามารถนำการ์ด ใบบนสุดของเด็คของเรา จำนวน 7 ใบ ไปวางที่แทรช. [เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ, และจะสามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-047_p1.png"
+            },
+            {
+                "id": "OP03-048",
+                "number": "OP03-048",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Nojiko",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเราคือ [Nami], นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-048.png"
+            },
+            {
+                "id": "OP03-049",
+                "number": "OP03-049",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Patty",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ถ้าในเด็คของเรามีการ์ดอยู่ จำนวน 20 ใบ หรือน้อยกว่า, นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-049.png"
+            },
+            {
+                "id": "OP03-050",
+                "number": "OP03-050",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Boodle",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO] สามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 1 ใบ ไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-050.png"
+            },
+            {
+                "id": "OP03-051",
+                "number": "OP03-051",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Bell-mère",
+                "cost": "4",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "อดีตกองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] เมื่อการโจมตีของ คาแรกเตอร์นี้ ทำแดเมจกับไลฟ์ของคู่แข่ง, จะสามารถนำการ์ด ใบบนสุดของเด็คของเรา จำนวน 7 ใบ ไปวางที่แทรช. [เมื่อถูก KO] สามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 3 ใบ ไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-051.png"
+            },
+            {
+                "id": "OP03-052",
+                "number": "OP03-052",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Merry",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-052.png"
+            },
+            {
+                "id": "OP03-053",
+                "number": "OP03-053",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Yosaku & Johnny",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] ถ้าในเด็คของเรามีการ์ดอยู่ จำนวน 20 ใบ หรือน้อยกว่า, คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-053.png"
+            },
+            {
+                "id": "OP03-054",
+                "number": "OP03-054",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Usopp's Rubber Band of Doom!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ, และสามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 1 ใบ ไปวางที่แทรช.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000. จากนั้น, จะสามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 1 ใบ ไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-054.png"
+            },
+            {
+                "id": "OP03-055",
+                "number": "OP03-055",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Gum-Gum Giant Gavel",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ในแบทเทิลนี้, ลีดเดอร์ของเรา จะมีพาวเวอร์ +4000. จากนั้น, สามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-055.png"
+            },
+            {
+                "id": "OP03-056",
+                "number": "OP03-056",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Sanji's Pilaf",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] จั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-056.png"
+            },
+            {
+                "id": "OP03-057",
+                "number": "OP03-057",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Three Thousand Worlds",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-057.png"
+            },
+            {
+                "id": "OP03-058",
+                "number": "OP03-058",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Iceburg",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "1",
+                "effect": "ลีดเดอร์นี้ไม่สามารถทำการโจมตี. [ใช้งาน : เมน] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ), สามารถ เรสต์ ลีดเดอร์นี้ : นำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า ที่มีคุณสมบัติ < GC > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-058.png"
+            },
+            {
+                "id": "OP03-058_p1",
+                "number": "OP03-058",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Iceburg (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "1",
+                "effect": "ลีดเดอร์นี้ไม่สามารถทำการโจมตี. [ใช้งาน : เมน] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ), สามารถ เรสต์ ลีดเดอร์นี้ : นำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า ที่มีคุณสมบัติ < GC > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-058_p1.png"
+            },
+            {
+                "id": "OP03-059",
+                "number": "OP03-059",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Kaku",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อโจมตี] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ในแบทเทิลนี้, คาแรกเตอร์นี้จะได้รับ [แบนนิช]. (ถ้าการ์ดใบนี้ทำดาเมจได้, การ์ดใบนั้นจะถูกนำไปวางที่แทรช, และทริกเกอร์จะไม่ทำงาน)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-059.png"
+            },
+            {
+                "id": "OP03-060",
+                "number": "OP03-060",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Kalifa",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อโจมตี] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-060.png"
+            },
+            {
+                "id": "OP03-061",
+                "number": "OP03-061",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kiwi & Mozu",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "ครอบครัวแฟรงกี้"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-061.png"
+            },
+            {
+                "id": "OP03-062",
+                "number": "OP03-062",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kokoro",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "W7"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ดที่มีคุณสมบัติ < W7 > นอกเหนือจาก [Kokoro] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-062.png"
+            },
+            {
+                "id": "OP03-063",
+                "number": "OP03-063",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Zambai",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "ครอบครัวแฟรงกี้"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < W7 >, จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-063.png"
+            },
+            {
+                "id": "OP03-064",
+                "number": "OP03-064",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Tilestone",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อถูก KO] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < GC >, นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-064.png"
+            },
+            {
+                "id": "OP03-065",
+                "number": "OP03-065",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Chimney & Gonbe",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "W7"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-065.png"
+            },
+            {
+                "id": "OP03-066",
+                "number": "OP03-066",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Paulie",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] (2) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ) : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ. จากนั้น, ถ้าในสนามของเรามี ด้ง!! อยู่จำนวน 8 ใบ หรือมากกว่า, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-066.png"
+            },
+            {
+                "id": "OP03-066_p1",
+                "number": "OP03-066",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Paulie (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] (2) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ) : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ. จากนั้น, ถ้าในสนามของเรามี ด้ง!! อยู่จำนวน 8 ใบ หรือมากกว่า, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-066_p1.png"
+            },
+            {
+                "id": "OP03-067",
+                "number": "OP03-067",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Peepley Lulu",
+                "cost": "5",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < GC >, นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-067.png"
+            },
+            {
+                "id": "OP03-068",
+                "number": "OP03-068",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Minozebra",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์",
+                    "อสูรคุมคุก"
+                ],
+                "block_icon": "1",
+                "effect": "[แบนนิช] (ถ้าการ์ดใบนี้ทำดาเมจได้, การ์ดใบนั้นจะถูกนำไปวางที่แทรช, และทริกเกอร์จะไม่ทำงาน) [เมื่อถูก KO] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < อิมเพลดาวน์ >, นำ ด้ง!! จากด้ง!! เด็ค ของเรา จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-068.png"
+            },
+            {
+                "id": "OP03-069",
+                "number": "OP03-069",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Minorhinoceros",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์",
+                    "อสูรคุมคุก"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อถูก KO] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < อิมเพลดาวน์ >, จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-069.png"
+            },
+            {
+                "id": "OP03-070",
+                "number": "OP03-070",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) สามารถทิ้งคาแรกเตอร์การ์ด ที่มีคอสต์ 5 จากบนมือของเรา จำนวน 1 ใบ : ในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-070.png"
+            },
+            {
+                "id": "OP03-071",
+                "number": "OP03-071",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Rob Lucci",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อโจมตี] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-071.png"
+            },
+            {
+                "id": "OP03-072",
+                "number": "OP03-072",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Gum-Gum Jet Gatling",
+                "cost": "-",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-072.png"
+            },
+            {
+                "id": "OP03-073",
+                "number": "OP03-073",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Hull Dismantler Slash",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "ครอบครัวแฟรงกี้"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < W7 >, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-073.png"
+            },
+            {
+                "id": "OP03-074",
+                "number": "OP03-074",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Top Knot",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-074.png"
+            },
+            {
+                "id": "OP03-075",
+                "number": "OP03-075",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Galley-La Company",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7",
+                    "GC"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ สเตจนี้ : ถ้าลีดเดอร์ของเราคือ [Iceburg], นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-075.png"
+            },
+            {
+                "id": "OP03-076",
+                "number": "OP03-076",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Rob Lucci",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ : เมื่อมีคาแรกเตอร์ของคู่แข่ง ถูก KO, จะทำการ แอ็คทีฟ ลีดเดอร์นี้.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-076.png"
+            },
+            {
+                "id": "OP03-076_p1",
+                "number": "OP03-076",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Rob Lucci (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[เทิร์นตัวเอง] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ : เมื่อมีคาแรกเตอร์ของคู่แข่ง ถูก KO, จะทำการ แอ็คทีฟ ลีดเดอร์นี้.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-076_p1.png"
+            },
+            {
+                "id": "OP03-077",
+                "number": "OP03-077",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Charlotte Linlin",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 2] [เมื่อโจมตี] (2) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ), สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ถ้าเรามี ไลฟ์ จำนวน 1 ใบ หรือน้อยกว่า, จะนำการ์ดใบบนสุดจากเด็ค จำนวนไม่เกิน 1 ใบ ไปวางเพิ่มที่บนสุดของไลฟ์.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-077.png"
+            },
+            {
+                "id": "OP03-077_p1",
+                "number": "OP03-077",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Charlotte Linlin (Parallel)",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 2] [เมื่อโจมตี] (2) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ), สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ถ้าเรามี ไลฟ์ จำนวน 1 ใบ หรือน้อยกว่า, จะนำการ์ดใบบนสุดจากเด็ค จำนวนไม่เกิน 1 ใบ ไปวางเพิ่มที่บนสุดของไลฟ์.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-077_p1.png"
+            },
+            {
+                "id": "OP03-078",
+                "number": "OP03-078",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Issho",
+                "cost": "8",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เทิร์นตัวเอง] คาแรกเตอร์ของคู่แข่งทั้งหมด จะมีคอสต์ -3. [เมื่อลงสนาม] ถ้าบนมือของคู่แข่งมีการ์ดอยู่ จำนวน 6 ใบ หรือมากกว่า, ทิ้งการ์ดบนมือของคู่แข่ง จำนวน 2 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-078.png"
+            },
+            {
+                "id": "OP03-078_p1",
+                "number": "OP03-078",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Issho (Parallel)",
+                "cost": "8",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เทิร์นตัวเอง] คาแรกเตอร์ของคู่แข่งทั้งหมด จะมีคอสต์ -3. [เมื่อลงสนาม] ถ้าบนมือของคู่แข่งมีการ์ดอยู่ จำนวน 6 ใบ หรือมากกว่า, ทิ้งการ์ดบนมือของคู่แข่ง จำนวน 2 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-078_p1.png"
+            },
+            {
+                "id": "OP03-079",
+                "number": "OP03-079",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Vergo",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] คาแรกเตอร์นี้ จะไม่ถูก KO จากการแบทเทิล.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-079.png"
+            },
+            {
+                "id": "OP03-080",
+                "number": "OP03-080",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kaku",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] สามารถนำการ์ด ที่ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ ที่อยู่ในแทรชของเรา จำนวน 2 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็คของเรา : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-080.png"
+            },
+            {
+                "id": "OP03-080_p1",
+                "number": "OP03-080",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kaku (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] สามารถนำการ์ด ที่ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ ที่อยู่ในแทรชของเรา จำนวน 2 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็คของเรา : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-080_p1.png"
+            },
+            {
+                "id": "OP03-081",
+                "number": "OP03-081",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kalifa",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -2.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-081.png"
+            },
+            {
+                "id": "OP03-081_p1",
+                "number": "OP03-081",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kalifa (Parallel)",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -2.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-081_p1.png"
+            },
+            {
+                "id": "OP03-082",
+                "number": "OP03-082",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kumadori",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-082.png"
+            },
+            {
+                "id": "OP03-083",
+                "number": "OP03-083",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Corgy",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "รัฐบาลโลก"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด จำนวนไม่เกิน 2 ใบ, ไปวางที่แทรช, จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-083.png"
+            },
+            {
+                "id": "OP03-084",
+                "number": "OP03-084",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jerry",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-084.png"
+            },
+            {
+                "id": "OP03-085",
+                "number": "OP03-085",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jabra",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-085.png"
+            },
+            {
+                "id": "OP03-086",
+                "number": "OP03-086",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Spandam",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ นอกเหนือจาก [Spandam] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-086.png"
+            },
+            {
+                "id": "OP03-086_p1",
+                "number": "OP03-086",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Spandam (Parallel)",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ นอกเหนือจาก [Spandam] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-086_p1.png"
+            },
+            {
+                "id": "OP03-087",
+                "number": "OP03-087",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Nero",
+                "cost": "3",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-087.png"
+            },
+            {
+                "id": "OP03-088",
+                "number": "OP03-088",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Fukurou",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "คาแรกเตอร์นี้ จะไม่ถูก KO จากความสามารถใดๆ. [บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-088.png"
+            },
+            {
+                "id": "OP03-089",
+                "number": "OP03-089",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Brannew",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ดที่มีคุณสมบัติ < กองทัพเรือ > นอกเหนือจาก [Brannew] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-089.png"
+            },
+            {
+                "id": "OP03-090",
+                "number": "OP03-090",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Blueno",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] คาแรกเตอร์นี้จะได้รับ [บล็อกเกอร์]. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO] นำคาแรกเตอร์การ์ด ที่ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ และมีคอสต์ 4 หรือต่ำกว่า จากแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนามในสภาพเรสต์.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-090.png"
+            },
+            {
+                "id": "OP03-091",
+                "number": "OP03-091",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Helmeppo",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ในเทิร์นนี้, คาแรกเตอร์ ที่แต่เดิมไม่มีความสามารถ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีค่าคอสต์กลายเป็น 0.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-091.png"
+            },
+            {
+                "id": "OP03-092",
+                "number": "OP03-092",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Rob Lucci",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] สามารถนำการ์ด ที่ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ ที่อยู่ในแทรชของเรา จำนวน 2 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็คของเรา : ในเทิร์นนี้, คาแรกเตอร์นี้, จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-092.png"
+            },
+            {
+                "id": "OP03-092_p1",
+                "number": "OP03-092",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Rob Lucci (Parallel)",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] สามารถนำการ์ด ที่ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ ที่อยู่ในแทรชของเรา จำนวน 2 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็คของเรา : ในเทิร์นนี้, คาแรกเตอร์นี้, จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-092_p1.png"
+            },
+            {
+                "id": "OP03-093",
+                "number": "OP03-093",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Wanze",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP7"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ถ้าลีดเดอร์ของเรา ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-093.png"
+            },
+            {
+                "id": "OP03-094",
+                "number": "OP03-094",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Air Door",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์การ์ด ธีมสีดำ ที่มีคอสต์ 3 หรือต่ำกว่า จากแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ถ้าลีดเดอร์ของเรา ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า ที่ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, นำการ์ดที่เหลือไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-094.png"
+            },
+            {
+                "id": "OP03-095",
+                "number": "OP03-095",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Soap Sheep",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] คู่แข่งจะต้องทิ้งการ์ดในมือของตัวเอง จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 2 ใบ, จะมีคอสต์ -2.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-095.png"
+            },
+            {
+                "id": "OP03-096",
+                "number": "OP03-096",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Tempest Kick Sky Slicer",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 2 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 0, หรือทำการ KO สเตจของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-096.png"
+            },
+            {
+                "id": "OP03-097",
+                "number": "OP03-097",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Six King Pistol",
+                "cost": "-",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ. จากนั้น, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-097.png"
+            },
+            {
+                "id": "OP03-098",
+                "number": "OP03-098",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Enies Lobby",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "รัฐบาลโลก"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ สเตจนี้ : ถ้าลีดเดอร์ของเรา ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -2.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-098.png"
+            },
+            {
+                "id": "OP03-099",
+                "number": "OP03-099",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Charlotte Katakuri",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ดู ไลฟ์ ใบบนสุด ของเรา หรือ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, และนำ ไปวางที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์เจ้าของเดิม. จากนั้น, ในแบทเทิลนี้, ลีดเดอร์นี้, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-099.png"
+            },
+            {
+                "id": "OP03-099_p1",
+                "number": "OP03-099",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Charlotte Katakuri (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ดู ไลฟ์ ใบบนสุด ของเรา หรือ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, และนำ ไปวางที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์เจ้าของเดิม. จากนั้น, ในแบทเทิลนี้, ลีดเดอร์นี้, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-099_p1.png"
+            },
+            {
+                "id": "OP03-100",
+                "number": "OP03-100",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kingbaum",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ ไปวางที่แทรช : นำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม",
+                    "โฮมี่ส์"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-100.png"
+            },
+            {
+                "id": "OP03-101",
+                "number": "OP03-101",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Camie",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-101.png"
+            },
+            {
+                "id": "OP03-102",
+                "number": "OP03-102",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "ตระกูลวินสโมค"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 2] [เมื่อโจมตี] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นบนสู่มือ : นำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ ไปวางเพิ่มที่บนสุดของไลฟ์.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-102.png"
+            },
+            {
+                "id": "OP03-103",
+                "number": "OP03-103",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bobbin the Disposer",
+                "cost": "2",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-103.png"
+            },
+            {
+                "id": "OP03-104",
+                "number": "OP03-104",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Shirley",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ดู ไลฟ์ ใบบนสุดของคู่แข่ง จำนวนไม่เกิน 1 ใบ, และนำไปวางที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์เจ้าของเดิม.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-104.png"
+            },
+            {
+                "id": "OP03-105",
+                "number": "OP03-105",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Charlotte Oven",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] สามารถทิ้งการ์ด ที่มี [ทริกเกอร์] จากบนมือของเรา จำนวน 1 ใบ : ในแบทเทิลนี้, คาแรกเตอร์นี้, จะมีพาวเวอร์ +3000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-105.png"
+            },
+            {
+                "id": "OP03-106",
+                "number": "OP03-106",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Charlotte Opera",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-106.png"
+            },
+            {
+                "id": "OP03-107",
+                "number": "OP03-107",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Charlotte Galette",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-107.png"
+            },
+            {
+                "id": "OP03-108",
+                "number": "OP03-108",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Charlotte Cracker",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] ถ้าเรามี ไลฟ์ น้อยกว่าคู่แข่ง, คาแรกเตอร์นี้จะได้รับ [ดับเบิ้ลแอทแทค], และจะมีพาวเวอร์ +1000. (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-108.png"
+            },
+            {
+                "id": "OP03-108_p1",
+                "number": "OP03-108",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Charlotte Cracker (Parallel)",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] ถ้าเรามี ไลฟ์ น้อยกว่าคู่แข่ง, คาแรกเตอร์นี้จะได้รับ [ดับเบิ้ลแอทแทค], และจะมีพาวเวอร์ +1000. (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-108_p1.png"
+            },
+            {
+                "id": "OP03-109",
+                "number": "OP03-109",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Charlotte Chiffon",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ ไปวางที่แทรช : นำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ ไปวางเพิ่มที่บนสุดของไลฟ์เรา.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-109.png"
+            },
+            {
+                "id": "OP03-110",
+                "number": "OP03-110",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Smoothie",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อโจมตี] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นบนสู่มือ : ในแบทเทิลนี้, คาแรกเตอร์นี้, จะมีพาวเวอร์ +2000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-110.png"
+            },
+            {
+                "id": "OP03-111",
+                "number": "OP03-111",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Charlotte Praline",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก",
+                    "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-111.png"
+            },
+            {
+                "id": "OP03-112",
+                "number": "OP03-112",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Pudding",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำ [Sanji] หรือ การ์ดที่มีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม > นอกเหนือจาก [Charlotte Pudding] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-112.png"
+            },
+            {
+                "id": "OP03-112_p1",
+                "number": "OP03-112",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Pudding (Parallel)",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำ [Sanji] หรือ การ์ดที่มีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม > นอกเหนือจาก [Charlotte Pudding] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-112_p1.png"
+            },
+            {
+                "id": "OP03-113",
+                "number": "OP03-113",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Charlotte Perospero",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อถูก KO] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ดที่มีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-113.png"
+            },
+            {
+                "id": "OP03-113_p1",
+                "number": "OP03-113",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Charlotte Perospero (Parallel)",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อถูก KO] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ดที่มีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-113_p1.png"
+            },
+            {
+                "id": "OP03-114",
+                "number": "OP03-114",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Charlotte Linlin",
+                "cost": "10",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม >, นำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ ไปวางเพิ่มที่บนสุดของไลฟ์. จากนั้น, นำ ไลฟ์ ใบบนสุดของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-114.png"
+            },
+            {
+                "id": "OP03-114_p1",
+                "number": "OP03-114",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Charlotte Linlin (Parallel)",
+                "cost": "10",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดบิ๊กมัม >, นำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ ไปวางเพิ่มที่บนสุดของไลฟ์. จากนั้น, นำ ไลฟ์ ใบบนสุดของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-114_p1.png"
+            },
+            {
+                "id": "OP03-115",
+                "number": "OP03-115",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Streusen",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ด ที่มี [ทริกเกอร์] จากบนมือของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-115.png"
+            },
+            {
+                "id": "OP03-116",
+                "number": "OP03-116",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Shirahoshi",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] จั่วการ์ด จำนวน 3 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-116.png"
+            },
+            {
+                "id": "OP03-117",
+                "number": "OP03-117",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Napoleon",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม",
+                    "โฮมี่ส์"
+                ],
+                "block_icon": "1",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : จนกระทั่งถึงช่วงเริ่มต้นเทิร์นของเราในครั้งถัดไป, [Charlotte Linlin] ของฝ่ายเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-117.png"
+            },
+            {
+                "id": "OP03-118",
+                "number": "OP03-118",
+                "type": "UC",
+                "class": "EVENT",
+                "name": "Ikoku Sovereignty",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] สามารถทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ : นำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +5000.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-118.png"
+            },
+            {
+                "id": "OP03-119",
+                "number": "OP03-119",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Buzz Cut Mochi",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า ที่มี [ทริกเกอร์] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ถ้าเรามีไลฟ์ น้อยกว่าคู่แข่ง, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-119.png"
+            },
+            {
+                "id": "OP03-120",
+                "number": "OP03-120",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Tropical Torment",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] ถ้าคู่แข่งมี ไลฟ์ จำนวน 4 ใบ หรือมากกว่า, นำ ไลฟ์ ใบบนสุดของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-120.png"
+            },
+            {
+                "id": "OP03-121",
+                "number": "OP03-121",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Thunder Bolt",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เมน] สามารถนำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ ไปวางที่แทรช : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-121.png"
+            },
+            {
+                "id": "OP03-122",
+                "number": "OP03-122",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Sogeking",
+                "cost": "7",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เกาะแห่งการซุ่มยิง"
+                ],
+                "block_icon": "1",
+                "effect": "การ์ดใบนี้, จะนับว่ามีชื่อการ์ดเป็น [Usopp] ด้วยตามกฎ. [เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 6 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ. จากนั้น, จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-122.png"
+            },
+            {
+                "id": "OP03-122_p1",
+                "number": "OP03-122",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Sogeking (Parallel)",
+                "cost": "7",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เกาะแห่งการซุ่มยิง"
+                ],
+                "block_icon": "1",
+                "effect": "การ์ดใบนี้, จะนับว่ามีชื่อการ์ดเป็น [Usopp] ด้วยตามกฎ. [เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 6 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ. จากนั้น, จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-122_p1.png"
+            },
+            {
+                "id": "OP03-122_p2",
+                "number": "OP03-122",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Sogeking (Parallel)",
+                "cost": "7",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เกาะแห่งการซุ่มยิง"
+                ],
+                "block_icon": "1",
+                "effect": "การ์ดใบนี้, จะนับว่ามีชื่อการ์ดเป็น [Usopp] ด้วยตามกฎ. [เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 6 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ. จากนั้น, จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-122_p2.png"
+            },
+            {
+                "id": "OP03-123",
+                "number": "OP03-123",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Charlotte Katakuri",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 8 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์เจ้าของเดิม แบบหงายหน้า.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-123.png"
+            },
+            {
+                "id": "OP03-123_p1",
+                "number": "OP03-123",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Charlotte Katakuri (Parallel)",
+                "cost": "8",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 8 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์เจ้าของเดิม แบบหงายหน้า.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP03-123_p1.png"
+            },
+            {
+                "id": "OP01-051_p2",
+                "number": "OP01-051",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Eustass\"Captain\"Kid (Parallel)",
+                "cost": "8",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "1",
+                "effect": "[ด้ง!! x 1] [เทิร์นคู่แข่ง] ถ้าคาแรกเตอร์นี้กำลังเรสต์อยู่, นอกเหนือจากคาแรกเตอร์ [Eustass “Captain” Kid] แล้ว คู่แข่งจะโจมตีใส่การ์ดใบอื่นไม่ได้เลย. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ คาแรกเตอร์นี้ : นำคาแรกเตอร์การ์ด ที่มีคอสต์ 3 หรือต่ำกว่า จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/OP01-051_p2.png"
+            },
+            {
+                "id": "ST01-012_p1",
+                "number": "ST01-012",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Luffy (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "1",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [ด้ง!! x 2] [เมื่อโจมตี] ในแบทเทิลนี้, คู่แข่งจะไม่สามารถใช้งาน [บล็อกเกอร์].",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST01-012_p1.png"
+            },
+            {
+                "id": "ST03-009_p1",
+                "number": "ST03-009",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Donquixote Doflamingo (Parallel)",
+                "cost": "7",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 7 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือเจ้าของ.",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST03-009_p1.png"
+            },
+            {
+                "id": "ST04-003_p1",
+                "number": "ST04-003",
+                "type": "SP CARD",
+                "class": "CHARACTER",
+                "name": "Kaido (Parallel)",
+                "cost": "9",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดร้อยอสูร"
+                ],
+                "block_icon": "1",
+                "effect": "[เมื่อลงสนาม] ด้ง!! – 5 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 6 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์นี้จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Pillars of Strength- [OP-03]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/ST04-003_p1.png"
+            }
+        ]
+    }
+}

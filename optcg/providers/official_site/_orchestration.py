@@ -109,11 +109,15 @@ def refresh_series_map(langs: list[str] | None = None) -> None:
             if series_id not in series_dict[lang]:
                 series_dict[lang].append(series_id)
 
+    # Patch real names from the latest scraped card_set field FIRST, then
+    # fill anything still empty with the code as a placeholder. Doing it in
+    # the opposite order makes _patch_names_from_json a no-op because every
+    # entry already has a (placeholder) name.
+    _patch_names_from_json(new_map)
     for code, info in new_map.items():
         if not info.get("name"):
             info["name"] = code
 
-    _patch_names_from_json(new_map)
     write_series_map(new_map)
     _print(f"series_map.yaml rewritten with {len(new_map)} sets across {len(langs)} language(s).")
 

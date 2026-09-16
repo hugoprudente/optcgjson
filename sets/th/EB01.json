@@ -1,0 +1,1947 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 563201,
+        "language": "th"
+    },
+    "data": {
+        "code": "EB01",
+        "cards": [
+            {
+                "id": "EB01-001",
+                "number": "EB01-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kouzuki Oden",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "เขียว"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "ตระกูลโคสึกิ"
+                ],
+                "block_icon": "2",
+                "effect": "เพิ่มกฎให้คาแรกเตอร์การ์ดของฝ่ายเรา ทั้งหมด ที่มีคุณสมบัติ < วาโนะคุนิ > แต่ไม่มีเคาน์เตอร์, จะมีเคาน์เตอร์ +1000. [ด้ง!! x 1] [เมื่อโจมตี] ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 5 หรือสูงกว่า และมีคุณสมบัติ < วาโนะคุนิ > อยู่ละก็, ลีดเดอร์นี้ จะมีพาวเวอร์ +1000, จนถึงช่วงเริ่มต้นเทิร์นถัดไปของเรา.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-001.png"
+            },
+            {
+                "id": "EB01-001_p1",
+                "number": "EB01-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kouzuki Oden (Parallel)",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง",
+                    "เขียว"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "ตระกูลโคสึกิ"
+                ],
+                "block_icon": "2",
+                "effect": "เพิ่มกฎให้คาแรกเตอร์การ์ดของฝ่ายเรา ทั้งหมด ที่มีคุณสมบัติ < วาโนะคุนิ > แต่ไม่มีเคาน์เตอร์, จะมีเคาน์เตอร์ +1000. [ด้ง!! x 1] [เมื่อโจมตี] ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 5 หรือสูงกว่า และมีคุณสมบัติ < วาโนะคุนิ > อยู่ละก็, ลีดเดอร์นี้ จะมีพาวเวอร์ +1000, จนถึงช่วงเริ่มต้นเทิร์นถัดไปของเรา.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-001_p1.png"
+            },
+            {
+                "id": "EB01-002",
+                "number": "EB01-002",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Izo",
+                "cost": "5",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "กลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา, จำนวน 1 ใบ. [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < วาโนะคุนิ > หรือ < กลุ่มโจรสลัดหนวดขาว >, ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -2000.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-002.png"
+            },
+            {
+                "id": "EB01-003",
+                "number": "EB01-003",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kid & Killer",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน",
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "2",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อโจมตี] ถ้าคู่แข่งมีไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, ในเทิร์นนี้, คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-003.png"
+            },
+            {
+                "id": "EB01-003_p1",
+                "number": "EB01-003",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kid & Killer (Parallel)",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน",
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดคิด"
+                ],
+                "block_icon": "2",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อโจมตี] ถ้าคู่แข่งมีไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, ในเทิร์นนี้, คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-003_p1.png"
+            },
+            {
+                "id": "EB01-004",
+                "number": "EB01-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Koza",
+                "cost": "2",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ราชอาณาจักรอลาบาสต้า"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อโจมตี] สามารถทำให้ ลีดเดอร์ของเรา ที่กำลังแอ็คทีฟอยู่ จำนวน 1 ใบ, ในเทิร์นนี้, จะมีพาวเวอร์ -5000 : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -3000.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-004.png"
+            },
+            {
+                "id": "EB01-005",
+                "number": "EB01-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Doma",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "พันธมิตรกลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-005.png"
+            },
+            {
+                "id": "EB01-006",
+                "number": "EB01-006",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ด้ง!! x 2] [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -3000.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-006.png"
+            },
+            {
+                "id": "EB01-006_p1",
+                "number": "EB01-006",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper (Parallel)",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ด้ง!! x 2] [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -3000.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-006_p1.png"
+            },
+            {
+                "id": "EB01-006_p2",
+                "number": "EB01-006",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Tony Tony.Chopper (Parallel)",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ด้ง!! x 2] [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -3000.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-006_p2.png"
+            },
+            {
+                "id": "EB01-007",
+                "number": "EB01-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Yamato",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา, จำนวน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-007.png"
+            },
+            {
+                "id": "EB01-008",
+                "number": "EB01-008",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "LittleOars Jr.",
+                "cost": "6",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "เผ่าคนยักษ์",
+                    "พันธมิตรกลุ่มโจรสลัดหนวดขาว"
+                ],
+                "block_icon": "2",
+                "effect": "[เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์นี้ กำลังจะถูก KO โดยความสามารถ, จะสามารถทิ้ง อีเวนต์ หรือ สเตจการ์ด ที่อยู่บนมือของเรา จำนวน 1 ใบ แทนได้.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-008.png"
+            },
+            {
+                "id": "EB01-009",
+                "number": "EB01-009",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Just Shut Up and Come with Us!!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "ราชอาณาจักรดรัม",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เคาน์เตอร์] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, แล้วหาคาแรกเตอร์การ์ด ที่มีคอสต์ 3 หรือต่ำกว่า และมีคุณสมบัติ < สัตว์ > จำนวนไม่เกิน 1 ใบ, นำลงสนาม. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-009.png"
+            },
+            {
+                "id": "EB01-010",
+                "number": "EB01-010",
+                "type": "R",
+                "class": "EVENT",
+                "name": "There's No Way You Could Defeat Me!!",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ตั้งต้น 5000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "W7 (Water Seven)",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เคาน์เตอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ตั้งต้น 6000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-010.png"
+            },
+            {
+                "id": "EB01-011",
+                "number": "EB01-011",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Mini-Merry",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "แดง"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ การ์ดใบนี้, และนำคาแรกเตอร์ของเรา ที่มีพาวเวอร์ตั้งต้น 1000 จำนวน 1 ใบ ไปวางที่ข้างใต้เด็ค : จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-011.png"
+            },
+            {
+                "id": "EB01-012",
+                "number": "EB01-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Cavendish",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดงดงาม"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ถ้า ลีดเดอร์ ของเรา มีคุณสมบัติ < ซูเปอร์โนวา >, และเราไม่มีคาแรกเตอร์ [Cavendish] ใบอื่น อยู่ด้วยละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 2 ใบ เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-012.png"
+            },
+            {
+                "id": "EB01-012_p1",
+                "number": "EB01-012",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Cavendish (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดงดงาม"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ถ้า ลีดเดอร์ ของเรา มีคุณสมบัติ < ซูเปอร์โนวา >, และเราไม่มีคาแรกเตอร์ [Cavendish] ใบอื่น อยู่ด้วยละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 2 ใบ เปลี่ยนเป็น แอ็คทีฟ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-012_p1.png"
+            },
+            {
+                "id": "EB01-013",
+                "number": "EB01-013",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kouzuki Hiyori",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "ตระกูลโคสึกิ"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] สามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช : นำ คาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < วาโนะคุนิ > นอกเหนือจาก [Kouzuki Hiyori] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-013.png"
+            },
+            {
+                "id": "EB01-013_p1",
+                "number": "EB01-013",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kouzuki Hiyori (Parallel)",
+                "cost": "4",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "วาโนะคุนิ",
+                    "ตระกูลโคสึกิ"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] สามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช : นำ คาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < วาโนะคุนิ > นอกเหนือจาก [Kouzuki Hiyori] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-013_p1.png"
+            },
+            {
+                "id": "EB01-014",
+                "number": "EB01-014",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Sanji",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[ด้ง!! x 1] [เทิร์นตัวเอง] คาแรกเตอร์นี้ จะมีพาวเวอร์ +1000, ต่อจำนวน ด้ง!! ของเรา ที่กำลังเรสต์อยู่ จำนวน 3 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-014.png"
+            },
+            {
+                "id": "EB01-015",
+                "number": "EB01-015",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Scratchmen Apoo",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดออนแอร์"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-015.png"
+            },
+            {
+                "id": "EB01-016",
+                "number": "EB01-016",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bingoh",
+                "cost": "1",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-016.png"
+            },
+            {
+                "id": "EB01-017",
+                "number": "EB01-017",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Blueno",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "FILM",
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-017.png"
+            },
+            {
+                "id": "EB01-018",
+                "number": "EB01-018",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mountain God",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "วาโนะคุนิ"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-018.png"
+            },
+            {
+                "id": "EB01-019",
+                "number": "EB01-019",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Off-White",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด",
+                    "กลุ่มโจรสลัดดองกีโฮเต้"
+                ],
+                "block_icon": "2",
+                "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +4000. จากนั้น, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำคาแรกเตอร์การ์ดที่มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-019.png"
+            },
+            {
+                "id": "EB01-020",
+                "number": "EB01-020",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Chambres",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เขียว"
+                ],
+                "feature": [
+                    "ซูเปอร์โนวา",
+                    "กลุ่มโจรสลัดฮาร์ท"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ซูเปอร์โนวา >, นำคาแรกเตอร์ของเรา จำนวน 1 ใบ กลับขึ้นมือของเจ้าของ, และนำคาแรกเตอร์การ์ด ที่มีคอสต์ 2 หรือต่ำกว่า และมีธีมสี แตกต่างจากคาแรกเตอร์ที่เพิ่งถูกนำกลับไป, จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-020.png"
+            },
+            {
+                "id": "EB01-021",
+                "number": "EB01-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Hannyabal",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อจบเทิร์นของเรา] สามารถนำ คาแรกเตอร์ของเรา ที่มีคอสต์ 2 หรือสูงกว่า และมีคุณสมบัติ < อิมเพลดาวน์ > จำนวน 1 ใบ กลับขึ้นมือของเจ้าของ : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-021.png"
+            },
+            {
+                "id": "EB01-021_p1",
+                "number": "EB01-021",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Hannyabal (Parallel)",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า",
+                    "ม่วง"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อจบเทิร์นของเรา] สามารถนำ คาแรกเตอร์ของเรา ที่มีคอสต์ 2 หรือสูงกว่า และมีคุณสมบัติ < อิมเพลดาวน์ > จำนวน 1 ใบ กลับขึ้นมือของเจ้าของ : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-021_p1.png"
+            },
+            {
+                "id": "EB01-022",
+                "number": "EB01-022",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Inazuma",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์",
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อจบเทิร์นของเรา] ถ้าเรามีการ์ดบนมือ จำนวน 2 ใบ หรือน้อยกว่า, จะต้องจั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-022.png"
+            },
+            {
+                "id": "EB01-022_p1",
+                "number": "EB01-022",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Inazuma (Parallel)",
+                "cost": "6",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์",
+                    "กองทัพปฏิวัติ"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อจบเทิร์นของเรา] ถ้าเรามีการ์ดบนมือ จำนวน 2 ใบ หรือน้อยกว่า, จะต้องจั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-022_p1.png"
+            },
+            {
+                "id": "EB01-023",
+                "number": "EB01-023",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Edward Weevil",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "เจ็ดเทพโจรสลัด"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-023.png"
+            },
+            {
+                "id": "EB01-024",
+                "number": "EB01-024",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Hamlet",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดร้อยอสูร",
+                    "SMILE (สไมล์)"
+                ],
+                "block_icon": "2",
+                "effect": "ถ้าเรามีการ์ดบนมือ จำนวน 4 ใบ หรือน้อยกว่า, คาแรกเตอร์ที่มีคุณสมบัติ < SMILE > ของฝ่ายเรา ทั้งหมด, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-024.png"
+            },
+            {
+                "id": "EB01-025",
+                "number": "EB01-025",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Fourtricks",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดร้อยอสูร",
+                    "SMILE (สไมล์)"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-025.png"
+            },
+            {
+                "id": "EB01-026",
+                "number": "EB01-026",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Prince Bellett",
+                "cost": "2",
+                "attribute": [
+                    "ยิง"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์"
+                ],
+                "block_icon": "2",
+                "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ถ้าเรามีการ์ดบนมือ จำนวน 1 ใบ หรือน้อยกว่า, นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-026.png"
+            },
+            {
+                "id": "EB01-027",
+                "number": "EB01-027",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.1(Daz.Bonez)",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "2",
+                "effect": "ถ้าลีดเดอร์ของเรา ระบุคำว่า [ B•W ] รวมอยู่ในคุณสมบัติ, คาแรกเตอร์นี้ จะมีพาวเวอร์ +1000, ต่อจำนวน อีเวนต์ ที่อยู่ใน แทรชของเรา จำนวน 2 ใบ. [เมื่อลงสนาม] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-027.png"
+            },
+            {
+                "id": "EB01-027_p1",
+                "number": "EB01-027",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Mr.1(Daz.Bonez) (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "2",
+                "effect": "ถ้าลีดเดอร์ของเรา ระบุคำว่า [ B•W ] รวมอยู่ในคุณสมบัติ, คาแรกเตอร์นี้ จะมีพาวเวอร์ +1000, ต่อจำนวน อีเวนต์ ที่อยู่ใน แทรชของเรา จำนวน 2 ใบ. [เมื่อลงสนาม] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-027_p1.png"
+            },
+            {
+                "id": "EB01-028",
+                "number": "EB01-028",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Gum-Gum Champion Rifle",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เคาน์เตอร์] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < อิมเพลดาวน์ >, ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000. จากนั้น, คู่แข่งจะต้องนำคาแรกเตอร์ของตัวเอง ที่กำลังแอ็คทีฟอยู่ จำนวน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-028.png"
+            },
+            {
+                "id": "EB01-029",
+                "number": "EB01-029",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Sorry. I'm a Goner.",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 8 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู",
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เคาน์เตอร์] นำการ์ดจากข้างบนเด็คของเรา จำนวน 1 ใบ มาแสดงให้ดู, และถ้าการ์ดที่ถูกนำมาแสดงให้ดู มีคอสต์ 4 หรือสูงกว่าละก็, จะได้นำคาแรกเตอร์ของเรา จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ. จากนั้น, นำการ์ดที่ถูกนำมาแสดงให้ดูไปวาง ที่ข้างใต้เด็ค.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-029.png"
+            },
+            {
+                "id": "EB01-030",
+                "number": "EB01-030",
+                "type": "C",
+                "class": "STAGE",
+                "name": "Loguetown",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ฟ้า"
+                ],
+                "feature": [
+                    "อีสต์บลู"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] สามารถนำการ์ดใบนี้ กับ การ์ดบนมือของเรา จำนวน 1 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค : จั่วการ์ด จำนวน 2 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-030.png"
+            },
+            {
+                "id": "EB01-031",
+                "number": "EB01-031",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kalifa",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7 (Water Seven)",
+                    "GC (Galley-La Company)"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < W7 >, นำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า ซึ่งอยู่ในแทรชของเรา จำนวนไม่เกิน 2 ใบ, เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-031.png"
+            },
+            {
+                "id": "EB01-031_p1",
+                "number": "EB01-031",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kalifa (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7 (Water Seven)",
+                    "GC (Galley-La Company)"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < W7 >, นำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า ซึ่งอยู่ในแทรชของเรา จำนวนไม่เกิน 2 ใบ, เพิ่มขึ้นสู่บนมือ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-031_p1.png"
+            },
+            {
+                "id": "EB01-032",
+                "number": "EB01-032",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Army Wolves",
+                "cost": "5",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สัตว์",
+                    "อิมเพลดาวน์"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-032.png"
+            },
+            {
+                "id": "EB01-033",
+                "number": "EB01-033",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Blueno",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "W7 (Water Seven)"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < W7 >, นำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 และมีคุณสมบัติ < W7 > นอกเหนือจาก [Blueno] จากบนมือของเรา หรือ จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-033.png"
+            },
+            {
+                "id": "EB01-034",
+                "number": "EB01-034",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Ms. Wednesday",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา ระบุคำว่า [B•W] รวมอยู่ในคุณสมบัติ, นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-034.png"
+            },
+            {
+                "id": "EB01-034_p1",
+                "number": "EB01-034",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Ms. Wednesday (Parallel)",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา ระบุคำว่า [B•W] รวมอยู่ในคุณสมบัติ, นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-034_p1.png"
+            },
+            {
+                "id": "EB01-035",
+                "number": "EB01-035",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ms. Monday",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "[ทริกเกอร์] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำการ์ดใบนี้ลงสนาม.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา ระบุคำว่า [B•W] รวมอยู่ในคุณสมบัติ, ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-035.png"
+            },
+            {
+                "id": "EB01-036",
+                "number": "EB01-036",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Minochihuahua",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "อิมเพลดาวน์",
+                    "อสูรคุมคุก"
+                ],
+                "block_icon": "2",
+                "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อถูก KO] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < อิมเพลดาวน์ >, นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-036.png"
+            },
+            {
+                "id": "EB01-037",
+                "number": "EB01-037",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mr. 9",
+                "cost": "3",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-037.png"
+            },
+            {
+                "id": "EB01-038",
+                "number": "EB01-038",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Oh Come My Way",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : จั่วการ์ด จำนวน 2 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "2",
+                "effect": "[เคาน์เตอร์] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา ระบุคำว่า [B•W] รวมอยู่ในคุณสมบัติ, เลือกคาแรกเตอร์ของเรา จำนวน 1 ใบ. เปลี่ยนเป้าหมายการโจมตีมาที่คาแรกเตอร์ที่ถูกเลือก.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-038.png"
+            },
+            {
+                "id": "EB01-039",
+                "number": "EB01-039",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Conquerer of Three Worlds Ragnaraku",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "สี่จักรพรรดิ",
+                    "กลุ่มโจรสลัดร้อยอสูร"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 8 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-039.png"
+            },
+            {
+                "id": "EB01-040",
+                "number": "EB01-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kyros",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถหงาย ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 0, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-040.png"
+            },
+            {
+                "id": "EB01-040_p1",
+                "number": "EB01-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kyros (Parallel)",
+                "cost": "4",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "ดำ",
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถหงาย ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 0, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-040_p1.png"
+            },
+            {
+                "id": "EB01-041",
+                "number": "EB01-041",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Crocus",
+                "cost": "6",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "อดีตกลุ่มโจรสลัดโรเจอร์"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-041.png"
+            },
+            {
+                "id": "EB01-042",
+                "number": "EB01-042",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Scarlet",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] สามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช : นำคาแรกเตอร์การ์ด ที่มีคอสต์ 3 หรือต่ำกว่า และมีคุณสมบัติ < เดรสโรซ่า > นอกเหนือจาก [Scarlet] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนามในสภาพ เรสต์. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -2.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-042.png"
+            },
+            {
+                "id": "EB01-043",
+                "number": "EB01-043",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Spandine",
+                "cost": "3",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] สามารถนำการ์ด ที่ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ ซึ่งอยู่ในแทรชของเรา จำนวน 3 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค : นำคาแรกเตอร์การ์ด ที่ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ และมีคอสต์ 4 หรือต่ำกว่า นอกเหนือจาก [Spandine] จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนามในสภาพ เรสต์.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-043.png"
+            },
+            {
+                "id": "EB01-044",
+                "number": "EB01-044",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Funkfreed",
+                "cost": "1",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ในเทิร์นนี้, [Spandam] ของฝ่ายเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-044.png"
+            },
+            {
+                "id": "EB01-045",
+                "number": "EB01-045",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดรุมบ้า"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ถ้าคู่แข่งมีคาแรกเตอร์ ที่มีคอสต์ 0 อยู่ด้วยละก็, ในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-045.png"
+            },
+            {
+                "id": "EB01-046",
+                "number": "EB01-046",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Brook",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -1. จากนั้น, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 0, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-046.png"
+            },
+            {
+                "id": "EB01-046_p1",
+                "number": "EB01-046",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Brook (Parallel)",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -1. จากนั้น, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 0, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-046_p1.png"
+            },
+            {
+                "id": "EB01-047",
+                "number": "EB01-047",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Laboon",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "สัตว์"
+                ],
+                "block_icon": "2",
+                "effect": "[เทิร์นละ 1 ครั้ง] เมื่อมีคาแรกเตอร์ของใครก็ตาม ถูก KO, จะต้องจั่วการ์ด จำนวน 1 ใบ, และทิ้งการ์ดบนมือของเรา 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-047.png"
+            },
+            {
+                "id": "EB01-048",
+                "number": "EB01-048",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Laboon",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "สัตว์"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -4.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-048.png"
+            },
+            {
+                "id": "EB01-048_p1",
+                "number": "EB01-048",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Laboon (Parallel)",
+                "cost": "4",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "สัตว์"
+                ],
+                "block_icon": "2",
+                "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -4.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-048_p1.png"
+            },
+            {
+                "id": "EB01-049",
+                "number": "EB01-049",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "T-Bone",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "W7 (Water Seven)",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-049.png"
+            },
+            {
+                "id": "EB01-049_p1",
+                "number": "EB01-049",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "T-Bone (Parallel)",
+                "cost": "5",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "W7 (Water Seven)",
+                    "กองทัพเรือ"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-049_p1.png"
+            },
+            {
+                "id": "EB01-050",
+                "number": "EB01-050",
+                "type": "C",
+                "class": "EVENT",
+                "name": "...I Want to Live!!",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "กลุ่มหมวกฟาง"
+                ],
+                "block_icon": "2",
+                "effect": "[เคาน์เตอร์] ถ้าเรามีการ์ดอยู่ใน แทรช จำนวน 30 ใบ หรือมากกว่า, นำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-050.png"
+            },
+            {
+                "id": "EB01-051",
+                "number": "EB01-051",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Finger Pistol",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "ดำ"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] สามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-051.png"
+            },
+            {
+                "id": "EB01-052",
+                "number": "EB01-052",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Viola",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] เลือก 1 อย่าง จากดังต่อไปนี้. • ดูไลฟ์ของคู่แข่งทั้งหมด, แล้วนำไปวางในลำดับใดก็ได้ ที่ตำแหน่งไลฟ์ของคู่แข่ง. • ทำให้ ไลฟ์ของเรา ทั้งหมด เปลี่ยนเป็นคว่ำ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-052.png"
+            },
+            {
+                "id": "EB01-052_p1",
+                "number": "EB01-052",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Viola (Parallel)",
+                "cost": "2",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เดรสโรซ่า"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] เลือก 1 อย่าง จากดังต่อไปนี้. • ดูไลฟ์ของคู่แข่งทั้งหมด, แล้วนำไปวางในลำดับใดก็ได้ ที่ตำแหน่งไลฟ์ของคู่แข่ง. • ทำให้ ไลฟ์ของเรา ทั้งหมด เปลี่ยนเป็นคว่ำ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-052_p1.png"
+            },
+            {
+                "id": "EB01-053",
+                "number": "EB01-053",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Gastino",
+                "cost": "3",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ของคู่แข่ง (รวมกัน) จำนวนไม่เกิน 2 ใบ, จะมีพาวเวอร์ -3000.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "นักวิทยาศาสตร์"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์ของคู่แข่ง แบบหงายหน้า.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-053.png"
+            },
+            {
+                "id": "EB01-054",
+                "number": "EB01-054",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Gan.Fall",
+                "cost": "3",
+                "attribute": [
+                    "ฟัน"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เกาะแห่งท้องฟ้า"
+                ],
+                "block_icon": "2",
+                "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้าคู่แข่งมี ไลฟ์ จำนวน 1 ใบ หรือน้อยกว่า, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-054.png"
+            },
+            {
+                "id": "EB01-055",
+                "number": "EB01-055",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Charlotte Compote",
+                "cost": "7",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "2",
+                "effect": "-",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-055.png"
+            },
+            {
+                "id": "EB01-056",
+                "number": "EB01-056",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Flampe",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-056.png"
+            },
+            {
+                "id": "EB01-056_p1",
+                "number": "EB01-056",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Charlotte Flampe (Parallel)",
+                "cost": "1",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "2000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กลุ่มโจรสลัดบิ๊กมัม"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : จั่วการ์ด จำนวน 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-056_p1.png"
+            },
+            {
+                "id": "EB01-057",
+                "number": "EB01-057",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Shirahoshi",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก"
+                ],
+                "block_icon": "2",
+                "effect": "เมื่อคาแรกเตอร์นี้ถูก KO โดยความสามารถของคู่แข่ง, จะต้องนำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์. [บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-057.png"
+            },
+            {
+                "id": "EB01-057_p1",
+                "number": "EB01-057",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Shirahoshi (Parallel)",
+                "cost": "2",
+                "attribute": [
+                    "ปัญญา"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เผ่าเงือก"
+                ],
+                "block_icon": "2",
+                "effect": "เมื่อคาแรกเตอร์นี้ถูก KO โดยความสามารถของคู่แข่ง, จะต้องนำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์. [บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-057_p1.png"
+            },
+            {
+                "id": "EB01-058",
+                "number": "EB01-058",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Mont Blanc Cricket",
+                "cost": "2",
+                "attribute": [
+                    "ตี"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "กองกำลังผสมภูเขาวานร"
+                ],
+                "block_icon": "2",
+                "effect": "[ด้ง!! x 1] [เทิร์นตัวเอง] ถ้าเรามี ไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-058.png"
+            },
+            {
+                "id": "EB01-059",
+                "number": "EB01-059",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Kingdom Come",
+                "cost": "6",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีค่าคอสต์ไม่สูงไปกว่า ผลรวมของจำนวน ไลฟ์ ของทั้งสองฝ่าย, จำนวนไม่เกิน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เกาะแห่งท้องฟ้า"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] ทำการ KO คาแรกเตอร์ของคู่แข่ง, จำนวนไม่เกิน 1 ใบ. จากนั้น, จะต้องนำการ์ดใบบนสุดจาก ไลฟ์ของเรา ไปวางที่แทรช, จนกระทั่งฝ่ายเรามีไลฟ์ เท่ากับ 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-059.png"
+            },
+            {
+                "id": "EB01-060",
+                "number": "EB01-060",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Did Someone Say...Kami?",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "เหลือง"
+                ],
+                "feature": [
+                    "เกาะแห่งท้องฟ้า"
+                ],
+                "block_icon": "2",
+                "effect": "[เมน] นำ [Enel] ที่มีคอสต์ 7 หรือต่ำกว่า จากบนมือของเรา หรือ จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, จะต้องนำการ์ดใบบนสุดจาก ไลฟ์ของเรา ไปวางที่แทรช, จนกระทั่งฝ่ายเรามีไลฟ์ เท่ากับ 1 ใบ.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-060.png"
+            },
+            {
+                "id": "EB01-061",
+                "number": "EB01-061",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Mr.2.Bon.Kurei(Bentham)",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "อดีต B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ. [เมื่อโจมตี] เลือกคาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ. ในเทิร์นนี้, ค่าพาวเวอร์ตั้งต้น ของคาแรกเตอร์นี้, จะกลายเป็นเท่ากับ ค่าพาวเวอร์ของ คาแรกเตอร์ที่เลือก.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-061.png"
+            },
+            {
+                "id": "EB01-061_p1",
+                "number": "EB01-061",
+                "type": "SEC",
+                "class": "CHARACTER",
+                "name": "Mr.2.Bon.Kurei(Bentham) (Parallel)",
+                "cost": "4",
+                "attribute": [
+                    "พิเศษ"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "ม่วง"
+                ],
+                "feature": [
+                    "อดีต B•W (บาร็อคเวิร์กส์)"
+                ],
+                "block_icon": "2",
+                "effect": "[เมื่อลงสนาม] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ. [เมื่อโจมตี] เลือกคาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ. ในเทิร์นนี้, ค่าพาวเวอร์ตั้งต้น ของคาแรกเตอร์นี้, จะกลายเป็นเท่ากับ ค่าพาวเวอร์ของ คาแรกเตอร์ที่เลือก.",
+                "card_set": "-Memorial Collection- [EB-01]",
+                "image_url": "https://asia-th.onepiece-cardgame.com/images/cardlist/card/EB01-061_p1.png"
+            }
+        ]
+    }
+}

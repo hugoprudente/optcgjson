@@ -1,0 +1,4048 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 616010412,
+        "language": "ko"
+    },
+    "data": {
+        "code": "OP07",
+        "cards": [
+            {
+                "id": "OP07-001",
+                "number": "OP07-001",
+                "type": "L",
+                "class": "리더",
+                "name": "몽키 D. 드래곤",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 부여되어 있는 두웅!!을 합계 2장까지 자신의 캐릭터 1장에게 부여한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174004_528d58d487"
+            },
+            {
+                "id": "OP07-001_P1",
+                "number": "OP07-001",
+                "type": "L",
+                "class": "리더",
+                "name": "몽키 D. 드래곤",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 부여되어 있는 두웅!!을 합계 2장까지 자신의 캐릭터 1장에게 부여한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174012_a546062298"
+            },
+            {
+                "id": "OP07-002",
+                "number": "OP07-002",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "아인",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "NEO 해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】이번 턴 동안, 상대의 캐릭터 1장까지의 파워를 0으로 한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174018_bce8825711"
+            },
+            {
+                "id": "OP07-003",
+                "number": "OP07-003",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "아웃룩 3세",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "고아 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 이번 턴 동안, 상대의 캐릭터 2장까지의 파워 -2000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174024_ce08ad3d1a"
+            },
+            {
+                "id": "OP07-004",
+                "number": "OP07-004",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "컬리 다단",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "산적"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패 1장을 버릴 수 있다: 자신의 덱 위에서 5장을 보고 파워 2000 이하인 캐릭터 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174035_d886bc5c91"
+            },
+            {
+                "id": "OP07-005",
+                "number": "OP07-005",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "카리나",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "그랑 테소로"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -2000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174048_009a45b175"
+            },
+            {
+                "id": "OP07-005_P1",
+                "number": "OP07-005",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "카리나",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "그랑 테소로"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -2000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174129_24666a811f"
+            },
+            {
+                "id": "OP07-006",
+                "number": "OP07-006",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "스테리",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "고아 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】이번 턴 동안, 자신의 액티브 상태인 리더 1장의 파워를 -5000 할 수 있다: 카드를 1장 뽑고, 자신의 패 1장을 버린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174136_d98a12bce3"
+            },
+            {
+                "id": "OP07-007",
+                "number": "OP07-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "다이스",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "그랑 테소로"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174144_b90f05356d"
+            },
+            {
+                "id": "OP07-008",
+                "number": "OP07-008",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "다나카 씨",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "【트리거】이 카드를 등장시킨다.",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "그랑 테소로"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174151_87d1757802"
+            },
+            {
+                "id": "OP07-009",
+                "number": "OP07-009",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "도구라 & 마구라",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "산적"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】이번 턴 동안, 자신의 코스트 1인 적색 캐릭터 1장까지는 【더블 어택】을 얻는다.\r\n(이 카드가 주는 대미지는 2가 된다)",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174158_c7f963e402"
+            },
+            {
+                "id": "OP07-010",
+                "number": "OP07-010",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "바카라",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "FILM",
+                    "그랑 테소로"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【상대의 어택 시】【턴 1회】자신의 패 1장을 버릴 수 있다: 이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174204_307554d427"
+            },
+            {
+                "id": "OP07-011",
+                "number": "OP07-011",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "블루잼",
+                "cost": "4",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "고아 왕국",
+                    "블루잼 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】상대의 파워 2000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174213_99581c276c"
+            },
+            {
+                "id": "OP07-012",
+                "number": "OP07-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "포르쉐미",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "고아 왕국",
+                    "블루잼 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -1000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174223_6c5e81eea8"
+            },
+            {
+                "id": "OP07-013",
+                "number": "OP07-013",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "마스크드 듀스",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "스페이드 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 리더가 「포트거스 D. 에이스」인 경우, 자신의 덱 위에서 5장을 보고 「포트거스 D. 에이스」 또는 적색 이벤트를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174232_87b54f340d"
+            },
+            {
+                "id": "OP07-014",
+                "number": "OP07-014",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "모다",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "루루시아 왕국"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【등장 시】이번 턴 동안, 자신의 「포트거스 D. 에이스」 1장까지의 파워 +2000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174242_6dd0ed35b7"
+            },
+            {
+                "id": "OP07-015",
+                "number": "OP07-015",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "몽키 D. 드래곤",
+                "cost": "8",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)\r\n【등장 시】자신의 리더 또는 캐릭터 1장에게 레스트 상태인 두웅!!을 2장까지 부여한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174416_aca9673740"
+            },
+            {
+                "id": "OP07-015_P1",
+                "number": "OP07-015",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "몽키 D. 드래곤",
+                "cost": "8",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)\r\n【등장 시】자신의 리더 또는 캐릭터 1장에게 레스트 상태인 두웅!!을 2장까지 부여한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174425_1fd8da06d0"
+            },
+            {
+                "id": "OP07-016",
+                "number": "OP07-016",
+                "type": "R",
+                "class": "이벤트",
+                "name": "갤럭시 WINK",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【트리거】이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】이번 턴 동안, 자신의 《혁명군》 특징을 가진 캐릭터 1장까지의 파워 +2000. 그 후, 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -1000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174433_776c9935f1"
+            },
+            {
+                "id": "OP07-017",
+                "number": "OP07-017",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "용의 숨결",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【트리거】이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】상대의 파워 3000 이하인 캐릭터 1장까지와 코스트 1 이하인 스테이지 1장까지를 KO 시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174452_a17ee942a9"
+            },
+            {
+                "id": "OP07-018",
+                "number": "OP07-018",
+                "type": "C",
+                "class": "이벤트",
+                "name": "KEEP OUT",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【트리거】이 카드의 【카운터】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "임펠 다운",
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】다음 자신의 턴 종료 시까지, 자신의 《혁명군》 특징을 가진 캐릭터 1장까지의 파워 +2000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174500_53ab4bfadb"
+            },
+            {
+                "id": "OP07-019",
+                "number": "OP07-019",
+                "type": "L",
+                "class": "리더",
+                "name": "쥬얼리 보니",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "보니 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【상대의 어택 시】【턴 1회】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 상대의 리더 또는 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174617_e997078ddc"
+            },
+            {
+                "id": "OP07-019_P1",
+                "number": "OP07-019",
+                "type": "L",
+                "class": "리더",
+                "name": "쥬얼리 보니",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "보니 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【상대의 어택 시】【턴 1회】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 상대의 리더 또는 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174623_2aaecbb908"
+            },
+            {
+                "id": "OP07-020",
+                "number": "OP07-020",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "알라딘",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "인어족",
+                    "태양 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【KO 시】자신의 리더가 《어인족》 특징을 가진 경우, 자신의 패에서 코스트 3 이하인 《어인족》 또는 《인어족》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174628_5ed2a955ac"
+            },
+            {
+                "id": "OP07-021",
+                "number": "OP07-021",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "우루지",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "파계승 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【자신의 턴 종료 시】자신의 두웅!!을 1장까지 액티브로 한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174635_cb51268dfd"
+            },
+            {
+                "id": "OP07-022",
+                "number": "OP07-022",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "오타마",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「오타마」 이외의 녹색인 《와노쿠니》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174700_541cea24eb"
+            },
+            {
+                "id": "OP07-022_P1",
+                "number": "OP07-022",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "오타마",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「오타마」 이외의 녹색인 《와노쿠니》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174728_329fbcbf77"
+            },
+            {
+                "id": "OP07-023",
+                "number": "OP07-023",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "카리브",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "카리브 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 레스트 상태인 두웅!!이 6장 이상인 경우, 이 캐릭터의 파워 +1000.\r\n【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174734_8ba0582710"
+            },
+            {
+                "id": "OP07-024",
+                "number": "OP07-024",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "코알라",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "풀 샤우트 섬"
+                ],
+                "block_icon": "2",
+                "effect": "【상대의 어택 시】이 캐릭터를 레스트할 수 있다: 이번 턴 동안, 자신의 코스트 5 이하인 《어인족》 특징을 가진 캐릭터는 【블로커】를 얻는다.\r\n(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174743_af879a708c"
+            },
+            {
+                "id": "OP07-025",
+                "number": "OP07-025",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "코리브",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "카리브 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패에서 코스트 4 이하인 「카리브」를 1장까지 레스트 상태로 등장시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174750_b8376b8e54"
+            },
+            {
+                "id": "OP07-026",
+                "number": "OP07-026",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "쥬얼리 보니",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "보니 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 레스트 상태인 캐릭터 또는 두웅!! 1장까지는 다음 상대의 리프레시 페이즈에 액티브 되지 않는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174759_6275d07c99"
+            },
+            {
+                "id": "OP07-026_P1",
+                "number": "OP07-026",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "쥬얼리 보니",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "보니 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 레스트 상태인 캐릭터 또는 두웅!! 1장까지는 다음 상대의 리프레시 페이즈에 액티브 되지 않는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174806_61bfc02c60"
+            },
+            {
+                "id": "OP07-027",
+                "number": "OP07-027",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "징베",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "태양 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174815_885047711f"
+            },
+            {
+                "id": "OP07-028",
+                "number": "OP07-028",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "스크래치멘 아푸",
+                "cost": "6",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "온에어 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174826_3a82d6346e"
+            },
+            {
+                "id": "OP07-029",
+                "number": "OP07-029",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "바질 호킨스",
+                "cost": "6",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "호킨스 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 리더가 《초신성》 특징을 가진 경우, 이 캐릭터는 【블로커】를 얻는다.\r\n(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【턴 1회】이 캐릭터가 상대의 효과로 필드를 벗어날 경우, 대신 상대의 캐릭터 1장을 레스트로 할 수 있다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174836_59e9111083"
+            },
+            {
+                "id": "OP07-029_P1",
+                "number": "OP07-029",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "바질 호킨스",
+                "cost": "6",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "호킨스 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 리더가 《초신성》 특징을 가진 경우, 이 캐릭터는 【블로커】를 얻는다.\r\n(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【턴 1회】이 캐릭터가 상대의 효과로 필드를 벗어날 경우, 대신 상대의 캐릭터 1장을 레스트로 할 수 있다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174844_8c98bca951"
+            },
+            {
+                "id": "OP07-030",
+                "number": "OP07-030",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "파파구",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "동물"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 캐릭터인 「케이미」가 있을 경우, 이 캐릭터는 【블로커】를 얻는다.\r\n(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174921_3aa7709ebe"
+            },
+            {
+                "id": "OP07-031",
+                "number": "OP07-031",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "바르톨로메오",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "바르토 클럽"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【자신의 턴 동안】【턴 1회】캐릭터가 자신의 효과로 레스트 되었을 때, 카드를 1장 뽑고, 자신의 패 1장을 버린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174928_0982263140"
+            },
+            {
+                "id": "OP07-032",
+                "number": "OP07-032",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "피셔 타이거",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족",
+                    "태양 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "이 캐릭터는 등장한 턴에 캐릭터를 어택할 수 있다.\r\n【등장 시】자신의 리더가 《어인족》 또는 《인어족》 특징을 가진 경우, 상대의 코스트 6 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174934_07264c7fc5"
+            },
+            {
+                "id": "OP07-033",
+                "number": "OP07-033",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 캐릭터가 3장 이상인 경우, 자신의 「몽키 D. 루피」 이외의 코스트 3 이하인 캐릭터는 상대의 효과로는 KO 당하지 않는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174946_62f2ec3911"
+            },
+            {
+                "id": "OP07-034",
+                "number": "OP07-034",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "롤로노아 조로",
+                "cost": "1",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】자신의 캐릭터가 3장 이상인 경우, 이번 턴 동안, 이 캐릭터의 파워 +2000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174951_4eaf983d60"
+            },
+            {
+                "id": "OP07-035",
+                "number": "OP07-035",
+                "type": "C",
+                "class": "이벤트",
+                "name": "인과응보",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【트리거】상대의 레스트 상태이고 코스트 4 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "파계승 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000. 그 후, 자신의 캐릭터가 3장 이상인 경우, 이번 배틀 동안, 그 카드의 파워 +1000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_174959_3c788648e5"
+            },
+            {
+                "id": "OP07-036",
+                "number": "OP07-036",
+                "type": "R",
+                "class": "이벤트",
+                "name": "귀기 구검류 아수라 마구섬",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【트리거】상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +3000. 그 후, 자신의 코스트 3 이상인 캐릭터 1장을 레스트할 수 있다. 레스트한 경우, 상대의 코스트 5 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175005_438385e5cd"
+            },
+            {
+                "id": "OP07-037",
+                "number": "OP07-037",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "피자 추~~가아~~!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【트리거】카드를 1장 뽑는다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "보니 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】자신의 덱 위에서 5장을 보고, 「피자 추~~가아~~!!!」 이외의 《초신성》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175012_8bc84eb6a3"
+            },
+            {
+                "id": "OP07-038",
+                "number": "OP07-038",
+                "type": "L",
+                "class": "리더",
+                "name": "보아 행콕",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "구사 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【턴 1회】캐릭터가 자신의 효과로 필드를 벗어났을 때, 발동할 수 있다. 자신의 패가 5장 이하인 경우, 카드를 1장 뽑는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175018_c86135ec17"
+            },
+            {
+                "id": "OP07-038_P1",
+                "number": "OP07-038",
+                "type": "L",
+                "class": "리더",
+                "name": "보아 행콕",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "구사 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【턴 1회】캐릭터가 자신의 효과로 필드를 벗어났을 때, 발동할 수 있다. 자신의 패가 5장 이하인 경우, 카드를 1장 뽑는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175027_0b9ea16784"
+            },
+            {
+                "id": "OP07-039",
+                "number": "OP07-039",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "에드워드 위블",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】자신의 덱 위에서 3장을 보고, 원하는 순서대로 덱 맨 위나 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175130_6f071e2797"
+            },
+            {
+                "id": "OP07-040",
+                "number": "OP07-040",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "크로커다일",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "바로크 워크스"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 코스트 2 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175136_ce22a3ad72"
+            },
+            {
+                "id": "OP07-041",
+                "number": "OP07-041",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "글로리오사 (뇽 할멈)",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "아마존 릴리"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「글로리오사 (뇽 할멈)」 이외의 《아마존 릴리》 또는 《구사 해적단》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175143_7e5cc9ec36"
+            },
+            {
+                "id": "OP07-042",
+                "number": "OP07-042",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "겟코 모리아",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【턴 1회】자신의 리더가 《왕의 부하 칠무해》 특징을 가지고, 이 캐릭터가 상대의 효과로 필드를 벗어날 경우, 대신 자신의 「겟코 모리아」 이외의 캐릭터 1장을 주인의 덱 맨 아래로 되돌릴 수 있다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175150_b5c62e24a7"
+            },
+            {
+                "id": "OP07-043",
+                "number": "OP07-043",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "살로메",
+                "cost": "1",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "동물",
+                    "구사 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【등장 시】이번 턴 동안, 자신의 「보아 행콕」 1장까지의 파워 +2000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175158_7d1b8a1953"
+            },
+            {
+                "id": "OP07-044",
+                "number": "OP07-044",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "쥬라큘 미호크",
+                "cost": "8",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】카드를 1장 뽑는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175208_5661a13653"
+            },
+            {
+                "id": "OP07-045",
+                "number": "OP07-045",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "징베",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "어인족",
+                    "왕의 부하 칠무해",
+                    "태양 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패에서 「징베」 이외의 코스트 4 이하인 《왕의 부하 칠무해》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175216_14a6ff18f6"
+            },
+            {
+                "id": "OP07-045_P1",
+                "number": "OP07-045",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "징베",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "어인족",
+                    "왕의 부하 칠무해",
+                    "태양 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패에서 「징베」 이외의 코스트 4 이하인 《왕의 부하 칠무해》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175222_57d0baeece"
+            },
+            {
+                "id": "OP07-046",
+                "number": "OP07-046",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "센고쿠",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 《왕의 부하 칠무해》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175229_58e35deedf"
+            },
+            {
+                "id": "OP07-046_P1",
+                "number": "OP07-046",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "센고쿠",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 《왕의 부하 칠무해》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175236_0e1250b315"
+            },
+            {
+                "id": "OP07-047",
+                "number": "OP07-047",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "트라팔가 로",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "하트 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 주인의 패로 되돌릴 수 있다: 상대의 패가 6장 이상인 경우, 상대는 자신의 패 1장을 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175312_9ecf5f08bc"
+            },
+            {
+                "id": "OP07-047_P1",
+                "number": "OP07-047",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "트라팔가 로",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "2000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "하트 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 주인의 패로 되돌릴 수 있다: 상대의 패가 6장 이상인 경우, 상대는 자신의 패 1장을 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175336_7e4c668058"
+            },
+            {
+                "id": "OP07-048",
+                "number": "OP07-048",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "돈키호테 도플라밍고",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】②(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 자신의 덱 맨 위를 공개하고, 그 카드가 코스트 4 이하인 《왕의 부하 칠무해》 특징을 가진 캐릭터 카드인 경우, 레스트 상태로 등장시킬 수 있다. 그 후, 남은 카드를 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175346_2f57c63963"
+            },
+            {
+                "id": "OP07-049",
+                "number": "OP07-049",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "버킨",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "위블의 어머니"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패에서 코스트 4 이하인 「에드워드 위블」을 1장까지 레스트 상태로 등장시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175355_c0caa38cd8"
+            },
+            {
+                "id": "OP07-050",
+                "number": "OP07-050",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "보아 썬더소니아",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "구사 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신 필드에 《아마존 릴리》 또는 《구사 해적단》 특징을 가진 캐릭터가 2장 이상인 경우, 상대의 코스트 3 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175402_cfdca6c09d"
+            },
+            {
+                "id": "OP07-051",
+                "number": "OP07-051",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "보아 행콕",
+                "cost": "6",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "구사 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】다음 상대의 턴 종료 시까지, 상대의 「몽키 D. 루피」 이외의 캐릭터 1장까지는 어택할 수 없다. 그 후, 코스트 1 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175411_2700963f95"
+            },
+            {
+                "id": "OP07-051_P1",
+                "number": "OP07-051",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "보아 행콕",
+                "cost": "6",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "구사 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】다음 상대의 턴 종료 시까지, 상대의 「몽키 D. 루피」 이외의 캐릭터 1장까지는 어택할 수 없다. 그 후, 코스트 1 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175417_dcfebe243f"
+            },
+            {
+                "id": "OP07-051_P2",
+                "number": "OP07-051",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "보아 행콕",
+                "cost": "6",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "구사 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】다음 상대의 턴 종료 시까지, 상대의 「몽키 D. 루피」 이외의 캐릭터 1장까지는 어택할 수 없다. 그 후, 코스트 1 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175423_83080ba8d5"
+            },
+            {
+                "id": "OP07-052",
+                "number": "OP07-052",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "보아 마리골드",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "구사 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신 필드에 《아마존 릴리》 또는 《구사 해적단》 특징을 가진 캐릭터가 2장 이상인 경우, 코스트 2 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175431_c843cf557f"
+            },
+            {
+                "id": "OP07-053",
+                "number": "OP07-053",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "포트거스 D. 에이스",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】카드를 2장 뽑고, 자신의 패 2장을 원하는 순서대로 덱 맨 위나 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175437_758af5639a"
+            },
+            {
+                "id": "OP07-054",
+                "number": "OP07-054",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "마가렛",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "아마존 릴리"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】카드를 1장 뽑는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175511_279aab1479"
+            },
+            {
+                "id": "OP07-055",
+                "number": "OP07-055",
+                "type": "C",
+                "class": "이벤트",
+                "name": "스네이크 댄스",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【트리거】자신의 캐릭터 1장을 주인의 패로 되돌릴 수 있다: 상대의 코스트 5 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "구사 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000. 그 후, 자신의 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175517_d35d014975"
+            },
+            {
+                "id": "OP07-056",
+                "number": "OP07-056",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "슬레이브 애로우",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【트리거】카드를 2장 뽑고, 자신의 패 2장을 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "구사 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】자신의 코스트 2 이상인 캐릭터 1장을 주인의 패로 되돌릴 수 있다: 이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175524_d4aed08b60"
+            },
+            {
+                "id": "OP07-057",
+                "number": "OP07-057",
+                "type": "R",
+                "class": "이벤트",
+                "name": "퍼퓸 피머",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【트리거】카드를 1장 뽑는다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "구사 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】이번 턴 동안, 자신의 《왕의 부하 칠무해》 특징을 가진 리더 또는 캐릭터를 1장까지 선택해 파워 +2000. 그 후, 이번 턴 동안, 선택한 카드가 어택할 경우 상대는 【블로커】를 발동할 수 없다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175530_7bfdedc567"
+            },
+            {
+                "id": "OP07-058",
+                "number": "OP07-058",
+                "type": "C",
+                "class": "스테이지",
+                "name": "여인섬",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "아마존 릴리"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】자신의 패 1장을 버리고, 이 스테이지를 레스트할 수 있다: 자신의 리더가 《구사 해적단》 특징을 가진 경우, 자신의 《아마존 릴리》 또는 《구사 해적단》 특징을 가진 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175538_30666e5e59"
+            },
+            {
+                "id": "OP07-059",
+                "number": "OP07-059",
+                "type": "L",
+                "class": "리더",
+                "name": "폭시",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】두웅!!-3(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 《폭시 해적단》 특징을 가진 캐릭터가 3장 이상인 경우, 상대의 레스트 상태인 리더와 캐릭터를 1장까지 선택한다. 선택한 카드는 다음 상대의 리프레시 페이즈에 액티브 되지 않는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175546_f13c108657"
+            },
+            {
+                "id": "OP07-059_P1",
+                "number": "OP07-059",
+                "type": "L",
+                "class": "리더",
+                "name": "폭시",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】두웅!!-3(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 《폭시 해적단》 특징을 가진 캐릭터가 3장 이상인 경우, 상대의 레스트 상태인 리더와 캐릭터를 1장까지 선택한다. 선택한 카드는 다음 상대의 리프레시 페이즈에 액티브 되지 않는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175555_5144fd900c"
+            },
+            {
+                "id": "OP07-060",
+                "number": "OP07-060",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "이토미미즈",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】자신의 리더가 《폭시 해적단》 특징을 가지고, 자신의 다른 「이토미미즈」가 없을 경우, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175601_972ec26602"
+            },
+            {
+                "id": "OP07-061",
+                "number": "OP07-061",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "빈스모크 상디",
+                "cost": "1",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "제르마 왕국",
+                    "빈스모크 가문"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 리더가 《빈스모크 가문》 특징을 가진 경우, 카드를 1장 뽑는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175612_473ec1cddd"
+            },
+            {
+                "id": "OP07-062",
+                "number": "OP07-062",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "빈스모크 레이주",
+                "cost": "1",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "제르마 왕국",
+                    "빈스모크 가문"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 자신의 코스트 1인 《빈스모크 가문》 특징을 가진 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175621_a628b14fd1"
+            },
+            {
+                "id": "OP07-063",
+                "number": "OP07-063",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "카포티",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "어인족",
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 리더가 《폭시 해적단》 특징을 가진 경우, 상대의 코스트 6 이하인 캐릭터 1장까지는 다음 상대의 턴 종료시까지 어택할 수 없다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175700_2adc8080d8"
+            },
+            {
+                "id": "OP07-064",
+                "number": "OP07-064",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "상디",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "패의 이 카드는 자신 필드의 두웅!! 수가 상대 필드의 두웅!! 수보다 2장 이상 적을 경우, 코스트 -3.\r\n【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175707_1b079f0d40"
+            },
+            {
+                "id": "OP07-064_P1",
+                "number": "OP07-064",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "상디",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "패의 이 카드는 자신 필드의 두웅!! 수가 상대 필드의 두웅!! 수보다 2장 이상 적을 경우, 코스트 -3.\r\n【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175713_c251dc6861"
+            },
+            {
+                "id": "OP07-065",
+                "number": "OP07-065",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "지나",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 리더가 《폭시 해적단》 특징을 가지고, 자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175720_24a2fe8dd5"
+            },
+            {
+                "id": "OP07-066",
+                "number": "OP07-066",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "토니토니 쵸파",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "동물",
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175728_0445a28c72"
+            },
+            {
+                "id": "OP07-067",
+                "number": "OP07-067",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "톤지토",
+                "cost": "1",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "롱 링 롱 랜드"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175739_6c948ba913"
+            },
+            {
+                "id": "OP07-068",
+                "number": "OP07-068",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "햄버그",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175751_089b3c133e"
+            },
+            {
+                "id": "OP07-069",
+                "number": "OP07-069",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "피클스",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 자신의 「피클스」 이외의 《폭시 해적단》 특징을 가진 캐릭터는 상대의 효과로는 KO 당하지 않는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175801_db67086930"
+            },
+            {
+                "id": "OP07-070",
+                "number": "OP07-070",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "빅빵",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "거인족",
+                    "어인족",
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 자신의 패에서 코스트 4 이하인 《폭시 해적단》 특징을 가진 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175810_ad7a98e4fe"
+            },
+            {
+                "id": "OP07-071",
+                "number": "OP07-071",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "폭시",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【상대의 턴 동안】자신의 리더가 《폭시 해적단》 특징을 가진 경우, 상대의 모든 캐릭터의 파워 -1000.\r\n【기동: 메인】【턴 1회】두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175819_b11038e3d7"
+            },
+            {
+                "id": "OP07-071_P1",
+                "number": "OP07-071",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "폭시",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【상대의 턴 동안】자신의 리더가 《폭시 해적단》 특징을 가진 경우, 상대의 모든 캐릭터의 파워 -1000.\r\n【기동: 메인】【턴 1회】두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175848_31c0ffd793"
+            },
+            {
+                "id": "OP07-072",
+                "number": "OP07-072",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "포르체",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 덱 위에서 5장을 보고, 《폭시 해적단》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌리고, 자신의 패에서 파워 4000 이하인 자색 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175857_3895a65212"
+            },
+            {
+                "id": "OP07-072_P1",
+                "number": "OP07-072",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "포르체",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 덱 위에서 5장을 보고, 《폭시 해적단》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌리고, 자신의 패에서 파워 4000 이하인 자색 캐릭터 카드를 1장까지 등장시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175904_a882ec76a8"
+            },
+            {
+                "id": "OP07-073",
+                "number": "OP07-073",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】【턴 1회】두웅!!-3(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 캐릭터가 3장 이상인 경우, 이 캐릭터를 액티브로 한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175912_3f8e082728"
+            },
+            {
+                "id": "OP07-074",
+                "number": "OP07-074",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "몬다",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "동물",
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 자신의 리더가 《폭시 해적단》 특징을 가진 경우, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175918_a522504690"
+            },
+            {
+                "id": "OP07-075",
+                "number": "OP07-075",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "느릿느릿 빔-",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 이번 턴 동안, 상대의 리더와 캐릭터 1장까지의 파워 -2000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175926_8341d0b210"
+            },
+            {
+                "id": "OP07-076",
+                "number": "OP07-076",
+                "type": "C",
+                "class": "이벤트",
+                "name": "느릿느릿 빔 소드",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【트리거】두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000. 그 후, 상대의 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175934_a08d7f4d06"
+            },
+            {
+                "id": "OP07-077",
+                "number": "OP07-077",
+                "type": "R",
+                "class": "이벤트",
+                "name": "'원피스'를 차지하러 간다!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【트리거】이 카드의 【메인】 효과를 발동한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "사황",
+                    "와노쿠니"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】자신의 리더가 《백수 해적단》 또는 《빅 맘 해적단》 특징을 가진 경우, 자신의 덱 위에서 5장을 보고, 《백수 해적단》 또는 《빅 맘 해적단》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175943_3c00bc9dd1"
+            },
+            {
+                "id": "OP07-078",
+                "number": "OP07-078",
+                "type": "C",
+                "class": "이벤트",
+                "name": "메가톤 구미호 러쉬",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【트리거】두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "폭시 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】자신 필드의 두웅!!이 상대 필드의 두웅!! 수 이하인 경우, 자신의 「폭시」를 1장까지 액티브로 한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175949_a67f4e8b09"
+            },
+            {
+                "id": "OP07-079",
+                "number": "OP07-079",
+                "type": "L",
+                "class": "리더",
+                "name": "로브 루치",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】자신의 덱 위에서 2장을 트래시에 놓을 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -1.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_175955_87351e12b8"
+            },
+            {
+                "id": "OP07-079_P1",
+                "number": "OP07-079",
+                "type": "L",
+                "class": "리더",
+                "name": "로브 루치",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】자신의 덱 위에서 2장을 트래시에 놓을 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -1.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180120_ccc63256a8"
+            },
+            {
+                "id": "OP07-080",
+                "number": "OP07-080",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "카쿠",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 트래시에서 『CP』를 포함한 특징을 가진 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -3.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180129_c43cd6d9a1"
+            },
+            {
+                "id": "OP07-081",
+                "number": "OP07-081",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "칼리파",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【자신의 턴 동안】상대의 모든 캐릭터의 코스트 -1.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180137_56b564da33"
+            },
+            {
+                "id": "OP07-082",
+                "number": "OP07-082",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "캡틴 존",
+                "cost": "2",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "스릴러 바크 해적단",
+                    "전 록스 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 2장을 트래시에 놓고, 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -1.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180145_7f1430e8a5"
+            },
+            {
+                "id": "OP07-083",
+                "number": "OP07-083",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "겟코 모리아",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "스릴러 바크 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】자신의 트래시에서 《스릴러 바크 해적단》 특징을 가진 카드 4장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 이번 턴 동안, 이 캐릭터는 【배니시】를 얻고, 파워 +1000.\r\n(이 카드가 대미지를 주었을 경우, 트리거는 발동하지 않으며 그 카드는 트래시로 보내진다)",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180152_614ac541dd"
+            },
+            {
+                "id": "OP07-084",
+                "number": "OP07-084",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "지스몬다",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180201_1c6fa914c7"
+            },
+            {
+                "id": "OP07-085",
+                "number": "OP07-085",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "스튜시",
+                "cost": "9",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 캐릭터 1장을 트래시에 놓을 수 있다: 상대의 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180216_c7c772c066"
+            },
+            {
+                "id": "OP07-085_P1",
+                "number": "OP07-085",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "스튜시",
+                "cost": "9",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 캐릭터 1장을 트래시에 놓을 수 있다: 상대의 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180222_8ed6381f9a"
+            },
+            {
+                "id": "OP07-086",
+                "number": "OP07-086",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "스팬담",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 2장을 트래시에 놓고, 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -2.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180229_1e436321a5"
+            },
+            {
+                "id": "OP07-087",
+                "number": "OP07-087",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "바스카빌",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "세계정부"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】상대의 코스트 0인 캐릭터가 있을 경우, 이 캐릭터의 파워 +3000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180237_b8a8524ddb"
+            },
+            {
+                "id": "OP07-088",
+                "number": "OP07-088",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "핫토리",
+                "cost": "1",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "0",
+                "counter": "2000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "동물",
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【등장 시】이번 턴 동안, 자신의 「로브 루치」 1장까지의 파워 +2000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180304_9b24bcebb8"
+            },
+            {
+                "id": "OP07-089",
+                "number": "OP07-089",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "마하",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180312_d517ea582e"
+            },
+            {
+                "id": "OP07-090",
+                "number": "OP07-090",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "모르건즈",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "저널리스트"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대는 자신의 패 1장을 버리고, 패를 공개한다. 그 후, 상대는 카드를 1장 뽑는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180319_77ef26a9a8"
+            },
+            {
+                "id": "OP07-091",
+                "number": "OP07-091",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】상대의 코스트 2 이하인 캐릭터를 1장까지 트래시로 보낸다. 그 후, 자신의 트래시에서 코스트 4 이상인 캐릭터 카드를 원하는 수만큼 원하는 순서대로 덱 맨 아래로 되돌린다. 되돌린 수 3장당, 이번 턴 동안, 이 캐릭터의 파워 +1000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180326_31555f9799"
+            },
+            {
+                "id": "OP07-092",
+                "number": "OP07-092",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "요셉",
+                "cost": "1",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 트래시에서 『CP』를 포함한 특징을 가진 카드 2장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 상대의 코스트 1 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180334_dc42e6489e"
+            },
+            {
+                "id": "OP07-093",
+                "number": "OP07-093",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "로브 루치",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP0"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 트래시에서 카드 3장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 상대는 자신의 패 1장을 버린다. 그 후, 상대의 트래시에서 카드를 1장까지 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180354_1b67eca431"
+            },
+            {
+                "id": "OP07-094",
+                "number": "OP07-094",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "체",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "자신의 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000. 그 후, 자신의 트래시가 10장 이상인 경우, 자신의 『CP』를 포함한 특징을 가진 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180404_f6734dbf05"
+            },
+            {
+                "id": "OP07-095",
+                "number": "OP07-095",
+                "type": "C",
+                "class": "이벤트",
+                "name": "철괴",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【트리거】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +1000.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000. 그 후, 자신의 트래시가 10장 이상인 경우, 이번 배틀 동안, 그 카드의 파워 +2000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180412_5dd06fdab6"
+            },
+            {
+                "id": "OP07-096",
+                "number": "OP07-096",
+                "type": "R",
+                "class": "이벤트",
+                "name": "람각",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【트리거】상대의 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "CP9"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】카드를 1장 뽑는다. 그 후, 자신의 트래시가 10장 이상인 경우, 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -3.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180419_b558371d18"
+            },
+            {
+                "id": "OP07-097",
+                "number": "OP07-097",
+                "type": "L",
+                "class": "리더",
+                "name": "베가펑크",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "2",
+                "effect": "이 리더는 어택할 수 없다.\r\n【기동: 메인】【턴 1회】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 자신의 패에서 코스트 5 이하인 《에그 헤드》 특징을 가진 카드를 1장까지 라이프 맨 위에 앞면으로 더하거나 등장시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180427_e2787e7e0c"
+            },
+            {
+                "id": "OP07-097_P1",
+                "number": "OP07-097",
+                "type": "L",
+                "class": "리더",
+                "name": "베가펑크",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "2",
+                "effect": "이 리더는 어택할 수 없다.\r\n【기동: 메인】【턴 1회】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 자신의 패에서 코스트 5 이하인 《에그 헤드》 특징을 가진 카드를 1장까지 라이프 맨 위에 앞면으로 더하거나 등장시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180458_c52912b2a7"
+            },
+            {
+                "id": "OP07-098",
+                "number": "OP07-098",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "아틀라스",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "【트리거】자신의 리더가 「베가펑크」인 경우, 이 카드를 등장시킨다.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "2",
+                "effect": "자신의 라이프 수가 상대의 라이프 수보다 적을 경우, 이 캐릭터는 배틀에서는 KO 당하지 않는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180509_d1c9c6fee9"
+            },
+            {
+                "id": "OP07-099",
+                "number": "OP07-099",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "우솝",
+                "cost": "1",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "【트리거】다음 자신의 턴 종료 시까지, 자신의 《에그 헤드》 특징을 가진 리더 또는 캐릭터 1장까지의 파워 +2000.",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "에그 헤드",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180516_20b3ecc35c"
+            },
+            {
+                "id": "OP07-100",
+                "number": "OP07-100",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "에디슨",
+                "cost": "4",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "자신의 리더가 「베가펑크」인 경우, 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 라이프가 2장 이하인 경우, 카드를 2장 뽑고, 자신의 패 2장을 버린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180523_0890766496"
+            },
+            {
+                "id": "OP07-101",
+                "number": "OP07-101",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "샤카",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "【트리거】자신의 리더가 「베가펑크」인 경우, 이 카드를 등장시킨다.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180535_9d5af1a3a8"
+            },
+            {
+                "id": "OP07-102",
+                "number": "OP07-102",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "징베",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "【트리거】상대의 코스트 4 이하인 캐릭터를 1장까지 주인의 패로 되돌리고, 이 카드를 패에 더한다.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "어인족",
+                    "에그 헤드",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180546_ae2ce466ac"
+            },
+            {
+                "id": "OP07-103",
+                "number": "OP07-103",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "토니토니 쵸파",
+                "cost": "2",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "【트리거】이번 턴 동안, 자신의 《에그 헤드》 특징을 가진 캐릭터 1장까지는 【블로커】를 얻는다. 그 후, 이 카드를 패에 더한다.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "동물",
+                    "에그 헤드",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180554_f873bd2214"
+            },
+            {
+                "id": "OP07-104",
+                "number": "OP07-104",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "니코 로빈",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "【트리거】자신의 리더가 《에그 헤드》 특징을 가진 경우, 카드를 2장 뽑는다.",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "에그 헤드",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180601_00547e7514"
+            },
+            {
+                "id": "OP07-105",
+                "number": "OP07-105",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "피타고라스",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "【트리거】자신의 리더가 「베가펑크」인 경우, 이 카드를 등장시킨다.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "2",
+                "effect": "【KO 시】자신의 라이프가 2장 이하인 경우, 자신의 트래시에서 코스트 4 이하인 《에그 헤드》 특징을 가진 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180639_8ade17d080"
+            },
+            {
+                "id": "OP07-106",
+                "number": "OP07-106",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "후자",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "동물",
+                    "하늘섬"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】자신의 라이프가 1장 이하인 경우, 상대의 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180611_e17c254f97"
+            },
+            {
+                "id": "OP07-107",
+                "number": "OP07-107",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "프랑키",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "【트리거】카드를 1장 뽑는다. 그 후, 자신의 라이프가 1장 이하인 경우, 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "에그 헤드",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180723_d49f02623d"
+            },
+            {
+                "id": "OP07-107_P1",
+                "number": "OP07-107",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "프랑키",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "【트리거】카드를 1장 뽑는다. 그 후, 자신의 라이프가 1장 이하인 경우, 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "에그 헤드",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180729_9c37b27871"
+            },
+            {
+                "id": "OP07-108",
+                "number": "OP07-108",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "베가포스 01",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "에그 헤드"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180736_6d5d1717b2"
+            },
+            {
+                "id": "OP07-109",
+                "number": "OP07-109",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "【트리거】상대의 코스트 4 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "사황",
+                    "에그 헤드",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 자신의 라이프가 2장 이하인 경우, 상대의 코스트 4 이하인 캐릭터를 1장까지 KO 시킨다. 그 후, 카드를 1장 뽑는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180742_297b13808a"
+            },
+            {
+                "id": "OP07-109_P1",
+                "number": "OP07-109",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "5",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "【트리거】상대의 코스트 4 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "사황",
+                    "에그 헤드",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 자신의 라이프가 2장 이하인 경우, 상대의 코스트 4 이하인 캐릭터를 1장까지 KO 시킨다. 그 후, 카드를 1장 뽑는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180751_a018ad080f"
+            },
+            {
+                "id": "OP07-110",
+                "number": "OP07-110",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "요크",
+                "cost": "5",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "【트리거】자신의 리더가 「베가펑크」인 경우, 이 카드를 등장시킨다.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 상대의 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180756_46e18b76fd"
+            },
+            {
+                "id": "OP07-111",
+                "number": "OP07-111",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "릴리스",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "【트리거】자신의 리더가 「베가펑크」인 경우, 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「릴리스」 이외의 《에그 헤드》 특징을 가진 카드를 1장까지 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180804_1a0b6992cb"
+            },
+            {
+                "id": "OP07-111_P1",
+                "number": "OP07-111",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "릴리스",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "【트리거】자신의 리더가 「베가펑크」인 경우, 이 카드를 등장시킨다.",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「릴리스」 이외의 《에그 헤드》 특징을 가진 카드를 1장까지 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180810_bb3fece1e2"
+            },
+            {
+                "id": "OP07-112",
+                "number": "OP07-112",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "루시",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "드레스로자",
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【어택 시】【턴 1회】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 할 수 있다. 그 후, 자신의 라이프가 1장 이하인 경우, 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180815_c6e775940e"
+            },
+            {
+                "id": "OP07-113",
+                "number": "OP07-113",
+                "type": "UC",
+                "class": "캐릭터",
+                "name": "롤로노아 조로",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "【트리거】자신의 리더가 《에그 헤드》 특징을 가진 경우, 상대의 리더 또는 캐릭터를 1장까지 레스트로 한다.",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "에그 헤드",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "N/A",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180821_31219699b9"
+            },
+            {
+                "id": "OP07-114",
+                "number": "OP07-114",
+                "type": "UC",
+                "class": "이벤트",
+                "name": "세계최고의 두뇌를 가진 사내",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【트리거】카드를 1장 뽑는다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】자신의 덱 위에서 5장을 보고, 「세계최고의 두뇌를 가진 사내」 이외의 《에그 헤드》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180851_e5848c4e10"
+            },
+            {
+                "id": "OP07-115",
+                "number": "OP07-115",
+                "type": "C",
+                "class": "이벤트",
+                "name": "도와주 퀘이사~~!!!",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【트리거】자신의 트래시에서 코스트 5 이하인 《에그 헤드》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "과학자",
+                    "에그 헤드"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】자신의 라이프가 2장 이하인 경우, 이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +3000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180858_8b5bd21448"
+            },
+            {
+                "id": "OP07-116",
+                "number": "OP07-116",
+                "type": "R",
+                "class": "이벤트",
+                "name": "화염 가르기",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "【트리거】상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "아카자야 9남자"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】/【카운터】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +1000. 그 후, 상대의 라이프가 2장 이하인 경우, 상대의 코스트 4 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180907_1471c4292b"
+            },
+            {
+                "id": "OP07-117",
+                "number": "OP07-117",
+                "type": "C",
+                "class": "스테이지",
+                "name": "에그 헤드",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【트리거】이 카드를 등장시킨다.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "에그 헤드"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 종료 시】자신의 라이프가 3장 이하인 경우, 코스트 5 이하인 《에그 헤드》 특징을 가진 캐릭터를 1장까지 액티브로 한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180926_703e32065b"
+            },
+            {
+                "id": "OP07-118",
+                "number": "OP07-118",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "사보",
+                "cost": "8",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패 1장을 버릴 수 있다: 상대의 코스트 5 이하인 캐릭터 1장까지와 코스트 3 이하인 캐릭터 1장까지를 KO 시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180938_d836a8f7c0"
+            },
+            {
+                "id": "OP07-118_P1",
+                "number": "OP07-118",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "사보",
+                "cost": "8",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "혁명군"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 패 1장을 버릴 수 있다: 상대의 코스트 5 이하인 캐릭터 1장까지와 코스트 3 이하인 캐릭터 1장까지를 KO 시킨다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180944_9e309f8d5c"
+            },
+            {
+                "id": "OP07-119",
+                "number": "OP07-119",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "포트거스 D. 에이스",
+                "cost": "10",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다. 그 후, 자신의 라이프가 2장 이하인 경우, 이번 턴 동안, 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180951_f774669d10"
+            },
+            {
+                "id": "OP07-119_P1",
+                "number": "OP07-119",
+                "type": "SEC",
+                "class": "캐릭터",
+                "name": "포트거스 D. 에이스",
+                "cost": "10",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다. 그 후, 자신의 라이프가 2장 이하인 경우, 이번 턴 동안, 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_180957_fd61cd0eae"
+            },
+            {
+                "id": "P-025",
+                "number": "P-025",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "스모커",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "N/A",
+                "effect": "【두웅!!×1】이 캐릭터는 <특수> 속성을 가지지 않은 캐릭터와의 배틀에서는 KO 당하지 않는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181137_d72045cea6"
+            },
+            {
+                "id": "P-027",
+                "number": "P-027",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "프랑키 장군",
+                "cost": "2",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "룰상, 이 카드의 카드명은 「프랑키」로도 취급한다.\r\n【상대의 턴 동안】자신의 원래 파워가 3000 이하인 모든 캐릭터의 파워 +1000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181144_5b73851be7"
+            },
+            {
+                "id": "P-033",
+                "number": "P-033",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【기동: 메인】이 캐릭터를 주인의 덱 맨 아래로 되돌릴 수 있다: 카드를 1장 뽑는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181209_1d296057fd"
+            },
+            {
+                "id": "P-034",
+                "number": "P-034",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "상디",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "빈스모크 가문"
+                ],
+                "block_icon": "N/A",
+                "effect": "【두웅!!×1】【자신의 턴 동안】자신의 라이프가 2장 이하인 경우, 이 캐릭터의 파워 +2000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181219_02bdd57d09"
+            },
+            {
+                "id": "P-036",
+                "number": "P-036",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "3",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【어택 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 이번 턴 동안, 이 캐릭터와 자신의 리더 1장까지의 파워 +1000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181229_e36b322571"
+            },
+            {
+                "id": "P-037",
+                "number": "P-037",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【어택 시】자신의 레스트 상태인 캐릭터가 2장 이상인 경우, 이번 턴 동안, 이 캐릭터의 파워 +1000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181234_07d4defe77"
+            },
+            {
+                "id": "P-040",
+                "number": "P-040",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "카이도",
+                "cost": "8",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "10000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "사황",
+                    "백수 해적단"
+                ],
+                "block_icon": "N/A",
+                "effect": "상대의 필드에 두웅!!이 10장인 경우, 이 캐릭터는 KO 당하지 않는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181239_6904b7d976"
+            },
+            {
+                "id": "P-041",
+                "number": "P-041",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "10",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "12000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "사황",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "-",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181245_0d6e07abd7"
+            },
+            {
+                "id": "P-043",
+                "number": "P-043",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "7",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【등장 시】코스트 3 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181252_a574b1c2f4"
+            },
+            {
+                "id": "P-046",
+                "number": "P-046",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "야마토",
+                "cost": "1",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "와노쿠니"
+                ],
+                "block_icon": "N/A",
+                "effect": "【등장 시】자신의 모든 패를 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다. 이 경우, 되돌린 수만큼 카드를 뽑는다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181257_1f2abd77c9"
+            },
+            {
+                "id": "P-063",
+                "number": "P-063",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "징베",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "어인족"
+                ],
+                "block_icon": "N/A",
+                "effect": "【등장 시】상대의 코스트 1 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181301_07047cf99a"
+            },
+            {
+                "id": "P-064",
+                "number": "P-064",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "코즈키 모모노스케",
+                "cost": "6",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "코즈키 가문"
+                ],
+                "block_icon": "N/A",
+                "effect": "-",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181307_7c7ebd0094"
+            },
+            {
+                "id": "P-065",
+                "number": "P-065",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "토니토니 쵸파",
+                "cost": "3",
+                "attribute": [
+                    "지혜"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "동물",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "N/A",
+                "effect": "【어택 시】상대의 코스트 0인 캐릭터가 있는 경우, 다음 자신의 턴 개시 시까지 이 캐릭터의 파워 +2000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181312_f2379a8953"
+            },
+            {
+                "id": "P-066",
+                "number": "P-066",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "보아 행콕",
+                "cost": "4",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "구사 해적단"
+                ],
+                "block_icon": "N/A",
+                "effect": "【자신의 턴 동안】자신의 패가 5장 이하인 경우, 자신의 《구사 해적단》 특징을 가진 모든 캐릭터의 파워 +1000.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181317_01d6087c14"
+            },
+            {
+                "id": "P-067",
+                "number": "P-067",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "유스타스 키드",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "초신성",
+                    "키드 해적단"
+                ],
+                "block_icon": "N/A",
+                "effect": "이 캐릭터가 레스트 상태인 경우, 상대는 캐릭터인 「유스타스 키드」 이외는 어택할 수 없다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181326_6ba40980f8"
+            },
+            {
+                "id": "P-070",
+                "number": "P-070",
+                "type": "P",
+                "class": "캐릭터",
+                "name": "캐럿",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "밍크족"
+                ],
+                "block_icon": "N/A",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181330_646f0fca36"
+            },
+            {
+                "id": "OP01-035_P2",
+                "number": "OP01-035",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "오키쿠",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "녹색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "아카자야 9남자"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】【어택 시】【턴 1회】상대의 코스트 5 이하인 캐릭터를 1장까지 레스트로 한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181011_258abd18cd"
+            },
+            {
+                "id": "OP01-073_P2",
+                "number": "OP01-073",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "돈키호테 도플라밍고",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "청색"
+                ],
+                "feature": [
+                    "왕의 부하 칠무해",
+                    "돈키호테 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트하고 어택 대상을 이 카드로 할 수 있다)\r\n【등장 시】자신의 덱 위에서 5장을 보고 원하는 순서대로 덱 맨 위나 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181033_b8ce76bc32"
+            },
+            {
+                "id": "OP03-003_P1",
+                "number": "OP03-003",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "이조",
+                "cost": "1",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "와노쿠니",
+                    "흰 수염 해적단"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고, 「이조」 이외의 『흰 수염 해적단』을 포함한 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181003_4577dd6cde"
+            },
+            {
+                "id": "OP03-078_P2",
+                "number": "OP03-078",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "잇쇼",
+                "cost": "8",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "9000",
+                "counter": "-",
+                "color": [
+                    "흑색"
+                ],
+                "feature": [
+                    "해군"
+                ],
+                "block_icon": "1",
+                "effect": "【두웅!!×1】【자신의 턴 동안】상대의 모든 캐릭터의 코스트 -3.\r\n【등장 시】상대의 패가 6장 이상인 경우, 상대의 패 2장을 버린다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181045_c0121c8bab"
+            },
+            {
+                "id": "OP05-074_P3",
+                "number": "OP05-074",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "유스타스 키드",
+                "cost": "5",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "키드 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【자신의 턴 동안】【턴 1회】자신 필드의 두웅!!이 두웅!! 덱으로 되돌려졌을 때, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181039_d43bcf60cb"
+            },
+            {
+                "id": "OP06-101_P2",
+                "number": "OP06-101",
+                "type": "SP",
+                "class": "캐릭터",
+                "name": "오나미",
+                "cost": "2",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "【트리거】상대의 코스트 5 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "황색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지는 【배니시】를 얻는다.\r\n(이 카드가 대미지를 주었을 경우, 트리거는 발동하지 않으며 그 카드는 트래시로 보내진다)",
+                "card_set": "[OPK-07] 부스터 팩 500년 후의 미래",
+                "image_url": "/fileDownload?downname=20250717_181052_b937a62d64"
+            }
+        ]
+    }
+}

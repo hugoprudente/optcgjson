@@ -1,0 +1,394 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 1780736724,
+        "language": "ko"
+    },
+    "data": {
+        "code": "ST10",
+        "cards": [
+            {
+                "id": "OP01-016_P3",
+                "number": "OP01-016",
+                "type": "R",
+                "class": "캐릭터",
+                "name": "나미",
+                "cost": "1",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【등장 시】자신의 덱 위에서 5장을 보고 「나미」 이외의 《밀짚모자 일당》 특징을 가진 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151140427584"
+            },
+            {
+                "id": "OP01-025_P3",
+                "number": "OP01-025",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "롤로노아 조로",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "초신성",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "1",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151140530289"
+            },
+            {
+                "id": "ST10-004",
+                "number": "ST10-004",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "상디",
+                "cost": "6",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】상대의 파워 5000 이상인 캐릭터가 있을 경우, 이번 턴 동안, 이 캐릭터는 【속공】을 얻는다.<br>\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151148432159"
+            },
+            {
+                "id": "ST10-005",
+                "number": "ST10-005",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "징베",
+                "cost": "2",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "어인족",
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【두웅!!×1】【어택 시】이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -2000.",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151148263329"
+            },
+            {
+                "id": "ST10-006",
+                "number": "ST10-006",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "몽키 D. 루피",
+                "cost": "10",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "11000",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)<br>\r\n【턴 1회】상대가 【블로커】를 발동했을 때, 상대의 파워 8000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151148106510"
+            },
+            {
+                "id": "ST10-007",
+                "number": "ST10-007",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "킬러",
+                "cost": "5",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "키드 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【턴 1회】자신 필드의 두웅!!이 두웅!! 덱으로 되돌려졌을 때, 상대의 레스트 상태이고 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151147526165"
+            },
+            {
+                "id": "ST10-008",
+                "number": "ST10-008",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "샤치 & 펭귄",
+                "cost": "4",
+                "attribute": [
+                    "사격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "하트 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】자신 필드의 두웅!!이 3장 이하인 경우, 두웅!! 덱에서 두웅!!을 2장까지 레스트 상태로 추가한다.",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151147323956"
+            },
+            {
+                "id": "ST10-009",
+                "number": "ST10-009",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "잠발",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "하트 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】①(코스트 에리어의 두웅!!을 지정된 수만큼 레스트할 수 있다): 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151143589325"
+            },
+            {
+                "id": "ST10-010",
+                "number": "ST10-010",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "트라팔가 로",
+                "cost": "4",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "하트 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)<br>\r\n【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 패가 7장 이상인 경우, 상대의 패 2장을 버린다.",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151143092529"
+            },
+            {
+                "id": "ST10-011",
+                "number": "ST10-011",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "히트",
+                "cost": "3",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "키드 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【자신의 턴 동안】【턴 1회】자신 필드의 두웅!!이 두웅!! 덱으로 되돌려졌을 때, 다음 자신의 턴 개시 시까지, 이 캐릭터의 파워 +2000.",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151142441965"
+            },
+            {
+                "id": "ST10-012",
+                "number": "ST10-012",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "베포",
+                "cost": "4",
+                "attribute": [
+                    "타격"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "밍크족",
+                    "하트 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】/【어택 시】상대 필드의 두웅!! 수가 자신 필드의 두웅!! 수보다 많을 경우, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151142346127"
+            },
+            {
+                "id": "ST10-013",
+                "number": "ST10-013",
+                "type": "SR",
+                "class": "캐릭터",
+                "name": "유스타스 키드",
+                "cost": "7",
+                "attribute": [
+                    "특수"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "키드 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【등장 시】/【어택 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 다음 자신의 턴 개시 시까지, 자신의 리더 1장까지의 파워 +1000.",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151142111927"
+            },
+            {
+                "id": "ST10-014",
+                "number": "ST10-014",
+                "type": "C",
+                "class": "캐릭터",
+                "name": "와이어",
+                "cost": "3",
+                "attribute": [
+                    "참격"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "키드 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)<br>\r\n【턴 1회】자신 필드의 두웅!!이 두웅!! 덱으로 되돌려졌을 때, 카드 1장을 뽑고 패 1장을 버린다.",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151141508003"
+            },
+            {
+                "id": "ST10-015",
+                "number": "ST10-015",
+                "type": "C",
+                "class": "이벤트",
+                "name": "고무고무 기간트 밀쳐내기",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "N/A",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000 하고, 상대의 파워 2000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151141372818"
+            },
+            {
+                "id": "ST10-016",
+                "number": "ST10-016",
+                "type": "C",
+                "class": "이벤트",
+                "name": "고무고무 콩 개틀링",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "다음 자신의 턴 종료 시까지, 자신의 리더 1장까지의 파워 +1000.",
+                "power": "N/A",
+                "counter": "-",
+                "color": [
+                    "적색"
+                ],
+                "feature": [
+                    "밀짚모자 일당"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】상대의 파워 7000 이하인 캐릭터를 1장까지 KO 시킨다.",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151141210250"
+            },
+            {
+                "id": "ST10-017",
+                "number": "ST10-017",
+                "type": "C",
+                "class": "이벤트",
+                "name": "펑크 바이스",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+                "power": "N/A",
+                "counter": "-",
+                "color": [
+                    "자색"
+                ],
+                "feature": [
+                    "키드 해적단"
+                ],
+                "block_icon": "2",
+                "effect": "【메인】상대의 코스트 2 이하인 캐릭터를 1장까지 레스트로 하고, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+                "card_set": "[STK-10] 얼티밋 덱 \"삼선장\" 집결",
+                "image_url": "/fileDownload?downname=202501151141133625"
+            }
+        ]
+    }
+}

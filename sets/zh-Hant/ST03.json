@@ -1,0 +1,402 @@
+{
+    "meta": {
+        "date": "2026-06-07",
+        "version": "1.0.0",
+        "set": 554003,
+        "language": "zh-Hant"
+    },
+    "data": {
+        "code": "ST03",
+        "cards": [
+            {
+                "id": "ST03-001",
+                "number": "ST03-001",
+                "type": "L",
+                "class": "LEADER",
+                "name": "克洛克達爾",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【啟動主要】【每回合1次】咚!!-4(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：將最多1張費用5以下的角色卡放回持有者的手牌。",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-001.png"
+            },
+            {
+                "id": "ST03-002",
+                "number": "ST03-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "艾德華・衛伯",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-002.png"
+            },
+            {
+                "id": "ST03-003",
+                "number": "ST03-003",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "克洛克達爾",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【咚!!×1】【防禦時】將最多1張費用2以下的角色卡放到持有者的卡組下面。",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-003.png"
+            },
+            {
+                "id": "ST03-004",
+                "number": "ST03-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "月光・摩利亞",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "恐怖三桅帆船海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】將最多1張自己廢棄區中除了「月光‧摩利亞」以外費用4以下擁有《王下七武海》或《恐怖三桅帆船海賊團》特徵的角色卡，加入手牌。",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-004.png"
+            },
+            {
+                "id": "ST03-005",
+                "number": "ST03-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "喬拉可爾・密佛格",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海"
+                ],
+                "block_icon": "1",
+                "effect": "【咚!!×1】【攻擊時】抽2張卡片，並廢棄2張自己的手牌。",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-005.png"
+            },
+            {
+                "id": "ST03-006",
+                "number": "ST03-006",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "吉貝爾",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "魚人族",
+                    "王下七武海",
+                    "太陽海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-006.png"
+            },
+            {
+                "id": "ST03-007",
+                "number": "ST03-007",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "戰桃丸",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "【咚!!×1】【啟動主要】【每回合1次】②(可將費用區的咚!!卡依指定的數量置為休息狀態)：從自己的卡組使最多1張費用4以下的「和平主義者」登場，並將卡組洗牌。",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-007.png"
+            },
+            {
+                "id": "ST03-008",
+                "number": "ST03-008",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "托拉法爾加・羅",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "哈特海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-008.png"
+            },
+            {
+                "id": "ST03-009",
+                "number": "ST03-009",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "唐吉訶德・多佛朗明哥",
+                "cost": "7",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "唐吉訶德海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】將最多1張費用7以下的角色卡放回持有者的手牌。",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-009.png"
+            },
+            {
+                "id": "ST03-010",
+                "number": "ST03-010",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "巴索羅繆・大熊",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】使這張卡片登場。",
+                "power": "3000",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "革命軍"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】從自己的卡組上面查看3張卡片，並依任意順序變換排列放到卡組上面或下面。",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-010.png"
+            },
+            {
+                "id": "ST03-011",
+                "number": "ST03-011",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "巴其",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "巴其宅急便"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-011.png"
+            },
+            {
+                "id": "ST03-012",
+                "number": "ST03-012",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "和平主義者",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "生物兵器",
+                    "海軍"
+                ],
+                "block_icon": "1",
+                "effect": "-",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-012.png"
+            },
+            {
+                "id": "ST03-013",
+                "number": "ST03-013",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "波雅・漢考克",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "【觸發器】使這張卡片登場。",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "九蛇海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-013.png"
+            },
+            {
+                "id": "ST03-014",
+                "number": "ST03-014",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "馬歇爾・D・汀奇",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "4000",
+                "counter": "1000",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "黑鬍子海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【登場時】將最多1張費用3以下的角色卡放回持有者的手牌。",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-014.png"
+            },
+            {
+                "id": "ST03-015",
+                "number": "ST03-015",
+                "type": "C",
+                "class": "EVENT",
+                "name": "砂暴",
+                "cost": "4",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "B・W"
+                ],
+                "block_icon": "1",
+                "effect": "【主要】將最多1張費用7以下的角色卡放回持有者的手牌。",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-015.png"
+            },
+            {
+                "id": "ST03-016",
+                "number": "ST03-016",
+                "type": "C",
+                "class": "EVENT",
+                "name": "推手壓力砲",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "【觸發器】發動這張卡片的【反擊】效果。",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "革命軍"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】將最多1張費用3以下的角色卡放回持有者的手牌。",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-016.png"
+            },
+            {
+                "id": "ST03-017",
+                "number": "ST03-017",
+                "type": "C",
+                "class": "EVENT",
+                "name": "迷戀甘風",
+                "cost": "2",
+                "attribute": [],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "藍"
+                ],
+                "feature": [
+                    "王下七武海",
+                    "九蛇海賊團"
+                ],
+                "block_icon": "1",
+                "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。之後，若自己的手牌在3張以下時，抽1張卡片。",
+                "card_set": "王下七武海【ST-03】",
+                "image_url": "https://asia-tc.onepiece-cardgame.com/images/cardlist/card/ST03-017.png"
+            }
+        ]
+    }
+}

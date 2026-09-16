@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556301
+        "set": 556301,
+        "language": "en"
     },
     "data": {
         "code": "PRB01",
@@ -13,7 +14,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/EB01-006_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -29,7 +29,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-006_r1.png"
             },
@@ -39,7 +39,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Otama",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-006_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -64,7 +63,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Otama",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-006_p2.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -89,7 +87,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Otama",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-006_p3.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -114,7 +111,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Otama",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-006_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -139,7 +135,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-016_p7.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -164,7 +159,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-024_p2.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -180,7 +174,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by <Strike> attribute Characters.[Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
+                "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by <Strike> attribute Characters. [Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-024_p2.png"
             },
@@ -190,7 +184,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-024_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -206,7 +199,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by <Strike> attribute Characters.[Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
+                "effect": "[DON!! x2] This Character cannot be K.O.'d in battle by <Strike> attribute Characters. [Activate: Main] [Once Per Turn] Give this Character up to 2 rested DON!! cards.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-024_r1.png"
             },
@@ -216,11 +209,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Radical Beam!!",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-029_p3.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -241,11 +231,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Radical Beam!!",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-029_p4.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -266,11 +253,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Radical Beam!!",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-029_r1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -291,7 +275,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Izo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-033_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -317,7 +300,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Izo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-033_p3.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -343,7 +325,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Izo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-033_p4.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -369,7 +350,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Izo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-033_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -395,7 +375,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kouzuki Momonosuke",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-041_p2.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -421,7 +400,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kouzuki Momonosuke",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-041_p3.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -447,7 +425,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kouzuki Momonosuke",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-041_p4.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -473,7 +450,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kouzuki Momonosuke",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-041_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -499,7 +475,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-047_p3.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -515,7 +490,7 @@
                     "Heart Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-047_p3.png"
             },
@@ -525,7 +500,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-047_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Slash"
@@ -541,7 +515,7 @@
                     "Heart Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] You may return 1 of your Characters to the owner's hand: Play up to 1 Character card with a cost of 3 or less from your hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-047_r1.png"
             },
@@ -551,7 +525,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-051_p3.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -567,7 +540,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid].[Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.",
+                "effect": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid]. [Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-051_p3.png"
             },
@@ -577,7 +550,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-051_r1.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -593,7 +565,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid].[Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.",
+                "effect": "[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass\"Captain\"Kid]. [Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-051_r1.png"
             },
@@ -603,7 +575,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Raizo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-052_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -629,7 +600,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Raizo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-052_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -655,7 +625,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Raizo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-052_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -681,7 +650,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Dracule Mihawk",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-070_p3.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -706,7 +674,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Dracule Mihawk",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-070_r1.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -731,7 +698,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Boa Hancock",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-078_p3.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -747,7 +713,7 @@
                     "Kuja Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-078_p3.png"
             },
@@ -757,7 +723,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Boa Hancock",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-078_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -773,7 +738,7 @@
                     "Kuja Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [When Attacking]/[On Block] Draw 1 card if you have 5 or less cards in your hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-078_r1.png"
             },
@@ -783,7 +748,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Shanks",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-120_p5.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -799,7 +763,7 @@
                     "Red-Haired Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-120_p5.png"
             },
@@ -809,7 +773,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Shanks",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-120_r1.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -825,7 +788,7 @@
                     "Red-Haired Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-120_r1.png"
             },
@@ -835,7 +798,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Shanks",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-120_r2.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -851,7 +813,7 @@
                     "Red-Haired Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-120_r2.png"
             },
@@ -861,7 +823,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Yamato",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-121_p3.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -876,7 +837,7 @@
                     "Land of Wano"
                 ],
                 "block_icon": "1",
-                "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.[Double Attack] (This card deals 2 damage.)[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules. [Double Attack] (This card deals 2 damage.) [Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-121_p3.png"
             },
@@ -886,7 +847,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Yamato",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP01-121_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -901,7 +861,7 @@
                     "Land of Wano"
                 ],
                 "block_icon": "1",
-                "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules.[Double Attack] (This card deals 2 damage.)[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
+                "effect": "Also treat this card's name as [Kouzuki Oden] according to the rules. [Double Attack] (This card deals 2 damage.) [Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-121_r1.png"
             },
@@ -911,7 +871,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Edward.Newgate",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-004_p4.png",
                 "cost": "9",
                 "attribute": [
                     "Special"
@@ -927,7 +886,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn.[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+                "effect": "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn. [DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-004_p4.png"
             },
@@ -937,7 +896,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Edward.Newgate",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-004_r1.png",
                 "cost": "9",
                 "attribute": [
                     "Special"
@@ -953,7 +911,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn.[DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
+                "effect": "[On Play] Up to 1 of your Leader gains +2000 power until the start of your next turn. Then, you cannot add Life cards to your hand using your own effects during this turn. [DON!! x2] [When Attacking] K.O. up to 1 of your opponent's Characters with 3000 power or less.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-004_r1.png"
             },
@@ -963,7 +921,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Portgas.D.Ace",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-013_r1.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -978,7 +935,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] Give up to 2 of your opponent's Characters −3000 power during this turn. Then, if your Leader's type includes \"Whitebeard Pirates\", this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-013_r1.png"
             },
@@ -988,7 +945,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Makino",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-015_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1013,7 +969,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Makino",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-015_p2.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1038,7 +993,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Makino",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-015_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1063,7 +1017,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Marco",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-018_p3.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1078,7 +1031,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-018_p3.png"
             },
@@ -1088,7 +1041,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Marco",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-018_p4.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1103,7 +1055,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-018_p4.png"
             },
@@ -1113,7 +1065,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Marco",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-018_p5.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1128,7 +1079,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-018_p5.png"
             },
@@ -1138,7 +1089,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Marco",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-018_r2.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1153,7 +1103,7 @@
                     "Whitebeard Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] You may trash 1 card with a type including \"Whitebeard Pirates\" from your hand: If you have 2 or less Life cards, play this Character card from your trash rested.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-018_r2.png"
             },
@@ -1163,11 +1113,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Judgment of Hell",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-089_p1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] If your opponent has 6 or more DON!! cards on their field, your opponent returns 1 DON!! card from their field to their DON!! deck.",
                 "power": "-",
                 "counter": "-",
@@ -1188,11 +1135,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Judgment of Hell",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-089_p2.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] If your opponent has 6 or more DON!! cards on their field, your opponent returns 1 DON!! card from their field to their DON!! deck.",
                 "power": "-",
                 "counter": "-",
@@ -1213,11 +1157,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Judgment of Hell",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-089_p3.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] If your opponent has 6 or more DON!! cards on their field, your opponent returns 1 DON!! card from their field to their DON!! deck.",
                 "power": "-",
                 "counter": "-",
@@ -1238,11 +1179,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Judgment of Hell",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-089_r1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] If your opponent has 6 or more DON!! cards on their field, your opponent returns 1 DON!! card from their field to their DON!! deck.",
                 "power": "-",
                 "counter": "-",
@@ -1263,7 +1201,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kuzan",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-096_p4.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1278,7 +1215,7 @@
                     "Navy"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] Draw 1 card.[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+                "effect": "[On Play] Draw 1 card. [When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-096_p4.png"
             },
@@ -1288,7 +1225,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kuzan",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-096_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1303,7 +1239,7 @@
                     "Navy"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] Draw 1 card.[When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+                "effect": "[On Play] Draw 1 card. [When Attacking] Give up to 1 of your opponent's Characters −4 cost during this turn.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-096_r1.png"
             },
@@ -1313,7 +1249,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sakazuki",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-099_p5.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -1338,7 +1273,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sakazuki",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-099_r1.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -1363,7 +1297,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Tsuru",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-106_p4.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1388,7 +1321,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Tsuru",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-106_p5.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1413,7 +1345,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Tsuru",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-106_r2.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -1438,7 +1369,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Borsalino",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-114_p4.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1453,7 +1383,7 @@
                     "Navy"
                 ],
                 "block_icon": "1",
-                "effect": "[Opponent's Turn] This Character gains +1000 power and cannot be K.O.'d by effects.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "[Opponent's Turn] This Character gains +1000 power and cannot be K.O.'d by effects. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-114_p4.png"
             },
@@ -1463,7 +1393,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Borsalino",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-114_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1478,7 +1407,7 @@
                     "Navy"
                 ],
                 "block_icon": "1",
-                "effect": "[Opponent's Turn] This Character gains +1000 power and cannot be K.O.'d by effects.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "[Opponent's Turn] This Character gains +1000 power and cannot be K.O.'d by effects. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-114_r1.png"
             },
@@ -1488,11 +1417,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Ice Age",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-117_p4.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
                 "power": "-",
                 "counter": "-",
@@ -1513,11 +1439,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Ice Age",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-117_p5.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
                 "power": "-",
                 "counter": "-",
@@ -1538,11 +1461,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Ice Age",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-117_r2.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
                 "power": "-",
                 "counter": "-",
@@ -1563,7 +1483,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Kuzan",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-121_p2.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -1578,7 +1497,7 @@
                     "Former Navy"
                 ],
                 "block_icon": "1",
-                "effect": "[Your Turn] Give all of your opponent's Characters −5 cost.[On Play] K.O. up to 1 of your opponent's Characters with a cost of 0.",
+                "effect": "[Your Turn] Give all of your opponent's Characters −5 cost. [On Play] K.O. up to 1 of your opponent's Characters with a cost of 0.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-121_p2.png"
             },
@@ -1588,7 +1507,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Kuzan",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP02-121_r1.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -1603,7 +1521,7 @@
                     "Former Navy"
                 ],
                 "block_icon": "1",
-                "effect": "[Your Turn] Give all of your opponent's Characters −5 cost.[On Play] K.O. up to 1 of your opponent's Characters with a cost of 0.",
+                "effect": "[Your Turn] Give all of your opponent's Characters −5 cost. [On Play] K.O. up to 1 of your opponent's Characters with a cost of 0.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-121_r1.png"
             },
@@ -1613,7 +1531,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Izo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-003_p3.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -1639,7 +1556,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Izo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-003_p4.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -1665,7 +1581,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Izo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-003_p5.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -1691,7 +1606,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Izo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-003_r2.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -1717,11 +1631,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Gum-Gum Giant Gavel",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-055_p2.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 Character with a cost of 4 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -1743,11 +1654,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Gum-Gum Giant Gavel",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-055_p3.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 Character with a cost of 4 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -1769,11 +1677,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Gum-Gum Giant Gavel",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-055_r1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 Character with a cost of 4 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -1795,11 +1700,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Sanji's Pilaf",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-056_p1.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1820,11 +1722,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Sanji's Pilaf",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-056_p2.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1845,11 +1744,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Sanji's Pilaf",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-056_p3.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1870,11 +1766,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Sanji's Pilaf",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-056_r1.png",
                 "cost": "3",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1895,11 +1788,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Three Thousand Worlds",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-057_p1.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
                 "power": "-",
                 "counter": "-",
@@ -1921,11 +1811,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Three Thousand Worlds",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-057_p2.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
                 "power": "-",
                 "counter": "-",
@@ -1947,11 +1834,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Three Thousand Worlds",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-057_p3.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
                 "power": "-",
                 "counter": "-",
@@ -1973,11 +1857,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Three Thousand Worlds",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-057_r1.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.",
                 "power": "-",
                 "counter": "-",
@@ -1999,7 +1880,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Kalifa",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-060_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -2025,7 +1905,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Kalifa",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-060_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -2051,7 +1930,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Kalifa",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-060_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -2077,7 +1955,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Vergo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-079_p2.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -2103,7 +1980,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Vergo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-079_p3.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -2129,7 +2005,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Vergo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-079_r2.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -2155,7 +2030,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Brannew",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-089_p3.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -2180,7 +2054,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Brannew",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-089_p4.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -2205,7 +2078,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Brannew",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-089_p5.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -2230,7 +2102,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Brannew",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-089_r2.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -2255,11 +2126,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Air Door",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-094_p1.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Play up to 1 black Character card with a cost of 3 or less from your trash.",
                 "power": "-",
                 "counter": "-",
@@ -2280,11 +2148,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Air Door",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-094_p2.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Play up to 1 black Character card with a cost of 3 or less from your trash.",
                 "power": "-",
                 "counter": "-",
@@ -2305,11 +2170,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Air Door",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-094_r1.png",
                 "cost": "4",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Play up to 1 black Character card with a cost of 3 or less from your trash.",
                 "power": "-",
                 "counter": "-",
@@ -2330,7 +2192,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Charlotte Cracker",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-108_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2345,7 +2206,7 @@
                     "Big Mom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character gains [Double Attack] and +1000 power.(This card deals 2 damage.)",
+                "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character gains [Double Attack] and +1000 power. (This card deals 2 damage.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP03-108_p2.png"
             },
@@ -2355,7 +2216,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Charlotte Cracker",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-108_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2370,7 +2230,7 @@
                     "Big Mom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character gains [Double Attack] and +1000 power.(This card deals 2 damage.)",
+                "effect": "[DON!! x1] If you have less Life cards than your opponent, this Character gains [Double Attack] and +1000 power. (This card deals 2 damage.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP03-108_r1.png"
             },
@@ -2380,7 +2240,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Charlotte Smoothie",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-110_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2405,7 +2264,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Charlotte Smoothie",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-110_p3.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2430,7 +2288,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Charlotte Smoothie",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-110_p4.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2455,7 +2312,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Charlotte Smoothie",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-110_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2480,7 +2336,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Charlotte Perospero",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-113_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -2505,7 +2360,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Charlotte Perospero",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-113_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -2530,7 +2384,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Shirahoshi",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-116_p2.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -2555,7 +2408,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Shirahoshi",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-116_p3.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -2580,7 +2432,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Shirahoshi",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-116_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -2605,11 +2456,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Thunder Bolt",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-121_p4.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
                 "power": "-",
                 "counter": "-",
@@ -2631,11 +2479,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Thunder Bolt",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-121_p5.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
                 "power": "-",
                 "counter": "-",
@@ -2657,11 +2502,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Thunder Bolt",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-121_r1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
                 "power": "-",
                 "counter": "-",
@@ -2683,7 +2525,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Sogeking",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-122_r1.png",
                 "cost": "7",
                 "attribute": [
                     "Ranged"
@@ -2698,7 +2539,7 @@
                     "Sniper Island"
                 ],
                 "block_icon": "1",
-                "effect": "Also treat this card's name as [Usopp] according to the rules.[On Play] Return up to 1 Character with a cost of 6 or less to the owner's hand. Then, draw 2 cards and trash 2 cards from your hand.",
+                "effect": "Also treat this card's name as [Usopp] according to the rules. [On Play] Return up to 1 Character with a cost of 6 or less to the owner's hand. Then, draw 2 cards and trash 2 cards from your hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP03-122_r1.png"
             },
@@ -2708,7 +2549,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Charlotte Katakuri",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-123_p3.png",
                 "cost": "8",
                 "attribute": [
                     "Strike"
@@ -2733,7 +2573,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Charlotte Katakuri",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP03-123_r1.png",
                 "cost": "8",
                 "attribute": [
                     "Strike"
@@ -2758,7 +2597,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Dellinger",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-029_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -2783,7 +2621,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Dellinger",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-029_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -2808,7 +2645,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Dellinger",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-029_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -2833,7 +2669,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Donquixote Doflamingo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-031_p2.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -2859,7 +2694,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Donquixote Doflamingo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-031_r1.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -2885,7 +2719,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Baby 5",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-032_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -2910,7 +2743,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Baby 5",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-032_p2.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -2935,7 +2767,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Baby 5",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-032_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -2960,11 +2791,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Donquixote Family",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-036_p1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Counter] effect.",
                 "power": "-",
                 "counter": "-",
@@ -2985,11 +2813,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Donquixote Family",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-036_p2.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Counter] effect.",
                 "power": "-",
                 "counter": "-",
@@ -3010,11 +2835,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Donquixote Family",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-036_r1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Counter] effect.",
                 "power": "-",
                 "counter": "-",
@@ -3035,7 +2857,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kaido",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-044_p3.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -3061,7 +2882,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kaido",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-044_r1.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -3087,11 +2907,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Gum-Gum Red Roc",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-056_p1.png",
                 "cost": "6",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
                 "power": "-",
                 "counter": "-",
@@ -3112,11 +2929,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Gum-Gum Red Roc",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-056_p2.png",
                 "cost": "6",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
                 "power": "-",
                 "counter": "-",
@@ -3137,11 +2951,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Gum-Gum Red Roc",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-056_p3.png",
                 "cost": "6",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
                 "power": "-",
                 "counter": "-",
@@ -3162,11 +2973,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Gum-Gum Red Roc",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-056_r1.png",
                 "cost": "6",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
                 "power": "-",
                 "counter": "-",
@@ -3187,7 +2995,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sabo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-083_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -3203,7 +3010,7 @@
                     "Revolutionary Army"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] None of your Characters can be K.O.'d by effects until the start of your next turn. Then, draw 2 cards and trash 2 cards from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] None of your Characters can be K.O.'d by effects until the start of your next turn. Then, draw 2 cards and trash 2 cards from your hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-083_r1.png"
             },
@@ -3213,7 +3020,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Bartolomeo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-089_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -3239,7 +3045,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Bartolomeo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-089_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -3265,7 +3070,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Bartolomeo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-089_p3.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -3291,7 +3095,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Bartolomeo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-089_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -3317,11 +3120,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Barrier!!",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-095_p2.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -3343,11 +3143,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Barrier!!",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-095_p3.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -3369,11 +3166,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Barrier!!",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-095_r1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
                 "power": "-",
                 "counter": "-",
@@ -3395,7 +3189,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Capone\"Gang\"Bege",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-100_p3.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -3420,7 +3213,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Capone\"Gang\"Bege",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-100_p4.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -3445,7 +3237,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Capone\"Gang\"Bege",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-100_p5.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -3470,7 +3261,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Capone\"Gang\"Bege",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-100_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -3495,7 +3285,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-104_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -3520,7 +3309,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sanji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-104_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -3545,7 +3333,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Yamato",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-112_p3.png",
                 "cost": "9",
                 "attribute": [
                     "Strike"
@@ -3570,7 +3357,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Yamato",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP04-112_r1.png",
                 "cost": "9",
                 "attribute": [
                     "Strike"
@@ -3595,7 +3381,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Koala",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-006_p2.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -3620,7 +3405,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Koala",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-006_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -3645,7 +3429,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sabo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-007_p2.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -3670,7 +3453,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Sabo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-007_r1.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -3695,7 +3477,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-010_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -3720,7 +3501,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-010_p2.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -3745,7 +3525,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-010_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -3770,7 +3549,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Belo Betty",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-015_p2.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -3795,7 +3573,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Belo Betty",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-015_p3.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -3820,7 +3597,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Belo Betty",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-015_p4.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -3845,7 +3621,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Belo Betty",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-015_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -3870,7 +3645,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Baby 5",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-034_p2.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -3895,7 +3669,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Baby 5",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-034_p3.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -3920,7 +3693,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Baby 5",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-034_p4.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -3945,7 +3717,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Baby 5",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-034_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -3970,7 +3741,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Ulti",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-043_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -3995,7 +3765,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Ulti",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-043_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -4020,11 +3789,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Hound Blaze",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-057_p1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -4045,11 +3811,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Hound Blaze",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-057_p2.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -4070,11 +3833,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Hound Blaze",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-057_p3.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -4095,11 +3855,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Hound Blaze",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-057_r1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
                 "power": "-",
                 "counter": "-",
@@ -4120,7 +3877,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-069_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Slash"
@@ -4145,7 +3901,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Miss Doublefinger(Zala)",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-073_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -4170,7 +3925,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Miss Doublefinger(Zala)",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-073_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -4195,7 +3949,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Miss Doublefinger(Zala)",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-073_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -4220,7 +3973,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-074_p4.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -4235,7 +3987,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-074_p4.png"
             },
@@ -4245,7 +3997,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-074_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -4260,7 +4011,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-074_r1.png"
             },
@@ -4270,7 +4021,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Eustass\"Captain\"Kid",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-074_r2.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -4285,7 +4035,7 @@
                     "Kid Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-074_r2.png"
             },
@@ -4295,7 +4045,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "One-Legged Toy Soldier",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-081_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -4320,7 +4069,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "One-Legged Toy Soldier",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-081_p2.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -4345,7 +4093,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "One-Legged Toy Soldier",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-081_p3.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -4370,7 +4117,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "One-Legged Toy Soldier",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-081_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -4395,7 +4141,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Shirahoshi",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-082_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -4420,7 +4165,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Shirahoshi",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-082_p2.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -4445,7 +4189,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Shirahoshi",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-082_p3.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -4470,7 +4213,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Shirahoshi",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-082_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -4495,7 +4237,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Satori",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-105_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -4521,7 +4262,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Satori",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-105_p2.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -4547,7 +4287,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Satori",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-105_p3.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -4573,7 +4312,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Satori",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-105_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -4599,11 +4337,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "El Thor",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-114_p2.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -4624,11 +4359,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "El Thor",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-114_p3.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -4649,11 +4381,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "El Thor",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-114_r1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -4674,11 +4403,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Two-Hundred Million Volts Amaru",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-115_p1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -4699,11 +4425,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Two-Hundred Million Volts Amaru",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-115_p2.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -4724,11 +4447,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Two-Hundred Million Volts Amaru",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-115_p3.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -4749,11 +4469,8 @@
                 "type": "R",
                 "class": "EVENT",
                 "name": "Two-Hundred Million Volts Amaru",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-115_r1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -4774,11 +4491,8 @@
                 "type": "UC",
                 "class": "STAGE",
                 "name": "Upper Yard",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-117_p1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -4799,11 +4513,8 @@
                 "type": "UC",
                 "class": "STAGE",
                 "name": "Upper Yard",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-117_p2.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -4824,11 +4535,8 @@
                 "type": "UC",
                 "class": "STAGE",
                 "name": "Upper Yard",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-117_p3.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -4849,11 +4557,8 @@
                 "type": "UC",
                 "class": "STAGE",
                 "name": "Upper Yard",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-117_r1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -4874,7 +4579,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Kaido",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-118_p2.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -4900,7 +4604,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Kaido",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-118_r1.png",
                 "cost": "10",
                 "attribute": [
                     "Special"
@@ -4926,7 +4629,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-119_p3.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -4942,7 +4644,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one.[Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one. [Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-119_p3.png"
             },
@@ -4952,7 +4654,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-119_r1.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -4968,7 +4669,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one.[Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one. [Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-119_r1.png"
             },
@@ -4978,7 +4679,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP05-119_r2.png",
                 "cost": "10",
                 "attribute": [
                     "Strike"
@@ -4994,7 +4694,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one.[Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and set it as active.",
+                "effect": "[On Play] DON!! −10: Place all of your Characters except this Character at the bottom of your deck in any order. Then, take an extra turn after this one. [Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Add up to 1 DON!! card from your DON!! deck and set it as active.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-119_r2.png"
             },
@@ -5004,7 +4704,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Emporio.Ivankov",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-003_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -5029,7 +4728,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Emporio.Ivankov",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-003_p2.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -5054,7 +4752,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Emporio.Ivankov",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-003_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -5079,7 +4776,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Arlong",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-023_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -5106,7 +4802,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Arlong",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-023_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -5133,7 +4828,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Arlong",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-023_p3.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -5160,7 +4854,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Arlong",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-023_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -5187,7 +4880,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Hody Jones",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-035_p2.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -5203,7 +4895,7 @@
                     "New Fish-Man Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[On Play] Rest up to a total of 2 of your opponent's Characters or DON!! cards. Then, add 1 card from the top of your Life cards to your hand.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [On Play] Rest up to a total of 2 of your opponent's Characters or DON!! cards. Then, add 1 card from the top of your Life cards to your hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-035_p2.png"
             },
@@ -5213,7 +4905,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Hody Jones",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-035_r1.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -5229,7 +4920,7 @@
                     "New Fish-Man Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Rush] (This card can attack on the turn in which it is played.)[On Play] Rest up to a total of 2 of your opponent's Characters or DON!! cards. Then, add 1 card from the top of your Life cards to your hand.",
+                "effect": "[Rush] (This card can attack on the turn in which it is played.) [On Play] Rest up to a total of 2 of your opponent's Characters or DON!! cards. Then, add 1 card from the top of your Life cards to your hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-035_r1.png"
             },
@@ -5239,7 +4930,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Ryuma",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-036_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -5265,7 +4955,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Ryuma",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-036_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -5291,7 +4980,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Ryuma",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-036_p3.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -5317,7 +5005,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Ryuma",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-036_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -5343,11 +5030,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "The Billion-fold World Trichiliocosm",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-038_p2.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
                 "power": "-",
                 "counter": "-",
@@ -5369,11 +5053,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "The Billion-fold World Trichiliocosm",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-038_p3.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
                 "power": "-",
                 "counter": "-",
@@ -5395,11 +5076,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "The Billion-fold World Trichiliocosm",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-038_r1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
                 "power": "-",
                 "counter": "-",
@@ -5421,11 +5099,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Ama no Murakumo Sword",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-056_p1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -5446,11 +5121,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Ama no Murakumo Sword",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-056_p2.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -5471,11 +5143,8 @@
                 "type": "UC",
                 "class": "EVENT",
                 "name": "Ama no Murakumo Sword",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-056_r1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -5496,7 +5165,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Ichiji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-060_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -5522,7 +5190,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Ichiji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-060_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -5548,7 +5215,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Ichiji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-060_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -5574,7 +5240,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Niji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-064_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -5600,7 +5265,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Niji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-064_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -5626,7 +5290,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Niji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-064_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -5652,7 +5315,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Niji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-065_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -5668,7 +5330,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, choose one:• K.O. up to 1 of your opponent's Characters with a cost of 2 or less.• Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
+                "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, choose one: • K.O. up to 1 of your opponent's Characters with a cost of 2 or less. • Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-065_p1.png"
             },
@@ -5678,7 +5340,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Niji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-065_p2.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -5694,7 +5355,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, choose one:• K.O. up to 1 of your opponent's Characters with a cost of 2 or less.• Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
+                "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, choose one: • K.O. up to 1 of your opponent's Characters with a cost of 2 or less. • Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-065_p2.png"
             },
@@ -5704,7 +5365,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Niji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-065_p3.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -5720,7 +5380,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, choose one:• K.O. up to 1 of your opponent's Characters with a cost of 2 or less.• Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
+                "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, choose one: • K.O. up to 1 of your opponent's Characters with a cost of 2 or less. • Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-065_p3.png"
             },
@@ -5730,7 +5390,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Niji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-065_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -5746,7 +5405,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "2",
-                "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, choose one:• K.O. up to 1 of your opponent's Characters with a cost of 2 or less.• Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
+                "effect": "[On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, choose one: • K.O. up to 1 of your opponent's Characters with a cost of 2 or less. • Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-065_r1.png"
             },
@@ -5756,7 +5415,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Yonji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-066_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -5782,7 +5440,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Yonji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-066_p2.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -5808,7 +5465,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Yonji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-066_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -5834,7 +5490,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Yonji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-067_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -5850,7 +5505,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "2",
-                "effect": "If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, this Character gains +1000 power.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, this Character gains +1000 power. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-067_p1.png"
             },
@@ -5860,7 +5515,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Yonji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-067_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -5876,7 +5530,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "2",
-                "effect": "If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, this Character gains +1000 power.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, this Character gains +1000 power. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-067_p2.png"
             },
@@ -5886,7 +5540,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Yonji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-067_p3.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -5902,7 +5555,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "2",
-                "effect": "If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, this Character gains +1000 power.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, this Character gains +1000 power. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-067_p3.png"
             },
@@ -5912,7 +5565,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Yonji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-067_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -5928,7 +5580,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "2",
-                "effect": "If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, this Character gains +1000 power.[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "effect": "If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, this Character gains +1000 power. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-067_r1.png"
             },
@@ -5938,7 +5590,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Reiju",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-068_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -5964,7 +5615,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Reiju",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-068_p2.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -5990,7 +5640,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Reiju",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-068_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -6016,7 +5665,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Reiju",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-069_p3.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -6042,7 +5690,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Reiju",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-069_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -6068,11 +5715,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Kingdom of GERMA",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-079_p1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -6093,11 +5737,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Kingdom of GERMA",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-079_p2.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -6118,11 +5759,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Kingdom of GERMA",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-079_p3.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -6143,11 +5781,8 @@
                 "type": "C",
                 "class": "STAGE",
                 "name": "Kingdom of GERMA",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-079_r1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -6168,7 +5803,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Gecko Moria",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-086_p2.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -6194,7 +5828,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Gecko Moria",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-086_r1.png",
                 "cost": "8",
                 "attribute": [
                     "Special"
@@ -6220,7 +5853,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Victoria Cindry",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-091_p1.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -6245,7 +5877,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Victoria Cindry",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-091_p2.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -6270,7 +5901,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Victoria Cindry",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-091_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -6295,7 +5925,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Inuarashi",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-100_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -6322,7 +5951,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Inuarashi",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-100_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -6349,7 +5977,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Inuarashi",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-100_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -6376,7 +6003,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kouzuki Hiyori",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-106_p2.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -6402,7 +6028,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kouzuki Hiyori",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-106_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -6428,7 +6053,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nekomamushi",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-110_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -6455,7 +6079,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nekomamushi",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-110_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -6482,7 +6105,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Nekomamushi",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-110_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -6509,7 +6131,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Wyper",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-114_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Ranged"
@@ -6535,7 +6156,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Wyper",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-114_p2.png",
                 "cost": "5",
                 "attribute": [
                     "Ranged"
@@ -6561,7 +6181,6 @@
                 "type": "UC",
                 "class": "CHARACTER",
                 "name": "Wyper",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-114_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Ranged"
@@ -6587,7 +6206,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Roronoa Zoro",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/OP06-118_r1.png",
                 "cost": "9",
                 "attribute": [
                     "Slash"
@@ -6602,7 +6220,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "2",
-                "effect": "[When Attacking] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.[Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.",
+                "effect": "[When Attacking] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active. [Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Set this Character as active.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP06-118_r1.png"
             },
@@ -6612,7 +6230,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Koby",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/P-014_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -6638,7 +6255,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Koby",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/P-014_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -6664,7 +6280,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Koby",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/P-014_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -6690,7 +6305,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Bartolomeo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/P-029_p2.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -6717,7 +6331,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Bartolomeo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/P-029_p3.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -6744,7 +6357,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Bartolomeo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/P-029_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -6771,7 +6383,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/P-053_p2.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -6796,7 +6407,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/P-053_p3.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -6821,7 +6431,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/P-053_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -6846,7 +6455,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/P-055_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -6871,7 +6479,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/P-055_p3.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -6896,7 +6503,6 @@
                 "type": "P",
                 "class": "CHARACTER",
                 "name": "Monkey.D.Luffy",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/P-055_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -6921,8 +6527,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Sanji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/PRB01-001.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -6936,7 +6541,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Activate: Main] [Once Per Turn] Up to 1 of your Characters without an [On Play] effect and with a cost of 8 or less gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[Activate: Main] [Once Per Turn] Up to 1 of your Characters without an [On Play] effect and with a cost of 8 or less gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/PRB01-001.png"
             },
@@ -6946,8 +6551,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Sanji",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/PRB01-001_p1.png",
-                "cost": "Life5",
+                "cost": "5",
                 "attribute": [
                     "Strike"
                 ],
@@ -6961,7 +6565,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "3",
-                "effect": "[Activate: Main] [Once Per Turn] Up to 1 of your Characters without an [On Play] effect and with a cost of 8 or less gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[Activate: Main] [Once Per Turn] Up to 1 of your Characters without an [On Play] effect and with a cost of 8 or less gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/PRB01-001_p1.png"
             },
@@ -6971,7 +6575,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST01-006_p8.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -6997,7 +6600,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST01-006_p9.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -7023,7 +6625,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST01-006_p10.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -7049,7 +6650,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Tony Tony.Chopper",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST01-006_r2.png",
                 "cost": "1",
                 "attribute": [
                     "Strike"
@@ -7075,11 +6675,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Guard Point",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST01-014_p2.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -7101,11 +6698,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Guard Point",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST01-014_p3.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -7127,11 +6721,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Guard Point",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST01-014_r3.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -7153,7 +6744,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Capone\"Gang\"Bege",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST02-004_p3.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -7179,7 +6769,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Capone\"Gang\"Bege",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST02-004_p4.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -7205,7 +6794,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Capone\"Gang\"Bege",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST02-004_p5.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -7231,7 +6819,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Capone\"Gang\"Bege",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST02-004_r2.png",
                 "cost": "1",
                 "attribute": [
                     "Special"
@@ -7257,7 +6844,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Dracule Mihawk",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST03-005_p4.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -7282,7 +6868,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Dracule Mihawk",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST03-005_p5.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -7307,7 +6892,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Dracule Mihawk",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST03-005_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -7332,7 +6916,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST03-008_p7.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -7358,7 +6941,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST03-008_p8.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -7384,7 +6966,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST03-008_r1.png",
                 "cost": "1",
                 "attribute": [
                     "Slash"
@@ -7410,7 +6991,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Boa Hancock",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST03-013_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -7436,7 +7016,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Boa Hancock",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST03-013_p3.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -7462,7 +7041,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Boa Hancock",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST03-013_p4.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -7488,7 +7066,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Boa Hancock",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST03-013_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -7514,7 +7091,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kaido",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST04-003_p4.png",
                 "cost": "9",
                 "attribute": [
                     "Strike"
@@ -7530,7 +7106,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] DON!! −5 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 6 or less. This Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] DON!! −5 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 6 or less. This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-003_p4.png"
             },
@@ -7540,7 +7116,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Kaido",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST04-003_r1.png",
                 "cost": "9",
                 "attribute": [
                     "Strike"
@@ -7556,7 +7131,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[On Play] DON!! −5 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 6 or less. This Character gains [Rush] during this turn.(This card can attack on the turn in which it is played.)",
+                "effect": "[On Play] DON!! −5 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 6 or less. This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-003_r1.png"
             },
@@ -7566,7 +7141,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Queen",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST04-005_p4.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -7581,7 +7155,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-005_p4.png"
             },
@@ -7591,7 +7165,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Queen",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST04-005_p5.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -7606,7 +7179,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-005_p5.png"
             },
@@ -7616,7 +7189,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Queen",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST04-005_r1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -7631,7 +7203,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "1",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-005_r1.png"
             },
@@ -7641,11 +7213,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Blast Breath",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST04-016_p3.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -7667,11 +7236,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Blast Breath",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST04-016_p4.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -7693,11 +7259,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Blast Breath",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST04-016_r1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -7719,7 +7282,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Helmeppo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST06-010_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -7744,7 +7306,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Helmeppo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST06-010_p2.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -7769,7 +7330,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Helmeppo",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST06-010_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -7794,11 +7354,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Shockwave",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST06-014_p1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -7819,11 +7376,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Shockwave",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST06-014_p2.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -7844,11 +7398,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Shockwave",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST06-014_r1.png",
                 "cost": "2",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "power": "-",
                 "counter": "-",
@@ -7869,7 +7420,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Brulee",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST07-007_p2.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -7894,7 +7444,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Brulee",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST07-007_p3.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -7919,7 +7468,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Brulee",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST07-007_r1.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -7944,11 +7492,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Narikabura Arrow",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST09-014_p1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -7969,11 +7514,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Narikabura Arrow",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST09-014_p2.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -7994,11 +7536,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Narikabura Arrow",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST09-014_r1.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
                 "power": "-",
                 "counter": "-",
@@ -8019,7 +7558,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST10-010_p3.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -8034,7 +7572,7 @@
                     "Heart Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 7 or more cards in their hand, trash 2 cards from your opponent's hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 7 or more cards in their hand, trash 2 cards from your opponent's hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-010_p3.png"
             },
@@ -8044,7 +7582,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST10-010_r1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -8059,7 +7596,7 @@
                     "Heart Pirates"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 7 or more cards in their hand, trash 2 cards from your opponent's hand.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your opponent has 7 or more cards in their hand, trash 2 cards from your opponent's hand.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST10-010_r1.png"
             },
@@ -8069,7 +7606,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Duval",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST12-014_p1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -8084,7 +7620,7 @@
                     "The Flying Fish Riders"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST12-014_p1.png"
             },
@@ -8094,7 +7630,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Duval",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST12-014_p2.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -8109,7 +7644,7 @@
                     "The Flying Fish Riders"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST12-014_p2.png"
             },
@@ -8119,7 +7654,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Duval",
-                "image_path": "images/ONEPIECECARDTHEBESTPRB01/ST12-014_r1.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -8134,7 +7668,7 @@
                     "The Flying Fish Riders"
                 ],
                 "block_icon": "2",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Look at 3 cards from the top of your deck and place them at the top or bottom of the deck in any order.",
                 "card_set": "-ONE PIECE CARD THE BEST- [PRB-01]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST12-014_r1.png"
             }

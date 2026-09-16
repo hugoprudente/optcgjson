@@ -1,8 +1,9 @@
 {
     "meta": {
-        "date": "2026-03-16",
+        "date": "2026-06-07",
         "version": "1.0.0",
-        "set": 556203
+        "set": 556203,
+        "language": "en"
     },
     "data": {
         "code": "EB03",
@@ -13,8 +14,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Nefeltari Vivi",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-001.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -29,7 +29,7 @@
                     "Alabasta"
                 ],
                 "block_icon": "4",
-                "effect": "[Once Per Turn] If your Character with a base cost of 4 or more would be K.O.'d, you may trash 1 card from your hand instead.[Activate: Main] You may rest this Leader: Give up to 1 of your opponent's Characters −2000 power during this turn. Then, up to 1 of your Characters without a [When Attacking] effect gains [Rush] during this turn.",
+                "effect": "[Once Per Turn] If your Character with a base cost of 4 or more would be K.O.'d, you may trash 1 card from your hand instead. [Activate: Main] You may rest this Leader: Give up to 1 of your opponent's Characters −2000 power during this turn. Then, up to 1 of your Characters without a [When Attacking] effect gains [Rush] during this turn.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-001.png"
             },
@@ -39,8 +39,7 @@
                 "type": "L",
                 "class": "LEADER",
                 "name": "Nefeltari Vivi",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-001_p1.png",
-                "cost": "Life4",
+                "cost": "4",
                 "attribute": [
                     "Slash"
                 ],
@@ -55,7 +54,7 @@
                     "Alabasta"
                 ],
                 "block_icon": "4",
-                "effect": "[Once Per Turn] If your Character with a base cost of 4 or more would be K.O.'d, you may trash 1 card from your hand instead.[Activate: Main] You may rest this Leader: Give up to 1 of your opponent's Characters −2000 power during this turn. Then, up to 1 of your Characters without a [When Attacking] effect gains [Rush] during this turn.",
+                "effect": "[Once Per Turn] If your Character with a base cost of 4 or more would be K.O.'d, you may trash 1 card from your hand instead. [Activate: Main] You may rest this Leader: Give up to 1 of your opponent's Characters −2000 power during this turn. Then, up to 1 of your Characters without a [When Attacking] effect gains [Rush] during this turn.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-001_p1.png"
             },
@@ -65,7 +64,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Ain",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-002.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -91,7 +89,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Uta",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-003.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -116,7 +113,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Uta",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-003_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -141,7 +137,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Carina",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-004.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -157,7 +152,7 @@
                     "Grantesoro"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][Opponent's Turn] If your Leader is multicolored and you have no Characters with 6000 base power or more, this Character gains +4000 power.",
+                "effect": "[Blocker] [Opponent's Turn] If your Leader is multicolored and you have no Characters with 6000 base power or more, this Character gains +4000 power.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-004.png"
             },
@@ -167,7 +162,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Sugar",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-005.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -192,7 +186,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-006.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -208,7 +201,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] You may give your active Leader −5000 power during this turn: Draw 1 card.[Activate: Main] [Once Per Turn] If your Leader has the {Alabasta} type, give up to 1 of your opponent's Characters −1000 power during this turn.",
+                "effect": "[On Play] You may give your active Leader −5000 power during this turn: Draw 1 card. [Activate: Main] [Once Per Turn] If your Leader has the {Alabasta} type, give up to 1 of your opponent's Characters −1000 power during this turn.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-006.png"
             },
@@ -218,7 +211,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Baccarat",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-007.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -234,7 +226,7 @@
                     "Grantesoro"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][On K.O.] Play up to 1 Character card with 6000 power or less and no base effect from your hand.",
+                "effect": "[Blocker] [On K.O.] Play up to 1 Character card with 6000 power or less and no base effect from your hand.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-007.png"
             },
@@ -244,7 +236,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Hibari",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-008.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -260,7 +251,7 @@
                     "SWORD"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play]/[When Attacking] Up to 1 of your {SWORD} type Leader or Character cards can also attack active Characters during this turn.[Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+                "effect": "[On Play]/[When Attacking] Up to 1 of your {SWORD} type Leader or Character cards can also attack active Characters during this turn. [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1000 power during this turn.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-008.png"
             },
@@ -270,7 +261,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Hibari",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-008_p1.png",
                 "cost": "3",
                 "attribute": [
                     "Ranged"
@@ -286,7 +276,7 @@
                     "SWORD"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play]/[When Attacking] Up to 1 of your {SWORD} type Leader or Character cards can also attack active Characters during this turn.[Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+                "effect": "[On Play]/[When Attacking] Up to 1 of your {SWORD} type Leader or Character cards can also attack active Characters during this turn. [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1000 power during this turn.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-008_p1.png"
             },
@@ -296,7 +286,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Makino",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-009.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -321,7 +310,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Monet",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-010.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -337,7 +325,7 @@
                     "Donquixote Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][On Play] Look at 5 cards from the top of your deck; reveal up to 1 Character card with 1000 power or less or up to 1 Event card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "effect": "[Blocker] [On Play] Look at 5 cards from the top of your deck; reveal up to 1 Character card with 1000 power or less or up to 1 Event card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-010.png"
             },
@@ -347,11 +335,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "But If We Ever See Each Other Again... Will You Call Me Your Shipmate?!!",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-011.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Give up to 1 of your opponent's Characters −2000 power during this turn.",
                 "power": "-",
                 "counter": "-",
@@ -372,7 +357,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Otama",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-012.png",
                 "cost": "2",
                 "attribute": [
                     "Special"
@@ -397,7 +381,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Carrot",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-013.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -422,7 +405,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Carrot",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-013_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -447,7 +429,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kuina",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-014.png",
                 "cost": "2",
                 "attribute": [
                     "Slash"
@@ -473,7 +454,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Camie",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-015.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -499,7 +479,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kouzuki Hiyori",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-016.png",
                 "cost": "1",
                 "attribute": [
                     "Wisdom"
@@ -515,7 +494,7 @@
                     "Kouzuki Clan"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] If your Leader is [Kouzuki Oden], draw 1 card.[Activate: Main] You may trash this Character: Give up to 1 rested DON!! card to your {Land of Wano} type Leader.",
+                "effect": "[On Play] If your Leader is [Kouzuki Oden], draw 1 card. [Activate: Main] You may trash this Character: Give up to 1 rested DON!! card to your {Land of Wano} type Leader.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-016.png"
             },
@@ -525,7 +504,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Jewelry Bonney",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-017.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -551,7 +529,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Tashigi",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-018.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -566,7 +543,7 @@
                     "Navy"
                 ],
                 "block_icon": "4",
-                "effect": "[Opponent's Turn] This Character cannot be K.O.'d by your opponent's effects and gains [Blocker].[End of Your Turn] You may rest 1 of your DON!! cards and trash 1 card from your hand: Set this Character as active.",
+                "effect": "[Opponent's Turn] This Character cannot be K.O.'d by your opponent's effects and gains [Blocker]. [End of Your Turn] You may rest 1 of your DON!! cards and trash 1 card from your hand: Set this Character as active.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-018.png"
             },
@@ -576,7 +553,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Tashigi",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-018_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -591,7 +567,7 @@
                     "Navy"
                 ],
                 "block_icon": "4",
-                "effect": "[Opponent's Turn] This Character cannot be K.O.'d by your opponent's effects and gains [Blocker].[End of Your Turn] You may rest 1 of your DON!! cards and trash 1 card from your hand: Set this Character as active.",
+                "effect": "[Opponent's Turn] This Character cannot be K.O.'d by your opponent's effects and gains [Blocker]. [End of Your Turn] You may rest 1 of your DON!! cards and trash 1 card from your hand: Set this Character as active.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-018_p1.png"
             },
@@ -601,7 +577,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Wanda",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-019.png",
                 "cost": "6",
                 "attribute": [
                     "Slash"
@@ -626,11 +601,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "There You Are, Sore Loser!",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-020.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Set up to 1 of your Characters as active.",
                 "power": "-",
                 "counter": "-",
@@ -651,7 +623,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Alvida",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-021.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -676,7 +647,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Isuka",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-022.png",
                 "cost": "6",
                 "attribute": [
                     "Slash"
@@ -691,7 +661,7 @@
                     "Navy"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)[On Play] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-022.png"
             },
@@ -701,7 +671,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kaya",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-023.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -726,7 +695,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Nefeltari Vivi",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-024.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -741,7 +709,7 @@
                     "Alabasta"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][On Play] Play up to 1 {Alabasta} or {Straw Hat Crew} type Character card with a cost of 5 or less from your hand. Then, you cannot play any Character cards on your field during this turn.",
+                "effect": "[Blocker] [On Play] Play up to 1 {Alabasta} or {Straw Hat Crew} type Character card with a cost of 5 or less from your hand. Then, you cannot play any Character cards on your field during this turn.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-024.png"
             },
@@ -751,7 +719,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Nefeltari Vivi",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-024_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -766,7 +733,7 @@
                     "Alabasta"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][On Play] Play up to 1 {Alabasta} or {Straw Hat Crew} type Character card with a cost of 5 or less from your hand. Then, you cannot play any Character cards on your field during this turn.",
+                "effect": "[Blocker] [On Play] Play up to 1 {Alabasta} or {Straw Hat Crew} type Character card with a cost of 5 or less from your hand. Then, you cannot play any Character cards on your field during this turn.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-024_p1.png"
             },
@@ -776,7 +743,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Hina",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-025.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -801,7 +767,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Hina",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-025_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -826,7 +791,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Boa Hancock",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-026.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -842,7 +806,7 @@
                     "Kuja Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] If your opponent has 5 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck.[Activate: Main] [Once Per Turn] You may place 1 of your Characters at the bottom of the owner's deck: Give your Leader and 1 Character up to 1 rested DON!! card each.",
+                "effect": "[On Play] If your opponent has 5 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck. [Activate: Main] [Once Per Turn] You may place 1 of your Characters at the bottom of the owner's deck: Give your Leader and 1 Character up to 1 rested DON!! card each.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-026.png"
             },
@@ -852,7 +816,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Boa Hancock",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-026_p1.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -868,7 +831,7 @@
                     "Kuja Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] If your opponent has 5 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck.[Activate: Main] [Once Per Turn] You may place 1 of your Characters at the bottom of the owner's deck: Give your Leader and 1 Character up to 1 rested DON!! card each.",
+                "effect": "[On Play] If your opponent has 5 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck. [Activate: Main] [Once Per Turn] You may place 1 of your Characters at the bottom of the owner's deck: Give your Leader and 1 Character up to 1 rested DON!! card each.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-026_p1.png"
             },
@@ -878,7 +841,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Marguerite",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-027.png",
                 "cost": "6",
                 "attribute": [
                     "Wisdom"
@@ -903,7 +865,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Yu",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-028.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -918,7 +879,7 @@
                     "East Blue"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Trash 1 card from your hand.[Activate: Main] You may trash this Character: If you have 4 or less cards in your hand, draw 2 cards.",
+                "effect": "[On Play] Trash 1 card from your hand. [Activate: Main] You may trash this Character: If you have 4 or less cards in your hand, draw 2 cards.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-028.png"
             },
@@ -928,11 +889,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Insolent Fool!! Stand Down!!",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-029.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -944,7 +902,7 @@
                     "Kuja Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Main] You may rest 4 of your DON!! cards: If your Leader is [Boa Hancock], play up to 1 {Amazon Lily} or {Kuja Pirates} type Character card with a cost of 6 or less from your hand.[Counter] Up to 1 of your [Boa Hancock] cards gains +3000 power during this battle.",
+                "effect": "[Main] You may rest 4 of your DON!! cards: If your Leader is [Boa Hancock], play up to 1 {Amazon Lily} or {Kuja Pirates} type Character card with a cost of 6 or less from your hand. [Counter] Up to 1 of your [Boa Hancock] cards gains +3000 power during this battle.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-029.png"
             },
@@ -954,7 +912,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Viola",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-030.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -979,7 +936,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Reiju",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-031.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1005,7 +961,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Reiju",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-031_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1031,7 +986,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Flampe",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-032.png",
                 "cost": "1",
                 "attribute": [
                     "Ranged"
@@ -1056,7 +1010,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Brulee",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-033.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1081,7 +1034,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Charlotte Linlin",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-034.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -1096,7 +1048,7 @@
                     "Rocks Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Draw 1 card and place 1 card from your hand at the top of your deck. Then, add up to 1 DON!! card from your DON!! deck and set it as active.[On K.O.] DON!! −1: Add up to 1 card from the top of your deck to the top of your Life cards.",
+                "effect": "[On Play] Draw 1 card and place 1 card from your hand at the top of your deck. Then, add up to 1 DON!! card from your DON!! deck and set it as active. [On K.O.] DON!! −1: Add up to 1 card from the top of your deck to the top of your Life cards.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-034.png"
             },
@@ -1106,7 +1058,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Charlotte Linlin",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-034_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -1121,7 +1072,7 @@
                     "Rocks Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Draw 1 card and place 1 card from your hand at the top of your deck. Then, add up to 1 DON!! card from your DON!! deck and set it as active.[On K.O.] DON!! −1: Add up to 1 card from the top of your deck to the top of your Life cards.",
+                "effect": "[On Play] Draw 1 card and place 1 card from your hand at the top of your deck. Then, add up to 1 DON!! card from your DON!! deck and set it as active. [On K.O.] DON!! −1: Add up to 1 card from the top of your deck to the top of your Life cards.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-034_p1.png"
             },
@@ -1131,7 +1082,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Charlotte Pudding",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-035.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -1146,7 +1096,7 @@
                     "Big Mom Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
+                "effect": "[Blocker] [On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-035.png"
             },
@@ -1156,7 +1106,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Baby 5",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-036.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1181,7 +1130,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Lim",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-037.png",
                 "cost": "4",
                 "attribute": [
                     "Wisdom"
@@ -1206,11 +1154,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Thanks for the Treat. ♡",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-038.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1222,7 +1167,7 @@
                     "GERMA 66"
                 ],
                 "block_icon": "4",
-                "effect": "[Main] You may rest 1 of your DON!! cards: If the number of DON!! cards on your field is equal to or less than the number on your opponent's field and you only have Characters with a type including \"GERMA\", add up to 2 DON!! cards from your DON!! deck and rest them.[Counter] Your Leader gains +3000 power during this battle.",
+                "effect": "[Main] You may rest 1 of your DON!! cards: If the number of DON!! cards on your field is equal to or less than the number on your opponent's field and you only have Characters with a type including \"GERMA\", add up to 2 DON!! cards from your DON!! deck and rest them. [Counter] Your Leader gains +3000 power during this battle.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-038.png"
             },
@@ -1232,7 +1177,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Ulti",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-039.png",
                 "cost": "6",
                 "attribute": [
                     "Strike"
@@ -1257,7 +1201,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Kalifa",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-040.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1282,7 +1225,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kujyaku",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-041.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1298,7 +1240,7 @@
                     "SWORD"
                 ],
                 "block_icon": "4",
-                "effect": "[Opponent's Turn] All of your {SWORD} type Characters with a cost of 6 or less gain +2000 power.[On Play] You may trash 1 {Navy} type card from your hand: Draw 2 cards.",
+                "effect": "[Opponent's Turn] All of your {SWORD} type Characters with a cost of 6 or less gain +2000 power. [On Play] You may trash 1 {Navy} type card from your hand: Draw 2 cards.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-041.png"
             },
@@ -1308,7 +1250,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Kujyaku",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-041_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1324,7 +1265,7 @@
                     "SWORD"
                 ],
                 "block_icon": "4",
-                "effect": "[Opponent's Turn] All of your {SWORD} type Characters with a cost of 6 or less gain +2000 power.[On Play] You may trash 1 {Navy} type card from your hand: Draw 2 cards.",
+                "effect": "[Opponent's Turn] All of your {SWORD} type Characters with a cost of 6 or less gain +2000 power. [On Play] You may trash 1 {Navy} type card from your hand: Draw 2 cards.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-041_p1.png"
             },
@@ -1334,7 +1275,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Koala",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-042.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1350,7 +1290,7 @@
                     "Revolutionary Army"
                 ],
                 "block_icon": "4",
-                "effect": "If your Leader has the {Revolutionary Army} type, this Character gains +4 cost.[Opponent's Turn] [On K.O.] Play up to 1 {Revolutionary Army} type Character card with a cost of 6 or less other than [Koala] or up to 1 [Nico Robin] with a cost of 6 or less from your hand or trash.",
+                "effect": "If your Leader has the {Revolutionary Army} type, this Character gains +4 cost. [Opponent's Turn] [On K.O.] Play up to 1 {Revolutionary Army} type Character card with a cost of 6 or less other than [Koala] or up to 1 [Nico Robin] with a cost of 6 or less from your hand or trash.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-042.png"
             },
@@ -1360,7 +1300,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Koala",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-042_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -1376,7 +1315,7 @@
                     "Revolutionary Army"
                 ],
                 "block_icon": "4",
-                "effect": "If your Leader has the {Revolutionary Army} type, this Character gains +4 cost.[Opponent's Turn] [On K.O.] Play up to 1 {Revolutionary Army} type Character card with a cost of 6 or less other than [Koala] or up to 1 [Nico Robin] with a cost of 6 or less from your hand or trash.",
+                "effect": "If your Leader has the {Revolutionary Army} type, this Character gains +4 cost. [Opponent's Turn] [On K.O.] Play up to 1 {Revolutionary Army} type Character card with a cost of 6 or less other than [Koala] or up to 1 [Nico Robin] with a cost of 6 or less from your hand or trash.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-042_p1.png"
             },
@@ -1386,7 +1325,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Stussy",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-043.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -1401,7 +1339,7 @@
                     "CP0"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][On Play] You may place 2 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+                "effect": "[Blocker] [On Play] You may place 2 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-043.png"
             },
@@ -1411,7 +1349,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Black Maria",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-044.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -1426,7 +1363,7 @@
                     "Animal Kingdom Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "If your Leader is multicolored, this Character gains [Blocker].[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Onigashima Island] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Onigashima Island] from your hand.",
+                "effect": "If your Leader is multicolored, this Character gains [Blocker]. [On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Onigashima Island] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Onigashima Island] from your hand.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-044.png"
             },
@@ -1436,7 +1373,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Perona",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-045.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1452,7 +1388,7 @@
                     "Thriller Bark Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. Then, if you have 10 or more cards in your trash, play up to 1 {Thriller Bark Pirates} type Character card with a cost of 2 or less from your trash rested.",
+                "effect": "[Blocker] [On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. Then, if you have 10 or more cards in your trash, play up to 1 {Thriller Bark Pirates} type Character card with a cost of 2 or less from your trash rested.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-045.png"
             },
@@ -1462,7 +1398,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Perona",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-045_p1.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1478,7 +1413,7 @@
                     "Thriller Bark Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. Then, if you have 10 or more cards in your trash, play up to 1 {Thriller Bark Pirates} type Character card with a cost of 2 or less from your trash rested.",
+                "effect": "[Blocker] [On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. Then, if you have 10 or more cards in your trash, play up to 1 {Thriller Bark Pirates} type Character card with a cost of 2 or less from your trash rested.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-045_p1.png"
             },
@@ -1488,7 +1423,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Miss Doublefinger(Zala)",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-046.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -1503,7 +1437,7 @@
                     "Baroque Works"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] If there is a Character with a cost of 0 or with a cost of 8 or more, draw 1 card.[On K.O.] Trash 2 cards from the top of your deck.",
+                "effect": "[On Play] If there is a Character with a cost of 0 or with a cost of 8 or more, draw 1 card. [On K.O.] Trash 2 cards from the top of your deck.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-046.png"
             },
@@ -1513,7 +1447,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Miss.Valentine(Mikita)",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-047.png",
                 "cost": "2",
                 "attribute": [
                     "Strike"
@@ -1528,7 +1461,7 @@
                     "Baroque Works"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Trash 3 cards from the top of your deck.[On K.O.] Draw 1 card.",
+                "effect": "[On Play] Trash 3 cards from the top of your deck. [On K.O.] Draw 1 card.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-047.png"
             },
@@ -1538,7 +1471,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Rebecca",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-048.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -1553,7 +1485,7 @@
                     "Dressrosa"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Dressrosa} type Stage card and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 {Dressrosa} type Stage card with a cost of 1 from your hand.",
+                "effect": "[Blocker] [On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Dressrosa} type Stage card and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 {Dressrosa} type Stage card with a cost of 1 from your hand.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-048.png"
             },
@@ -1563,11 +1495,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "I Knew You People Were Behind This.",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-049.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "N/A",
                 "power": "-",
                 "counter": "-",
@@ -1578,7 +1507,7 @@
                     "Thriller Bark Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Main] You may rest 7 of your DON!! cards: If your Leader is [Perona], play up to 1 {Thriller Bark Pirates} type Character card with a cost of 6 or less and up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your hand or trash.[Counter] Your Leader gains +3000 power during this battle.",
+                "effect": "[Main] You may rest 7 of your DON!! cards: If your Leader is [Perona], play up to 1 {Thriller Bark Pirates} type Character card with a cost of 6 or less and up to 1 {Thriller Bark Pirates} type Character card with a cost of 4 or less from your hand or trash. [Counter] Your Leader gains +3000 power during this battle.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-049.png"
             },
@@ -1588,7 +1517,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Conis",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-050.png",
                 "cost": "2",
                 "attribute": [
                     "Wisdom"
@@ -1603,7 +1531,7 @@
                     "Sky Island"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Up to 1 of your {Sky Island} type Characters gains [Double Attack] during this turn.(This card deals 2 damage.)",
+                "effect": "[On Play] Up to 1 of your {Sky Island} type Characters gains [Double Attack] during this turn. (This card deals 2 damage.)",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-050.png"
             },
@@ -1613,7 +1541,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Charlotte Smoothie",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-051.png",
                 "cost": "3",
                 "attribute": [
                     "Special"
@@ -1638,7 +1565,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Shirahoshi",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-052.png",
                 "cost": "3",
                 "attribute": [
                     "Wisdom"
@@ -1664,7 +1590,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-053.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1679,7 +1604,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Give up to 1 rested DON!! card to your Leader. Then, if your opponent has 3 or more Life cards, add up to 1 card from the top of your opponent's Life cards to the owner's hand.[On K.O.] You may turn 1 card from the top of your Life cards face-up: Play up to 1 Character card with 6000 power or less from your hand.",
+                "effect": "[On Play] Give up to 1 rested DON!! card to your Leader. Then, if your opponent has 3 or more Life cards, add up to 1 card from the top of your opponent's Life cards to the owner's hand. [On K.O.] You may turn 1 card from the top of your Life cards face-up: Play up to 1 Character card with 6000 power or less from your hand.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-053.png"
             },
@@ -1689,7 +1614,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-053_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -1704,7 +1628,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Give up to 1 rested DON!! card to your Leader. Then, if your opponent has 3 or more Life cards, add up to 1 card from the top of your opponent's Life cards to the owner's hand.[On K.O.] You may turn 1 card from the top of your Life cards face-up: Play up to 1 Character card with 6000 power or less from your hand.",
+                "effect": "[On Play] Give up to 1 rested DON!! card to your Leader. Then, if your opponent has 3 or more Life cards, add up to 1 card from the top of your opponent's Life cards to the owner's hand. [On K.O.] You may turn 1 card from the top of your Life cards face-up: Play up to 1 Character card with 6000 power or less from your hand.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-053_p1.png"
             },
@@ -1714,7 +1638,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-054.png",
                 "cost": "3",
                 "attribute": [
                     "Strike"
@@ -1739,7 +1662,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-055.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -1754,7 +1676,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] You may trash 1 card from the top of your Life cards: If your Leader has the {Straw Hat Crew} type, add up to 2 cards from the top of your deck to the top of your Life cards.[Opponent's Turn] [On K.O.] You may deal 1 damage to your opponent.",
+                "effect": "[On Play] You may trash 1 card from the top of your Life cards: If your Leader has the {Straw Hat Crew} type, add up to 2 cards from the top of your deck to the top of your Life cards. [Opponent's Turn] [On K.O.] You may deal 1 damage to your opponent.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-055.png"
             },
@@ -1764,7 +1686,6 @@
                 "type": "SR",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-055_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -1779,7 +1700,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] You may trash 1 card from the top of your Life cards: If your Leader has the {Straw Hat Crew} type, add up to 2 cards from the top of your deck to the top of your Life cards.[Opponent's Turn] [On K.O.] You may deal 1 damage to your opponent.",
+                "effect": "[On Play] You may trash 1 card from the top of your Life cards: If your Leader has the {Straw Hat Crew} type, add up to 2 cards from the top of your deck to the top of your Life cards. [Opponent's Turn] [On K.O.] You may deal 1 damage to your opponent.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-055_p1.png"
             },
@@ -1789,7 +1710,6 @@
                 "type": "C",
                 "class": "CHARACTER",
                 "name": "Belo Betty",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-056.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -1814,7 +1734,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Yamato",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-057.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -1829,7 +1748,7 @@
                     "Land of Wano"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Give up to 3 rested DON!! cards to your {Land of Wano} type Leader.[On K.O.] Trash up to 1 card from the top of your opponent's Life cards.",
+                "effect": "[On Play] Give up to 3 rested DON!! cards to your {Land of Wano} type Leader. [On K.O.] Trash up to 1 card from the top of your opponent's Life cards.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-057.png"
             },
@@ -1839,7 +1758,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Yamato",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-057_p1.png",
                 "cost": "5",
                 "attribute": [
                     "Strike"
@@ -1854,7 +1772,7 @@
                     "Land of Wano"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Give up to 3 rested DON!! cards to your {Land of Wano} type Leader.[On K.O.] Trash up to 1 card from the top of your opponent's Life cards.",
+                "effect": "[On Play] Give up to 3 rested DON!! cards to your {Land of Wano} type Leader. [On K.O.] Trash up to 1 card from the top of your opponent's Life cards.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-057_p1.png"
             },
@@ -1864,7 +1782,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "Lilith",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-058.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -1890,7 +1807,6 @@
                 "type": "R",
                 "class": "CHARACTER",
                 "name": "S-Snake",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-059.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -1916,11 +1832,8 @@
                 "type": "C",
                 "class": "EVENT",
                 "name": "Will You Be My Servant?",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-060.png",
                 "cost": "1",
-                "attribute": [
-                    ""
-                ],
+                "attribute": [],
                 "trigger": "[Trigger] Activate this card's [Main] effect.",
                 "power": "-",
                 "counter": "-",
@@ -1941,7 +1854,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Uta",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-061.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -1956,7 +1868,7 @@
                     "FILM"
                 ],
                 "block_icon": "4",
-                "effect": "[Activate: Main] [Once Per Turn] Set up to 1 of your DON!! cards as active. Then, rest up to 1 of your opponent's DON!! cards or Characters with a cost of 4 or less.[End of Your Turn] You may rest 1 of your DON!! cards: Set up to 1 of your {FILM} type Characters as active.",
+                "effect": "[Activate: Main] [Once Per Turn] Set up to 1 of your DON!! cards as active. Then, rest up to 1 of your opponent's DON!! cards or Characters with a cost of 4 or less. [End of Your Turn] You may rest 1 of your DON!! cards: Set up to 1 of your {FILM} type Characters as active.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-061.png"
             },
@@ -1966,7 +1878,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Uta",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-061_p1.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -1981,7 +1892,7 @@
                     "FILM"
                 ],
                 "block_icon": "4",
-                "effect": "[Activate: Main] [Once Per Turn] Set up to 1 of your DON!! cards as active. Then, rest up to 1 of your opponent's DON!! cards or Characters with a cost of 4 or less.[End of Your Turn] You may rest 1 of your DON!! cards: Set up to 1 of your {FILM} type Characters as active.",
+                "effect": "[Activate: Main] [Once Per Turn] Set up to 1 of your DON!! cards as active. Then, rest up to 1 of your opponent's DON!! cards or Characters with a cost of 4 or less. [End of Your Turn] You may rest 1 of your DON!! cards: Set up to 1 of your {FILM} type Characters as active.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-061_p1.png"
             },
@@ -1991,7 +1902,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Uta",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-061_p2.png",
                 "cost": "7",
                 "attribute": [
                     "Special"
@@ -2006,7 +1916,7 @@
                     "FILM"
                 ],
                 "block_icon": "4",
-                "effect": "[Activate: Main] [Once Per Turn] Set up to 1 of your DON!! cards as active. Then, rest up to 1 of your opponent's DON!! cards or Characters with a cost of 4 or less.[End of Your Turn] You may rest 1 of your DON!! cards: Set up to 1 of your {FILM} type Characters as active.",
+                "effect": "[Activate: Main] [Once Per Turn] Set up to 1 of your DON!! cards as active. Then, rest up to 1 of your opponent's DON!! cards or Characters with a cost of 4 or less. [End of Your Turn] You may rest 1 of your DON!! cards: Set up to 1 of your {FILM} type Characters as active.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-061_p2.png"
             },
@@ -2016,7 +1926,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-062.png",
                 "cost": "8",
                 "attribute": [
                     "Slash"
@@ -2031,7 +1940,7 @@
                     "Heart Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Rush][Activate: Main] You may trash 1 card from your hand and trash this Character: Add up to 1 card from the top of your deck to the top of your Life cards. Then, play up to 1 [Trafalgar Law] with a cost of 7 or less from your hand.",
+                "effect": "[Rush] [Activate: Main] You may trash 1 card from your hand and trash this Character: Add up to 1 card from the top of your deck to the top of your Life cards. Then, play up to 1 [Trafalgar Law] with a cost of 7 or less from your hand.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-062.png"
             },
@@ -2041,7 +1950,6 @@
                 "type": "SEC",
                 "class": "CHARACTER",
                 "name": "Trafalgar Law",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-062_p1.png",
                 "cost": "8",
                 "attribute": [
                     "Slash"
@@ -2056,7 +1964,7 @@
                     "Heart Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Rush][Activate: Main] You may trash 1 card from your hand and trash this Character: Add up to 1 card from the top of your deck to the top of your Life cards. Then, play up to 1 [Trafalgar Law] with a cost of 7 or less from your hand.",
+                "effect": "[Rush] [Activate: Main] You may trash 1 card from your hand and trash this Character: Add up to 1 card from the top of your deck to the top of your Life cards. Then, play up to 1 [Trafalgar Law] with a cost of 7 or less from your hand.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-062_p1.png"
             },
@@ -2066,7 +1974,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Uta",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-003_p2.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2091,7 +1998,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Tashigi",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-018_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Slash"
@@ -2106,7 +2012,7 @@
                     "Navy"
                 ],
                 "block_icon": "4",
-                "effect": "[Opponent's Turn] This Character cannot be K.O.'d by your opponent's effects and gains [Blocker].[End of Your Turn] You may rest 1 of your DON!! cards and trash 1 card from your hand: Set this Character as active.",
+                "effect": "[Opponent's Turn] This Character cannot be K.O.'d by your opponent's effects and gains [Blocker]. [End of Your Turn] You may rest 1 of your DON!! cards and trash 1 card from your hand: Set this Character as active.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-018_p2.png"
             },
@@ -2116,7 +2022,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Nefeltari Vivi",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-024_p2.png",
                 "cost": "5",
                 "attribute": [
                     "Wisdom"
@@ -2131,7 +2036,7 @@
                     "Alabasta"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][On Play] Play up to 1 {Alabasta} or {Straw Hat Crew} type Character card with a cost of 5 or less from your hand. Then, you cannot play any Character cards on your field during this turn.",
+                "effect": "[Blocker] [On Play] Play up to 1 {Alabasta} or {Straw Hat Crew} type Character card with a cost of 5 or less from your hand. Then, you cannot play any Character cards on your field during this turn.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-024_p2.png"
             },
@@ -2141,7 +2046,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Boa Hancock",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-026_p2.png",
                 "cost": "6",
                 "attribute": [
                     "Special"
@@ -2157,7 +2061,7 @@
                     "Kuja Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] If your opponent has 5 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck.[Activate: Main] [Once Per Turn] You may place 1 of your Characters at the bottom of the owner's deck: Give your Leader and 1 Character up to 1 rested DON!! card each.",
+                "effect": "[On Play] If your opponent has 5 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck. [Activate: Main] [Once Per Turn] You may place 1 of your Characters at the bottom of the owner's deck: Give your Leader and 1 Character up to 1 rested DON!! card each.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-026_p2.png"
             },
@@ -2167,7 +2071,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Vinsmoke Reiju",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-031_p2.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2193,7 +2096,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Koala",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-042_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Strike"
@@ -2209,7 +2111,7 @@
                     "Revolutionary Army"
                 ],
                 "block_icon": "4",
-                "effect": "If your Leader has the {Revolutionary Army} type, this Character gains +4 cost.[Opponent's Turn] [On K.O.] Play up to 1 {Revolutionary Army} type Character card with a cost of 6 or less other than [Koala] or up to 1 [Nico Robin] with a cost of 6 or less from your hand or trash.",
+                "effect": "If your Leader has the {Revolutionary Army} type, this Character gains +4 cost. [Opponent's Turn] [On K.O.] Play up to 1 {Revolutionary Army} type Character card with a cost of 6 or less other than [Koala] or up to 1 [Nico Robin] with a cost of 6 or less from your hand or trash.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-042_p2.png"
             },
@@ -2219,7 +2121,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Perona",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-045_p2.png",
                 "cost": "4",
                 "attribute": [
                     "Special"
@@ -2235,7 +2136,7 @@
                     "Thriller Bark Pirates"
                 ],
                 "block_icon": "4",
-                "effect": "[Blocker][On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. Then, if you have 10 or more cards in your trash, play up to 1 {Thriller Bark Pirates} type Character card with a cost of 2 or less from your trash rested.",
+                "effect": "[Blocker] [On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. Then, if you have 10 or more cards in your trash, play up to 1 {Thriller Bark Pirates} type Character card with a cost of 2 or less from your trash rested.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-045_p2.png"
             },
@@ -2245,7 +2146,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Nami",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-053_p2.png",
                 "cost": "5",
                 "attribute": [
                     "Special"
@@ -2260,7 +2160,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] Give up to 1 rested DON!! card to your Leader. Then, if your opponent has 3 or more Life cards, add up to 1 card from the top of your opponent's Life cards to the owner's hand.[On K.O.] You may turn 1 card from the top of your Life cards face-up: Play up to 1 Character card with 6000 power or less from your hand.",
+                "effect": "[On Play] Give up to 1 rested DON!! card to your Leader. Then, if your opponent has 3 or more Life cards, add up to 1 card from the top of your opponent's Life cards to the owner's hand. [On K.O.] You may turn 1 card from the top of your Life cards face-up: Play up to 1 Character card with 6000 power or less from your hand.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-053_p2.png"
             },
@@ -2270,7 +2170,6 @@
                 "type": "SP CARD",
                 "class": "CHARACTER",
                 "name": "Nico Robin",
-                "image_path": "images/ONEPIECEHeroinesEditionEB03/EB03-055_p2.png",
                 "cost": "7",
                 "attribute": [
                     "Strike"
@@ -2285,7 +2184,7 @@
                     "Straw Hat Crew"
                 ],
                 "block_icon": "4",
-                "effect": "[On Play] You may trash 1 card from the top of your Life cards: If your Leader has the {Straw Hat Crew} type, add up to 2 cards from the top of your deck to the top of your Life cards.[Opponent's Turn] [On K.O.] You may deal 1 damage to your opponent.",
+                "effect": "[On Play] You may trash 1 card from the top of your Life cards: If your Leader has the {Straw Hat Crew} type, add up to 2 cards from the top of your deck to the top of your Life cards. [Opponent's Turn] [On K.O.] You may deal 1 damage to your opponent.",
                 "card_set": "-ONE PIECE Heroines Edition- [EB-03]",
                 "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB03-055_p2.png"
             }
