@@ -1,0 +1,1020 @@
+{
+  "meta": {
+    "date": "2026-09-16",
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "ST08",
+    "name": "STARTER DECK -Side Monkey.D.Luffy- [ST-08]",
+    "type": "starter",
+    "releaseDate": null,
+    "baseSetSize": 15,
+    "totalSetSize": 15,
+    "languages": [
+      "English",
+      "Korean",
+      "Thai",
+      "Chinese Traditional"
+    ],
+    "foreignNames": {
+      "Korean": "[STK-08] 스타트 덱 Side 몽키 D. 루피",
+      "Thai": "-Side Monkey.D.Luffy- [ST-08]",
+      "Chinese Traditional": "Side 蒙其・D・魯夫【ST-08】"
+    },
+    "cards": [
+      {
+        "id": "ST08-001",
+        "number": "ST08-001",
+        "name": "Monkey.D.Luffy",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-001.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "몽키 D. 루피",
+            "effect": "【자신의 턴 동안】캐릭터가 KO 당했을 때, 이 리더에게 레스트 상태인 두웅!!을 1장까지 부여한다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Monkey.D.Luffy",
+            "effect": "[เทิร์นตัวเอง] เมื่อมีคาแรกเตอร์ของใครก็ตาม ถูก KO ด้วยกรณีใดๆ, นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ มาใส่ให้กับ ลีดเดอร์นี้.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "蒙其・D・魯夫",
+            "effect": "【我方回合中】角色卡遭到KO時，附加最多1張休息狀態的咚‼卡在這張領航卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST08-002",
+        "number": "ST08-002",
+        "name": "Uta",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "3000",
+        "counter": null,
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "FILM"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "This Character cannot be K.O.'d in battle by Leaders. [Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-002.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "우타",
+            "effect": "이 캐릭터는 리더와의 배틀에서는 KO 당하지 않는다.<br>\r\n【기동: 메인】이 캐릭터를 레스트 할 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -2.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "FILM"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Uta",
+            "effect": "คาแรกเตอร์นี้จะไม่ถูก KO จากการแบทเทิลกับ ลีดเดอร์. [ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -2.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "FILM"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "美音",
+            "effect": "這張角色卡在與領航卡的對戰中不會遭到KO。 【啟動主要】可將這張角色卡置為休息狀態：最多1張對手的角色卡，在這個回合，費用-2。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "FILM"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST08-003",
+        "number": "ST08-003",
+        "name": "Gaimon",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "East Blue"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-003.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "가이몬",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "이스트 블루"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Gaimon",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "อีสต์บลู"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "卡蒙",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "東方藍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST08-004",
+        "number": "ST08-004",
+        "name": "Koby",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "1000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-004.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "코비",
+            "effect": "【기동: 메인】 이 캐릭터를 레스트 할 수 있다: 상대의 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "해군"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Koby",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "克比",
+            "effect": "【啟動主要】可將這張角色卡置為休息狀態：KO最多1張對手費用2以下的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST08-005",
+        "number": "ST08-005",
+        "name": "Shanks",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "9",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "10000",
+        "counter": null,
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] You may trash 1 card from your hand: K.O. all Characters with a cost of 1 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-005.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샹크스",
+            "effect": "【등장 시】자신의 패 1장을 버릴 수 있다: 코스트 1 이하인 모든 캐릭터를 KO 시킨다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "빨간 머리 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Shanks",
+            "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ ที่มีคอสต์ 1 หรือต่ำกว่า ทั้งหมด ไม่ว่าจะอยู่ในสนามของใครก็ตาม.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "傑克",
+            "effect": "【登場時】可以廢棄1張自己的手牌：KO全數費用1以下的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "紅髮海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST08-006",
+        "number": "ST08-006",
+        "name": "Shirahoshi",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": null,
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Merfolk"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-006.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "시라호시",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)<br>\r\n【등장 시】이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -4.",
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "인어족"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Shirahoshi",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -4.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "เผ่าเงือก"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "白星",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】最多1張對手的角色卡，在這個回合，費用-4。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "人魚族"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST08-007",
+        "number": "ST08-007",
+        "name": "Nefeltari Vivi",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "1000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Alabasta"
+        ],
+        "trigger": "[Trigger] Play this card.",
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-007.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "네펠타리 비비",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+            "trigger": "이 카드를 등장시킨다.",
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "알라바스타 왕국"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Nefeltari Vivi",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "ราชอาณาจักรอลาบาสต้า"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "納菲魯塔利・薇薇",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+            "trigger": "【觸發器】使這張卡片登場。",
+            "attribute": null,
+            "feature": [
+              "阿拉巴斯坦王國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST08-008",
+        "number": "ST08-008",
+        "name": "Higuma",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Mountain Bandits"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-008.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "히그마",
+            "effect": "【등장 시】이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -2.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "산적"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Higuma",
+            "effect": "[เมื่อลงสนาม] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -2.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "โจรภูเขา"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "西格",
+            "effect": "【登場時】最多1張對手的角色卡，在這個回合，費用-2。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "山賊"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST08-009",
+        "number": "ST08-009",
+        "name": "Makino",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": null,
+        "counter": "2000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Windmill Village"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] If there is a Character with a cost of 0, draw 1 card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-009.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "마키노",
+            "effect": "【등장 시】코스트 0인 캐릭터가 있을 경우, 카드를 1장 뽑는다.",
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "후샤 마을"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Makino",
+            "effect": "[เมื่อลงสนาม] ถ้ามีคาแรกเตอร์ ที่มีคอสต์ 0 อยู่ในสนามของใครก็ตาม, จั่วการ์ด จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "หมู่บ้านฟูชา"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "瑪姬",
+            "effect": "【登場時】若場上有費用0的角色卡時，抽1張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "佛夏村"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST08-010",
+        "number": "ST08-010",
+        "name": "Monkey.D.Garp",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "7000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-010.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "몽키 D. 가프",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "해군"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Monkey.D.Garp",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "蒙其・D・卡普",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST08-011",
+        "number": "ST08-011",
+        "name": "Monkey.D.Luffy",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-011.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "몽키 D. 루피",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Monkey.D.Luffy",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "蒙其・D・魯夫",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST08-012",
+        "number": "ST08-012",
+        "name": "Laboon",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Animal"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-012.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "라분",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "동물"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Laboon",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "拉布",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "動物"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST08-013",
+        "number": "ST08-013",
+        "name": "Mr.2.Bon.Kurei(Bentham)",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Former Baroque Works"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] At the end of a battle in which this Character battles your opponent's Character, you may K.O. the opponent’s Character you battled with. If you do, K.O. this Character.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-013.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "Mr.2 봉쿠레(벤담)",
+            "effect": "【두웅!!×1】이 캐릭터가 상대의 캐릭터와 배틀한 배틀 종료 시, 배틀한 상대의 캐릭터를 KO 시킬 수 있다. 이 경우, 이 캐릭터를 KO 시킨다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "전 바로크 워크스"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Mr.2.Bon.Kurei (Bentham)",
+            "effect": "[ด้ง!! x 1] ในตอนจบการแบทเทิลที่คาแรกเตอร์นี้ แบทเทิลกับคาแรกเตอร์ของคู่แข่ง, จะสามารถทำการ KO คาแรกเตอร์ของคู่แข่ง ที่แบทเทิลด้วยก็ได้. ถ้าทำเช่นนั้น, จะทำการ KO คาแรกเตอร์นี้.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "อดีต B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "Mr.2・馮・克雷(班薩姆)",
+            "effect": "【咚‼×1】這張角色卡和對手的角色卡對戰且對戰結束時，也可以KO對戰的對手角色卡。若有執行此動作時，KO這張角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "前B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST08-014",
+        "number": "ST08-014",
+        "name": "Gum-Gum Bell",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "2",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] Add up to 1 black Character card with a cost of 2 or less from your trash to your hand.",
+        "blockIcon": "1",
+        "effect": "[Main] You may add 1 card from the top of your Life cards to your hand: Give up to 1 of your opponent's Characters −7 cost during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-014.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "고무고무 종",
+            "effect": "【메인】 자신의 라이프 위에서 1장을 패에 더 할 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -7.",
+            "trigger": "자신의 트래시에서 코스트 2 이하인 흑색 캐릭터 카드를 1장까지 패에 더한다.",
+            "attribute": null,
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Gum-Gum Bell",
+            "effect": "[เมน] สามารถนำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นบนสู่มือ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -7.",
+            "trigger": "[ทริกเกอร์] นำคาแรกเตอร์การ์ด ธีมสีดำ ที่มีคอสต์ 2 หรือต่ำกว่า ซึ่งอยู่ในแทรชของเรา จำนวนไม่เกิน 1 ใบ, เพิ่มขึ้นสู่บนมือ.",
+            "attribute": null,
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "橡膠鐘擺",
+            "effect": "【主要】可將1張自己生命值區上面的卡片加入手牌：最多1張對手的角色卡，在這個回合，費用-7。",
+            "trigger": "【觸發器】將最多1張自己廢棄區中費用2以下黑色的角色卡，加入手牌。",
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST08-015",
+        "number": "ST08-015",
+        "name": "Gum-Gum Pistol",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "3",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] Draw 1 card.",
+        "blockIcon": "1",
+        "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST08-015.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "고무고무 총",
+            "effect": "【메인】 상대의 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": "카드를 1장 뽑는다.",
+            "attribute": null,
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Gum-Gum Pistol",
+            "effect": "[เมน] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+            "attribute": null,
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "橡膠槍",
+            "effect": "【主要】KO最多1張對手費用2以下的角色卡。",
+            "trigger": "【觸發器】抽1張卡片。",
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

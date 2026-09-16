@@ -1,0 +1,840 @@
+{
+  "meta": {
+    "date": "2026-09-16",
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "ST19",
+    "name": "STARTER DECK -Black Smoker- [ST-19]",
+    "type": "starter",
+    "releaseDate": null,
+    "baseSetSize": 14,
+    "totalSetSize": 15,
+    "languages": [
+      "English",
+      "Thai",
+      "Chinese Traditional"
+    ],
+    "foreignNames": {
+      "Thai": "-Black Smoker- [ST-19]",
+      "Chinese Traditional": "黑 斯摩格【ST-19】"
+    },
+    "cards": [
+      {
+        "id": "OP02-093_p2",
+        "number": "OP02-093",
+        "name": "Smoker",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Special"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] Give up to 1 of your opponent's Characters −1 cost during this turn. Then, if there is a Character with a cost of 0, this Leader gains +1000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-093_p2.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Smoker",
+            "effect": "[ด้ง!! x 1] [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -1. จากนั้น, ถ้ามีคาแรกเตอร์ ที่มีคอสต์ 0 อยู่ในสนามของใครก็ตาม, ในเทิร์นนี้, ลีดเดอร์นี้, จะมีพาวเวอร์ +1000.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "斯摩格",
+            "effect": "【咚‼×1】【啟動主要】【每回合1次】最多1張對手的角色卡，在這個回合，費用-1。之後，若場上有費用0的角色卡時，這張領航卡，在這個回合，力量值+1000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP02-098_r1",
+        "number": "OP02-098",
+        "name": "Koby",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-098_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Koby",
+            "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "克比",
+            "effect": "【登場時】可以廢棄1張自己的手牌：KO最多1張對手費用3以下的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP02-106_r1",
+        "number": "OP02-106",
+        "name": "Tsuru",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": null,
+        "counter": "2000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] Give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-106_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Tsuru",
+            "effect": "[เมื่อลงสนาม] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -2.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "阿鶴",
+            "effect": "【登場時】最多1張對手的角色卡，在這個回合，費用-2。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP02-108_r1",
+        "number": "OP02-108",
+        "name": "Donquixote Rosinante",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy",
+          "Donquixote Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-108_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Donquixote Rosinante",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กองทัพเรือ",
+              "กลุ่มโจรสลัดดองกีโฮเต้"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "唐吉訶德・羅希南特",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍",
+              "唐吉訶德海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP02-109_r1",
+        "number": "OP02-109",
+        "name": "Jaguar.D.Saul",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Giant",
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-109_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Jaguar.D.Saul",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "เผ่าคนยักษ์",
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "哈古瓦爾・D・薩烏羅",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "巨人族",
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP02-113_r1",
+        "number": "OP02-113",
+        "name": "Helmeppo",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": "[Trigger] Play this card.",
+        "blockIcon": "1",
+        "effect": "[When Attacking] Give up to 1 of your opponent's Characters −2 cost during this turn. Then, if there is a Character with a cost of 0, this Character gains +2000 power during this battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-113_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Helmeppo",
+            "effect": "[เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -2. จากนั้น, ถ้ามีคาแรกเตอร์ ที่มีคอสต์ 0 อยู่ในสนามของใครก็ตาม, ในแบทเทิลนี้, คาแรกเตอร์นี้, จะมีพาวเวอร์ +2000.",
+            "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "貝魯梅柏",
+            "effect": "【攻擊時】最多1張對手的角色卡，在這個回合，費用-2。之後，若場上有費用0的角色卡時，這張角色卡在這場對戰中，力量值+2000。",
+            "trigger": "【觸發器】使這張卡片登場。",
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP02-116_r1",
+        "number": "OP02-116",
+        "name": "Yamakaji",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-116_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Yamakaji",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "火燒山",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP02-117_r1",
+        "number": "OP02-117",
+        "name": "Ice Age",
+        "rarity": "UC",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "blockIcon": "1",
+        "effect": "[Main] Give up to 1 of your opponent's Characters −5 cost during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP02-117_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Ice Age",
+            "effect": "[เมน] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -5.",
+            "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+            "attribute": null,
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "冰河時代",
+            "effect": "【主要】最多1張對手的角色卡，在這個回合，費用-5。",
+            "trigger": "【觸發器】KO最多1張對手費用3以下的角色卡。",
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP03-079_r1",
+        "number": "OP03-079",
+        "name": "Vergo",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "2000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy",
+          "Donquixote Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] This Character cannot be K.O.'d in battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP03-079_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Vergo",
+            "effect": "[ด้ง!! x 1] คาแรกเตอร์นี้ จะไม่ถูก KO จากการแบทเทิล.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กองทัพเรือ",
+              "กลุ่มโจรสลัดดองกีโฮเต้"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "威爾可",
+            "effect": "【咚‼×1】這張角色卡在對戰中不會遭到KO。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍",
+              "唐吉訶德海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP03-089_r1",
+        "number": "OP03-089",
+        "name": "Brannew",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Navy} type card other than [Brannew] and add it to your hand. Then, trash the rest.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP03-089_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Brannew",
+            "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ดที่มีคุณสมบัติ < กองทัพเรือ > นอกเหนือจาก [Brannew] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางที่แทรช.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "布蘭紐",
+            "effect": "【登場時】從自己的卡組上面查看3張卡片，公開最多1張除了「布蘭紐」以外擁有《海軍》特徵的卡片，並加入手牌。之後，將其餘卡片放到廢棄區。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST19-001",
+        "number": "ST19-001",
+        "name": "Smoker",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "6",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "8000",
+        "counter": null,
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] You may trash 1 black {Navy} type card from your hand: Up to 2 of your opponent's Characters with a cost of 4 or less cannot attack until the end of your opponent's next turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST19-001.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Smoker",
+            "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ด ธีมสีดำ ที่มีคุณสมบัติ < กองทัพเรือ > จากบนมือของเรา จำนวน 1 ใบ : ทำให้ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 2 ใบ, จะไม่สามารถโจมตี, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "斯摩格",
+            "effect": "【登場時】可以廢棄1張自己手牌中黑色擁有《海軍》特徵的卡片：最多2張對手費用4以下的角色卡，在下一個對手回合結束前，無法進行攻擊。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST19-002",
+        "number": "ST19-002",
+        "name": "Sengoku",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "1000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] You may trash 2 black {Navy} type cards from your hand: If your Leader has the {Navy} type, draw 3 cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST19-002.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Sengoku",
+            "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ด ธีมสีดำ ที่มีคุณสมบัติ < กองทัพเรือ > จากบนมือของเรา จำนวน 2 ใบ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กองทัพเรือ > ละก็, จะได้จั่วการ์ด จำนวน 3 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "戰國",
+            "effect": "【登場時】可以廢棄2張自己手牌中黑色擁有《海軍》特徵的卡片：若自己的領航卡擁有《海軍》特徵時，抽3張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST19-003",
+        "number": "ST19-003",
+        "name": "Tashigi",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] If your Leader is [Smoker], give up to 1 of your opponent's Characters −4 cost during this turn. [Activate: Main] [Once Per Turn] If this Character was played on this turn, trash up to 1 of your opponent's Characters with a cost of 0.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST19-003.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Tashigi",
+            "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา คือ [Smoker] ละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -4. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์นี้ เพิ่งลงสนามมา ในเทิร์นนี้, นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 0 จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "達絲琪",
+            "effect": "【登場時】若自己的領航卡是「斯摩格」時，最多1張對手的角色卡，在這個回合，費用-4。 【啟動主要】【每回合1次】若是這張角色卡登場的回合時，將最多1張對手費用0的角色卡放置在廢棄區。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST19-004",
+        "number": "ST19-004",
+        "name": "Hina",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[DON!! x1] [Opponent's Turn] This Character gains +4 cost. [Activate: Main] [Once Per Turn] You may place 1 card from your trash at the bottom of your deck: Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST19-004.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Hina",
+            "effect": "[ด้ง!! x 1] [เทิร์นคู่แข่ง] คาแรกเตอร์นี้ จะมีคอสต์ +4. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถนำการ์ด ที่อยู่ในแทรชของเรา จำนวน 1 ใบ ไปวางที่ข้างใต้เด็ค : นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "希娜",
+            "effect": "【咚‼×1】【對方回合中】這張角色卡的費用+4。 【啟動主要】【每回合1次】可將1張自己廢棄區中的卡片放置在卡組下面：附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST19-005",
+        "number": "ST19-005",
+        "name": "Monkey.D.Garp",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Activate: Main] [Once Per Turn] You may place 1 card from your trash at the bottom of your deck: Give up to 1 of your opponent's Characters −1 cost during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST19-005.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Monkey.D.Garp",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถนำการ์ด ที่อยู่ในแทรชของเรา จำนวน 1 ใบ ไปวางที่ข้างใต้เด็ค : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -1.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "蒙其・D・卡普",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【啟動主要】【每回合1次】可將1張自己廢棄區中的卡片放置在卡組下面：最多1張對手的角色卡，在這個回合，費用-1。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

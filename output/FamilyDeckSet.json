@@ -1,0 +1,2261 @@
+{
+  "meta": {
+    "date": "2026-09-16",
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "FamilyDeckSet",
+    "name": "Family Deck Set",
+    "type": "special",
+    "releaseDate": null,
+    "baseSetSize": 49,
+    "totalSetSize": 51,
+    "languages": [
+      "English",
+      "Thai"
+    ],
+    "foreignNames": {
+      "Thai": "Family Deck Set"
+    },
+    "cards": [
+      {
+        "id": "ST01-001_p1",
+        "number": "ST01-001",
+        "name": "Monkey.D.Luffy (Parallel)",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Supernovas",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] [Once Per Turn] Give this Leader or 1 of your Characters up to 1 rested DON!! card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-001_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Monkey.D.Luffy (Parallel)",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-002_r1",
+        "number": "ST01-002",
+        "name": "Usopp",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] Play this card.",
+        "blockIcon": "1",
+        "effect": "[DON!! x2] [When Attacking] Your opponent cannot activate a [Blocker] Character that has 5000 or more power during this battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-002_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Usopp",
+            "effect": "[ด้ง!! x 2] [เมื่อโจมตี] ในแบทเทิลนี้, คู่แข่งจะไม่สามารถใช้งาน [บล็อกเกอร์] ของคาแรกเตอร์ ที่มีพาวเวอร์ 5000 หรือสูงกว่า.",
+            "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-003_r1",
+        "number": "ST01-003",
+        "name": "Karoo",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Animal",
+          "Alabasta"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-003_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Karoo",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์",
+              "ราชอาณาจักรอลาบาสต้า"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-004_r1",
+        "number": "ST01-004",
+        "name": "Sanji",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x2] This Character gains [Rush]. (This card can attack on the turn in which it is played.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-004_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Sanji",
+            "effect": "[ด้ง!! x 2] คาแรกเตอร์นี้จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-005_r1",
+        "number": "ST01-005",
+        "name": "Jinbe",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Fish-Man",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] [When Attacking] Up to 1 of your Leader or Character cards other than this card gains +1000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-005_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Jinbe",
+            "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา (ยกเว้นคาแรกเตอร์นี้) จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "เผ่ามนุษย์เงือก",
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-006_r1",
+        "number": "ST01-006",
+        "name": "Tony Tony.Chopper",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "1000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Animal",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-006_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Tony Tony.Chopper",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์",
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-007_r1",
+        "number": "ST01-007",
+        "name": "Nami",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "1000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-007_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Nami",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-008_r1",
+        "number": "ST01-008",
+        "name": "Nico Robin",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-008_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Nico Robin",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-009_r1",
+        "number": "ST01-009",
+        "name": "Nefeltari Vivi",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Alabasta"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-009_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Nefeltari Vivi",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "ราชอาณาจักรอลาบาสต้า"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-010_r1",
+        "number": "ST01-010",
+        "name": "Franky",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-010_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Franky",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-011_r1",
+        "number": "ST01-011",
+        "name": "Brook",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "3000",
+        "counter": "2000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-011_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Brook",
+            "effect": "[เมื่อลงสนาม] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 2 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-012_r1",
+        "number": "ST01-012",
+        "name": "Monkey.D.Luffy",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Supernovas",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Rush] (This card can attack on the turn in which it is played.) [DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-012_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Monkey.D.Luffy",
+            "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [ด้ง!! x 2] [เมื่อโจมตี] ในแบทเทิลนี้, คู่แข่งจะไม่สามารถใช้งาน [บล็อกเกอร์].",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-013_r1",
+        "number": "ST01-013",
+        "name": "Roronoa Zoro",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Supernovas",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] This Character gains +1000 power.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-013_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Roronoa Zoro",
+            "effect": "[ด้ง!! x 1] คาแรกเตอร์นี้, จะมีพาวเวอร์ +1000.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-014_r2",
+        "number": "ST01-014",
+        "name": "Guard Point",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Animal",
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] Your Leader or 1 of your Characters gains +1000 power during this turn.",
+        "blockIcon": "1",
+        "effect": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-014_r2.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Guard Point",
+            "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+            "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+            "attribute": null,
+            "feature": [
+              "สัตว์",
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-015_r2",
+        "number": "ST01-015",
+        "name": "Gum-Gum Jet Pistol",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "4",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Supernovas",
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] Activate this card's [Main] effect.",
+        "blockIcon": "1",
+        "effect": "[Main] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-015_r2.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Gum-Gum Jet Pistol",
+            "effect": "[เมน] ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 6000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+            "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+            "attribute": null,
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-016_r1",
+        "number": "ST01-016",
+        "name": "Diable Jambe",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] K.O. 1 of your opponent's [Blocker] Characters with a cost of 3 or less.",
+        "blockIcon": "1",
+        "effect": "[Main] Select up to 1 of your {Straw Hat Crew} type Leader or Character cards. Your opponent cannot activate [Blocker] if that Leader or Character attacks during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-016_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Diable Jambe",
+            "effect": "[เมน] เลือก ลีดเดอร์ หรือ คาแรกเตอร์ ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > ของเรา จำนวนไม่เกิน 1 ใบ, ในเทิร์นนี้, คู่แข่งจะไม่สามารถใช้งาน [บล็อกเกอร์] ในขณะที่ลีดเดอร์ หรือ คาแรกเตอร์นั้น ทำการโจมตี.",
+            "trigger": "[ทริกเกอร์] ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, ที่มีความสามารถ [บล็อกเกอร์] จำนวนไม่เกิน 1 ใบ.",
+            "attribute": null,
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-017_r1",
+        "number": "ST01-017",
+        "name": "Thousand Sunny",
+        "rarity": "C",
+        "cardClass": "STAGE",
+        "cost": "2",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] You may rest this Stage: Up to 1 {Straw Hat Crew} type Leader or Character card on your field gains +1000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-017_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Thousand Sunny",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ สเตจนี้ : ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-001_p1",
+        "number": "ST02-001",
+        "name": "Eustass\"Captain\"Kid (Parallel)",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Special"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "Kid Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] [Once Per Turn]  ③ (You may rest the specified number of DON!! cards in your cost area.) You may trash 1 card from your hand: Set this Leader as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-001_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Eustass “Captain” Kid (Parallel)",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] (3) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ), สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ทำการ แอ็คทีฟ ลีดเดอร์นี้.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดคิด"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-002_r1",
+        "number": "ST02-002",
+        "name": "Vito",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Firetank Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-002_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Vito",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดไฟร์แทงค์"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-003_r1",
+        "number": "ST02-003",
+        "name": "Urouge",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "Fallen Monk Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] If you have 3 or more Characters, this card gains +2000 power.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-003_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Urouge",
+            "effect": "[ด้ง!! x 1] ถ้าเรามีคาแรกเตอร์ จำนวน 3 ใบ หรือมากกว่า, คาแรกเตอร์นี้, จะมีพาวเวอร์ +2000.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดนักบวชนอกรีต"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-004_r1",
+        "number": "ST02-004",
+        "name": "Capone\"Gang\"Bege",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "1000",
+        "counter": null,
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "Firetank Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-004_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Capone “Gang” Bege",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดไฟร์แทงค์"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-005_r1",
+        "number": "ST02-005",
+        "name": "Killer",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "Kid Pirates"
+        ],
+        "trigger": "[Trigger] Play this card.",
+        "blockIcon": "1",
+        "effect": "[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-005_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Killer",
+            "effect": "[เมื่อลงสนาม] ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มี คอสต์ 3 หรือต่ำกว่า ที่กำลังเรสต์อยู่ จำนวนไม่เกิน 1 ใบ.",
+            "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดคิด"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-006_r1",
+        "number": "ST02-006",
+        "name": "Koby",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-006_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Koby",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-007_r1",
+        "number": "ST02-007",
+        "name": "Jewelry Bonney",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "1000",
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "Bonney Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] ➀ (You may rest the specified number of DON!! cards in your cost area.) You may rest this card: Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-007_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Jewelry Bonney",
+            "effect": "[ใช้งาน : เมน] (1) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ), สามารถ เรสต์ คาแรกเตอร์นี้ : ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ดที่มีคุณสมบัติ < ซูเปอร์โนวา> จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดบอนนี่"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-008_r1",
+        "number": "ST02-008",
+        "name": "Scratchmen Apoo",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "3000",
+        "counter": "2000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "On-Air Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] [When Attacking] Rest up to 1 of your opponent's DON!! cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-008_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Scratchmen Apoo",
+            "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ทำให้ ด้ง!! ของคู่แข่ง จำนวนไม่เกิน 1 ใบ เปลี่ยนเป็น เรสต์.",
+            "trigger": null,
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดออนแอร์"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-009_r1",
+        "number": "ST02-009",
+        "name": "Trafalgar Law",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "Heart Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] Set up to 1 of your {Supernovas} or {Heart Pirates} type rested Characters with a cost of 5 or less as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-009_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Trafalgar Law",
+            "effect": "[เมื่อลงสนาม] ทำการ แอ็คทีฟ คาแรกเตอร์ของเราที่กำลังเรสต์อยู่, ที่มีคอสต์ 5 หรือต่ำกว่า ที่มีคุณสมบัติ < ซูเปอร์โนวา> หรือ < กลุ่มโจรสลัดฮาร์ท > จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดฮาร์ท"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-010_r1",
+        "number": "ST02-010",
+        "name": "Basil Hawkins",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "Hawkins Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] [Once Per Turn] [Your Turn] If this Character battles your opponent's Character, set this card as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-010_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Basil Hawkins",
+            "effect": "[ด้ง!! x 1] [เทิร์นละ 1 ครั้ง] [เทิร์นตัวเอง] ถ้าคาแรกเตอร์นี้ แบทเทิลกับ คาแรกเตอร์ของคู่แข่ง, ทำการ แอ็คทีฟ คาแรกเตอร์นี้.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดฮอว์คินส์"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-011_r1",
+        "number": "ST02-011",
+        "name": "Heat",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Kid Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-011_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Heat",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดคิด"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-012_r1",
+        "number": "ST02-012",
+        "name": "Bepo",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Minks",
+          "Heart Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-012_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Bepo",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "เผ่ามิงค์",
+              "กลุ่มโจรสลัดฮาร์ท"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-013_r1",
+        "number": "ST02-013",
+        "name": "Eustass\"Captain\"Kid",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "7",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "7000",
+        "counter": null,
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "Kid Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [End of Your Turn] Set this card as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-013_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Eustass “Captain” Kid",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ด้ง!! x 1] [เมื่อจบเทิร์นตัวเอง] ทำการ แอ็คทีฟ คาแรกเตอร์นี้.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดคิด"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-014_r1",
+        "number": "ST02-014",
+        "name": "X.Drake",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Navy",
+          "Supernovas",
+          "Drake Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] [Your Turn] If this Character is rested, your {Supernovas} or {Navy} type Leaders and Characters gain +1000 power.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-014_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "X.Drake",
+            "effect": "[ด้ง!! x 1] [เทิร์นตัวเอง] ถ้าคาแรกเตอร์นี้กำลังเรสต์อยู่, ลีดเดอร์ และ คาแรกเตอร์ ที่มีคุณสมบัติ < กองทัพเรือ > และ < ซูเปอร์โนวา> ของเราทั้งหมด, จะมีพาวเวอร์ +1000",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กองทัพเรือ",
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดเดรค"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-015_r1",
+        "number": "ST02-015",
+        "name": "Scalpel",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "Heart Pirates"
+        ],
+        "trigger": "[Trigger] Set up to 2 of your DON!! cards as active.",
+        "blockIcon": "1",
+        "effect": "[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, set up to 1 of your DON!! cards as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-015_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Scalpel",
+            "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000. จากนั้น, ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ เปลี่ยนเป็น แอ็คทีฟ.",
+            "trigger": "[ทริกเกอร์] ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 2 ใบ เปลี่ยนเป็น แอ็คทีฟ.",
+            "attribute": null,
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดฮาร์ท"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-016_r1",
+        "number": "ST02-016",
+        "name": "Repel",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "2",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "Kid Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, set up to 1 of your DON!! cards as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-016_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Repel",
+            "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +4000. จากนั้น, ทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 1 ใบ เปลี่ยนเป็น แอ็คทีฟ.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดคิด"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST02-017_r1",
+        "number": "ST02-017",
+        "name": "Straw Sword",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "2",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "Hawkins Pirates"
+        ],
+        "trigger": "[Trigger] Play 1 {Supernovas} type card with a cost of 2 or less from your hand.",
+        "blockIcon": "1",
+        "effect": "[Main] Rest up to 1 of your opponent's Characters.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST02-017_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Straw Sword",
+            "effect": "[เมน] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ.",
+            "trigger": "[ทริกเกอร์] นำการ์ด ที่มีคอสต์ 2 หรือต่ำกว่า ที่มีคุณสมบัติ < ซูเปอร์โนวา> จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+            "attribute": null,
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดฮอว์คินส์"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-001_r1",
+        "number": "ST05-001",
+        "name": "Shanks",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "The Four Emperors",
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] [Once Per Turn] DON!! −3 (You may return the specified number of DON!! cards from your field to your DON!! deck.): All of your {FILM} type Characters gain +2000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-001_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Shanks",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 3 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ในเทิร์นนี้, คาแรกเตอร์ของเราทั้งหมด ที่มีคุณสมบัติ < FILM >, จะมีพาวเวอร์ +2000.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "FILM",
+              "สี่จักรพรรดิ",
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-002_r1",
+        "number": "ST05-002",
+        "name": "Ain",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "Neo Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and rest it.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-002_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Ain",
+            "effect": "[เมื่อลงสนาม] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ เรสต์.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "FILM",
+              "กลุ่มทหารเรือ NEO"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-003_r1",
+        "number": "ST05-003",
+        "name": "Ann",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "3000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "The Pirates Fest"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-003_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Ann",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "FILM",
+              "เทศกาลโจรสลัด"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-004_r1",
+        "number": "ST05-004",
+        "name": "Uta",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-004_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Uta",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อบล็อก] ด้ง!! -1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "FILM"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-005_r1",
+        "number": "ST05-005",
+        "name": "Carina",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "Grantesoro"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] [Once Per Turn] You may rest this Character and trash 1 {FILM} type card from your hand: If your opponent has more DON!! cards on their field than you, add 2 DON!! cards from your DON!! deck and rest them.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-005_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Carina",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถ เรสต์ คาแรกเตอร์นี้, และนำการ์ดจากบนมือของเรา ที่มีคุณสมบัติ < FLIM > จำนวน 1 ใบ ไปวางที่แทรช : ถ้าจำนวน ด้ง!! ในสนามของคู่แข่ง มีมากกว่าจำนวน ด้ง!! ในสนามของเรา, นำ ด้ง!! จากด้ง!! เด็ค จำนวน 2 ใบ มาวางเพิ่มแบบ เรสต์.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "FILM",
+              "แกรนด์ • เตโซโร"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-006_r1",
+        "number": "ST05-006",
+        "name": "Gild Tesoro",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "Grantesoro"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[When Attacking] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-006_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Gild Tesoro",
+            "effect": "[เมื่อโจมตี] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : จั่วการ์ด 2 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "FILM",
+              "แกรนด์ • เตโซโร"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-007_r1",
+        "number": "ST05-007",
+        "name": "Gordon",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-007_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Gordon",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "FILM"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-008_r1",
+        "number": "ST05-008",
+        "name": "Shiki",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "6",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "7000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "Golden Lion Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "If you have 8 or more DON!! cards on your field, this Character cannot be K.O.'d in battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-008_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Shiki",
+            "effect": "ถ้าในสนามของเรามี ด้ง!! อยู่ 8 ใบ หรือมากกว่า, คาแรกเตอร์นี้จะไม่ถูก KO จากการแบทเทิล.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "FILM",
+              "กลุ่มโจรสลัดราชสีห์ทองคำ"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-009_r1",
+        "number": "ST05-009",
+        "name": "Scarlet",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "Animal",
+          "Golden Lion Pirates"
+        ],
+        "trigger": "[Trigger] Play this card.",
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-009_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Scarlet",
+            "effect": null,
+            "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "FILM",
+              "สัตว์",
+              "กลุ่มโจรสลัดราชสีห์ทองคำ"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-010_r1",
+        "number": "ST05-010",
+        "name": "Z",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "7",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "8000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "Neo Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "When this Character battles <Strike> attribute Characters, this Character gains +3000 power during this turn. [Activate: Main] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): This Character gains +2000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-010_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Z",
+            "effect": "ถ้าคาแรกเตอร์นี้ แบทเทิลกับ คาแรกเตอร์ ที่มีคุณลักษณะ (ตี), ในเทิร์นนี้, คาแรกเตอร์นี้จะมีพาวเวอร์ +3000. [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ในเทิร์นนี้, คาแรกเตอร์นี้จะมีพาวเวอร์ +2000.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "FILM",
+              "กลุ่มทหารเรือ NEO"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-011_r1",
+        "number": "ST05-011",
+        "name": "Douglas Bullet",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "8",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "10000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "The Pirates Fest"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] [Once Per Turn] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Rest up to 2 of your opponent's Characters with a cost of 6 or less. Then, this Character gains [Double Attack] during this turn. (This card deals 2 damage.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-011_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Douglas Bullet",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 4 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 6 หรือต่ำกว่า จำนวนไม่เกิน 2 ใบ. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์นี้จะได้รับ [ดับเบิ้ลแอทแทค]. (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย)",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "FILM",
+              "เทศกาลโจรสลัด"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-012_r1",
+        "number": "ST05-012",
+        "name": "Baccarat",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "Grantesoro"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-012_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Baccarat",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "FILM",
+              "แกรนด์ • เตโซโร"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-013_r1",
+        "number": "ST05-013",
+        "name": "Bins",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "Neo Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-013_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Bins",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "FILM",
+              "กลุ่มทหารเรือ NEO"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-014_r1",
+        "number": "ST05-014",
+        "name": "Buena Festa",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": null,
+        "counter": "2000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "The Pirates Fest"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {FILM} type card other than [Buena Festa] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-014_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Buena Festa",
+            "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ดที่มีคุณสมบัติ < FILM > นอกเหนือจาก [Buena Festa] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "FILM",
+              "เทศกาลโจรสลัด"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-015_r1",
+        "number": "ST05-015",
+        "name": "Dr. Indigo",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "Scientist",
+          "Golden Lion Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-015_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Dr. Indigo",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "FILM",
+              "กลุ่มโจรสลัดราชสีห์ทองคำ"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-016_r1",
+        "number": "ST05-016",
+        "name": "Lion's Threat Imperial Earth Bind",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "3",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "Golden Lion Pirates"
+        ],
+        "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "blockIcon": "1",
+        "effect": "[Main] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-016_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Lion’s Treat Imperial Earth Bind",
+            "effect": "[เมน] ด้ง!! - 2 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+            "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ แอ็คทีฟ.",
+            "attribute": null,
+            "feature": [
+              "FILM",
+              "กลุ่มโจรสลัดราชสีห์ทองคำ"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST05-017_r1",
+        "number": "ST05-017",
+        "name": "Union Armada",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "2",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "FILM",
+          "The Pirates Fest"
+        ],
+        "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "blockIcon": "1",
+        "effect": "[Counter] Up to 1 of your {FILM} type Leader or Character cards gains +4000 power during this battle. If that card is a Character, that Character cannot be K.O.'d during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST05-017_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Union Armada",
+            "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา ที่มีคุณสมบัติ < FILM > จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +4000. ถ้าการ์ดใบนั้นเป็น คาแรกเตอร์, ในเทิร์นนี้, คาแรกเตอร์นั้นจะไม่ถูก KO ไม่ว่าจากกรณีใดก็ตาม.",
+            "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ แอ็คทีฟ.",
+            "attribute": null,
+            "feature": [
+              "FILM",
+              "เทศกาลโจรสลัด"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

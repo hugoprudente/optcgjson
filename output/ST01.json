@@ -1,0 +1,1174 @@
+{
+  "meta": {
+    "date": "2026-09-16",
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "ST01",
+    "name": "STARTER DECK -Straw Hat Crew- [ST-01]",
+    "type": "starter",
+    "releaseDate": null,
+    "baseSetSize": 17,
+    "totalSetSize": 17,
+    "languages": [
+      "English",
+      "Korean",
+      "Thai",
+      "Chinese Traditional"
+    ],
+    "foreignNames": {
+      "Korean": "[STK-01] 스타트 덱 밀짚모자 일당",
+      "Thai": "-Straw Hat Crew- [ST-01]",
+      "Chinese Traditional": "草帽一行人【ST-01】"
+    },
+    "cards": [
+      {
+        "id": "ST01-001",
+        "number": "ST01-001",
+        "name": "Monkey.D.Luffy",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Supernovas",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] [Once Per Turn] Give this Leader or 1 of your Characters up to 1 rested DON!! card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-001.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "몽키 D. 루피",
+            "effect": "【기동: 메인】 【턴1회】 이 리더 또는 자신의 캐릭터 1장에게 레스트 상태인 두웅!!을 1장까지 부여한다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "초신성",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Monkey.D.Luffy",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "蒙其・D・魯夫",
+            "effect": "【啟動主要】【每回合1次】附加最多1張休息狀態的咚!!卡在這張領航卡或1張自己的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "超新星",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-002",
+        "number": "ST01-002",
+        "name": "Usopp",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] Play this card.",
+        "blockIcon": "1",
+        "effect": "[DON!! x2] [When Attacking] Your opponent cannot activate a [Blocker] Character that has 5000 or more power during this battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-002.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "우솝",
+            "effect": "【두웅!!x2】【어택 시】이번 배틀 중, 상대는 파워 5000 이상인 캐릭터의 【블로커】를 발동할 수 없다.",
+            "trigger": "이 카드를 등장시킨다.",
+            "attribute": [
+              "사격"
+            ],
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Usopp",
+            "effect": "[ด้ง!! x 2] [เมื่อโจมตี] ในแบทเทิลนี้, คู่แข่งจะไม่สามารถใช้งาน [บล็อกเกอร์] ของคาแรกเตอร์ ที่มีพาวเวอร์ 5000 หรือสูงกว่า.",
+            "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "騙人布",
+            "effect": "【咚!!×2】【攻擊時】對手在這場對戰中，力量值5000以上的角色卡無法發動【防禦】。",
+            "trigger": "【觸發器】使這張卡片登場。",
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-003",
+        "number": "ST01-003",
+        "name": "Karoo",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Animal",
+          "Alabasta"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-003.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "카루",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "동물",
+              "알라바스타 왕국"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Karoo",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์",
+              "ราชอาณาจักรอลาบาสต้า"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "飛毛腿",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "動物",
+              "阿拉巴斯坦王國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-004",
+        "number": "ST01-004",
+        "name": "Sanji",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x2] This Character gains [Rush]. (This card can attack on the turn in which it is played.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-004.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "상디",
+            "effect": "【두웅!!x2】이 캐릭터는 【속공】을 얻는다.<br>\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Sanji",
+            "effect": "[ด้ง!! x 2] คาแรกเตอร์นี้จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "香吉士",
+            "effect": "【咚!!×2】這張角色卡獲得【速攻】。 (這張卡片在登場的回合即可攻擊)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-005",
+        "number": "ST01-005",
+        "name": "Jinbe",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Fish-Man",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] [When Attacking] Up to 1 of your Leader or Character cards other than this card gains +1000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-005.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "징베",
+            "effect": "【두웅!!x1】【어택 시】이번 턴 동안, 이 캐릭터 이외의 자신의 리더 또는 캐릭터 1장까지의 파워 +1000.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "어인족",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Jinbe",
+            "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา (ยกเว้นคาแรกเตอร์นี้) จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "เผ่ามนุษย์เงือก",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "吉貝爾",
+            "effect": "【咚!!×1】【攻擊時】除了這張角色卡以外，最多1張自己的領航卡或角色卡，在這個回合，力量值+1000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "魚人族",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-006",
+        "number": "ST01-006",
+        "name": "Tony Tony.Chopper",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "1000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Animal",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-006.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "토니토니 쵸파",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트하고 어택 대상을 이 카드로 할 수 있다)",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "동물",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Tony Tony.Chopper",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "多尼多尼・喬巴",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "動物",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-007",
+        "number": "ST01-007",
+        "name": "Nami",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "1000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-007.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "나미",
+            "effect": "【기동: 메인】【턴 1회】자신의 리더 또는 캐릭터 1장에게 레스트 상태인 두웅!!을 1장까지 부여한다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Nami",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "娜美",
+            "effect": "【啟動主要】【每回合1次】附加最多1張休息狀態的咚!!卡在1張自己的領航卡或角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-008",
+        "number": "ST01-008",
+        "name": "Nico Robin",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-008.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "니코 로빈",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Nico Robin",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "妮可・羅賓",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-009",
+        "number": "ST01-009",
+        "name": "Nefeltari Vivi",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Alabasta"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-009.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "네펠타리 비비",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "알라바스타 왕국"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Nefeltari Vivi",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "ราชอาณาจักรอลาบาสต้า"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "納菲魯塔利・薇薇",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "阿拉巴斯坦王國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-010",
+        "number": "ST01-010",
+        "name": "Franky",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-010.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "프랑키",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Franky",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "佛朗基",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-011",
+        "number": "ST01-011",
+        "name": "Brook",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "3000",
+        "counter": "2000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-011.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "브룩",
+            "effect": "【등장 시】자신의 리더 또는 캐릭터 1장에게 레스트 상태인 두웅!!을 2장까지 부여한다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Brook",
+            "effect": "[เมื่อลงสนาม] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 2 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "布魯克",
+            "effect": "【登場時】附加最多2張休息狀態的咚!!卡在1張自己的領航卡或角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-012",
+        "number": "ST01-012",
+        "name": "Monkey.D.Luffy",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Supernovas",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Rush] (This card can attack on the turn in which it is played.) [DON!! x2] [When Attacking] Your opponent cannot activate [Blocker] during this battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-012.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "몽키 D. 루피",
+            "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)<br>\r\n【두웅!!x2】【어택 시】이번 배틀 중, 상대는 【블로커】를 발동할 수 없다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "초신성",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Monkey.D.Luffy",
+            "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [ด้ง!! x 2] [เมื่อโจมตี] ในแบทเทิลนี้, คู่แข่งจะไม่สามารถใช้งาน [บล็อกเกอร์].",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "蒙其・D・魯夫",
+            "effect": "【速攻】(這張卡片在登場的回合即可攻擊) 【咚!!×2】【攻擊時】對手在這場對戰中，無法發動【防禦】。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "超新星",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-013",
+        "number": "ST01-013",
+        "name": "Roronoa Zoro",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Supernovas",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] This Character gains +1000 power.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-013.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "롤로노아 조로",
+            "effect": "【두웅!!x1】이 캐릭터의 파워 +1000.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "초신성",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Roronoa Zoro",
+            "effect": "[ด้ง!! x 1] คาแรกเตอร์นี้, จะมีพาวเวอร์ +1000.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "羅羅亞・索隆",
+            "effect": "【咚!!×1】這張角色卡的力量值+1000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "超新星",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-014",
+        "number": "ST01-014",
+        "name": "Guard Point",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Animal",
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] Your Leader or 1 of your Characters gains +1000 power during this turn.",
+        "blockIcon": "1",
+        "effect": "[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-014.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "모피 강화",
+            "effect": "【카운터】이번 배틀 중, 자신의 리더 또는 캐릭터  1장까지의 파워 +3000.",
+            "trigger": "이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +1000.",
+            "attribute": null,
+            "feature": [
+              "동물",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Guard Point",
+            "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+            "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+            "attribute": null,
+            "feature": [
+              "สัตว์",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "毛皮強化",
+            "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+3000。",
+            "trigger": "【觸發器】最多1張自己的領航卡或角色卡，在這個回合，力量值+1000。",
+            "attribute": null,
+            "feature": [
+              "動物",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-015",
+        "number": "ST01-015",
+        "name": "Gum-Gum Jet Pistol",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "4",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Supernovas",
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] Activate this card's [Main] effect.",
+        "blockIcon": "1",
+        "effect": "[Main] K.O. up to 1 of your opponent's Characters with 6000 power or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-015.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "고무고무 JET 총",
+            "effect": "【메인】상대의 파워 6000 이하인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": "이 카드의 【메인】 효과를 발동한다.",
+            "attribute": null,
+            "feature": [
+              "초신성",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Gum-Gum Jet Pistol",
+            "effect": "[เมน] ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 6000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+            "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+            "attribute": null,
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "橡膠JET槍",
+            "effect": "【主要】KO最多1張對手力量值6000以下的角色卡。",
+            "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+            "attribute": null,
+            "feature": [
+              "超新星",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-016",
+        "number": "ST01-016",
+        "name": "Diable Jambe",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] K.O. 1 of your opponent's [Blocker] Characters with a cost of 3 or less.",
+        "blockIcon": "1",
+        "effect": "[Main] Select up to 1 of your {Straw Hat Crew} type Leader or Character cards. Your opponent cannot activate [Blocker] if that Leader or Character attacks during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-016.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "디아블 잠브",
+            "effect": "【메인】자신의 《밀짚모자 일당》 특징을 가진 리더 또는 캐릭터를 1장까지 선택한다. 이번 턴 동안, 상대는 그 리더 또는 캐릭터가 어택할 경우 【블로커】를 발동할 수 없다.",
+            "trigger": "상대의 코스트 3 이하이고 【블로커】를 가진 캐릭터를 1장까지 KO 시킨다.",
+            "attribute": null,
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Diable Jambe",
+            "effect": "[เมน] เลือก ลีดเดอร์ หรือ คาแรกเตอร์ ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > ของเรา จำนวนไม่เกิน 1 ใบ, ในเทิร์นนี้, คู่แข่งจะไม่สามารถใช้งาน [บล็อกเกอร์] ในขณะที่ลีดเดอร์ หรือ คาแรกเตอร์นั้น ทำการโจมตี.",
+            "trigger": "[ทริกเกอร์] ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, ที่มีความสามารถ [บล็อกเกอร์] จำนวนไม่เกิน 1 ใบ.",
+            "attribute": null,
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "惡魔風腳",
+            "effect": "【主要】選擇最多1張自己擁有《草帽一行人》特徵的領航卡或角色卡。在這個回合，若該領航卡或角色卡攻擊時，對手無法發動【防禦】。",
+            "trigger": "【觸發器】KO最多1張對手費用3以下持有【防禦】的角色卡。",
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST01-017",
+        "number": "ST01-017",
+        "name": "Thousand Sunny",
+        "rarity": "C",
+        "cardClass": "STAGE",
+        "cost": "2",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] You may rest this Stage: Up to 1 {Straw Hat Crew} type Leader or Character card on your field gains +1000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST01-017.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "사우전드 써니 호",
+            "effect": "【기동: 메인】이 스테이지를 레스트 할 수 있다: 이번 턴 동안, 자신의 《밀짚모자 일당》 특징을 가진 리더 또는 캐릭터 1장까지의 파워 +1000.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Thousand Sunny",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ สเตจนี้ : ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "千陽號",
+            "effect": "【啟動主要】可將這張舞台卡置為休息狀態：最多1張自己擁有《草帽一行人》特徵的領航卡或角色卡，在這個回合，力量值+1000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

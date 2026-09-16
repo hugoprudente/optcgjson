@@ -1,0 +1,1208 @@
+{
+  "meta": {
+    "date": "2026-09-16",
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "ST03",
+    "name": "STARTER DECK -The Seven Warlords of the Sea- [ST-03]",
+    "type": "starter",
+    "releaseDate": null,
+    "baseSetSize": 17,
+    "totalSetSize": 17,
+    "languages": [
+      "English",
+      "Korean",
+      "Thai",
+      "Chinese Traditional"
+    ],
+    "foreignNames": {
+      "Korean": "[STK-03] 스타트 덱 왕의 부하 칠무해",
+      "Thai": "-The Seven Warlords of the Sea- [ST-03]",
+      "Chinese Traditional": "王下七武海【ST-03】"
+    },
+    "cards": [
+      {
+        "id": "ST03-001",
+        "number": "ST03-001",
+        "name": "Crocodile",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Special"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea",
+          "Baroque Works"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] [Once Per Turn] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-001.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "크로커다일",
+            "effect": "【기동: 메인】 【턴 1회】두웅!!-4(자신 필드의 두웅!!을 지정된 수만큼 두웅!!덱으로 되돌릴 수 있다): 코스트 5 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "왕의 부하 칠무해",
+              "바로크 워크스"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Crocodile",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 4 (สามารถนำ ด้ง!! ในสนามของเรากลับด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำคาแรคเตอร์ของใครก็ตาม ที่มีคอสต์ 5 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือเจ้าของ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "เจ็ดเทพโจรสลัด",
+              "B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "克洛克達爾",
+            "effect": "【啟動主要】【每回合1次】咚!!-4(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：將最多1張費用5以下的角色卡放回持有者的手牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "王下七武海",
+              "B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-002",
+        "number": "ST03-002",
+        "name": "Edward Weevil",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-002.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "애드워드 위블",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "왕의 부하 칠무해"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Edward Weevil",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "เจ็ดเทพโจรสลัด"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "艾德華・衛伯",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "王下七武海"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-003",
+        "number": "ST03-003",
+        "name": "Crocodile",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea",
+          "Baroque Works"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [On Block] Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-003.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "크로커다일",
+            "effect": "【블록커】(상대의 어택 선언 후, 이 카드를 레스트하고 어택 대상을 이 카드로 할 수 있다)<BR>\r\n【두웅!!×1】 【블록 시】코스트 2 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "왕의 부하 칠무해",
+              "바로크 워크스"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Crocodile",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ด้ง!! x 1] [เมื่อบล็อก] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 2 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "เจ็ดเทพโจรสลัด",
+              "B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "克洛克達爾",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【咚!!×1】【防禦時】將最多1張費用2以下的角色卡放到持有者的卡組下面。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "王下七武海",
+              "B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-004",
+        "number": "ST03-004",
+        "name": "Gecko Moria",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea",
+          "Thriller Bark Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] Add up to 1 {The Seven Warlords of the Sea} or {Thriller Bark Pirates} type Character with a cost of 4 or less other than [Gecko Moria] from your trash to your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-004.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "겟코 모리아",
+            "effect": "【등장 시】자신 트래시에서  「겟코 모리아」이외의 코스트 4 이하인 《왕의 부하 칠무해》 또는 《스릴러 바크 해적단》특징을 가진 캐릭터 카드를 1장까지 패에 더한다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "왕의 부하 칠무해",
+              "스릴러 바크 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Gecko Moria",
+            "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า ที่มีคุณสมบัติ < เจ็ดเทพโจรสลัด > หรือ < กลุ่มโจรสลัดธริลเลอร์บาร์ค > ที่อยู่ในแทรชของเรา, นอกเหนือจาก [Gecko Moria], จำนวน 1 ใบ, ขึ้นสู่บนมือ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "เจ็ดเทพโจรสลัด",
+              "กลุ่มโจรสลัดธริลเลอร์บาร์ค"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "月光・摩利亞",
+            "effect": "【登場時】將最多1張自己廢棄區中除了「月光‧摩利亞」以外費用4以下擁有《王下七武海》或《恐怖三桅帆船海賊團》特徵的角色卡，加入手牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "王下七武海",
+              "恐怖三桅帆船海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-005",
+        "number": "ST03-005",
+        "name": "Dracule Mihawk",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": "2000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] [When Attacking] Draw 2 cards and trash 2 cards from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-005.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "쥬라큘 미호크",
+            "effect": "【두웅!!×1】 【어택 시】카드를 2장 뽑고, 자신의 패를 2장 버린다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "왕의 부하 칠무해"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Dracule Mihawk",
+            "effect": "[ด้ง!! x 1] [เมื่อโจมตี] จั่วการ์ด 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "เจ็ดเทพโจรสลัด"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "喬拉可爾・密佛格",
+            "effect": "【咚!!×1】【攻擊時】抽2張卡片，並廢棄2張自己的手牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "王下七武海"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-006",
+        "number": "ST03-006",
+        "name": "Jinbe",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Fish-Man",
+          "The Seven Warlords of the Sea",
+          "The Sun Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-006.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "징베",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "어인족",
+              "왕의 부하 칠무해",
+              "태양 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Jinbe",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "เผ่ามนุษย์เงือก",
+              "เจ็ดเทพโจรสลัด",
+              "กลุ่มโจรสลัดไทโย (กลุ่มโจรสลัดพระอาทิตย์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "吉貝爾",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "魚人族",
+              "王下七武海",
+              "太陽海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-007",
+        "number": "ST03-007",
+        "name": "Sentomaru",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] ➁ (You may rest the specified number of DON!! cards in your cost area.): Play up to 1 [Pacifista] with a cost of 4 or less from your deck, then shuffle your deck.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-007.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "센토마루",
+            "effect": "【두웅!!×1】 【기동: 메인】 【턴 1회】② (코스트 에리어의 두웅!!을 지정된 수만큼 레스트 할 수 있다): 자신의 덱에서 코스트 4 이하인 「파시피스타」를 1장까지 등장시키고 덱을 섞는다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "해군"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Sentomaru",
+            "effect": "[ด้ง!! x 1] [ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] (2) (สามารถ เรสต์ ด้ง!! ในคอสต์แอเรียตามจำนวนที่ระบุ) : นำ [Pacifista] ที่มีคอสต์ 4 หรือต่ำกว่า จากเด็คของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, ทำการชัฟเฟิลเด็ค.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "戰桃丸",
+            "effect": "【咚!!×1】【啟動主要】【每回合1次】②(可將費用區的咚!!卡依指定的數量置為休息狀態)：從自己的卡組使最多1張費用4以下的「和平主義者」登場，並將卡組洗牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-008",
+        "number": "ST03-008",
+        "name": "Trafalgar Law",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "1000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea",
+          "Heart Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-008.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "트라팔가 로",
+            "effect": "【블록커】(상대의 어택 선언 후, 이 카드를 레스트하고 어택 대상을 이 카드로 할 수 있다)",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "왕의 부하 칠무해",
+              "하트 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Trafalgar Law",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "เจ็ดเทพโจรสลัด",
+              "กลุ่มโจรสลัดฮาร์ท"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "托拉法爾加・羅",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "王下七武海",
+              "哈特海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-009",
+        "number": "ST03-009",
+        "name": "Donquixote Doflamingo",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "7",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "7000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea",
+          "Donquixote Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] Return up to 1 Character with a cost of 7 or less to the owner's hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-009.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "돈키호테 도플라밍고",
+            "effect": "【등장 시】코스트 7 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "왕의 부하 칠무해",
+              "돈키호테 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Donquixote Doflamingo",
+            "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 7 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือเจ้าของ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "เจ็ดเทพโจรสลัด",
+              "กลุ่มโจรสลัดดองกีโฮเต้"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "唐吉訶德・多佛朗明哥",
+            "effect": "【登場時】將最多1張費用7以下的角色卡放回持有者的手牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "王下七武海",
+              "唐吉訶德海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-010",
+        "number": "ST03-010",
+        "name": "Bartholomew Kuma",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "3000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea",
+          "Revolutionary Army"
+        ],
+        "trigger": "[Trigger] Play this card.",
+        "blockIcon": "1",
+        "effect": "[On Play] Look at 3 cards from the top of your deck and return them to the top or bottom of the deck in any order.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-010.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "바솔로뮤 쿠마",
+            "effect": "【등장 시】자신의 덱 위에서 3장을 보고, 원하는 순서대로 덱의 맨 위나 아래로 되돌린다.",
+            "trigger": "이 카드를 등장시킨다.",
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "왕의 부하 칠무해",
+              "혁명군"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Bartholomew Kuma",
+            "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำมาเรียงในลำดับใดก็ได้, แล้วจึงค่อยนำการ์ดเหล่านั้น ไปวางที่ข้างบน หรือข้างใต้เด็ค.",
+            "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "เจ็ดเทพโจรสลัด",
+              "กองทัพปฏิวัติ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "巴索羅繆・大熊",
+            "effect": "【登場時】從自己的卡組上面查看3張卡片，並依任意順序變換排列放到卡組上面或下面。",
+            "trigger": "【觸發器】使這張卡片登場。",
+            "attribute": null,
+            "feature": [
+              "王下七武海",
+              "革命軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-011",
+        "number": "ST03-011",
+        "name": "Buggy",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea",
+          "Buggy's Delivery"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-011.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "버기",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "왕의 부하 칠무해",
+              "버기즈 딜리버리"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Buggy",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "เจ็ดเทพโจรสลัด",
+              "บากี้ส์เดลิเวอรี่"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "巴其",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "王下七武海",
+              "巴其宅急便"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-012",
+        "number": "ST03-012",
+        "name": "Pacifista",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Biological Weapon",
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-012.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "파시피스타",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "생물병기",
+              "해군"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Pacifista",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "อาวุธชีวภาพ",
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "和平主義者",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "生物兵器",
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-013",
+        "number": "ST03-013",
+        "name": "Boa Hancock",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "1000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea",
+          "Kuja Pirates"
+        ],
+        "trigger": "[Trigger] Play this card.",
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-013.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "보아 행콕",
+            "effect": "【블록커】(상대의 어택 선언 후, 이 카드를 레스트하고 어택 대상을 이 카드로 할 수 있다)",
+            "trigger": "이 카드를 등장시킨다.",
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "왕의 부하 칠무해",
+              "구사 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Boa Hancock",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "เจ็ดเทพโจรสลัด",
+              "กลุ่มโจรสลัดคุจา"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "波雅・漢考克",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+            "trigger": "【觸發器】使這張卡片登場。",
+            "attribute": null,
+            "feature": [
+              "王下七武海",
+              "九蛇海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-014",
+        "number": "ST03-014",
+        "name": "Marshall.D.Teach",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea",
+          "Blackbeard Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-014.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "마샬 D. 티치",
+            "effect": "【등장 시】코스트 3 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "왕의 부하 칠무해",
+              "검은 수염 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Marshall.D.Teach",
+            "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือเจ้าของ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "เจ็ดเทพโจรสลัด",
+              "กลุ่มโจรสลัดหนวดดำ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "馬歇爾・D・汀奇",
+            "effect": "【登場時】將最多1張費用3以下的角色卡放回持有者的手牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "王下七武海",
+              "黑鬍子海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-015",
+        "number": "ST03-015",
+        "name": "Sables",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "4",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea",
+          "Baroque Works"
+        ],
+        "trigger": "[Trigger] Activate this card's [Main] effect.",
+        "blockIcon": "1",
+        "effect": "[Main] Return up to 1 Character with a cost of 7 or less to the owner's hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-015.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "모래 폭풍",
+            "effect": "【메인】코스트 7 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+            "trigger": "이 카드의 【메인】효과를 발동한다.",
+            "attribute": null,
+            "feature": [
+              "왕의 부하 칠무해",
+              "바로크 워크스"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Sables",
+            "effect": "[เมน] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 7 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือเจ้าของ.",
+            "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+            "attribute": null,
+            "feature": [
+              "เจ็ดเทพโจรสลัด",
+              "B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "砂暴",
+            "effect": "【主要】將最多1張費用7以下的角色卡放回持有者的手牌。",
+            "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+            "attribute": null,
+            "feature": [
+              "王下七武海",
+              "B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-016",
+        "number": "ST03-016",
+        "name": "Thrust Pad Cannon",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "2",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea",
+          "Revolutionary Army"
+        ],
+        "trigger": "[Trigger] Activate this card's [Counter] effect.",
+        "blockIcon": "1",
+        "effect": "[Counter] Return up to 1 Character with a cost of 3 or less to the owner's hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-016.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "밀쳐내기 압력포",
+            "effect": "【카운터】코스트 3 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+            "trigger": "이 카드의 【카운터】효과를 발동한다.",
+            "attribute": null,
+            "feature": [
+              "왕의 부하 칠무해",
+              "혁명군"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Thrust Pad Cannon",
+            "effect": "[เคาน์เตอร์] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือเจ้าของ.",
+            "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เคาน์เตอร์] ของการ์ดใบนี้.",
+            "attribute": null,
+            "feature": [
+              "เจ็ดเทพโจรสลัด",
+              "กองทัพปฏิวัติ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "推手壓力砲",
+            "effect": "【反擊】將最多1張費用3以下的角色卡放回持有者的手牌。",
+            "trigger": "【觸發器】發動這張卡片的【反擊】效果。",
+            "attribute": null,
+            "feature": [
+              "王下七武海",
+              "革命軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST03-017",
+        "number": "ST03-017",
+        "name": "Love-Love Mellow",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "2",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea",
+          "Kuja Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, draw 1 card if you have 3 or less cards in your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST03-017.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "매료매료 멜로우",
+            "effect": "【카운터】이번 배틀 중, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000. 그후, 자신의 패가 3장 이하인 경우, 카드를 1장 뽑는다.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "왕의 부하 칠무해",
+              "구사 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Love-Love Mellow",
+            "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมี พาวเวอร์ + 4000. จากนั้น, ถ้าเรามีการ์ดบนมือ จำนวน 3 ใบ หรือน้อยกว่า, จั่วการ์ด 1 ใบ.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "เจ็ดเทพโจรสลัด",
+              "กลุ่มโจรสลัดคุจา"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "迷戀甘風",
+            "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。之後，若自己的手牌在3張以下時，抽1張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "王下七武海",
+              "九蛇海賊團"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

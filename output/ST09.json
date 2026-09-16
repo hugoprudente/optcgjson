@@ -1,0 +1,1040 @@
+{
+  "meta": {
+    "date": "2026-09-16",
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "ST09",
+    "name": "STARTER DECK -Side Yamato- [ST-09]",
+    "type": "starter",
+    "releaseDate": null,
+    "baseSetSize": 15,
+    "totalSetSize": 15,
+    "languages": [
+      "English",
+      "Korean",
+      "Thai",
+      "Chinese Traditional"
+    ],
+    "foreignNames": {
+      "Korean": "[STK-09] 스타트 덱 Side 야마토",
+      "Thai": "-Side Yamato- [ST-09]",
+      "Chinese Traditional": "Side 大和【ST-09】"
+    },
+    "cards": [
+      {
+        "id": "ST09-001",
+        "number": "ST09-001",
+        "name": "Yamato",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Land of Wano"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] [Opponent's Turn] If you have 2 or less Life cards, this Leader gains +1000 power.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-001.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "야마토",
+            "effect": "【두웅!!×1】【상대의 턴 동안】자신의 라이프가 2장 이하인 경우, 이 리더의 파워 +1000.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "와노쿠니"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Yamato",
+            "effect": "[ด้ง!! x 1] [ในเทิร์นของคู่แข่ง] ถ้าเรามีไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, ลีดเดอร์นี้, จะมีพาวเวอร์ +1000.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "วาโนะคุนิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "大和",
+            "effect": "【咚‼×1】【對方回合中】若自己的生命值卡在2張以下時，這張領航卡的力量值+1000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST09-002",
+        "number": "ST09-002",
+        "name": "Uzuki Tempura",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Land of Wano"
+        ],
+        "trigger": "[Trigger] Rest up to 1 of your opponent's Characters with a cost of 2 or less and add this card to your hand.",
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-002.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "우즈키 텐푸라",
+            "effect": "【트리거】 상대의 코스트 2 이하인 캐릭터를 1장까지 레스트로 하고, 이 카드를 패에 더한다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "와노쿠니"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Uzuki Tempura",
+            "effect": null,
+            "trigger": "[ทริกเกอร์] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, และนำการ์ดใบนี้ เพิ่มขึ้นสู่บนมือ.",
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "วาโนะคุนิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "雨月天婦羅",
+            "effect": null,
+            "trigger": "【觸發器】將最多1張對手費用2以下的角色卡置為休息狀態，並將這張卡片加入手牌。",
+            "attribute": null,
+            "feature": [
+              "和之國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST09-003",
+        "number": "ST09-003",
+        "name": "Ulti",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-003.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "울티",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Ulti",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "烏爾蒂",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST09-004",
+        "number": "ST09-004",
+        "name": "Kaido",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] If you have 2 or less Life cards, this Character cannot be K.O.'d in battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-004.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "카이도",
+            "effect": "【두웅!!×1】자신의 라이프가 2장 이하인 경우, 이 캐릭터는 배틀에서는 KO당하지 않는다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "사황",
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kaido",
+            "effect": "[ด้ง!! x 1] ถ้าเรามี ไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, คาแรกเตอร์นี้จะไม่ถูก KO จากการแบทเทิล.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "สี่จักรพรรดิ",
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "海道",
+            "effect": "【咚‼×1】若自己的生命值卡在2張以下時，這張角色卡在對戰中不會遭到KO。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST09-005",
+        "number": "ST09-005",
+        "name": "Kouzuki Oden",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "7",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "7000",
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Land of Wano",
+          "Kouzuki Clan"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] This Character gains [Double Attack]. (This card deals 2 damage.) [On K.O.] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-005.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "코즈키 오뎅",
+            "effect": "【두웅!!×1】이 캐릭터는 【더블 어택】을 얻는다.<br>\r\n(이 카드가 주는 대미지는 2가 된다)<br>\r\n【KO 시】자신의 패 2장을 버릴 수 있다: 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "와노쿠니",
+              "코즈키 가문"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kouzuki Oden",
+            "effect": "[ด้ง!! x 1] คาแรกเตอร์นี้จะได้รับ [ดับเบิ้ลแอทแทค] (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย) [เมื่อถูก KO] สามารถทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ : นำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ ไปวางเพิ่มที่บนสุดของไลฟ์ตัวเอง.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "วาโนะคุนิ",
+              "ตระกูลโคสึกิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "光月御田",
+            "effect": "【咚‼×1】這張角色卡獲得【雙重攻擊】。 (這張卡片造成的傷害為2) 【KO時】可以廢棄2張自己的手牌：將最多1張自己卡組上面的卡片加入生命值區上面。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國",
+              "光月家"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST09-006",
+        "number": "ST09-006",
+        "name": "Kouzuki Momonosuke",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Land of Wano",
+          "Kouzuki Clan"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-006.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "코즈키 모모노스케",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "와노쿠니",
+              "코즈키 가문"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kouzuki Momonosuke",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "วาโนะคุนิ",
+              "ตระกูลโคสึกิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "光月桃之助",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國",
+              "光月家"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST09-007",
+        "number": "ST09-007",
+        "name": "Shinobu",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "2000",
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Land of Wano"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Block] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +4000 power during this battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-007.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "시노부",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)<br>\r\n【블록 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 이번 배틀 동안, 이 캐릭터의 파워 +4000.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "와노쿠니"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Shinobu",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อบล็อก] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : ในแบทเทิลนี้, คาแรกเตอร์นี้, จะมีพาวเวอร์ +4000.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "วาโนะคุนิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "忍",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【防禦時】可將1張自己生命值區上面或下面的卡片加入手牌：這張角色卡，在這場對戰中，力量值+4000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST09-008",
+        "number": "ST09-008",
+        "name": "Shimotsuki Ushimaru",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Land of Wano"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 yellow {Land of Wano} type Character card with a cost of 4 or less from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-008.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "시모츠키 우시마루",
+            "effect": "【두웅!!×1】【어택 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 자신의 패에서 코스트 4 이하이고 황색인 《와노쿠니》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "와노쿠니"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Shimotsuki Ushimaru",
+            "effect": "[ด้ง!! x 1] [เมื่อโจมตี] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : นำคาแรกเตอร์การ์ด “ธีมสีเหลือง” ที่มีคอสต์ 4 หรือต่ำกว่า ที่มีคุณสมบัติ < วาโนะคุนิ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "วาโนะคุนิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "霜月牛丸",
+            "effect": "【咚‼×1】【攻擊時】可將1張自己生命值區上面或下面的卡片加入手牌：使最多1張自己手牌中費用4以下黃色擁有《和之國》特徵的角色卡登場。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST09-009",
+        "number": "ST09-009",
+        "name": "Fugetsu Omusubi",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Land of Wano"
+        ],
+        "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost of 1 or less and add this card to your hand.",
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-009.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "후게츠 오무스비",
+            "effect": null,
+            "trigger": "상대의 코스트 1 이하인 캐릭터를 1장까지 KO하고, 이 카드를 패에 더한다.",
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "와노쿠니"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Fugetsu Omusubi",
+            "effect": null,
+            "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, และนำการ์ดใบนี้ เพิ่มขึ้นสู่บนมือ.",
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "วาโนะคุนิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "風月飯糰",
+            "effect": null,
+            "trigger": "【觸發器】KO最多1張對手費用1以下的角色卡，並將這張卡片加入手牌。",
+            "attribute": null,
+            "feature": [
+              "和之國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST09-010",
+        "number": "ST09-010",
+        "name": "Portgas.D.Ace",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "6",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "7000",
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Land of Wano",
+          "Whitebeard Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Once Per Turn] If this Character would be K.O.'d, you may trash 1 card from the top or bottom of your Life cards instead.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-010.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "포트거스 D. 에이스",
+            "effect": "【턴 1회】이 캐릭터가 KO 당할 경우, 대신 자신의 라이프 위나 아래에서 1장을 트래시에 놓을 수 있다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "와노쿠니",
+              "흰 수염 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Portgas.D.Ace",
+            "effect": "[เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์นี้กำลังจะถูก KO ไม่ว่าจากกรณีใดก็ตาม, จะสามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ ไปวางที่แทรช แทนได้.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "วาโนะคุนิ",
+              "กลุ่มโจรสลัดหนวดขาว"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "波特卡斯・D・艾斯",
+            "effect": "【每回合1次】若這張角色卡即將遭到KO時，替換成可將1張自己生命值區上面或下面的卡片放置到廢棄區。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國",
+              "白鬍子海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST09-011",
+        "number": "ST09-011",
+        "name": "Monkey.D.Luffy",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Land of Wano",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-011.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "몽키 D. 루피",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "와노쿠니",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Monkey.D.Luffy",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "วาโนะคุนิ",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "蒙其・D・魯夫",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST09-012",
+        "number": "ST09-012",
+        "name": "Yamato",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "3000",
+        "counter": "2000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Land of Wano"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains +2000 power until the start of your next turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-012.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "야마토",
+            "effect": "【어택 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 다음 자신의 턴 개시 시까지 이 캐릭터의 파워 +2000.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "와노쿠니"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Yamato",
+            "effect": "[เมื่อโจมตี] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : จนถึงช่วงเริ่มต้นเทิร์นถัดไปของเรา, คาแรกเตอร์นี้, จะมีพาวเวอร์ +2000.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "วาโนะคุนิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "大和",
+            "effect": "【攻擊時】可將1張自己生命值區上面或下面的卡片加入手牌：這張角色卡，到下一個我方回合開始前，力量值+2000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST09-013",
+        "number": "ST09-013",
+        "name": "Yamato",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "7000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Land of Wano"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-013.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "야마토",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "와노쿠니"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Yamato",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "วาโนะคุนิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "大和",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST09-014",
+        "number": "ST09-014",
+        "name": "Narikabura Arrow",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Land of Wano"
+        ],
+        "trigger": "[Trigger] You may trash 2 cards from your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+        "blockIcon": "1",
+        "effect": "[Counter] If you have 2 or less Life cards, give up to 1 of your opponent's Leader or Character cards ?3000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-014.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "우는살",
+            "effect": "【카운터】자신의 라이프가 2장 이하인 경우, 이번 턴 동안, 상대의 리더 또는 캐릭터 1장까지의 파워 -3000.",
+            "trigger": "자신의 패 2장을 버릴 수 있다: 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+            "attribute": null,
+            "feature": [
+              "와노쿠니"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Narikabura Arrow",
+            "effect": "[เคาน์เตอร์] ถ้าเรามี ไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ –3000.",
+            "trigger": "[ทริกเกอร์] สามารถทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ : นำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์.",
+            "attribute": null,
+            "feature": [
+              "วาโนะคุนิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "鳴鏑",
+            "effect": "【反擊】若自己的生命值卡在2張以下時，最多1張對手的領航卡或角色卡，在這個回合，力量值-3000。",
+            "trigger": "【觸發器】可以廢棄2張自己的手牌：將最多1張自己卡組上面的卡片加入生命值區上面。",
+            "attribute": null,
+            "feature": [
+              "和之國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST09-015",
+        "number": "ST09-015",
+        "name": "Thunder Bagua",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "2",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Land of Wano"
+        ],
+        "trigger": "[Trigger] Draw 1 card.",
+        "blockIcon": "1",
+        "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, if you have 2 or less Life cards, add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of the owner's Life cards face-up.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST09-015.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "뇌명팔괘",
+            "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000. 그 후, 자신의 라이프가 2장 이하인 경우, 상대의 코스트 3 이하인 캐릭터를 1장까지 주인의 라이프 맨 위나 아래에 앞면으로 더한다.",
+            "trigger": "카드를 1장 뽑는다.",
+            "attribute": null,
+            "feature": [
+              "와노쿠니"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Thunder Bagua",
+            "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +4000. จากนั้น, ถ้าเรามี ไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, จะนำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์เจ้าของเดิม แบบหงายหน้า.",
+            "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+            "attribute": null,
+            "feature": [
+              "วาโนะคุนิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "雷鳴八卦",
+            "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。之後，若自己的生命值卡在2張以下時，將最多1張對手費用3以下的角色卡，以正面朝上加入持有者的生命值區上面或下面。",
+            "trigger": "【觸發器】抽1張卡片。",
+            "attribute": null,
+            "feature": [
+              "和之國"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

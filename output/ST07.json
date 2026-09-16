@@ -1,0 +1,1176 @@
+{
+  "meta": {
+    "date": "2026-09-16",
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "ST07",
+    "name": "STARTER DECK -Big Mom Pirates- [ST-07]",
+    "type": "starter",
+    "releaseDate": null,
+    "baseSetSize": 17,
+    "totalSetSize": 17,
+    "languages": [
+      "English",
+      "Korean",
+      "Thai",
+      "Chinese Traditional"
+    ],
+    "foreignNames": {
+      "Korean": "[STK-07] 스타트 덱 빅 맘 해적단",
+      "Thai": "-Big Mom Pirates- [ST-07]",
+      "Chinese Traditional": "BIG MOM海賊團【ST-07】"
+    },
+    "cards": [
+      {
+        "id": "ST07-001",
+        "number": "ST07-001",
+        "name": "Charlotte Linlin",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Special"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Big Mom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x2] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: If you have 2 or less Life cards, add up to 1 card from your hand to the top of your Life cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-001.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샬롯 링링",
+            "effect": "【두웅‼×2】【어택 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 자신의 라이프가 2장 이하인 경우, 자신의 패를 1장까지 라이프 맨 위에 더한다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "사황",
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Charlotte Linlin",
+            "effect": "[ด้ง!! x 2] [เมื่อโจมตี] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : ถ้าเรามี ไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, สามารถนำ การ์ดบนมือของเรา จำนวนไม่เกิน 1 ใบ ไปวางเพิ่มที่บนสุดของไลฟ์.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "สี่จักรพรรดิ",
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "夏洛特・莉莉",
+            "effect": "【咚‼×2】【攻擊時】可將1張自己生命值區上面或下面的卡片加入手牌：若自己的生命值卡在2張以下時，將最多1張自己的手牌加入生命值區上面。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-002",
+        "number": "ST07-002",
+        "name": "Charlotte Anana",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-002.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샬롯 아나나",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Charlotte Anana",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "夏洛特・亞娜娜",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-003",
+        "number": "ST07-003",
+        "name": "Charlotte Katakuri",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, if you have less Life cards than your opponent, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-003.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샬롯 카타쿠리",
+            "effect": "【등장 시】자신 또는 상대의 라이프 위에서 1장까지를 보고, 라이프 맨 위 나 아래로 되돌린다. 그 후, 자신의 라이프 수가 상대보다 적을 경우, 이번 턴 동안, 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Charlotte Katakuri",
+            "effect": "[เมื่อลงสนาม] ดู ไลฟ์ ใบบนสุด ของเรา หรือ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, และนำ ไปวางที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์เจ้าของเดิม. จากนั้น, ถ้าเรามีไลฟ์ น้อยกว่าคู่แข่ง, ในเทิร์นนี้, คาแรกเตอร์นี้จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "夏洛特・卡塔克利",
+            "effect": "【登場時】查看最多1張自己或對手生命值區上面的卡片，並放置在生命值區的上面或下面。之後，若自己的生命值卡張數比對手少時，這張角色卡，在這個回合，獲得【速攻】。 (這張卡片在登場的回合即可攻擊)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-004",
+        "number": "ST07-004",
+        "name": "Charlotte Snack",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character gains [Banish] and +1000 power during this battle. (When this card deals damage, the target card is trashed without activating its Trigger.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-004.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샬롯 스낵",
+            "effect": "【두웅!!×1】【어택 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 이번 배틀 동안, 이 캐릭터는 【배니시】를 얻고, 파워+1000.<BR>\r\n(이 카드가 대미지를 주었을 경우, 트리거는 발동하지 않으며 그 카드는 트래시로 보내진다)",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Charlotte Snack",
+            "effect": "[ด้ง!! x 1] [เมื่อโจมตี] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นบนสู่มือ : ในแบทเทิลนี้, คาแรกเตอร์นี้ จะได้รับ [แบนนิช], และจะมีพาวเวอร์ +1000. (ถ้าการ์ดใบนี้ทำดาเมจได้, การ์ดใบนั้นจะถูกนำไปวางที่แทรช, และทริกเกอร์จะไม่ทำงาน)",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "夏洛特・史納克",
+            "effect": "【咚‼×1】【攻擊時】可將1張自己生命值區上面或下面的卡片加入手牌：這張角色卡，在這個回合，獲得【消失】，力量值+1000。 (若這張卡片造成傷害時，觸發器不會發動且該張卡片即放置到廢棄區)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-005",
+        "number": "ST07-005",
+        "name": "Charlotte Daifuku",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[DON!! x1] [When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from the top of your deck to the top of your Life cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-005.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샬롯 다이후쿠",
+            "effect": "【두웅!!×1】【어택 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Charlotte Daifuku",
+            "effect": "[ด้ง!! x 1] [เมื่อโจมตี] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นบนสู่มือ : นำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ ไปวางเพิ่มที่บนสุดของไลฟ์.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "夏洛特・代佛克",
+            "effect": "【咚‼×1】【攻擊時】可將1張自己生命值區上面或下面的卡片加入手牌：將最多1張自己卡組上面的卡片加入生命值區上面。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-006",
+        "number": "ST07-006",
+        "name": "Charlotte Flampe",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-006.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샬롯 플랑페",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "사격"
+            ],
+            "feature": [
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Charlotte Flampé",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "夏洛特・芙蘭佩",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-007",
+        "number": "ST07-007",
+        "name": "Charlotte Brulee",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "1000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates"
+        ],
+        "trigger": "[Trigger] Play this card.",
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-007.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샬롯 브륄레",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+            "trigger": "이 카드를 등장시킨다.",
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Charlotte Brûlée",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "夏洛特・布璃叡",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+            "trigger": "【觸發器】使這張卡片登場。",
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-008",
+        "number": "ST07-008",
+        "name": "Charlotte Pudding",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "3000",
+        "counter": "2000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-008.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샬롯 푸딩",
+            "effect": "【등장 시】자신 또는 상대의 라이프 위에서 1장까지를 보고, 라이프 맨 위나 아래로 되돌린다.",
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Charlotte Pudding",
+            "effect": "[เมื่อลงสนาม] ดู ไลฟ์ ใบบนสุด ของเรา หรือ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, และนำ ไปวางที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์เจ้าของเดิม.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "夏洛特・普琳",
+            "effect": "【登場時】查看最多1張自己或對手生命值區上面的卡片，並放置在生命值區的上面或下面。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-009",
+        "number": "ST07-009",
+        "name": "Charlotte Mont-d'or",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates"
+        ],
+        "trigger": "[Trigger] You may trash 1 card from your hand: Play this card.",
+        "blockIcon": "1",
+        "effect": "[Activate: Main] You may rest this Character and add 1 card from the top or bottom of your Life cards to your hand: K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-009.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샬롯 몽도르",
+            "effect": "【기동: 메인】이 캐릭터를 레스트 하고, 자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 상대의 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": "자신의 패 1장을 버릴 수 있다: 이 카드를 등장시킨다.",
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Charlotte Mont D’Or",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้, และนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+            "trigger": "[ทริกเกอร์] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำการ์ดใบนี้ลงสนาม.",
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "夏洛特・蒙德爾",
+            "effect": "【啟動主要】可將這張角色卡置為休息狀態，並將1張自己生命值區上面或下面的卡片加入手牌：KO最多1張對手費用3以下的角色卡。",
+            "trigger": "【觸發器】可以廢棄1張自己的手牌：使這張卡片登場。",
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-010",
+        "number": "ST07-010",
+        "name": "Charlotte Linlin",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "7",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "8000",
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Big Mom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] Your opponent chooses one: - Trash 1 card from the top of your opponent's Life cards. - Add 1 card from the top of your deck to the top of your Life cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-010.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샬롯 링링",
+            "effect": "【등장 시】상대는 아래에서 하나를 선택한다.<BR>\r\n・상대의 라이프 위에서 1장을 트래시로 보낸다.<BR>\r\n・자신의 덱 위에서 1장을 라이프 맨 위에 더한다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "사황",
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Charlotte Linlin",
+            "effect": "[เมื่อลงสนาม] คู่แข่งจะต้องเลือก 1 อย่าง จากดังต่อไปนี้. • นำ ไลฟ์ ใบบนสุดของคู่แข่ง (คู่แข่งของเรา) จำนวน 1 ใบ ไปวางที่แทรช. • นำการ์ด ใบบนสุดของเด็คของเรา จำนวน 1 ใบ ไปวางเพิ่มที่บนสุดของไลฟ์ตัวเอง.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "สี่จักรพรรดิ",
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "夏洛特・莉莉",
+            "effect": "【登場時】對手選擇下列其中一項。 ・將1張對手生命值區上面的卡片放置到廢棄區。 ・將1張自己卡組上面的卡片加入生命值區上面。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-011",
+        "number": "ST07-011",
+        "name": "Zeus",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates",
+          "Homies"
+        ],
+        "trigger": "[Trigger] Play this card.",
+        "blockIcon": "1",
+        "effect": "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Linlin] cards gains [Banish] during this turn. (When this card deals damage, the target card is trashed without activating its Trigger.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-011.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "제우스",
+            "effect": "【기동: 메인】이 캐릭터를 레스트 할 수 있다: 이번 턴 동안, 자신의 「샬롯 링링」 1장까지는 【배니시】를 얻는다.<BR>\r\n(이 카드가 대미지를 주었을 경우, 트리거는 발동하지 않으며 그 카드는 트래시로 보내진다)",
+            "trigger": "이 카드를 등장시킨다.",
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "빅 맘 해적단",
+              "호미즈"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Zeus",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ในเทิร์นนี้, [Charlotte Linlin] ของฝ่ายเรา จำนวนไม่เกิน 1 ใบ, จะได้รับ [แบนนิช]. (ถ้าการ์ดใบนี้ทำดาเมจได้, การ์ดใบนั้นจะถูกนำไปวางที่แทรช, และทริกเกอร์จะไม่ทำงาน)",
+            "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม",
+              "โฮมี่ส์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "宙斯",
+            "effect": "【啟動主要】可將這張角色卡置為休息狀態：最多1張自己的「夏洛特・莉莉」，在這個回合，獲得【消失】。 (若這張卡片造成傷害時，觸發器不會發動且該張卡片即放置到廢棄區)",
+            "trigger": "【觸發器】使這張卡片登場。",
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團",
+              "歡樂友人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-012",
+        "number": "ST07-012",
+        "name": "Baron Tamago",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-012.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "타마고 남작",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Baron Tamako",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "塔馬哥男爵",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-013",
+        "number": "ST07-013",
+        "name": "Prometheus",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates",
+          "Homies"
+        ],
+        "trigger": "[Trigger] Play this card.",
+        "blockIcon": "1",
+        "effect": "[Activate: Main] You may rest this Character: Up to 1 of your [Charlotte Linlin] cards gains [Double Attack] during this turn. (This card deals 2 damage.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-013.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "프로메테우스",
+            "effect": "【기동: 메인】이 캐릭터를 레스트 할 수 있다: 이번 턴 동안, 자신의 「샬롯 링링」1장까지는 【더블 어택】을 얻는다.<BR>\r\n(이 카드가 주는 대미지는 2가 된다)",
+            "trigger": "이 카드를 등장시킨다.",
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "빅 맘 해적단",
+              "호미즈"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Prometheus",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ในเทิร์นนี้, [Charlotte Linlin] ของฝ่ายเรา จำนวนไม่เกิน 1 ใบ, จะได้รับ [ดับเบิ้ลแอทแทค]. (ดาเมจที่การ์ดใบนี้กระทำจะกลายเป็น 2 หน่วย)",
+            "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม",
+              "โฮมี่ส์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "普羅米修斯",
+            "effect": "【啟動主要】可將這張角色卡置為休息狀態：最多1張自己的「夏洛特・莉莉」，在這個回合，獲得【雙重攻擊】。 (這張卡片造成的傷害為2)",
+            "trigger": "【觸發器】使這張卡片登場。",
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團",
+              "歡樂友人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-014",
+        "number": "ST07-014",
+        "name": "Pekoms",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Minks",
+          "Big Mom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-014.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "페콤즈",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "밍크족",
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Pekoms",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "เผ่ามิงค์",
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "波哥姆斯",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "純毛族",
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-015",
+        "number": "ST07-015",
+        "name": "Soul Pocus",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "5",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Big Mom Pirates"
+        ],
+        "trigger": "[Trigger] Activate this card's [Main] effect.",
+        "blockIcon": "1",
+        "effect": "[Main] Your opponent chooses one: - Trash 1 card from the top of your opponent's Life cards. - Add 1 card from the top of your deck to the top of your Life cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-015.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "소울 포커스",
+            "effect": "【메인】상대는 아래에서 하나를 선택한다.<BR>\r\n・상대의 라이프 위에서 1장을 트래시로 보낸다.<BR>\r\n・자신의 덱 위에서 1장을 라이프 맨 위에 더한다.",
+            "trigger": "이 카드의 【메인】 효과를 발동한다.",
+            "attribute": null,
+            "feature": [
+              "사황",
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Soul Pogus",
+            "effect": "[เมน] คู่แข่งจะต้องเลือก 1 อย่าง จากดังต่อไปนี้. • นำ ไลฟ์ ใบบนสุดของคู่แข่ง (คู่แข่งของเรา) จำนวน 1 ใบ ไปวางที่แทรช. • นำการ์ด ใบบนสุดของเด็คของเรา จำนวน 1 ใบ ไปวางเพิ่มที่บนสุดของไลฟ์ตัวเอง.",
+            "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+            "attribute": null,
+            "feature": [
+              "สี่จักรพรรดิ",
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "靈魂質問",
+            "effect": "【主要】對手選擇下列其中一項。 ・將1張對手生命值區上面的卡片放置到廢棄區。 ・將1張自己卡組上面的卡片加入生命值區上面。",
+            "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-016",
+        "number": "ST07-016",
+        "name": "Power Mochi",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates"
+        ],
+        "trigger": "[Trigger] Draw 1 card, look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards.",
+        "blockIcon": "1",
+        "effect": "[Counter] Look at up to 1 card from the top of your or your opponent's Life cards, and place it at the top or bottom of the Life cards. Then, up to 1 of your Leader or Character cards gains +2000 power during this battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-016.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "생생떡",
+            "effect": "【카운터】자신 또는 상대의 라이프 위에서 1장까지를 보고, 라이프 맨 위나 아래로 되돌린다. 그 후, 이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000.",
+            "trigger": "카드를 1장 뽑고, 자신 또는 상대의 라이프 위에서 1장까지를 보고, 라이프 맨 위나 아래로 되돌린다.",
+            "attribute": null,
+            "feature": [
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Power Mochi",
+            "effect": "[เคาน์เตอร์] ดู ไลฟ์ ใบบนสุด ของเรา หรือ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, และนำ ไปวางที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์เจ้าของเดิม. จากนั้น, ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000.",
+            "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ, และดู ไลฟ์ ใบบนสุด ของเรา หรือ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, และนำ ไปวางที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์เจ้าของเดิม.",
+            "attribute": null,
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "力餅",
+            "effect": "【反擊】查看最多1張自己或對手生命值區上面的卡片，並放置在生命值區的上面或下面。之後，最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。",
+            "trigger": "【觸發器】抽1張卡片，查看最多1張自己或對手生命值區上面的卡片，並放置在生命值區的上面或下面。",
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST07-017",
+        "number": "ST07-017",
+        "name": "Queen Mama Chanter",
+        "rarity": "C",
+        "cardClass": "STAGE",
+        "cost": "2",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates",
+          "Homies"
+        ],
+        "trigger": "[Trigger] Play this card.",
+        "blockIcon": "1",
+        "effect": "[Activate: Main] You may rest this Stage and add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 of your Characters with a cost of 3 to the top of the owner's Life cards face-up.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST07-017.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "퀸 마마 샹테 호",
+            "effect": "【기동: 메인】 이 스테이지를 레스트 하고, 자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 자신의 코스트 3인 캐릭터를 1장까지 주인의 라이프 맨 위에 앞면으로 더한다.",
+            "trigger": "이 카드를 등장시킨다.",
+            "attribute": null,
+            "feature": [
+              "빅 맘 해적단",
+              "호미즈"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Queen Mama Chanter",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ สเตจนี้, และนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นบนสู่มือ : นำคาแรกเตอร์ของเรา ที่มีคอสต์ 3 จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่บนสุดของ ไลฟ์ของเจ้าของเดิม แบบหงายหน้า.",
+            "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+            "attribute": null,
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม",
+              "โฮมี่ส์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "女王・媽媽・聖歌號",
+            "effect": "【啟動主要】可將這張舞台卡置為休息狀態，並將1張自己生命值區上面或下面的卡片加入手牌：將最多1張自己費用3的角色卡以正面朝上加入持有者的生命值區上面。",
+            "trigger": "【觸發器】使這張卡片登場。",
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團",
+              "歡樂友人"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

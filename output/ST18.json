@@ -1,0 +1,840 @@
+{
+  "meta": {
+    "date": "2026-09-16",
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "ST18",
+    "name": "STARTER DECK -Purple Monkey.D.Luffy- [ST-18]",
+    "type": "starter",
+    "releaseDate": null,
+    "baseSetSize": 13,
+    "totalSetSize": 15,
+    "languages": [
+      "English",
+      "Thai",
+      "Chinese Traditional"
+    ],
+    "foreignNames": {
+      "Thai": "-Purple Monkey.D.Luffy- [ST-18]",
+      "Chinese Traditional": "紫 蒙其・D・魯夫【ST-18】"
+    },
+    "cards": [
+      {
+        "id": "OP05-060_p3",
+        "number": "OP05-060",
+        "name": "Monkey.D.Luffy",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Activate: Main] [Once Per Turn] You may add 1 card from the top of your Life cards to your hand: If you have 0 or 3 or more DON!! cards on your field, add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-060_p3.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Monkey.D.Luffy",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถนำ ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : ถ้าในสนามของเรามี ด้ง!! อยู่จำนวน 0 ใบ, หรือว่า มีอยู่จำนวน 3 ใบ หรือมากกว่า, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "蒙其・D・魯夫",
+            "effect": "【啟動主要】【每回合1次】可將1張自己生命值區上面的卡片加入手牌：若自己場上的咚‼卡為0張、或有3張以上時，從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP05-061_r1",
+        "number": "OP05-061",
+        "name": "Uso-Hachi",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "4000",
+        "counter": "2000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[DON!! x1] [When Attacking] If you have 8 or more DON!! cards on your field, rest up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-061_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Uso-Hachi",
+            "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ถ้าในสนามของเรามี ด้ง!! อยู่จำนวน 8 ใบ หรือมากกว่า, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "騙人八",
+            "effect": "【咚‼×1】【攻擊時】若自己的場上有8張以上咚‼卡時，將最多1張對手費用4以下的角色卡置為休息狀態。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP05-063_r1",
+        "number": "OP05-063",
+        "name": "O-Robi",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] If you have 8 or more DON!! cards on your field, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-063_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "O-Robi",
+            "effect": "[เมื่อลงสนาม] ถ้าในสนามของเรามี ด้ง!! อยู่จำนวน 8 ใบ หรือมากกว่า, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "阿賓",
+            "effect": "【登場時】若自己的場上有8張以上咚‼卡時，KO最多1張對手費用3以下的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP05-066_r1",
+        "number": "OP05-066",
+        "name": "Jinbe",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Fish-Man",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] If you have 10 DON!! cards on your field, this Character gains +1000 power.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-066_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Jinbe",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ในเทิร์นของคู่แข่ง] ถ้าในสนามของเรามี ด้ง!! อยู่ 10 ใบพอดี, คาแรกเตอร์นี้ จะมีพาวเวอร์ +1000.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "เผ่ามนุษย์เงือก",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "吉貝爾",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【對方回合中】若自己的場上有10張咚‼卡時，這張角色卡的力量值+1000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "魚人族",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP05-067_r1",
+        "number": "OP05-067",
+        "name": "Zoro-Juurou",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[When Attacking] If you have 3 or less Life cards, add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-067_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Zoro-Juurou",
+            "effect": "[เมื่อโจมตี] ถ้าเรามี ไลฟ์ จำนวน 3 ใบ หรือน้อยกว่า, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "索隆十郎",
+            "effect": "【攻擊時】若自己的生命值卡在3張以下時，從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP05-068_r1",
+        "number": "OP05-068",
+        "name": "Chopa-Emon",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] If you have 8 or more DON!! cards on your field, set up to 1 of your purple {Straw Hat Crew} type Characters with 6000 power or less as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-068_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Chopa-Emon",
+            "effect": "[เมื่อลงสนาม] ถ้าในสนามของเรามี ด้ง!! อยู่ จำนวน 8 ใบ หรือมากกว่า, จะทำการ แอ็คทีฟ คาแรกเตอร์ของเรา ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > และเป็นธีมสีม่วง ซึ่งมีพาวเวอร์ 6000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "สัตว์",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "喬巴衛門",
+            "effect": "【登場時】若自己的場上有8張以上咚‼卡時，將最多1張自己力量值6000以下紫色擁有《草帽一行人》特徵的角色卡置為活動狀態。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "動物",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP05-070_r1",
+        "number": "OP05-070",
+        "name": "Fra-Nosuke",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": "2000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[DON!! x1] If you have 8 or more DON!! cards on your field, this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-070_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Fra-Nosuke",
+            "effect": "[ด้ง!! x 1] ถ้าในสนามของเรามี ด้ง!! อยู่จำนวน 8 ใบ หรือมากกว่า, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "佛朗之介",
+            "effect": "【咚‼×1】若自己的場上有8張以上咚‼卡時，這張角色卡獲得【速攻】。 (這張卡片在登場的回合即可攻擊)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP05-072_r1",
+        "number": "OP05-072",
+        "name": "Hone-Kichi",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] If you have 8 or more DON!! cards on your field, give up to 2 of your opponent's Characters −2000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-072_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Hone-Kichi",
+            "effect": "[เมื่อลงสนาม] ถ้าในสนามของเรามี ด้ง!! อยู่จำนวน 8 ใบ หรือมากกว่า, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 2 ใบ, จะมีพาวเวอร์ –2000.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "骨吉",
+            "effect": "【登場時】若自己的場上有8張以上咚‼卡時，最多2張對手的角色卡，在這個回合，力量值-2000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP05-076_p1",
+        "number": "OP05-076",
+        "name": "When You're at Sea You Fight against Pirates!!",
+        "rarity": "R",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Land of Wano"
+        ],
+        "trigger": "[Trigger] Activate this card's [Main] effect.",
+        "blockIcon": "2",
+        "effect": "[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Straw Hat Crew}, {Kid Pirates}, or {Heart Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP05-076_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "When You're at Sea You Fight against Pirates!!",
+            "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > หรือ < กลุ่มโจรสลัดคิด > หรือ < กลุ่มโจรสลัดฮาร์ท > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+            "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+            "attribute": null,
+            "feature": [
+              "วาโนะคุนิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "在海上，海賊才是對手!!!",
+            "effect": "【主要】從自己的卡組上面查看3張卡片，公開最多1張擁有《草帽一行人》或《基德海賊團》或《哈特海賊團》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+            "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+            "attribute": null,
+            "feature": [
+              "和之國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "P-041_r1",
+        "number": "P-041",
+        "name": "Monkey.D.Luffy",
+        "rarity": "P",
+        "cardClass": "CHARACTER",
+        "cost": "10",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "12000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/P-041_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Monkey.D.Luffy",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "蒙其・D・魯夫",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST18-001",
+        "number": "ST18-001",
+        "name": "Uso-Hachi",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "3000",
+        "counter": "2000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] If you have 8 or more DON!! cards on your field, rest up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST18-001.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Uso-Hachi",
+            "effect": "[เมื่อลงสนาม] ถ้าในสนามของเรามี ด้ง!! อยู่ จำนวน 8 ใบ หรือมากกว่าละก็, จะทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "騙人八",
+            "effect": "【登場時】若自己的場上有8張以上咚‼卡時，將最多1張對手費用5以下的角色卡置為休息狀態。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST18-002",
+        "number": "ST18-002",
+        "name": "O-Nami",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you have 8 or more DON!! cards on your field, trash 1 card from your hand and draw 2 cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST18-002.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "O-Nami",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้าในสนามของเรามี ด้ง!! อยู่ จำนวน 8 ใบ หรือมากกว่าละก็, จะต้องทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ, และจั่วการ์ด จำนวน 2 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "阿娜",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】若自己的場上有8張以上咚‼卡時，廢棄1張自己的手牌，抽2張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST18-003",
+        "number": "ST18-003",
+        "name": "San-Gorou",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[When Attacking] [Once Per Turn] If you have 8 or more DON!! cards on your field, draw 1 card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST18-003.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "San-Gorou",
+            "effect": "[เมื่อโจมตี] [เทิร์นละ 1 ครั้ง] ถ้าในสนามของเรามี ด้ง!! อยู่ จำนวน 8 ใบ หรือมากกว่าละก็, จะต้องจั่วการ์ด จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "香吉五郎",
+            "effect": "【攻擊時】【每回合1次】若自己的場上有8張以上咚‼卡時，抽1張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST18-004",
+        "number": "ST18-004",
+        "name": "Zoro-Juurou",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST18-004.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Zoro-Juurou",
+            "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ธีมสีม่วง ที่มีคุณสมบัติ < กลุ่มหมวกฟาง > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "索隆十郎",
+            "effect": "【登場時】從自己的卡組上面查看5張卡片，公開最多1張紫色擁有《草帽一行人》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST18-005",
+        "number": "ST18-005",
+        "name": "Luffy-Tarou",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "7",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "8000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 purple {Straw Hat Crew} type Character card with a cost of 5 or less from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST18-005.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Luffy-Tarou",
+            "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำคาแรกเตอร์การ์ด ธีมสีม่วง ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < กลุ่มหมวกฟาง > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "魯夫太郎",
+            "effect": "【登場時】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：使最多1張自己手牌中費用5以下紫色擁有《草帽一行人》特徵的角色卡登場。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,857 @@
+{
+  "meta": {
+    "date": "2026-09-16",
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "ST25",
+    "name": "STARTER DECK  -Blue Buggy- [ST-25]",
+    "type": "starter",
+    "releaseDate": null,
+    "baseSetSize": 13,
+    "totalSetSize": 15,
+    "languages": [
+      "English",
+      "Thai",
+      "Chinese Traditional"
+    ],
+    "foreignNames": {
+      "Thai": "-Blue Buggy- [ST-25]",
+      "Chinese Traditional": "藍 巴其【ST-25】"
+    },
+    "cards": [
+      {
+        "id": "OP09-042_p2",
+        "number": "OP09-042",
+        "name": "Buggy",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Cross Guild"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Activate: Main] You may rest 5 of your DON!! cards and trash 1 card from your hand: Play up to 1 {Cross Guild} type Character card from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-042_p2.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Buggy",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ ด้ง!! ของเรา จำนวน 5 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำคาแรกเตอร์การ์ด ที่มีคุณสมบัติ < ครอสกิลด์ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "สี่จักรพรรดิ",
+              "ครอสกิลด์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "巴其",
+            "effect": "【啟動主要】可將5張自己的咚‼卡置為休息狀態，並廢棄1張自己的手牌：使最多1張自己手牌中擁有《十字公會》特徵的角色卡登場。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "十字公會"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-043_r1",
+        "number": "OP09-043",
+        "name": "Alvida",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Cross Guild"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On K.O.] If your Leader has the {Cross Guild} type, play up to 1 Character card with a cost of 5 or less other than [Alvida] from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-043_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Alvida",
+            "effect": "[เมื่อถูก KO] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ครอสกิลด์ > ละก็, จะนำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า นอกเหนือจาก [Alvida] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "ครอสกิลด์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "亞爾麗塔",
+            "effect": "【KO時】若自己的領航卡擁有《十字公會》特徵時，使最多1張自己手牌中除了「亞爾麗塔」以外費用5以下的角色卡登場。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "十字公會"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-045_r1",
+        "number": "OP09-045",
+        "name": "Cabaji",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": "2000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Cross Guild"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "If you have a [Buggy] or [Mohji] Character, this Character cannot be K.O.'d in battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-045_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Cabaji",
+            "effect": "ถ้าคาแรกเตอร์ของฝ่ายเรามี [Buggy] หรือ [Mohji] อยู่ด้วยละก็, คาแรกเตอร์นี้จะไม่ถูก KO จากการแบทเทิล.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "ครอสกิลด์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "卡巴吉",
+            "effect": "若場上有自己的角色卡「巴其」或「摩奇」時，這張角色卡在對戰中不會遭到KO。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "十字公會"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-051_r1",
+        "number": "OP09-051",
+        "name": "Buggy",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "10",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "12000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Cross Guild"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] Place up to 1 of your opponent's Characters at the bottom of the owner's deck. Then, if you do not have 5 Characters with a cost of 5 or more, place this Character at the bottom of the owner's deck.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-051_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Buggy",
+            "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ. จากนั้น, ถ้าเราไม่มีคาแรกเตอร์ ที่มีคอสต์ 5 หรือสูงกว่า จำนวน 5 ใบ อยู่ด้วยละก็, คาแรกเตอร์นี้ จะถูกนำไปวางที่ข้างใต้เด็คของเจ้าของ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "สี่จักรพรรดิ",
+              "ครอสกิลด์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "巴其",
+            "effect": "【登場時】將最多1張對手的角色卡放置在持有者的卡組下面。之後，若場上沒有5張自己費用5以上的角色卡時，將這張角色卡放置在持有者的卡組下面。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "十字公會"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-053_r1",
+        "number": "OP09-053",
+        "name": "Mohji",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "5000",
+        "counter": "2000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Cross Guild"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 [Richie] and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 [Richie] from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-053_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Mohji",
+            "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำ [Richie] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค, แล้วนำ [Richie] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "ครอสกิลด์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "摩奇",
+            "effect": "【登場時】從自己的卡組上面查看5張卡片，公開最多1張「利基」，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面，並使最多1張自己手牌中的「利基」登場。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "十字公會"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-054_r1",
+        "number": "OP09-054",
+        "name": "Richie",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Animal",
+          "Cross Guild"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-054_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Richie",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์",
+              "ครอสกิลด์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "利基",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "動物",
+              "十字公會"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-055_r1",
+        "number": "OP09-055",
+        "name": "Mr.1(Daz.Bonez)",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "7000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Cross Guild",
+          "Former Baroque Works"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-055_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Mr.1(Daz.Bonez)",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "ครอสกิลด์",
+              "อดีต B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "Mr.1(達茲・波涅士)",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "十字公會",
+              "前B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-056_r1",
+        "number": "OP09-056",
+        "name": "Mr.3(Galdino)",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Cross Guild",
+          "Former Baroque Works"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 {Cross Guild} type card or card with a type including \"Baroque Works\" other than [Mr.3(Galdino)] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-056_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Mr.3(Galdino)",
+            "effect": "[เมื่อลงสนาม] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ครอสกิลด์ > หรือว่า ที่ระบุคำว่า [B•W] รวมอยู่ในคุณสมบัติ จำนวนไม่เกิน 1 ใบ นอกเหนือจาก [Mr.3(Galdino)] มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "ครอสกิลด์",
+              "อดีต B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "Mr.3(賈爾迪諾)",
+            "effect": "【登場時】從自己的卡組上面查看4張卡片，公開最多1張除了「Mr.3(賈爾迪諾)」以外、擁有《十字公會》特徵或包含『B・W』特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "十字公會",
+              "前B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-057_p1",
+        "number": "OP09-057",
+        "name": "Cross Guild",
+        "rarity": "R",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Cross Guild"
+        ],
+        "trigger": "[Trigger] Activate this card's [Main] effect.",
+        "blockIcon": "3",
+        "effect": "[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Cross Guild} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-057_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Cross Guild",
+            "effect": "[เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 4 ใบ, และนำการ์ด ที่มีคุณสมบัติ < ครอสกิลด์ > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+            "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+            "attribute": null,
+            "feature": [
+              "ครอสกิลด์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "十字公會",
+            "effect": "【主要】從自己的卡組上面查看4張卡片，公開最多1張擁有《十字公會》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+            "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+            "attribute": null,
+            "feature": [
+              "十字公會"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "P-084_r1",
+        "number": "P-084",
+        "name": "Buggy",
+        "rarity": "P",
+        "cardClass": "CHARACTER",
+        "cost": "7",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "8000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Cross Guild"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "This Character cannot attack. If your Leader is [Buggy], all Characters with a cost of 3 or 4 cannot attack. [On Play] Play up to 1 {Cross Guild} type Character card with a cost of 6 or less from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/P-084_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Buggy",
+            "effect": "คาแรกเตอร์นี้ จะไม่สามารถโจมตี. ถ้าลีดเดอร์ของเราคือ [Buggy] ละก็, คาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 กับ คอสต์ 4 ทั้งหมด จะไม่สามารถโจมตี. [เมื่อลงสนาม] นำคาแรกเตอร์การ์ด ที่มีคอสต์ 6 หรือต่ำกว่า และมีคุณสมบัติ < ครอสกิลด์ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "สี่จักรพรรดิ",
+              "ครอสกิลด์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "巴其",
+            "effect": "這張角色卡無法進行攻擊。 若自己的領航卡是「巴其」時，費用3和4的角色卡全數，無法進行攻擊。 【登場時】使最多1張自己手牌中費用6以下擁有《十字公會》特徵的角色卡登場。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "十字公會"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST25-001",
+        "number": "ST25-001",
+        "name": "Alvida",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Cross Guild"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains +1 cost. [On Play] If your Leader is [Buggy], draw 3 cards and trash 2 cards from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST25-001.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Alvida",
+            "effect": "ถ้าเรามี คาแรกเตอร์ ที่มีคอสต์ตั้งต้น 5 หรือสูงกว่า อยู่จำนวน 2 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้ จะมีคอสต์ +1. [เมื่อลงสนาม] ถ้าลีดเดอร์ของเราคือ [Buggy] ละก็, จะจั่วการ์ด จำนวน 3 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 2 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "ครอสกิลด์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "亞爾麗塔",
+            "effect": "若場上有2張以上自己原本費用5以上的角色卡時，這張角色卡的費用+1。 【登場時】若自己的領航卡是「巴其」時，抽3張卡片，並廢棄2張自己的手牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "十字公會"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST25-002",
+        "number": "ST25-002",
+        "name": "Cabaji",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "1000",
+        "counter": "2000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Cross Guild"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] This Character gains +5000 power.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST25-002.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Cabaji",
+            "effect": "ถ้าเรามี คาแรกเตอร์ ที่มีคอสต์ตั้งต้น 5 หรือสูงกว่า อยู่จำนวน 2 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้ จะได้รับ [บล็อกเกอร์], และจะมีคอสต์ +1. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ในเทิร์นของคู่แข่ง] คาแรกเตอร์นี้ จะมีพาวเวอร์ +5000.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "ครอสกิลด์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "卡巴吉",
+            "effect": "若場上有2張以上自己原本費用5以上的角色卡時，這張角色卡獲得【防禦】、費用+1。 (對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【對方回合中】這張角色卡的力量值+5000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "十字公會"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST25-003",
+        "number": "ST25-003",
+        "name": "Crocodile & Mihawk",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "8",
+        "life": null,
+        "attribute": [
+          "Slash",
+          "Special"
+        ],
+        "power": "7000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Cross Guild",
+          "Former Baroque Works"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] Draw 2 cards and trash 1 card from your hand. Then, play up to 1 {Cross Guild} type Character card with a cost of 4 or less from your hand. [Once Per Turn] If your {Cross Guild} type Character would be removed from the field by your opponent's effect, you may trash 1 card from your hand instead.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST25-003.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Crocodile & Mihawk",
+            "effect": "[เมื่อลงสนาม] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ. จากนั้น, จะได้นำ คาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า และมีคุณสมบัติ < ครอสกิลด์ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. [เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์ของฝ่ายเรา ที่มีคุณสมบัติ < ครอสกิลด์ > กำลังจะถูกนำออกจากสนาม โดยความสามารถของฝ่ายคู่แข่ง, จะสามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ แทนได้.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน",
+              "พิเศษ"
+            ],
+            "feature": [
+              "ครอสกิลด์",
+              "อดีต B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "克洛克達爾＆密佛格",
+            "effect": "【登場時】抽2張卡片，並廢棄1張自己的手牌。之後，使最多1張自己手牌中費用4以下擁有《十字公會》特徵的角色卡登場。 【每回合1次】自己擁有《十字公會》特徵的角色卡因對手的效果即將離開場上時，可以替換成廢棄1張自己的手牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "十字公會",
+              "前B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST25-004",
+        "number": "ST25-004",
+        "name": "Buggy",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "1000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Cross Guild"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Activate: Main] You may trash 1 card from your hand and trash this Character: If your Leader is [Buggy], play up to 1 {Cross Guild} type Character card with a cost of 6 or less from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST25-004.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Buggy",
+            "effect": "[ใช้งาน : เมน] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ, และนำคาแรกเตอร์นี้ ไปวางที่แทรช : ถ้าลีดเดอร์ของเรา คือ [Buggy] ละก็, นำ คาแรกเตอร์การ์ด ที่มีคอสต์ 6 หรือต่ำกว่า และมีคุณสมบัติ < ครอสกิลด์ > จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "สี่จักรพรรดิ",
+              "ครอสกิลด์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "巴其",
+            "effect": "【啟動主要】可以廢棄1張自己的手牌、將這張角色卡放置在廢棄區：若自己的領航卡是「巴其」時，使最多1張自己手牌中費用6以下擁有《十字公會》特徵的角色卡登場。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "十字公會"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST25-005",
+        "number": "ST25-005",
+        "name": "Mohji",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "1000",
+        "counter": "2000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Cross Guild"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "If you have 2 or more Characters with a base cost of 5 or more, this Character gains [Blocker] and +1 cost. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] If your Leader is [Buggy] and you have 3 or less cards in your hand, draw 1 card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST25-005.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Mohji",
+            "effect": "ถ้าเรามี คาแรกเตอร์ ที่มีคอสต์ตั้งต้น 5 หรือสูงกว่า อยู่จำนวน 2 ใบ หรือมากกว่าละก็, คาแรกเตอร์นี้ จะได้รับ [บล็อกเกอร์], และจะมีคอสต์ +1. (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO] ถ้าลีดเดอร์ของเราคือ [Buggy], และเรามีการ์ดบนมืออยู่ จำนวน 3 ใบ หรือน้อยกว่าละก็, จะได้จั่วการ์ด จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "ครอสกิลด์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "摩奇",
+            "effect": "若場上有2張以上自己原本費用5以上的角色卡時，這張角色卡獲得【防禦】、費用+1。 (對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【KO時】若自己的領航卡是「巴其」、自己的手牌在3張以下時，抽1張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "十字公會"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

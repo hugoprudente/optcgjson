@@ -1,0 +1,1168 @@
+{
+  "meta": {
+    "date": "2026-09-16",
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "ST04",
+    "name": "STARTER DECK -Animal Kingdom Pirates- [ST-04]",
+    "type": "starter",
+    "releaseDate": null,
+    "baseSetSize": 17,
+    "totalSetSize": 17,
+    "languages": [
+      "English",
+      "Korean",
+      "Thai",
+      "Chinese Traditional"
+    ],
+    "foreignNames": {
+      "Korean": "[STK-04] 스타트 덱 백수 해적단",
+      "Thai": "-Animal Kingdom Pirates- [ST-04]",
+      "Chinese Traditional": "百獸海賊團【ST-04】"
+    },
+    "cards": [
+      {
+        "id": "ST04-001",
+        "number": "ST04-001",
+        "name": "Kaido",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] [Once Per Turn] DON!! −7 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Trash up to 1 of your opponent's Life cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-001.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "카이도",
+            "effect": "【기동: 메인】【턴 1회】두웅‼-7(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 라이프를 위에서 1장까지 트래시로 보낸다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "사황",
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kaido",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] ด้ง!! - 7 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำ ไลฟ์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, ไปวางที่แทรช.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สี่จักรพรรดิ",
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "海道",
+            "effect": "【啟動主要】【每回合1次】咚!!-7(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：將最多1張對手的生命值卡放到廢棄區。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-002",
+        "number": "ST04-002",
+        "name": "Ulti",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "2000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play up to 1 [Page One] card with a cost of 4 or less from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-002.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "울티",
+            "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 패에서 코스트 4 이하인 「페이지 원」을 1장까지 등장시킨다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Ulti",
+            "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำ [Page One] ที่มีคอสต์ 4 หรือต่ำกว่า จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "烏爾蒂",
+            "effect": "【登場時】咚!!-1(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：使最多1張自己手牌中費用4以下的「培濟萬」登場。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-003",
+        "number": "ST04-003",
+        "name": "Kaido",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "9",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "10000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] DON!! −5 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 6 or less. This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-003.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "카이도",
+            "effect": "【등장 시】두웅!!-5(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 6 이하인 캐릭터를 1장까지 KO시키고, 이번 턴 동안 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "사황",
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kaido",
+            "effect": "[เมื่อลงสนาม] ด้ง!! – 5 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 6 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์นี้จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สี่จักรพรรดิ",
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "海道",
+            "effect": "【登場時】咚!!-5(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：KO最多1張對手費用6以下的角色卡，並且這張角色卡，在這個回合，獲得【速攻】。 (這張卡片在登場的回合即可攻擊)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-004",
+        "number": "ST04-004",
+        "name": "King",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "6",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "7000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 4 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-004.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "킹",
+            "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 4 이하인 캐릭터를 1장까지 KO시킨다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "King",
+            "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 4 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "KING",
+            "effect": "【登場時】咚!!-1(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：KO最多1張對手費用4以下的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-005",
+        "number": "ST04-005",
+        "name": "Queen",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 2 cards and trash 1 card from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-005.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "퀸",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트하고 어택 대상을 이 카드로 할 수 있다)<br>\r\n【등장 시】 두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 카드를 2장 뽑고, 자신의 패를 1장 버린다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Queen",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : จั่วการ์ด 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "QUEEN",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】咚!!-1(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：抽2張卡片，並廢棄1張自己的手牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-006",
+        "number": "ST04-006",
+        "name": "Sasaki",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Draw 1 card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-006.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "사사키",
+            "effect": "【등장 시】 두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 카드를 1장 뽑는다.",
+            "trigger": null,
+            "attribute": [
+              "사격"
+            ],
+            "feature": [
+              "백수 해적"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Sasaki",
+            "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : จั่วการ์ด 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "佐佐木",
+            "effect": "【登場時】咚!!-1(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：抽1張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-007",
+        "number": "ST04-007",
+        "name": "Sheepshead",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates",
+          "Smile"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-007.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "시프스 헤드",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "백수 해적단",
+              "SMILE"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Sheepshead",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร",
+              "SMILE (สไมล์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "席浦斯赫德",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "百獸海賊團",
+              "SMILE"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-008",
+        "number": "ST04-008",
+        "name": "Jack",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[On Play] You may trash 1 card from your hand: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-008.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "잭",
+            "effect": "【등장 시】 자신의 패를 1장 버릴 수 있다: 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Jack",
+            "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ แอ็คทีฟ.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "JACK",
+            "effect": "【登場時】可以廢棄1張自己的手牌：從咚!!卡組追加最多1張活動狀態的咚!!卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-009",
+        "number": "ST04-009",
+        "name": "Ginrummy",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates",
+          "Smile"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-009.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "진라미",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "백수 해적단",
+              "SMILE"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Ginrummy",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร",
+              "SMILE (สไมล์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "金菈彌",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "百獸海賊團",
+              "SMILE"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-010",
+        "number": "ST04-010",
+        "name": "Who's.Who",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "3000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": "[Trigger] Play this card.",
+        "blockIcon": "1",
+        "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-010.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "후즈 후",
+            "effect": "【등장 시】 두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 3 이하인 캐릭터를 1장까지 KO시킨다.",
+            "trigger": "이 카드를 등장시킨다.",
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Who’s.Who",
+            "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มี คอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ.",
+            "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "福茲胡",
+            "effect": "【登場時】咚!!-1(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：KO最多1張對手費用3以下的角色卡。",
+            "trigger": "【觸發器】使這張卡片登場。",
+            "attribute": null,
+            "feature": [
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-011",
+        "number": "ST04-011",
+        "name": "Black Maria",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-011.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "블랙마리아",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트하고 어택 대상을 이 카드로 할 수 있다)",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Black Maria",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "黑瑪麗亞",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-012",
+        "number": "ST04-012",
+        "name": "Page One",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-012.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "페이지 원",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Page One",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "培濟萬",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-013",
+        "number": "ST04-013",
+        "name": "X.Drake",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Navy",
+          "Drake Pirates",
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-013.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "X 드레이크",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "해군",
+              "드레이크 해적단",
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "X.Drake",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กองทัพเรือ",
+              "กลุ่มโจรสลัดเดรค",
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "X・多雷古",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "海軍",
+              "多雷古海賊團",
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-014",
+        "number": "ST04-014",
+        "name": "Lead Performer \"Disaster\"",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "4",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": "[Trigger] Activate this card's [Main] effect.",
+        "blockIcon": "1",
+        "effect": "[Main] Draw 1 card, then add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-014.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "대간판\"재해\"",
+            "effect": "【메인】 카드를 1장 뽑고, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+            "trigger": "이 카드의 【메인】 효과를 발동한다.",
+            "attribute": null,
+            "feature": [
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Lead Performer “Disaster”",
+            "effect": "[เมน] จั่วการ์ด 1 ใบ. จากนั้น, นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ แอ็คทีฟ.",
+            "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+            "attribute": null,
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "招牌大將“災禍”",
+            "effect": "【主要】抽1張卡片，並從咚!!卡組追加最多1張活動狀態的咚!!卡。",
+            "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+            "attribute": null,
+            "feature": [
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-015",
+        "number": "ST04-015",
+        "name": "Brachio Bomber",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "6",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": "[Trigger] Add 1 DON!! card from your DON!! Deck and set it as active.",
+        "blockIcon": "1",
+        "effect": "[Main] K.O. up to 1 of your opponent's Characters with a cost of 6 or less, then add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-015.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "브라키오 봄버",
+            "effect": "【메인】 상대의 코스트 6 이하인 캐릭터를 1장까지 KO시키고, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+            "trigger": "두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+            "attribute": null,
+            "feature": [
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Brachio Bomber",
+            "effect": "[เมน] ทำการ KO ใส่คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 6 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ. จากนั้น, นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ แอ็คทีฟ.",
+            "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ แอ็คทีฟ.",
+            "attribute": null,
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "無賴男炸彈",
+            "effect": "【主要】KO最多1張對手費用6以下的角色卡，並且從咚!!卡組追加最多1張活動狀態的咚!!卡。",
+            "trigger": "【觸發器】從咚!!卡組追加最多1張活動狀態的咚!!卡。",
+            "attribute": null,
+            "feature": [
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-016",
+        "number": "ST04-016",
+        "name": "Blast Breath",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Up to 1 of your Leader or Character cards gains +4000 power during this battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-016.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "보로 브레스",
+            "effect": "【카운터】 두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 이번 배틀 중, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "사황",
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Blast Breath",
+            "effect": "[เคาน์เตอร์] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +4000.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "สี่จักรพรรดิ",
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "吐息",
+            "effect": "【反擊】咚!!-1(可將自己場上的咚!!卡依指定的數量放回咚!!卡組)：最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST04-017",
+        "number": "ST04-017",
+        "name": "Onigashima Island",
+        "rarity": "C",
+        "cardClass": "STAGE",
+        "cost": "3",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "1",
+        "effect": "[Activate: Main] You may rest this Stage: If your Leader has the {Animal Kingdom Pirates} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST04-017.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "오니가시마",
+            "effect": "【기동: 메인】 이 스테이지를 레스트할 수 있다: 자신의 리더가 《백수 해적단》 특징을 가진 경우, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Onigashima Island",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ สเตจนี้ : ถ้าเรามี ลีดเดอร์ ที่มีคุณสมบัติ < กลุ่มโจรสลัดร้อยอสูร > อยู่ด้วย, นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ มาวางเพิ่มแบบ เรสต์.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "鬼島",
+            "effect": "【啟動主要】可將這張舞台卡置為休息狀態：若自己的領航卡擁有《百獣海賊団》特徵時，從咚!!卡組追加最多1張休息狀態的咚!!卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "百獸海賊團"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

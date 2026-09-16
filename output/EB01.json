@@ -1,0 +1,5451 @@
+{
+  "meta": {
+    "date": "2026-09-16",
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "EB01",
+    "name": "EXTRA BOOSTER -Memorial Collection- [EB-01]",
+    "type": "extra_booster",
+    "releaseDate": null,
+    "baseSetSize": 61,
+    "totalSetSize": 80,
+    "languages": [
+      "English",
+      "Korean",
+      "Thai",
+      "Chinese Traditional"
+    ],
+    "foreignNames": {
+      "Korean": "[EBK-01] 엑스트라 부스터 팩 메모리얼 컬렉션",
+      "Thai": "-Memorial Collection- [EB-01]",
+      "Chinese Traditional": "回憶收藏【EB-01】"
+    },
+    "cards": [
+      {
+        "id": "EB01-001",
+        "number": "EB01-001",
+        "name": "Kouzuki Oden",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "4",
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Red",
+          "Green"
+        ],
+        "feature": [
+          "Land of Wano",
+          "Kouzuki Clan"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules. [DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-001.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "코즈키 오뎅",
+            "effect": "룰상, 자신의 《와노쿠니》 특징을 가지고 카운터가 없는 모든 캐릭터 카드는 카운터 +1000을 가진다.\r\n【두웅!!×1】【어택 시】자신의 코스트 5 이상인 《와노쿠니》 특징을 가진 캐릭터가 있을 경우, 다음 자신의 턴 개시 시까지, 이 리더의 파워 +1000.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "와노쿠니",
+              "코즈키 가문"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kouzuki Oden (Parallel)",
+            "effect": "เพิ่มกฎให้คาแรกเตอร์การ์ดของฝ่ายเรา ทั้งหมด ที่มีคุณสมบัติ < วาโนะคุนิ > แต่ไม่มีเคาน์เตอร์, จะมีเคาน์เตอร์ +1000. [ด้ง!! x 1] [เมื่อโจมตี] ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 5 หรือสูงกว่า และมีคุณสมบัติ < วาโนะคุนิ > อยู่ละก็, ลีดเดอร์นี้ จะมีพาวเวอร์ +1000, จนถึงช่วงเริ่มต้นเทิร์นถัดไปของเรา.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "วาโนะคุนิ",
+              "ตระกูลโคสึกิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "光月御田(異圖卡)",
+            "effect": "在規則上，自己擁有《和之國》特徵未持有反擊的角色卡全數持有反擊+1000。 【咚‼×1】【攻擊時】若場上有自己費用5以上擁有《和之國》特徵的角色卡時，這張領航卡，到下一個我方回合開始前，力量值+1000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國",
+              "光月家"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-001_p1",
+        "number": "EB01-001",
+        "name": "Kouzuki Oden (Parallel)",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "4",
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Red",
+          "Green"
+        ],
+        "feature": [
+          "Land of Wano",
+          "Kouzuki Clan"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "All of your {Land of Wano} type Character cards without a Counter have a +1000 Counter, according to the rules. [DON!! x1] [When Attacking] If you have a {Land of Wano} type Character with a cost of 5 or more, this Leader gains +1000 power until the start of your next turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-001_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "코즈키 오뎅",
+            "effect": "룰상, 자신의 《와노쿠니》 특징을 가지고 카운터가 없는 모든 캐릭터 카드는 카운터 +1000을 가진다.\r\n【두웅!!×1】【어택 시】자신의 코스트 5 이상인 《와노쿠니》 특징을 가진 캐릭터가 있을 경우, 다음 자신의 턴 개시 시까지, 이 리더의 파워 +1000.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "와노쿠니",
+              "코즈키 가문"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kouzuki Oden (Parallel)",
+            "effect": "เพิ่มกฎให้คาแรกเตอร์การ์ดของฝ่ายเรา ทั้งหมด ที่มีคุณสมบัติ < วาโนะคุนิ > แต่ไม่มีเคาน์เตอร์, จะมีเคาน์เตอร์ +1000. [ด้ง!! x 1] [เมื่อโจมตี] ถ้าเรามีคาแรกเตอร์ ที่มีคอสต์ 5 หรือสูงกว่า และมีคุณสมบัติ < วาโนะคุนิ > อยู่ละก็, ลีดเดอร์นี้ จะมีพาวเวอร์ +1000, จนถึงช่วงเริ่มต้นเทิร์นถัดไปของเรา.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "วาโนะคุนิ",
+              "ตระกูลโคสึกิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "光月御田(異圖卡)",
+            "effect": "在規則上，自己擁有《和之國》特徵未持有反擊的角色卡全數持有反擊+1000。 【咚‼×1】【攻擊時】若場上有自己費用5以上擁有《和之國》特徵的角色卡時，這張領航卡，到下一個我方回合開始前，力量值+1000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國",
+              "光月家"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-002",
+        "number": "EB01-002",
+        "name": "Izo",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "7000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Land of Wano",
+          "Whitebeard Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: If your Leader has the {Land of Wano} or {Whitebeard Pirates} type, give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-002.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "이조",
+            "effect": "【등장 시】자신의 리더 또는 캐릭터 1장에게 레스트 상태인 두웅!!을 1장까지 부여한다.\r\n【상대의 어택 시】【턴 1회】자신의 패 1장을 버릴 수 있다: 자신의 리더가 《와노쿠니》 또는 《흰 수염 해적단》 특징을 가진 경우, 이번 턴 동안, 상대의 리더 또는 캐릭터 1장까지의 파워 -2000.",
+            "trigger": null,
+            "attribute": [
+              "사격"
+            ],
+            "feature": [
+              "와노쿠니",
+              "흰 수염 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Izo",
+            "effect": "[เมื่อลงสนาม] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา, จำนวน 1 ใบ. [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < วาโนะคุนิ > หรือ < กลุ่มโจรสลัดหนวดขาว >, ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -2000.",
+            "trigger": null,
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "วาโนะคุนิ",
+              "กลุ่มโจรสลัดหนวดขาว"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "以藏",
+            "effect": "【登場時】附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。 【對方攻擊時】【每回合1次】可以廢棄1張自己的手牌：若自己的領航卡擁有《和之國》或《白鬍子海賊團》特徵時，最多1張對手的領航卡或角色卡，在這個回合，力量值-2000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國",
+              "白鬍子海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-003",
+        "number": "EB01-003",
+        "name": "Kid & Killer",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Slash",
+          "Special"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Supernovas",
+          "Kid Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-003.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "키드 & 킬러",
+            "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)\r\n【어택 시】상대의 라이프가 2장 이하인 경우, 이번 턴 동안, 이 캐릭터의 파워 +2000.",
+            "trigger": null,
+            "attribute": [
+              "참격",
+              "특수"
+            ],
+            "feature": [
+              "초신성",
+              "키드 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kid & Killer (Parallel)",
+            "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อโจมตี] ถ้าคู่แข่งมีไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, ในเทิร์นนี้, คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน",
+              "พิเศษ"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดคิด"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "基德&奇拉(異圖卡)",
+            "effect": "【速攻】(這張卡片在登場的回合即可攻擊) 【攻擊時】若對手的生命值卡在2張以下時，這張角色卡，在這個回合，力量值+2000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "超新星",
+              "基德海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-003_p1",
+        "number": "EB01-003",
+        "name": "Kid & Killer (Parallel)",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Slash",
+          "Special"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Supernovas",
+          "Kid Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-003_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "키드 & 킬러",
+            "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)\r\n【어택 시】상대의 라이프가 2장 이하인 경우, 이번 턴 동안, 이 캐릭터의 파워 +2000.",
+            "trigger": null,
+            "attribute": [
+              "참격",
+              "특수"
+            ],
+            "feature": [
+              "초신성",
+              "키드 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kid & Killer (Parallel)",
+            "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อโจมตี] ถ้าคู่แข่งมีไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, ในเทิร์นนี้, คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน",
+              "พิเศษ"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดคิด"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "基德&奇拉(異圖卡)",
+            "effect": "【速攻】(這張卡片在登場的回合即可攻擊) 【攻擊時】若對手的生命值卡在2張以下時，這張角色卡，在這個回合，力量值+2000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "超新星",
+              "基德海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-004",
+        "number": "EB01-004",
+        "name": "Koza",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Alabasta"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[When Attacking] You may give your 1 active Leader −5000 power during this turn: Give up to 1 of your opponent's Characters −3000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-004.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "코자",
+            "effect": "【어택 시】이번 턴 동안, 자신의 액티브 상태인 리더 1장의 파워를 -5000 할 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -3000.",
+            "trigger": null,
+            "attribute": [
+              "사격"
+            ],
+            "feature": [
+              "알라바스타 왕국"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Koza",
+            "effect": "[เมื่อโจมตี] สามารถทำให้ ลีดเดอร์ของเรา ที่กำลังแอ็คทีฟอยู่ จำนวน 1 ใบ, ในเทิร์นนี้, จะมีพาวเวอร์ -5000 : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -3000.",
+            "trigger": null,
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "ราชอาณาจักรอลาบาสต้า"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "寇沙",
+            "effect": "【攻擊時】1張自己活動狀態的領航卡，在這個回合，可以力量值-5000：最多1張對手的角色卡，在這個回合，力量值-3000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "阿拉巴斯坦王國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-005",
+        "number": "EB01-005",
+        "name": "Doma",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Whitebeard Pirates Allies"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-005.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "도마",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "흰 수염 해적단 산하"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Doma",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "พันธมิตรกลุ่มโจรสลัดหนวดขาว"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "多馬",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "白鬍子海賊團旗下"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-006",
+        "number": "EB01-006",
+        "name": "Tony Tony.Chopper",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Animal",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-006.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "토니토니 쵸파",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【두웅!!×2】【어택 시】이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -3000.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "동물",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Tony Tony.Chopper (Parallel)",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ด้ง!! x 2] [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -3000.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "多尼多尼・喬巴(異圖卡)",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【咚‼×2】【攻擊時】最多1張對手的角色卡，在這個回合，力量值-3000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "動物",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-006_p1",
+        "number": "EB01-006",
+        "name": "Tony Tony.Chopper (Parallel)",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Animal",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "토니토니 쵸파",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【두웅!!×2】【어택 시】이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -3000.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "동물",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Tony Tony.Chopper (Parallel)",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ด้ง!! x 2] [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -3000.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "多尼多尼・喬巴(異圖卡)",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【咚‼×2】【攻擊時】最多1張對手的角色卡，在這個回合，力量值-3000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "動物",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-006_p2",
+        "number": "EB01-006",
+        "name": "Tony Tony.Chopper (Parallel)",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Animal",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −3000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-006_p2.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "토니토니 쵸파",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【두웅!!×2】【어택 시】이번 턴 동안, 상대의 캐릭터 1장까지의 파워 -3000.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "동물",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Tony Tony.Chopper (Parallel)",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [ด้ง!! x 2] [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -3000.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "多尼多尼・喬巴(異圖卡)",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【咚‼×2】【攻擊時】最多1張對手的角色卡，在這個回合，力量值-3000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "動物",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-007",
+        "number": "EB01-007",
+        "name": "Yamato",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "2000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Land of Wano"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-007.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "야마토",
+            "effect": "【기동: 메인】【턴 1회】자신의 리더 또는 캐릭터 1장에게 레스트 상태인 두웅!!을 1장까지 부여한다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "와노쿠니"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Yamato",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ ไปใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา, จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "วาโนะคุนิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "大和",
+            "effect": "【啟動主要】【每回合1次】附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-008",
+        "number": "EB01-008",
+        "name": "LittleOars Jr.",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "6",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "7000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Giant",
+          "Whitebeard Pirates Allies"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Once Per Turn] If this Character would be K.O.'d by an effect, you may trash 1 Event or Stage card from your hand instead.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-008.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "리틀 오즈 Jr.",
+            "effect": "【턴 1회】이 캐릭터가 효과에 의해 KO 당할 경우, 대신 자신의 패에서 이벤트 또는 스테이지 카드 1장을 버릴 수 있다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "거인족",
+              "흰 수염 해적단 산하"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "LittleOars Jr.",
+            "effect": "[เทิร์นละ 1 ครั้ง] ถ้าคาแรกเตอร์นี้ กำลังจะถูก KO โดยความสามารถ, จะสามารถทิ้ง อีเวนต์ หรือ สเตจการ์ด ที่อยู่บนมือของเรา จำนวน 1 ใบ แทนได้.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "เผ่าคนยักษ์",
+              "พันธมิตรกลุ่มโจรสลัดหนวดขาว"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "小歐斯Jr.",
+            "effect": "【每回合1次】若這張角色卡因為效果即將遭到KO時，可以替換成廢棄1張自己手牌中的事件卡或舞台卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "巨人族",
+              "白鬍子海賊團旗下"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-009",
+        "number": "EB01-009",
+        "name": "Just Shut Up and Come with Us!!!!",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Drum Kingdom",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Counter] Look at 5 cards from the top of your deck and play up to 1 {Animal} type Character card with a cost of 3 or less. Then, place the rest at the bottom of your deck in any order.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-009.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "시끄러워!!! 가자!!!!",
+            "effect": "【카운터】자신의 덱 위에서 5장을 보고, 코스트 3 이하인 《동물》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "드럼 왕국",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Just Shut Up and Come with Us!!!!",
+            "effect": "[เคาน์เตอร์] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, แล้วหาคาแรกเตอร์การ์ด ที่มีคอสต์ 3 หรือต่ำกว่า และมีคุณสมบัติ < สัตว์ > จำนวนไม่เกิน 1 ใบ, นำลงสนาม. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "ราชอาณาจักรดรัม",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "少囉唆！走吧！",
+            "effect": "【反擊】從自己的卡組上面查看5張卡片，使最多1張費用3以下擁有《動物》特徵的角色卡登場。之後，將其餘卡片依任意順序放到卡組下面。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "磁鼓王國",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-010",
+        "number": "EB01-010",
+        "name": "There's No Way You Could Defeat Me!!",
+        "rarity": "R",
+        "cardClass": "EVENT",
+        "cost": "3",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Water Seven",
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with 5000 base power or less.",
+        "blockIcon": "2",
+        "effect": "[Counter] K.O. up to 1 of your opponent's Characters with 6000 base power or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-010.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "네가 나한테!!! 이길 수 있을 리가 없잖아!!!!",
+            "effect": "【카운터】상대의 원래 파워가 6000 이하인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": "【트리거】상대의 원래 파워가 5000 이하인 캐릭터를 1장까지 KO 시킨다.",
+            "attribute": null,
+            "feature": [
+              "워터 세븐",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "There's No Way You Could Defeat Me!!",
+            "effect": "[เคาน์เตอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ตั้งต้น 6000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ตั้งต้น 5000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "attribute": null,
+            "feature": [
+              "W7 (Water Seven)",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "你怎麼可能…打得贏我！",
+            "effect": "【反擊】KO最多1張對手原本力量值6000以下的角色卡。",
+            "trigger": "【觸發器】KO最多1張對手原本力量值5000以下的角色卡。",
+            "attribute": null,
+            "feature": [
+              "W7",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-011",
+        "number": "EB01-011",
+        "name": "Mini-Merry",
+        "rarity": "C",
+        "cardClass": "STAGE",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Activate: Main] You may rest this card and place 1 of your Characters with 1000 base power at the bottom of your deck: Draw 1 card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-011.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "미니 메리 2호",
+            "effect": "【기동: 메인】이 카드를 레스트로 하고, 자신의 원래 파워가 1000인 캐릭터 1장을 덱 맨 아래로 되돌릴 수 있다: 카드를 1장 뽑는다.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Mini-Merry",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ การ์ดใบนี้, และนำคาแรกเตอร์ของเรา ที่มีพาวเวอร์ตั้งต้น 1000 จำนวน 1 ใบ ไปวางที่ข้างใต้เด็ค : จั่วการ์ด จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "迷你梅利2號",
+            "effect": "【啟動主要】可將這張卡片置為休息狀態，並將1張自己原本力量值1000的角色卡放置在卡組下面：抽1張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-012",
+        "number": "EB01-012",
+        "name": "Cavendish",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "Beautiful Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play]/[When Attacking] If your Leader has the {Supernovas} type and you have no other [Cavendish] Characters, set up to 2 of your DON!! cards as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-012.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "캐번디시",
+            "effect": "【등장 시】/【어택 시】자신의 리더가 《초신성》 특징을 가지고, 자신의 캐릭터인 다른 「캐번디시」가 없는 경우, 자신의 두웅!!을 2장까지 액티브로 한다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "초신성",
+              "아름다운 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Cavendish (Parallel)",
+            "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ถ้า ลีดเดอร์ ของเรา มีคุณสมบัติ < ซูเปอร์โนวา >, และเราไม่มีคาแรกเตอร์ [Cavendish] ใบอื่น อยู่ด้วยละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 2 ใบ เปลี่ยนเป็น แอ็คทีฟ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดงดงาม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "卡文迪許(異圖卡)",
+            "effect": "【登場時】/【攻擊時】若自己的領航卡擁有《超新星》特徵，場上沒有自己其他的角色卡「卡文迪許」時，將最多2張自己的咚‼卡置為活動狀態。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "超新星",
+              "貌美海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-012_p1",
+        "number": "EB01-012",
+        "name": "Cavendish (Parallel)",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "Beautiful Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play]/[When Attacking] If your Leader has the {Supernovas} type and you have no other [Cavendish] Characters, set up to 2 of your DON!! cards as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-012_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "캐번디시",
+            "effect": "【등장 시】/【어택 시】자신의 리더가 《초신성》 특징을 가지고, 자신의 캐릭터인 다른 「캐번디시」가 없는 경우, 자신의 두웅!!을 2장까지 액티브로 한다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "초신성",
+              "아름다운 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Cavendish (Parallel)",
+            "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ถ้า ลีดเดอร์ ของเรา มีคุณสมบัติ < ซูเปอร์โนวา >, และเราไม่มีคาแรกเตอร์ [Cavendish] ใบอื่น อยู่ด้วยละก็, จะทำให้ ด้ง!! ของเรา จำนวนไม่เกิน 2 ใบ เปลี่ยนเป็น แอ็คทีฟ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดงดงาม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "卡文迪許(異圖卡)",
+            "effect": "【登場時】/【攻擊時】若自己的領航卡擁有《超新星》特徵，場上沒有自己其他的角色卡「卡文迪許」時，將最多2張自己的咚‼卡置為活動狀態。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "超新星",
+              "貌美海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-013",
+        "number": "EB01-013",
+        "name": "Kouzuki Hiyori",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": null,
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Land of Wano",
+          "Kouzuki Clan"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Activate: Main] You may trash this Character: Play up to 1 {Land of Wano} type Character card with a cost of 5 or less other than [Kouzuki Hiyori] from your hand. Then, draw 1 card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-013.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "코즈키 히요리",
+            "effect": "【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 자신의 패에서 「코즈키 히요리」 이외의 코스트 5 이하인 《와노쿠니》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다. 그 후, 카드를 1장 뽑는다.",
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "와노쿠니",
+              "코즈키 가문"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kouzuki Hiyori (Parallel)",
+            "effect": "[ใช้งาน : เมน] สามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช : นำ คาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < วาโนะคุนิ > นอกเหนือจาก [Kouzuki Hiyori] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, จั่วการ์ด จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "วาโนะคุนิ",
+              "ตระกูลโคสึกิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "光月日和(異圖卡)",
+            "effect": "【啟動主要】可將這張角色卡放置在廢棄區：使最多1張自己手牌中除了「光月日和」以外費用5以下擁有《和之國》特徵的角色卡登場。之後，抽1張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國",
+              "光月家"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-013_p1",
+        "number": "EB01-013",
+        "name": "Kouzuki Hiyori (Parallel)",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": null,
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Land of Wano",
+          "Kouzuki Clan"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Activate: Main] You may trash this Character: Play up to 1 {Land of Wano} type Character card with a cost of 5 or less other than [Kouzuki Hiyori] from your hand. Then, draw 1 card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-013_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "코즈키 히요리",
+            "effect": "【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 자신의 패에서 「코즈키 히요리」 이외의 코스트 5 이하인 《와노쿠니》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다. 그 후, 카드를 1장 뽑는다.",
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "와노쿠니",
+              "코즈키 가문"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kouzuki Hiyori (Parallel)",
+            "effect": "[ใช้งาน : เมน] สามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช : นำ คาแรกเตอร์การ์ด ที่มีคอสต์ 5 หรือต่ำกว่า และมีคุณสมบัติ < วาโนะคุนิ > นอกเหนือจาก [Kouzuki Hiyori] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, จั่วการ์ด จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "วาโนะคุนิ",
+              "ตระกูลโคสึกิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "光月日和(異圖卡)",
+            "effect": "【啟動主要】可將這張角色卡放置在廢棄區：使最多1張自己手牌中除了「光月日和」以外費用5以下擁有《和之國》特徵的角色卡登場。之後，抽1張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國",
+              "光月家"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-014",
+        "number": "EB01-014",
+        "name": "Sanji",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "2000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "FILM",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[DON!! x1] [Your Turn] This Character gains +1000 power for every 3 of your rested DON!! cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-014.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "상디",
+            "effect": "【두웅!!×1】【자신의 턴 동안】자신의 레스트 상태인 두웅!! 3장당, 이 캐릭터의 파워 +1000.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "FILM",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Sanji",
+            "effect": "[ด้ง!! x 1] [เทิร์นตัวเอง] คาแรกเตอร์นี้ จะมีพาวเวอร์ +1000, ต่อจำนวน ด้ง!! ของเรา ที่กำลังเรสต์อยู่ จำนวน 3 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "FILM",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "香吉士",
+            "effect": "【咚‼×1】【我方回合中】自己每有3張休息狀態的咚‼卡，這張角色卡，力量+1000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "FILM",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-015",
+        "number": "EB01-015",
+        "name": "Scratchmen Apoo",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "1000",
+        "counter": "2000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "On-Air Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] Rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-015.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "스크래치멘 아푸",
+            "effect": "【등장 시】상대의 코스트 2 이하인 캐릭터를 1장까지 레스트로 한다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "초신성",
+              "온에어 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Scratchmen Apoo",
+            "effect": "[เมื่อลงสนาม] ทำการ เรสต์ คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดออนแอร์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "刮盤人・亞普",
+            "effect": "【登場時】將最多1張對手費用2以下的角色卡置為休息狀態。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "超新星",
+              "ONAIR海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-016",
+        "number": "EB01-016",
+        "name": "Bingoh",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": null,
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Land of Wano"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Activate: Main] You may rest this Character: K.O. up to 1 of your opponent's rested Characters with a cost of 1 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-016.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "빈고",
+            "effect": "【기동: 메인】이 캐릭터를 레스트할 수 있다: 상대의 레스트 상태이고 코스트 1 이하인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "와노쿠니"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Bingoh",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 1 หรือต่ำกว่า ซึ่งกำลังเรสต์อยู่, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "วาโนะคุนิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "鬢豪",
+            "effect": "【啟動主要】可將這張角色卡置為休息狀態：KO最多1張對手休息狀態費用1以下的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "和之國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-017",
+        "number": "EB01-017",
+        "name": "Blueno",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "FILM",
+          "CP0"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-017.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "블루노",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "FILM",
+              "CP0"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Blueno",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "FILM",
+              "CP0"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "布魯諾",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "FILM",
+              "CP0"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-018",
+        "number": "EB01-018",
+        "name": "Mountain God",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "7000",
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Animal",
+          "Land of Wano"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-018.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "산신",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "동물",
+              "와노쿠니"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Mountain God",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์",
+              "วาโนะคุนิ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "大山",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "動物",
+              "和之國"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-019",
+        "number": "EB01-019",
+        "name": "Off-White",
+        "rarity": "R",
+        "cardClass": "EVENT",
+        "cost": "2",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea",
+          "Donquixote Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, look at 3 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-019.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "오프 화이트",
+            "effect": "【카운터】이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +4000. 그 후, 자신의 덱 위에서 3장을 보고, 《돈키호테 해적단》 특징을 가진 캐릭터 카드를 1장까지 공개하고 패에 더한다. 그 후, 남은 카드를 원하는 순서대로 덱 맨 아래로 되돌린다.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "왕의 부하 칠무해",
+              "돈키호테 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Off-White",
+            "effect": "[เคาน์เตอร์] ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +4000. จากนั้น, ดูการ์ดจากข้างบนเด็คของเรา จำนวน 3 ใบ, และนำคาแรกเตอร์การ์ดที่มีคุณสมบัติ < กลุ่มโจรสลัดดองกีโฮเต้ > จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "เจ็ดเทพโจรสลัด",
+              "กลุ่มโจรสลัดดองกีโฮเต้"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "盾白線",
+            "effect": "【反擊】最多1張自己的領航卡或角色卡，在這場對戰中，力量值+4000。之後，從自己的卡組上面查看3張卡片，公開最多1張擁有《唐吉訶德海賊團》特徵的角色卡，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "王下七武海",
+              "唐吉訶德海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-020",
+        "number": "EB01-020",
+        "name": "Chambres",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Supernovas",
+          "Heart Pirates"
+        ],
+        "trigger": "[Trigger] Activate this card's [Main] effect.",
+        "blockIcon": "2",
+        "effect": "[Main] If your Leader has the {Supernovas} type, return 1 of your Characters to the owner's hand, and play up to 1 Character card with a cost of 2 or less from your hand that is a different color than the returned Character.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-020.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샘블즈",
+            "effect": "【메인】자신의 리더가 《초신성》 특징을 가진 경우, 자신의 캐릭터 1장을 주인의 패로 되돌리고, 자신의 패에서 되돌린 캐릭터와 다른 색의 코스트 2 이하인 캐릭터 카드를 1장까지 등장시킨다.",
+            "trigger": "【트리거】이 카드의 【메인】 효과를 발동한다.",
+            "attribute": null,
+            "feature": [
+              "초신성",
+              "하트 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Chambres",
+            "effect": "[เมน] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < ซูเปอร์โนวา >, นำคาแรกเตอร์ของเรา จำนวน 1 ใบ กลับขึ้นมือของเจ้าของ, และนำคาแรกเตอร์การ์ด ที่มีคอสต์ 2 หรือต่ำกว่า และมีธีมสี แตกต่างจากคาแรกเตอร์ที่เพิ่งถูกนำกลับไป, จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+            "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+            "attribute": null,
+            "feature": [
+              "ซูเปอร์โนวา",
+              "กลุ่มโจรสลัดฮาร์ท"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "移植",
+            "effect": "【主要】若自己的領航卡擁有《超新星》特徵時，將1張自己的角色卡放回持有者的手牌，並從自己的手牌中，使最多1張和被放回的角色卡不同顏色費用2以下的角色卡登場。",
+            "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+            "attribute": null,
+            "feature": [
+              "超新星",
+              "哈特海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-021",
+        "number": "EB01-021",
+        "name": "Hannyabal",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "4",
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Blue",
+          "Purple"
+        ],
+        "feature": [
+          "Impel Down"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[End of Your Turn] You may return 1 of your {Impel Down} type Characters with a cost of 2 or more to the owner's hand: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-021.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "한냐발",
+            "effect": "【자신의 턴 종료 시】자신의 코스트 2 이상인 《임펠 다운》 특징을 가진 캐릭터 1장을 주인의 패로 되돌릴 수 있다: 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "임펠 다운"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Hannyabal (Parallel)",
+            "effect": "[เมื่อจบเทิร์นของเรา] สามารถนำ คาแรกเตอร์ของเรา ที่มีคอสต์ 2 หรือสูงกว่า และมีคุณสมบัติ < อิมเพลดาวน์ > จำนวน 1 ใบ กลับขึ้นมือของเจ้าของ : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "อิมเพลดาวน์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "般若拔(異圖卡)",
+            "effect": "【我方回合結束時】可將1張自己費用2以上擁有《推進城》特徵的角色卡放回持有者的手牌：從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "推進城"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-021_p1",
+        "number": "EB01-021",
+        "name": "Hannyabal (Parallel)",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "4",
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Blue",
+          "Purple"
+        ],
+        "feature": [
+          "Impel Down"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[End of Your Turn] You may return 1 of your {Impel Down} type Characters with a cost of 2 or more to the owner's hand: Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-021_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "한냐발",
+            "effect": "【자신의 턴 종료 시】자신의 코스트 2 이상인 《임펠 다운》 특징을 가진 캐릭터 1장을 주인의 패로 되돌릴 수 있다: 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "임펠 다운"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Hannyabal (Parallel)",
+            "effect": "[เมื่อจบเทิร์นของเรา] สามารถนำ คาแรกเตอร์ของเรา ที่มีคอสต์ 2 หรือสูงกว่า และมีคุณสมบัติ < อิมเพลดาวน์ > จำนวน 1 ใบ กลับขึ้นมือของเจ้าของ : นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "อิมเพลดาวน์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "般若拔(異圖卡)",
+            "effect": "【我方回合結束時】可將1張自己費用2以上擁有《推進城》特徵的角色卡放回持有者的手牌：從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "推進城"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-022",
+        "number": "EB01-022",
+        "name": "Inazuma",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "6",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "7000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Impel Down",
+          "Revolutionary Army"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[End of Your Turn] If you have 2 or less cards in your hand, draw 2 cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-022.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "이나즈마",
+            "effect": "【자신의 턴 종료 시】자신의 패가 2장 이하인 경우, 카드를 2장 뽑는다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "임펠 다운",
+              "혁명군"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Inazuma (Parallel)",
+            "effect": "[เมื่อจบเทิร์นของเรา] ถ้าเรามีการ์ดบนมือ จำนวน 2 ใบ หรือน้อยกว่า, จะต้องจั่วการ์ด จำนวน 2 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "อิมเพลดาวน์",
+              "กองทัพปฏิวัติ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "雷電(異圖卡)",
+            "effect": "【我方回合結束時】若自己的手牌在2張以下時，抽2張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "推進城",
+              "革命軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-022_p1",
+        "number": "EB01-022",
+        "name": "Inazuma (Parallel)",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "6",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "7000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Impel Down",
+          "Revolutionary Army"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[End of Your Turn] If you have 2 or less cards in your hand, draw 2 cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-022_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "이나즈마",
+            "effect": "【자신의 턴 종료 시】자신의 패가 2장 이하인 경우, 카드를 2장 뽑는다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "임펠 다운",
+              "혁명군"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Inazuma (Parallel)",
+            "effect": "[เมื่อจบเทิร์นของเรา] ถ้าเรามีการ์ดบนมือ จำนวน 2 ใบ หรือน้อยกว่า, จะต้องจั่วการ์ด จำนวน 2 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "อิมเพลดาวน์",
+              "กองทัพปฏิวัติ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "雷電(異圖卡)",
+            "effect": "【我方回合結束時】若自己的手牌在2張以下時，抽2張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "推進城",
+              "革命軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-023",
+        "number": "EB01-023",
+        "name": "Edward Weevil",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] Draw 1 card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-023.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "에드워드 위블",
+            "effect": "【등장 시】카드를 1장 뽑는다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "왕의 부하 칠무해"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Edward Weevil",
+            "effect": "[เมื่อลงสนาม] จั่วการ์ด จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "เจ็ดเทพโจรสลัด"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "艾德華・衛伯",
+            "effect": "【登場時】抽1張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "王下七武海"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-024",
+        "number": "EB01-024",
+        "name": "Hamlet",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates",
+          "SMILE"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "If you have 4 or less cards in your hand, all of your {SMILE} type Characters gain +1000 power.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-024.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "햄릿",
+            "effect": "자신의 패가 4장 이하인 경우, 자신의 《SMILE》 특징을 가진 모든 캐릭터의 파워 +1000.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "백수 해적단",
+              "SMILE"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Hamlet",
+            "effect": "ถ้าเรามีการ์ดบนมือ จำนวน 4 ใบ หรือน้อยกว่า, คาแรกเตอร์ที่มีคุณสมบัติ < SMILE > ของฝ่ายเรา ทั้งหมด, จะมีพาวเวอร์ +1000.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร",
+              "SMILE (สไมล์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "哈姆雷特",
+            "effect": "若自己的手牌在4張以下時，自己擁有《SMILE》特徵的角色卡全數，力量值+1000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "百獸海賊團",
+              "SMILE"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-025",
+        "number": "EB01-025",
+        "name": "Fourtricks",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Animal Kingdom Pirates",
+          "SMILE"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-025.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "포트릭스",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "백수 해적단",
+              "SMILE"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Fourtricks",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดร้อยอสูร",
+              "SMILE (สไมล์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "佛特黎克斯",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "百獸海賊團",
+              "SMILE"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-026",
+        "number": "EB01-026",
+        "name": "Prince Bellett",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "2000",
+        "counter": "2000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Impel Down"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[DON!! x1] [When Attacking] If you have 1 or less cards in your hand, return up to 1 Character with a cost of 3 or less to the owner's hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-026.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "왕자 벨렛",
+            "effect": "【두웅!!×1】【어택 시】자신의 패가 1장 이하인 경우, 코스트 3 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+            "trigger": null,
+            "attribute": [
+              "사격"
+            ],
+            "feature": [
+              "임펠 다운"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Prince Bellett",
+            "effect": "[ด้ง!! x 1] [เมื่อโจมตี] ถ้าเรามีการ์ดบนมือ จำนวน 1 ใบ หรือน้อยกว่า, นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+            "trigger": null,
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "อิมเพลดาวน์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "貝雷特王子",
+            "effect": "【咚‼×1】【攻擊時】若自己的手牌在1張以下時，將最多1張費用3以下的角色卡放回持有者的手牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "推進城"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-027",
+        "number": "EB01-027",
+        "name": "Mr.1(Daz.Bonez)",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Baroque Works"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "If your Leader's type includes \"Baroque Works\", this Character gains +1000 power for every 2 Events in your trash. [On Play] Draw 2 cards and trash 1 card from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-027.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "Mr.1(다즈 보네스)",
+            "effect": "자신의 리더가 『바로크 워크스』를 포함한 특징을 가진 경우, 자신의 트래시에 있는 이벤트 2장당, 이 캐릭터의 파워 +1000.\r\n【등장 시】카드를 2장 뽑고, 자신의 패 1장을 버린다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "바로크 워크스"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Mr.1(Daz.Bonez) (Parallel)",
+            "effect": "ถ้าลีดเดอร์ของเรา ระบุคำว่า [ B•W ] รวมอยู่ในคุณสมบัติ, คาแรกเตอร์นี้ จะมีพาวเวอร์ +1000, ต่อจำนวน อีเวนต์ ที่อยู่ใน แทรชของเรา จำนวน 2 ใบ. [เมื่อลงสนาม] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "Mr.1(達茲・波涅士)(異圖卡)",
+            "effect": "若自己的領航卡擁有包含『B・W』特徵時，自己的廢棄區中每有2張事件卡，這張角色卡，力量值+1000。 【登場時】抽2張卡片，並廢棄1張自己的手牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-027_p1",
+        "number": "EB01-027",
+        "name": "Mr.1(Daz.Bonez) (Parallel)",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Baroque Works"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "If your Leader's type includes \"Baroque Works\", this Character gains +1000 power for every 2 Events in your trash. [On Play] Draw 2 cards and trash 1 card from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-027_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "Mr.1(다즈 보네스)",
+            "effect": "자신의 리더가 『바로크 워크스』를 포함한 특징을 가진 경우, 자신의 트래시에 있는 이벤트 2장당, 이 캐릭터의 파워 +1000.\r\n【등장 시】카드를 2장 뽑고, 자신의 패 1장을 버린다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "바로크 워크스"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Mr.1(Daz.Bonez) (Parallel)",
+            "effect": "ถ้าลีดเดอร์ของเรา ระบุคำว่า [ B•W ] รวมอยู่ในคุณสมบัติ, คาแรกเตอร์นี้ จะมีพาวเวอร์ +1000, ต่อจำนวน อีเวนต์ ที่อยู่ใน แทรชของเรา จำนวน 2 ใบ. [เมื่อลงสนาม] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "Mr.1(達茲・波涅士)(異圖卡)",
+            "effect": "若自己的領航卡擁有包含『B・W』特徵時，自己的廢棄區中每有2張事件卡，這張角色卡，力量值+1000。 【登場時】抽2張卡片，並廢棄1張自己的手牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-028",
+        "number": "EB01-028",
+        "name": "Gum-Gum Champion Rifle",
+        "rarity": "R",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Impel Down",
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] Return up to 1 Character with a cost of 3 or less to the bottom of the owner's deck.",
+        "blockIcon": "2",
+        "effect": "[Counter] If your Leader has the {Impel Down} type, up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, your opponent returns 1 of their active Characters to the owner's hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-028.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "고무고무 챔피언 라이플",
+            "effect": "【카운터】자신의 리더가 《임펠 다운》 특징을 가진 경우, 이번 배틀 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +2000. 그 후, 상대는 자신의 액티브 상태인 캐릭터 1장을 주인의 패로 되돌린다.",
+            "trigger": "【트리거】코스트 3 이하인 캐릭터를 1장까지 주인의 덱 맨 아래로 되돌린다.",
+            "attribute": null,
+            "feature": [
+              "임펠 다운",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Gum-Gum Champion Rifle",
+            "effect": "[เคาน์เตอร์] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < อิมเพลดาวน์ >, ในแบทเทิลนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +2000. จากนั้น, คู่แข่งจะต้องนำคาแรกเตอร์ของตัวเอง ที่กำลังแอ็คทีฟอยู่ จำนวน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+            "trigger": "[ทริกเกอร์] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางที่ข้างใต้เด็คของเจ้าของ.",
+            "attribute": null,
+            "feature": [
+              "อิมเพลดาวน์",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "橡膠拳王螺旋彈",
+            "effect": "【反擊】若自己的領航卡擁有《推進城》特徵時，最多1張自己的領航卡或角色卡，在這場對戰中，力量值+2000。之後，對手將1張自身活動狀態的角色卡放回持有者的手牌。",
+            "trigger": "【觸發器】將最多1張費用3以下的角色卡放回持有者的卡組下面。",
+            "attribute": null,
+            "feature": [
+              "推進城",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-029",
+        "number": "EB01-029",
+        "name": "Sorry. I'm a Goner.",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "East Blue",
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] Return up to 1 Character with a cost of 8 or less to the owner's hand.",
+        "blockIcon": "2",
+        "effect": "[Counter] Reveal 1 card from the top of your deck. If the revealed card has a cost of 4 or more, return up to 1 of your Characters to the owner's hand. Then, place the revealed card at the bottom of your deck.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-029.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "미안. 나 죽나부다.",
+            "effect": "【카운터】자신의 덱 위에서 1장을 공개하고, 공개한 카드가 코스트 4 이상인 경우, 자신의 캐릭터를 1장까지 주인의 패로 되돌린다. 그 후, 공개한 카드를 덱 맨 아래로 되돌린다.",
+            "trigger": "【트리거】코스트 8 이하인 캐릭터를 1장까지 주인의 패로 되돌린다.",
+            "attribute": null,
+            "feature": [
+              "이스트 블루",
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Sorry. I'm a Goner.",
+            "effect": "[เคาน์เตอร์] นำการ์ดจากข้างบนเด็คของเรา จำนวน 1 ใบ มาแสดงให้ดู, และถ้าการ์ดที่ถูกนำมาแสดงให้ดู มีคอสต์ 4 หรือสูงกว่าละก็, จะได้นำคาแรกเตอร์ของเรา จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ. จากนั้น, นำการ์ดที่ถูกนำมาแสดงให้ดูไปวาง ที่ข้างใต้เด็ค.",
+            "trigger": "[ทริกเกอร์] นำคาแรกเตอร์ของใครก็ตาม ที่มีคอสต์ 8 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, กลับขึ้นมือของเจ้าของ.",
+            "attribute": null,
+            "feature": [
+              "อีสต์บลู",
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "抱歉，我要死了",
+            "effect": "【反擊】公開1張自己卡組上面的卡片，若公開的卡片是費用4以上時，將最多1張自己的角色卡放回持有者的手牌。之後，將公開的卡片放置在卡組下面。",
+            "trigger": "【觸發器】將最多1張費用8以下的角色卡放回持有者的手牌。",
+            "attribute": null,
+            "feature": [
+              "東方藍",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-030",
+        "number": "EB01-030",
+        "name": "Loguetown",
+        "rarity": "C",
+        "cardClass": "STAGE",
+        "cost": "2",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "East Blue"
+        ],
+        "trigger": "[Trigger] Play this card.",
+        "blockIcon": "2",
+        "effect": "[Activate: Main] You may place this card and 1 card from your hand at the bottom of your deck in any order: Draw 2 cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-030.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "로그 타운",
+            "effect": "【기동: 메인】이 카드와 자신의 패 1장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 카드를 2장 뽑는다.",
+            "trigger": "【트리거】이 카드를 등장시킨다.",
+            "attribute": null,
+            "feature": [
+              "이스트 블루"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Loguetown",
+            "effect": "[ใช้งาน : เมน] สามารถนำการ์ดใบนี้ กับ การ์ดบนมือของเรา จำนวน 1 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค : จั่วการ์ด จำนวน 2 ใบ.",
+            "trigger": "[ทริกเกอร์] นำการ์ดใบนี้ลงสนาม.",
+            "attribute": null,
+            "feature": [
+              "อีสต์บลู"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "羅格鎮",
+            "effect": "【啟動主要】可將這張卡片和1張自己的手牌依任意順序放置在卡組下面：抽2張卡片。",
+            "trigger": "【觸發器】使這張卡片登場。",
+            "attribute": null,
+            "feature": [
+              "東方藍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-031",
+        "number": "EB01-031",
+        "name": "Kalifa",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Water Seven",
+          "Galley-La Company"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, add up to 2 Character cards with a cost of 4 or less from your trash to your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-031.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "칼리파",
+            "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 리더가 《워터 세븐》 특징을 가진 경우, 자신의 트래시에서 코스트 4 이하인 캐릭터 카드를 2장까지 패에 더한다.",
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "워터 세븐",
+              "갈레라 컴퍼니"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kalifa (Parallel)",
+            "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < W7 >, นำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า ซึ่งอยู่ในแทรชของเรา จำนวนไม่เกิน 2 ใบ, เพิ่มขึ้นสู่บนมือ.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "W7 (Water Seven)",
+              "GC (Galley-La Company)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "卡莉法(異圖卡)",
+            "effect": "【登場時】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《W7》特徵時，將最多2張自己廢棄區中費用4以下的角色卡，加入手牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "W7",
+              "GC"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-031_p1",
+        "number": "EB01-031",
+        "name": "Kalifa (Parallel)",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Water Seven",
+          "Galley-La Company"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, add up to 2 Character cards with a cost of 4 or less from your trash to your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-031_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "칼리파",
+            "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 리더가 《워터 세븐》 특징을 가진 경우, 자신의 트래시에서 코스트 4 이하인 캐릭터 카드를 2장까지 패에 더한다.",
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "워터 세븐",
+              "갈레라 컴퍼니"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kalifa (Parallel)",
+            "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < W7 >, นำคาแรกเตอร์การ์ด ที่มีคอสต์ 4 หรือต่ำกว่า ซึ่งอยู่ในแทรชของเรา จำนวนไม่เกิน 2 ใบ, เพิ่มขึ้นสู่บนมือ.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "W7 (Water Seven)",
+              "GC (Galley-La Company)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "卡莉法(異圖卡)",
+            "effect": "【登場時】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《W7》特徵時，將最多2張自己廢棄區中費用4以下的角色卡，加入手牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "W7",
+              "GC"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-032",
+        "number": "EB01-032",
+        "name": "Army Wolves",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "7000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Animal",
+          "Impel Down"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-032.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "군대 울프",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "동물",
+              "임펠 다운"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Army Wolves",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์",
+              "อิมเพลดาวน์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "軍狼",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "動物",
+              "推進城"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-033",
+        "number": "EB01-033",
+        "name": "Blueno",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Water Seven"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader has the {Water Seven} type, play up to 1 {Water Seven} type Character card with a cost of 5 other than [Blueno] from your hand or trash.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-033.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "블루노",
+            "effect": "【등장 시】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 리더가 《워터 세븐》 특징을 가진 경우, 자신의 패 또는 트래시에서 「블루노」 이외의 코스트 5인 《워터 세븐》 특징을 가진 캐릭터 카드를 1장까지 등장시킨다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "워터 세븐"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Blueno",
+            "effect": "[เมื่อลงสนาม] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < W7 >, นำคาแรกเตอร์การ์ด ที่มีคอสต์ 5 และมีคุณสมบัติ < W7 > นอกเหนือจาก [Blueno] จากบนมือของเรา หรือ จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "W7 (Water Seven)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "布魯諾",
+            "effect": "【登場時】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有《W7》特徵時，使最多1張自己手牌或廢棄區中除了「布魯諾」以外費用5擁有《W7》特徵的角色卡登場。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "W7"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-034",
+        "number": "EB01-034",
+        "name": "Ms. Wednesday",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Baroque Works"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-034.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "미스 웬즈데이",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【상대의 어택 시】【턴 1회】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 리더가 『바로크 워크스』를 포함한 특징을 가진 경우, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "바로크 워크스"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Ms. Wednesday (Parallel)",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา ระบุคำว่า [B•W] รวมอยู่ในคุณสมบัติ, นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "Miss星期三(異圖卡)",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【對方攻擊時】【每回合1次】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有包含『B・W』特徵時，從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-034_p1",
+        "number": "EB01-034",
+        "name": "Ms. Wednesday (Parallel)",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Baroque Works"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-034_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "미스 웬즈데이",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【상대의 어택 시】【턴 1회】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 리더가 『바로크 워크스』를 포함한 특징을 가진 경우, 두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "바로크 워크스"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Ms. Wednesday (Parallel)",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา ระบุคำว่า [B•W] รวมอยู่ในคุณสมบัติ, นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "Miss星期三(異圖卡)",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【對方攻擊時】【每回合1次】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有包含『B・W』特徵時，從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-035",
+        "number": "EB01-035",
+        "name": "Ms. Monday",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Baroque Works"
+        ],
+        "trigger": "[Trigger] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): Play this card.",
+        "blockIcon": "2",
+        "effect": "[On Play] If your Leader's type includes \"Baroque Works\", up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-035.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "미스 먼데이",
+            "effect": "【등장 시】자신의 리더가 『바로크 워크스』를 포함한 특징을 가진 경우, 이번 턴 동안, 자신의 리더 또는 캐릭터 1장까지의 파워 +1000.",
+            "trigger": "【트리거】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 이 카드를 등장시킨다.",
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "바로크 워크스"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Ms. Monday",
+            "effect": "[เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา ระบุคำว่า [B•W] รวมอยู่ในคุณสมบัติ, ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000.",
+            "trigger": "[ทริกเกอร์] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : นำการ์ดใบนี้ลงสนาม.",
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "Miss星期一",
+            "effect": "【登場時】若自己的領航卡擁有包含『B・W』特徵時，最多1張自己的領航卡或角色卡，在這個回合，力量值+1000。",
+            "trigger": "【觸發器】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：使這張卡片登場。",
+            "attribute": null,
+            "feature": [
+              "B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-036",
+        "number": "EB01-036",
+        "name": "Minochihuahua",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Impel Down",
+          "Jailer Beast"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Rush] (This card can attack on the turn in which it is played.) [On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-036.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "미노치와와",
+            "effect": "【속공】(이 카드는 등장한 턴에 어택할 수 있다)\r\n【KO 시】자신의 리더가 《임펠 다운》 특징을 가진 경우, 두웅!! 덱에서 두웅!!을 1장까지 레스트 상태로 추가한다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "임펠 다운",
+              "옥졸수"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Minochihuahua",
+            "effect": "[จู่โจมฉับพลัน] (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้) [เมื่อถูก KO] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < อิมเพลดาวน์ >, นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "อิมเพลดาวน์",
+              "อสูรคุมคุก"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "米諾吉娃娃",
+            "effect": "【速攻】(這張卡片在登場的回合即可攻擊) 【KO時】若自己的領航卡擁有《推進城》特徵時，從咚‼卡組追加最多1張休息狀態的咚‼卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "推進城",
+              "獄卒獣"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-037",
+        "number": "EB01-037",
+        "name": "Mr. 9",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Baroque Works"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Your Opponent's Attack] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-037.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "Mr.9",
+            "effect": "【상대의 어택 시】【턴 1회】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "바로크 워크스"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Mr. 9",
+            "effect": "[เมื่อคู่แข่งโจมตี] [เทิร์นละ 1 ครั้ง] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "Mr.9",
+            "effect": "【對方攻擊時】【每回合1次】咚!!-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：KO最多1張對手費用2以下的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-038",
+        "number": "EB01-038",
+        "name": "Oh Come My Way",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Baroque Works"
+        ],
+        "trigger": "[Trigger] DON!! −1: Draw 2 cards.",
+        "blockIcon": "2",
+        "effect": "[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): If your Leader's type includes \"Baroque Works\", select 1 of your Characters. Change the attack target to the selected Character.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-038.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "뉴하프웨이",
+            "effect": "【카운터】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 자신의 리더가 『바로크 워크스』를 포함한 특징을 가진 경우, 자신의 캐릭터를 1장 선택한다. 선택한 캐릭터로 어택 대상을 변경한다.",
+            "trigger": "【트리거】두웅!!-1: 카드를 2장 뽑는다.",
+            "attribute": null,
+            "feature": [
+              "바로크 워크스"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Oh Come My Way",
+            "effect": "[เคาน์เตอร์] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ถ้าลีดเดอร์ของเรา ระบุคำว่า [B•W] รวมอยู่ในคุณสมบัติ, เลือกคาแรกเตอร์ของเรา จำนวน 1 ใบ. เปลี่ยนเป้าหมายการโจมตีมาที่คาแรกเตอร์ที่ถูกเลือก.",
+            "trigger": "[ทริกเกอร์] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : จั่วการ์ด จำนวน 2 ใบ.",
+            "attribute": null,
+            "feature": [
+              "B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "人妖道",
+            "effect": "【反擊】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：若自己的領航卡擁有包含『B・W』特徵時，選擇1張自己的角色卡。攻擊的對象變更為選擇的角色卡。",
+            "trigger": "【觸發器】咚‼-1：抽2張卡片。",
+            "attribute": null,
+            "feature": [
+              "B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-039",
+        "number": "EB01-039",
+        "name": "Conquerer of Three Worlds Ragnaraku",
+        "rarity": "R",
+        "cardClass": "EVENT",
+        "cost": "5",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Animal Kingdom Pirates"
+        ],
+        "trigger": "[Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.",
+        "blockIcon": "2",
+        "effect": "[Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.): K.O. up to 1 of your opponent's Characters with a cost of 8 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-039.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "항삼세 라그나라크",
+            "effect": "【메인】두웅!!-1(자신 필드의 두웅!!을 지정된 수만큼 두웅!! 덱으로 되돌릴 수 있다): 상대의 코스트 8 이하인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": "【트리거】두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.",
+            "attribute": null,
+            "feature": [
+              "사황",
+              "백수 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Conquerer of Three Worlds Ragnaraku",
+            "effect": "[เมน] ด้ง!! - 1 (สามารถนำ ด้ง!! ในสนามของเรากลับ ด้ง!! เด็ค ตามจำนวนที่ระบุ) : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 8 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": "[ทริกเกอร์] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ.",
+            "attribute": null,
+            "feature": [
+              "สี่จักรพรรดิ",
+              "กลุ่มโจรสลัดร้อยอสูร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "降三世引奈落",
+            "effect": "【主要】咚‼-1(可將自己場上的咚‼卡依指定的數量放回咚‼卡組)：KO最多1張對手費用8以下的角色卡。",
+            "trigger": "【觸發器】從咚‼卡組追加最多1張活動狀態的咚‼卡。",
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "百獸海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-040",
+        "number": "EB01-040",
+        "name": "Kyros",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "4",
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Black",
+          "Yellow"
+        ],
+        "feature": [
+          "Dressrosa"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Activate: Main] [Once Per Turn] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-040.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "퀴로스",
+            "effect": "【기동: 메인】【턴 1회】자신의 라이프 위에서 1장을 앞면으로 할 수 있다: 상대의 코스트 0인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "드레스로자"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kyros (Parallel)",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถหงาย ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 0, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "เดรสโรซ่า"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "居魯士(異圖卡)",
+            "effect": "【啟動主要】【每回合1次】可將1張自己生命值區上面的卡片翻成正面朝上：KO最多1張對手費用0的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "多雷斯羅薩"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-040_p1",
+        "number": "EB01-040",
+        "name": "Kyros (Parallel)",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "4",
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Black",
+          "Yellow"
+        ],
+        "feature": [
+          "Dressrosa"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Activate: Main] [Once Per Turn] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-040_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "퀴로스",
+            "effect": "【기동: 메인】【턴 1회】자신의 라이프 위에서 1장을 앞면으로 할 수 있다: 상대의 코스트 0인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "드레스로자"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kyros (Parallel)",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] สามารถหงาย ไลฟ์ ใบบนสุดของเรา จำนวน 1 ใบ : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 0, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "เดรสโรซ่า"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "居魯士(異圖卡)",
+            "effect": "【啟動主要】【每回合1次】可將1張自己生命值區上面的卡片翻成正面朝上：KO最多1張對手費用0的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "多雷斯羅薩"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-041",
+        "number": "EB01-041",
+        "name": "Crocus",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "6",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "8000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Former Roger Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-041.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "크로커스",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "전 로저 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Crocus",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "อดีตกลุ่มโจรสลัดโรเจอร์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "可樂克斯",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "原羅傑海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-042",
+        "number": "EB01-042",
+        "name": "Scarlet",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": null,
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Dressrosa"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Activate: Main] You may trash this Character: Play up to 1 {Dressrosa} type Character card with a cost of 3 or less other than [Scarlet] from your hand rested. Then, give up to 1 of your opponent's Characters −2 cost during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-042.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "스칼렛",
+            "effect": "【기동: 메인】이 캐릭터를 트래시에 놓을 수 있다: 자신의 패에서 「스칼렛」 이외의 코스트 3 이하인 《드레스로자》 특징을 가진 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다. 그 후, 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -2.",
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "드레스로자"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Scarlet",
+            "effect": "[ใช้งาน : เมน] สามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช : นำคาแรกเตอร์การ์ด ที่มีคอสต์ 3 หรือต่ำกว่า และมีคุณสมบัติ < เดรสโรซ่า > นอกเหนือจาก [Scarlet] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนามในสภาพ เรสต์. จากนั้น, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -2.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "เดรสโรซ่า"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "史卡雷多",
+            "effect": "【啟動主要】可將這張角色卡放置在廢棄區：使最多1張自己手牌中除了「史卡雷多」以外費用3以下擁有《多雷斯羅薩》特徵的角色卡以休息狀態登場。之後，最多1張對手的角色卡，在這個回合，費用-2。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "多雷斯羅薩"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-043",
+        "number": "EB01-043",
+        "name": "Spandine",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "CP9"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] You may place 3 cards with a type including \"CP\" from your trash at the bottom of your deck in any order: Play up to 1 Character card with a type including \"CP\" and a cost of 4 or less other than [Spandine] from your trash rested.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-043.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "스팬다인",
+            "effect": "【등장 시】자신의 트래시에서 『CP』를 포함한 특징을 가진 카드 3장을 원하는 순서대로 덱 맨 아래로 되돌릴 수 있다: 자신의 트래시에서 「스팬다인」 이외의 코스트 4 이하인 『CP』를 포함한 특징을 가진 캐릭터 카드를 1장까지 레스트 상태로 등장시킨다.",
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "CP9"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Spandine",
+            "effect": "[เมื่อลงสนาม] สามารถนำการ์ด ที่ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ ซึ่งอยู่ในแทรชของเรา จำนวน 3 ใบ ไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค : นำคาแรกเตอร์การ์ด ที่ระบุคำว่า [CP] รวมอยู่ในคุณสมบัติ และมีคอสต์ 4 หรือต่ำกว่า นอกเหนือจาก [Spandine] จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนามในสภาพ เรสต์.",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "CP9"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "斯帕達因",
+            "effect": "【登場時】可將3張自己廢棄區中擁有包含『CP』特徵的卡片依任意順序放置在卡組下面：使最多1張自己廢棄區中除了「斯帕達因」以外費用4以下擁有包含『CP』特徵的角色卡，以休息狀態登場。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "CP9"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-044",
+        "number": "EB01-044",
+        "name": "Funkfreed",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "1000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "CP9"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Activate: Main] You may rest this Character: Up to 1 of your [Spandam] Characters gains +3000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-044.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "펑크프리드",
+            "effect": "【기동: 메인】이 캐릭터를 레스트할 수 있다: 이번 턴 동안, 자신의 캐릭터인 「스팬담」 1장까지의 파워 +3000.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "CP9"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Funkfreed",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ในเทิร์นนี้, [Spandam] ของฝ่ายเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +3000.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "CP9"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "法古佛立德",
+            "effect": "【啟動主要】可將這張角色卡置為休息狀態：最多1張自己的角色卡「斯帕達姆」，在這個回合，力量值+3000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "CP9"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-045",
+        "number": "EB01-045",
+        "name": "Brook",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Rumbar Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] If your opponent has a Character with a cost of 0, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-045.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "브룩",
+            "effect": "【등장 시】상대의 코스트 0인 캐릭터가 있을 경우, 이번 턴 동안, 이 캐릭터는 【속공】을 얻는다.\r\n(이 카드는 등장한 턴에 어택할 수 있다)",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "룸바 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Brook",
+            "effect": "[เมื่อลงสนาม] ถ้าคู่แข่งมีคาแรกเตอร์ ที่มีคอสต์ 0 อยู่ด้วยละก็, ในเทิร์นนี้, คาแรกเตอร์นี้ จะได้รับ [จู่โจมฉับพลัน]. (การ์ดใบนี้สามารถโจมตีในเทิร์นที่เพิ่งลงสนามได้)",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดรุมบ้า"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "布魯克",
+            "effect": "【登場時】若場上有對手費用0的角色卡時，這張角色卡，在這個回合，獲得【速攻】。 (這張卡片在登場的回合即可攻擊)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "倫巴海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-046",
+        "number": "EB01-046",
+        "name": "Brook",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play]/[When Attacking] Give up to 1 of your opponent's Characters −1 cost during this turn. Then, K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-046.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "브룩",
+            "effect": "【등장 시】/【어택 시】이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -1. 그 후, 상대의 코스트 0인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Brook (Parallel)",
+            "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -1. จากนั้น, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 0, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "布魯克(異圖卡)",
+            "effect": "【登場時】/【攻擊時】最多1張對手的角色卡，在這個回合，費用-1。之後，KO最多1張對手費用0的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-046_p1",
+        "number": "EB01-046",
+        "name": "Brook (Parallel)",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play]/[When Attacking] Give up to 1 of your opponent's Characters −1 cost during this turn. Then, K.O. up to 1 of your opponent's Characters with a cost of 0.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-046_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "브룩",
+            "effect": "【등장 시】/【어택 시】이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -1. 그 후, 상대의 코스트 0인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Brook (Parallel)",
+            "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -1. จากนั้น, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 0, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "布魯克(異圖卡)",
+            "effect": "【登場時】/【攻擊時】最多1張對手的角色卡，在這個回合，費用-1。之後，KO最多1張對手費用0的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-047",
+        "number": "EB01-047",
+        "name": "Laboon",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": null,
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Animal"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Once Per Turn] When a Character is K.O.'d, draw 1 card and trash 1 card from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-047.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "라분",
+            "effect": "【턴 1회】캐릭터가 KO 당했을 때, 카드를 1장 뽑고, 자신의 패 1장을 버린다.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "동물"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Laboon",
+            "effect": "[เทิร์นละ 1 ครั้ง] เมื่อมีคาแรกเตอร์ของใครก็ตาม ถูก KO, จะต้องจั่วการ์ด จำนวน 1 ใบ, และทิ้งการ์ดบนมือของเรา 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "拉布",
+            "effect": "【每回合1次】角色卡遭到KO時，抽1張卡片，並廢棄1張自己的手牌。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "動物"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-048",
+        "number": "EB01-048",
+        "name": "Laboon",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Animal"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-048.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "라분",
+            "effect": "【기동: 메인】이 캐릭터를 레스트할 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -4.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "동물"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Laboon (Parallel)",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -4.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "拉布(異圖卡)",
+            "effect": "【啟動主要】可將這張角色卡置為休息狀態：最多1張對手的角色卡，在這個回合，費用-4。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "動物"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-048_p1",
+        "number": "EB01-048",
+        "name": "Laboon (Parallel)",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Animal"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −4 cost during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-048_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "라분",
+            "effect": "【기동: 메인】이 캐릭터를 레스트할 수 있다: 이번 턴 동안, 상대의 캐릭터 1장까지의 코스트 -4.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "동물"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Laboon (Parallel)",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีคอสต์ -4.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "拉布(異圖卡)",
+            "effect": "【啟動主要】可將這張角色卡置為休息狀態：最多1張對手的角色卡，在這個回合，費用-4。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "動物"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-049",
+        "number": "EB01-049",
+        "name": "T-Bone",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": "2000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Water Seven",
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-049.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "T본",
+            "effect": "【등장 시】상대의 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "워터 세븐",
+              "해군"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "T-Bone (Parallel)",
+            "effect": "[เมื่อลงสนาม] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "W7 (Water Seven)",
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "T彭恩(異圖卡)",
+            "effect": "【登場時】KO最多1張對手費用2以下的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "W7",
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-049_p1",
+        "number": "EB01-049",
+        "name": "T-Bone (Parallel)",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": "2000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Water Seven",
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-049_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "T본",
+            "effect": "【등장 시】상대의 코스트 2 이하인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "워터 세븐",
+              "해군"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "T-Bone (Parallel)",
+            "effect": "[เมื่อลงสนาม] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 2 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "W7 (Water Seven)",
+              "กองทัพเรือ"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "T彭恩(異圖卡)",
+            "effect": "【登場時】KO最多1張對手費用2以下的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "W7",
+              "海軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-050",
+        "number": "EB01-050",
+        "name": "...I Want to Live!!",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "3",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Counter] If you have 30 or more cards in your trash, add up to 1 card from the top of your deck to the top of your Life cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-050.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "살고 싶어!!!",
+            "effect": "【카운터】자신의 트래시가 30장 이상인 경우, 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "밀짚모자 일당"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "...I Want to Live!!",
+            "effect": "[เคาน์เตอร์] ถ้าเรามีการ์ดอยู่ใน แทรช จำนวน 30 ใบ หรือมากกว่า, นำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์.",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "กลุ่มหมวกฟาง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "我想活下去！",
+            "effect": "【反擊】若自己廢棄區有30張以上卡片時，將最多1張自己卡組上面的卡片加入生命值區上面。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-051",
+        "number": "EB01-051",
+        "name": "Finger Pistol",
+        "rarity": "R",
+        "cardClass": "EVENT",
+        "cost": "4",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "CP9"
+        ],
+        "trigger": "[Trigger] Activate this card's [Main] effect.",
+        "blockIcon": "2",
+        "effect": "[Main] You may trash 2 cards from the top of your deck: K.O. up to 1 of your opponent's Characters with a cost of 5 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-051.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "지건",
+            "effect": "【메인】자신의 덱 위에서 2장을 트래시에 놓을 수 있다: 상대의 코스트 5 이하인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": "【트리거】이 카드의 【메인】 효과를 발동한다.",
+            "attribute": null,
+            "feature": [
+              "CP9"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Finger Pistol",
+            "effect": "[เมน] สามารถนำการ์ดใบบนสุดจากเด็คของเรา จำนวน 2 ใบ ไปวางที่แทรช : ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 5 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": "[ทริกเกอร์] ใช้งานความสามารถ [เมน] ของการ์ดใบนี้.",
+            "attribute": null,
+            "feature": [
+              "CP9"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "指槍",
+            "effect": "【主要】可將2張自己卡組上面的卡片放置在廢棄區：KO最多1張對手費用5以下的角色卡。",
+            "trigger": "【觸發器】發動這張卡片的【主要】效果。",
+            "attribute": null,
+            "feature": [
+              "CP9"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-052",
+        "number": "EB01-052",
+        "name": "Viola",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": null,
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Dressrosa"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Choose one: • Look at all of your opponent's Life cards and place them back in their Life area in any order. • Turn all of your Life cards face-down.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-052.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "비올라",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】아래에서 하나를 선택한다.\r\n・상대의 모든 라이프를 보고 원하는 순서대로 놓는다.\r\n・자신의 모든 라이프를 뒷면으로 한다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "드레스로자"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Viola (Parallel)",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] เลือก 1 อย่าง จากดังต่อไปนี้. • ดูไลฟ์ของคู่แข่งทั้งหมด, แล้วนำไปวางในลำดับใดก็ได้ ที่ตำแหน่งไลฟ์ของคู่แข่ง. • ทำให้ ไลฟ์ของเรา ทั้งหมด เปลี่ยนเป็นคว่ำ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "เดรสโรซ่า"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "碧歐菈(異圖卡)",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】選擇下列其中一項。 ・查看對手全數的生命值卡，並依任意順序放置。 ・將自己的生命值卡全數翻成背面朝上。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "多雷斯羅薩"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-052_p1",
+        "number": "EB01-052",
+        "name": "Viola (Parallel)",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": null,
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Dressrosa"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Choose one: • Look at all of your opponent's Life cards and place them back in their Life area in any order. • Turn all of your Life cards face-down.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-052_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "비올라",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】아래에서 하나를 선택한다.\r\n・상대의 모든 라이프를 보고 원하는 순서대로 놓는다.\r\n・자신의 모든 라이프를 뒷면으로 한다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "드레스로자"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Viola (Parallel)",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] เลือก 1 อย่าง จากดังต่อไปนี้. • ดูไลฟ์ของคู่แข่งทั้งหมด, แล้วนำไปวางในลำดับใดก็ได้ ที่ตำแหน่งไลฟ์ของคู่แข่ง. • ทำให้ ไลฟ์ของเรา ทั้งหมด เปลี่ยนเป็นคว่ำ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "เดรสโรซ่า"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "碧歐菈(異圖卡)",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】選擇下列其中一項。 ・查看對手全數的生命值卡，並依任意順序放置。 ・將自己的生命值卡全數翻成背面朝上。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "多雷斯羅薩"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-053",
+        "number": "EB01-053",
+        "name": "Gastino",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Scientist"
+        ],
+        "trigger": "[Trigger] Give up to a total of 2 of your opponent's Leader or Character cards −3000 power during this turn.",
+        "blockIcon": "2",
+        "effect": "[On Play] Place up to 1 of your opponent's Characters with a cost of 3 or less at the top or bottom of your opponent's Life cards face-up.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-053.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "가스티노",
+            "effect": "【등장 시】상대의 코스트 3 이하인 캐릭터를 1장까지 상대의 라이프 맨 위나 아래에 앞면으로 더한다.",
+            "trigger": "【트리거】이번 턴 동안, 상대의 리더 또는 캐릭터 합계 2장까지의 파워 -3000.",
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "과학자"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Gastino",
+            "effect": "[เมื่อลงสนาม] นำคาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่ ข้างบนสุด หรือ ข้างใต้สุด ของไลฟ์ของคู่แข่ง แบบหงายหน้า.",
+            "trigger": "[ทริกเกอร์] ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ของคู่แข่ง (รวมกัน) จำนวนไม่เกิน 2 ใบ, จะมีพาวเวอร์ -3000.",
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "นักวิทยาศาสตร์"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "葛斯提諾",
+            "effect": "【登場時】將最多1張對手費用3以下的角色卡，以正面朝上放置在對手的生命值區上面或下面。",
+            "trigger": "【觸發器】合計最多2張對手的領航卡或角色卡，在這個回合，力量值-3000。",
+            "attribute": null,
+            "feature": [
+              "科学者"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-054",
+        "number": "EB01-054",
+        "name": "Gan.Fall",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Sky Island"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If your opponent has 1 or less Life cards, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-054.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "간 폴",
+            "effect": "【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)\r\n【등장 시】상대의 라이프가 1장 이하인 경우, 상대의 코스트 3 이하인 캐릭터를 1장까지 KO 시킨다.",
+            "trigger": null,
+            "attribute": [
+              "참격"
+            ],
+            "feature": [
+              "하늘섬"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Gan.Fall",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้าคู่แข่งมี ไลฟ์ จำนวน 1 ใบ หรือน้อยกว่า, ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีคอสต์ 3 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "เกาะแห่งท้องฟ้า"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "甘・福爾",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【登場時】若對手的生命值卡在1張以下時，KO最多1張對手費用3以下的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "空島"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-055",
+        "number": "EB01-055",
+        "name": "Charlotte Compote",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "7",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "9000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-055.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샬롯 콩포트",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Charlotte Compote",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "夏洛特・肯珀特",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-056",
+        "number": "EB01-056",
+        "name": "Charlotte Flampe",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "1000",
+        "counter": "2000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Draw 1 card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-056.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샬롯 플랑페",
+            "effect": "【등장 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 카드를 1장 뽑는다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Charlotte Flampe (Parallel)",
+            "effect": "[เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : จั่วการ์ด จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "夏洛特・芙蘭佩(異圖卡)",
+            "effect": "【登場時】可將1張自己生命值區上面或下面的卡片加入手牌：抽1張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-056_p1",
+        "number": "EB01-056",
+        "name": "Charlotte Flampe (Parallel)",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "1000",
+        "counter": "2000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Big Mom Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Draw 1 card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-056_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "샬롯 플랑페",
+            "effect": "【등장 시】자신의 라이프 위나 아래에서 1장을 패에 더할 수 있다: 카드를 1장 뽑는다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "빅 맘 해적단"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Charlotte Flampe (Parallel)",
+            "effect": "[เมื่อลงสนาม] สามารถนำ ไลฟ์ ใบบนสุดของเรา หรือ ใบล่างสุดของเรา จำนวน 1 ใบ เพิ่มขึ้นสู่บนมือ : จั่วการ์ด จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดบิ๊กมัม"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "夏洛特・芙蘭佩(異圖卡)",
+            "effect": "【登場時】可將1張自己生命值區上面或下面的卡片加入手牌：抽1張卡片。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "BIG MOM海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-057",
+        "number": "EB01-057",
+        "name": "Shirahoshi",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": null,
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Merfolk"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "When this Character is K.O.'d by your opponent's effect, add up to 1 card from the top of your deck to the top of your Life cards. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-057.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "시라호시",
+            "effect": "이 캐릭터가 상대의 효과로 KO 당했을 때, 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다.\r\n【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "인어족"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Shirahoshi (Parallel)",
+            "effect": "เมื่อคาแรกเตอร์นี้ถูก KO โดยความสามารถของคู่แข่ง, จะต้องนำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์. [บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "เผ่าเงือก"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "白星(異圖卡)",
+            "effect": "這張角色卡因對手的效果遭到KO時，將最多1張自己卡組上面的卡片加入生命值區上面。 【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "人魚族"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-057_p1",
+        "number": "EB01-057",
+        "name": "Shirahoshi (Parallel)",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": null,
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Merfolk"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "When this Character is K.O.'d by your opponent's effect, add up to 1 card from the top of your deck to the top of your Life cards. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-057_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "시라호시",
+            "effect": "이 캐릭터가 상대의 효과로 KO 당했을 때, 자신의 덱 위에서 1장까지를 라이프 맨 위에 더한다.\r\n【블로커】(상대의 어택 선언 후, 이 카드를 레스트로 하고 어택의 대상을 이 카드로 할 수 있다)",
+            "trigger": null,
+            "attribute": [
+              "지혜"
+            ],
+            "feature": [
+              "인어족"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Shirahoshi (Parallel)",
+            "effect": "เมื่อคาแรกเตอร์นี้ถูก KO โดยความสามารถของคู่แข่ง, จะต้องนำการ์ดใบบนสุดจากเด็คของเรา จำนวนไม่เกิน 1 ใบ, ไปวางเพิ่มที่บนสุดของไลฟ์. [บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": null,
+            "attribute": [
+              "ปัญญา"
+            ],
+            "feature": [
+              "เผ่าเงือก"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "白星(異圖卡)",
+            "effect": "這張角色卡因對手的效果遭到KO時，將最多1張自己卡組上面的卡片加入生命值區上面。 【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "人魚族"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-058",
+        "number": "EB01-058",
+        "name": "Mont Blanc Cricket",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Monkey Mountain Alliance"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[DON!! x1] [Your Turn] If you have 2 or less Life cards, this Character gains +2000 power.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-058.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "몽블랑 크리켓",
+            "effect": "【두웅!!×1】【자신의 턴 동안】자신의 라이프가 2장 이하인 경우, 이 캐릭터의 파워 +2000.",
+            "trigger": null,
+            "attribute": [
+              "타격"
+            ],
+            "feature": [
+              "사루야마 연합군"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Mont Blanc Cricket",
+            "effect": "[ด้ง!! x 1] [เทิร์นตัวเอง] ถ้าเรามี ไลฟ์ จำนวน 2 ใบ หรือน้อยกว่า, คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กองกำลังผสมภูเขาวานร"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "蒙布朗・庫力凱",
+            "effect": "【咚‼×1】【我方回合中】若自己的生命值卡在2張以下時，這張角色卡的力量值+2000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "猿山聯合軍"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-059",
+        "number": "EB01-059",
+        "name": "Kingdom Come",
+        "rarity": "R",
+        "cardClass": "EVENT",
+        "cost": "6",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Sky Island"
+        ],
+        "trigger": "[Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the total of your and your opponent's Life cards.",
+        "blockIcon": "2",
+        "effect": "[Main] K.O. up to 1 of your opponent's Characters. Then, trash cards from the top of your Life cards until you have 1 Life card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-059.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "뇌영",
+            "effect": "【메인】상대의 캐릭터를 1장까지 KO 시킨다. 그 후, 자신의 라이프가 1장이 되도록 라이프 위에서부터 트래시로 보낸다.",
+            "trigger": "【트리거】서로의 라이프 합계 이하의 코스트를 가진 상대의 캐릭터를 1장까지 KO 시킨다.",
+            "attribute": null,
+            "feature": [
+              "하늘섬"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Kingdom Come",
+            "effect": "[เมน] ทำการ KO คาแรกเตอร์ของคู่แข่ง, จำนวนไม่เกิน 1 ใบ. จากนั้น, จะต้องนำการ์ดใบบนสุดจาก ไลฟ์ของเรา ไปวางที่แทรช, จนกระทั่งฝ่ายเรามีไลฟ์ เท่ากับ 1 ใบ.",
+            "trigger": "[ทริกเกอร์] ทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีค่าคอสต์ไม่สูงไปกว่า ผลรวมของจำนวน ไลฟ์ ของทั้งสองฝ่าย, จำนวนไม่เกิน 1 ใบ.",
+            "attribute": null,
+            "feature": [
+              "เกาะแห่งท้องฟ้า"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "雷迎",
+            "effect": "【主要】KO最多1張對手的角色卡。之後，將自己生命值區上面的卡片放置在廢棄區使生命值卡只有1張。",
+            "trigger": "【觸發器】KO最多1張對手持有費用在雙方生命值卡合計張數以下的角色卡。",
+            "attribute": null,
+            "feature": [
+              "空島"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-060",
+        "number": "EB01-060",
+        "name": "Did Someone Say...Kami?",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "4",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Sky Island"
+        ],
+        "trigger": "[Trigger] Draw 2 cards and trash 1 card from your hand.",
+        "blockIcon": "2",
+        "effect": "[Main] Play up to 1 [Enel] with a cost of 7 or less from your hand or trash. Then, trash cards from the top of your Life cards until you have 1 Life card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-060.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "내가 신이다",
+            "effect": "【메인】자신의 패 또는 트래시에서 코스트 7 이하인 「에넬」을 1장까지 등장시킨다. 그 후, 자신의 라이프가 1장이 되도록 라이프 위에서부터 트래시로 보낸다.",
+            "trigger": "【트리거】카드를 2장 뽑고, 자신의 패 1장을 버린다.",
+            "attribute": null,
+            "feature": [
+              "하늘섬"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Did Someone Say...Kami?",
+            "effect": "[เมน] นำ [Enel] ที่มีคอสต์ 7 หรือต่ำกว่า จากบนมือของเรา หรือ จากในแทรชของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. จากนั้น, จะต้องนำการ์ดใบบนสุดจาก ไลฟ์ของเรา ไปวางที่แทรช, จนกระทั่งฝ่ายเรามีไลฟ์ เท่ากับ 1 ใบ.",
+            "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 2 ใบ, และทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ.",
+            "attribute": null,
+            "feature": [
+              "เกาะแห่งท้องฟ้า"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "我乃神是也",
+            "effect": "【主要】使最多1張自己手牌或廢棄區中費用7以下的「艾涅爾」登場。之後，將自己生命值區上面的卡片放置在廢棄區使生命值卡只有1張。",
+            "trigger": "【觸發器】抽2張卡片，並廢棄1張自己的手牌。",
+            "attribute": null,
+            "feature": [
+              "空島"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-061",
+        "number": "EB01-061",
+        "name": "Mr.2.Bon.Kurei(Bentham)",
+        "rarity": "SEC",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "1000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Former Baroque Works"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-061.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "Mr.2 봉쿠레(벤담)",
+            "effect": "【등장 시】두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.\r\n【어택 시】상대의 캐릭터를 1장까지 선택한다. 이번 턴 동안, 이 캐릭터의 원래 파워는 선택한 캐릭터와 동일한 파워가 된다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "전 바로크 워크스"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Mr.2.Bon.Kurei(Bentham) (Parallel)",
+            "effect": "[เมื่อลงสนาม] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ. [เมื่อโจมตี] เลือกคาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ. ในเทิร์นนี้, ค่าพาวเวอร์ตั้งต้น ของคาแรกเตอร์นี้, จะกลายเป็นเท่ากับ ค่าพาวเวอร์ของ คาแรกเตอร์ที่เลือก.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "อดีต B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "Mr.2・馮・克雷(班薩姆)(異圖卡)",
+            "effect": "【登場時】從咚‼卡組追加最多1張活動狀態的咚‼卡。 【攻擊時】選擇最多1張對手的角色卡。這張角色卡原本的力量值，在這個回合，變成和選擇的角色卡的力量值相同。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "前B・W"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "EB01-061_p1",
+        "number": "EB01-061",
+        "name": "Mr.2.Bon.Kurei(Bentham) (Parallel)",
+        "rarity": "SEC",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "1000",
+        "counter": "1000",
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Former Baroque Works"
+        ],
+        "trigger": null,
+        "blockIcon": "2",
+        "effect": "[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB01-061_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Korean",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Korean",
+            "name": "Mr.2 봉쿠레(벤담)",
+            "effect": "【등장 시】두웅!! 덱에서 두웅!!을 1장까지 액티브 상태로 추가한다.\r\n【어택 시】상대의 캐릭터를 1장까지 선택한다. 이번 턴 동안, 이 캐릭터의 원래 파워는 선택한 캐릭터와 동일한 파워가 된다.",
+            "trigger": null,
+            "attribute": [
+              "특수"
+            ],
+            "feature": [
+              "전 바로크 워크스"
+            ]
+          },
+          {
+            "language": "Thai",
+            "name": "Mr.2.Bon.Kurei(Bentham) (Parallel)",
+            "effect": "[เมื่อลงสนาม] นำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ แอ็คทีฟ. [เมื่อโจมตี] เลือกคาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ. ในเทิร์นนี้, ค่าพาวเวอร์ตั้งต้น ของคาแรกเตอร์นี้, จะกลายเป็นเท่ากับ ค่าพาวเวอร์ของ คาแรกเตอร์ที่เลือก.",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "อดีต B•W (บาร็อคเวิร์กส์)"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "Mr.2・馮・克雷(班薩姆)(異圖卡)",
+            "effect": "【登場時】從咚‼卡組追加最多1張活動狀態的咚‼卡。 【攻擊時】選擇最多1張對手的角色卡。這張角色卡原本的力量值，在這個回合，變成和選擇的角色卡的力量值相同。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "前B・W"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

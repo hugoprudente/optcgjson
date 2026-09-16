@@ -1,0 +1,50 @@
+# Weekly scrape + build + commit published output/ for downstream consumers (punkrecords).
+#
+# Schedule: Sunday 03:00 UTC. punkrecords imports at 06:00 UTC (3h buffer).
+name: Weekly OPTCG data sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 * * 0"
+
+concurrency:
+  group: weekly-optcg-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Discover new sets
+        run: python -m optcg scrape --refresh-list --lang en
+
+      - name: Scrape and build English sets
+        run: python -m optcg all --lang en
+
+      - name: Generate downstream series map
+        run: python -m optcg series-map --from-output
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/ series_map.yaml sets/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: sync OPTCG data from Bandai [skip ci]"
+            git push
+          fi

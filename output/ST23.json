@@ -1,0 +1,848 @@
+{
+  "meta": {
+    "date": "2026-09-16",
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "ST23",
+    "name": "STARTER DECK  -Red Shanks- [ST-23]",
+    "type": "starter",
+    "releaseDate": null,
+    "baseSetSize": 13,
+    "totalSetSize": 15,
+    "languages": [
+      "English",
+      "Thai",
+      "Chinese Traditional"
+    ],
+    "foreignNames": {
+      "Thai": "-Red Shanks- [ST-23]",
+      "Chinese Traditional": "紅 傑克【ST-23】"
+    },
+    "cards": [
+      {
+        "id": "OP09-001_p2",
+        "number": "OP09-001",
+        "name": "Shanks",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Slash"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Once Per Turn] This effect can be activated when your opponent attacks. Give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-001_p2.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Shanks",
+            "effect": "[เทิร์นละ 1 ครั้ง] เมื่อคู่แข่งโจมตี, จะสามารถใช้งาน. ในเทิร์นนี้, ลีดเดอร์ หรือ คาแรกเตอร์ ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -1000.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "สี่จักรพรรดิ",
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "傑克",
+            "effect": "【每回合1次】對手攻擊時，可以發動。最多1張對手的領航卡或角色卡，在這個回合，力量值-1000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "紅髮海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-006_r1",
+        "number": "OP09-006",
+        "name": "Howling Gab",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "7000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-006_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Howling Gab",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "「華林格」葛布",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "紅髮海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-010_r1",
+        "number": "OP09-010",
+        "name": "Bonk Punch",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] Play up to 1 [Monster] from your hand. [DON!! x1] [When Attacking] This Character gains +2000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-010_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Bonk Punch",
+            "effect": "[เมื่อลงสนาม] นำ [Monster] จากบนมือของเรา จำนวนไม่เกิน 1 ใบ, ลงสนาม. [ด้ง!! x 1] [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์นี้ จะมีพาวเวอร์ +2000.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "彭克・潘奇",
+            "effect": "【登場時】使最多1張自己手牌中的「蒙斯塔」登場。 【咚‼×1】【攻擊時】這張角色卡，在這個回合，力量值+2000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "紅髮海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-011_r1",
+        "number": "OP09-011",
+        "name": "Hongo",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "3000",
+        "counter": "2000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Activate: Main] You may rest this Character: If your Leader has the {Red-Haired Pirates} type, give up to 1 of your opponent's Characters −2000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-011_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Hongo",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ : ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดผมแดง > ละก็, ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -2000.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "北鄉",
+            "effect": "【啟動主要】可將這張角色卡置為休息狀態：若自己的領航卡擁有《紅髮海賊團》特徵時，最多1張對手的角色卡，在這個回合，力量值-2000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "紅髮海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-012_r1",
+        "number": "OP09-012",
+        "name": "Monster",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Animal",
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "If your Character [Bonk Punch] would be K.O.'d by an effect, you may trash this Character instead.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-012_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Monster",
+            "effect": "ถ้าคาแรกเตอร์ [Bonk Punch] ของฝ่ายเรา กำลังจะถูก KO จากความสามารถของใครก็ตาม, จะสามารถนำคาแรกเตอร์นี้ ไปวางที่แทรช แทนก็ได้.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "สัตว์",
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "蒙斯塔",
+            "effect": "若自己的角色卡「彭克・潘奇」因效果即將遭到KO時，可以替換成將這張角色卡放置在廢棄區。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "動物",
+              "紅髮海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-013_r1",
+        "number": "OP09-013",
+        "name": "Yasopp",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] Up to 1 of your Leader gains +1000 power until the end of your opponent's next turn. [DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-013_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Yasopp",
+            "effect": "[เมื่อลงสนาม] ลีดเดอร์ของเรา จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ +1000, จนกระทั่งถึงตอนจบเทิร์นของคู่แข่งในครั้งถัดไป. [ด้ง!! x 1] [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -1000.",
+            "trigger": null,
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "耶穌布",
+            "effect": "【登場時】最多1張自己的領航卡，在下一個對手回合結束前，力量值+1000。 【咚‼×1】【攻擊時】最多1張對手的角色卡，在這個回合，力量值-1000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "紅髮海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-014_r1",
+        "number": "OP09-014",
+        "name": "Limejuice",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "3000",
+        "counter": "2000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] Your opponent cannot activate up to 1 [Blocker] Character that has 4000 power or less during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-014_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Limejuice",
+            "effect": "[เมื่อลงสนาม] ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ 4000 หรือต่ำกว่า จำนวนไม่เกิน 1 ใบ, จะไม่สามารถใช้งาน [บล็อกเกอร์].",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "萊姆吉斯",
+            "effect": "【登場時】最多1張對手力量值4000以下的角色卡，在這個回合，無法發動【防禦】。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "紅髮海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-015_r1",
+        "number": "OP09-015",
+        "name": "Lucky.Roux",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] If your Leader has the {Red-Haired Pirates} type, K.O. up to 1 of your opponent's Characters with a base power of 6000 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-015_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Lucky.Roux",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อถูก KO] ถ้าลีดเดอร์ของเรา มีคุณสมบัติ < กลุ่มโจรสลัดผมแดง > ละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ตั้งต้น 6000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "拉奇・魯",
+            "effect": "【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片) 【KO時】若自己的領航卡擁有《紅髮海賊團》特徵時，KO最多1張對手原本力量值6000以下的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "紅髮海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-016_r1",
+        "number": "OP09-016",
+        "name": "Rockstar",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-016_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Rockstar",
+            "effect": null,
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "洛克斯達",
+            "effect": null,
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "紅髮海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "OP09-020_p1",
+        "number": "OP09-020",
+        "name": "Come On!! We'll Fight You!!",
+        "rarity": "R",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Red-Haired Pirates"
+        ],
+        "trigger": "[Trigger] Draw 1 card.",
+        "blockIcon": "3",
+        "effect": "[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Red-Haired Pirates} type card other than [Come On!! We'll Fight You!!] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP09-020_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Come On!! We'll Fight You!!",
+            "effect": "ความสามารถ : [เมน] ดูการ์ดจากข้างบนเด็คของเรา จำนวน 5 ใบ, และนำการ์ด ที่มีคุณสมบัติ < กลุ่มโจรสลัดผมแดง > นอกเหนือจาก [Come On!! We’ll Fight You!!] จำนวนไม่เกิน 1 ใบ มาแสดงให้ดู, แล้วนำขึ้นมือ. จากนั้น, นำการ์ดที่เหลือไปวางในลำดับใดก็ได้ ที่ข้างใต้เด็ค.",
+            "trigger": "[ทริกเกอร์] จั่วการ์ด จำนวน 1 ใบ.",
+            "attribute": null,
+            "feature": [
+              "สี่จักรพรรดิ",
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "來吧…!!!就由我們來當對手!!!",
+            "effect": "【主要】從自己的卡組上面查看5張卡片，公開最多1張除了「來吧…!!!就由我們來當對手!!!」以外擁有《紅髮海賊團》特徵的卡片，並加入手牌。之後，將其餘卡片依任意順序放到卡組下面。",
+            "trigger": "【觸發器】抽1張卡片。",
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "紅髮海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST23-001",
+        "number": "ST23-001",
+        "name": "Uta",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "6",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "4000",
+        "counter": "2000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "FILM"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "If you have a Character with 10000 power or more, give this card in your hand −4 cost. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST23-001.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Uta",
+            "effect": "ถ้าเรามี คาแรกเตอร์ ที่มีพาวเวอร์ 10000 หรือสูงกว่า อยู่ละก็, การ์ดใบนี้ ที่อยู่บนมือ จะมีคอสต์ -4. [บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้)",
+            "trigger": null,
+            "attribute": [
+              "พิเศษ"
+            ],
+            "feature": [
+              "FILM"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "美音",
+            "effect": "若場上有自己力量值10000以上的角色卡時，手牌中這張卡片的費用-4。 【防禦】(對手攻擊後，將這張卡片置為休息狀態即可使攻擊的對象換成這張卡片)",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "FILM"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST23-002",
+        "number": "ST23-002",
+        "name": "Shanks",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "9",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "10000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "If your opponent has a Character with 8000 base power or more, give this card in your hand −3 cost. [On Play] If your Leader has the {Red-Haired Pirates} type or is [Uta], your Leader gains +2000 power until the end of your opponent's next End Phase.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST23-002.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Shanks",
+            "effect": "ถ้าคู่แข่งมี คาแรกเตอร์ ที่มีพาวเวอร์ตั้งต้น 8000 หรือสูงกว่า อยู่ละก็, การ์ดใบนี้ที่อยู่ในมือ จะมีคอสต์ -3. [เมื่อลงสนาม] ถ้าลีดเดอร์ของเรา คือ  [Uta] , หรือว่า มีคุณสมบัติ < กลุ่มโจรสลัดผมแดง > ละก็, จนกระทั่งถึงตอนจบเอนด์เฟสของคู่แข่งในครั้งถัดไป, ลีดเดอร์ของเรา จะมีพาวเวอร์ +2000.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "สี่จักรพรรดิ",
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "傑克",
+            "effect": "若場上有對手原本力量值8000以上的角色卡時，手牌中這張卡片的費用-3。 【登場時】若自己的領航卡擁有《紅髮海賊團》特徵或是「美音」時，自己的領航卡，在下一個對手結束階段結束前，力量值+2000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "四皇",
+              "紅髮海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST23-003",
+        "number": "ST23-003",
+        "name": "Benn.Beckman",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] You may trash 1 card from your hand: If your Leader has the {Red-Haired Pirates} type, K.O. up to 1 of your opponent's Characters with 4000 base power or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST23-003.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Benn.Beckman",
+            "effect": "[เมื่อลงสนาม] สามารถทิ้งการ์ดบนมือของเรา จำนวน 1 ใบ : ถ้าลีดเดอร์ของฝ่ายเรา มีคุณสมบัติ < กลุ่มโจรสลัดผมแดง > ละก็, จะทำการ KO คาแรกเตอร์ของคู่แข่ง ที่มีพาวเวอร์ตั้งต้น 4000 หรือต่ำกว่า, จำนวนไม่เกิน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "班・貝克曼",
+            "effect": "【登場時】可以廢棄1張自己的手牌：若自己的領航卡擁有《紅髮海賊團》特徵時，KO最多1張對手原本力量值4000以下的角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "紅髮海賊團"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST23-004",
+        "number": "ST23-004",
+        "name": "Monkey.D.Luffy",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "FILM",
+          "Supernovas",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: Give up to 1 of your opponent's Characters −1000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST23-004.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Monkey.D.Luffy",
+            "effect": "[ใช้งาน : เมน] สามารถ เรสต์ คาแรกเตอร์นี้ กับ ด้ง!! ของเรา จำนวน 1 ใบ : ในเทิร์นนี้, คาแรกเตอร์ของคู่แข่ง จำนวนไม่เกิน 1 ใบ, จะมีพาวเวอร์ -1000.",
+            "trigger": null,
+            "attribute": [
+              "ตี"
+            ],
+            "feature": [
+              "FILM",
+              "ซูเปอร์โนวา"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "蒙其・D・魯夫",
+            "effect": "【啟動主要】可將1張自己的咚‼卡和這張角色卡置為休息狀態：最多1張對手的角色卡，在這個回合，力量值-1000。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "FILM",
+              "超新星",
+              "草帽一行人"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "ST23-005",
+        "number": "ST23-005",
+        "name": "Yasopp",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "1000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Activate: Main] [Once Per Turn] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST23-005.png",
+        "isParallel": false,
+        "languages": [
+          "English",
+          "Thai",
+          "Chinese Traditional"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Yasopp",
+            "effect": "[ใช้งาน : เมน] [เทิร์นละ 1 ครั้ง] นำ ด้ง!! ที่เรสต์อยู่ จำนวนไม่เกิน 1 ใบ, ใส่ให้กับ ลีดเดอร์ หรือ คาแรกเตอร์ ของเรา จำนวน 1 ใบ.",
+            "trigger": null,
+            "attribute": [
+              "ยิง"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          },
+          {
+            "language": "Chinese Traditional",
+            "name": "耶穌布",
+            "effect": "【啟動主要】【每回合1次】附加最多1張休息狀態的咚‼卡在1張自己的領航卡或角色卡。",
+            "trigger": null,
+            "attribute": null,
+            "feature": [
+              "紅髮海賊團"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
