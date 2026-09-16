@@ -1,0 +1,455 @@
+{
+  "meta": {
+    "date": "2026-09-16",
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "ST33",
+    "name": "STARTER DECK -Blue Kuzan- [ST-33]",
+    "type": "starter",
+    "releaseDate": null,
+    "baseSetSize": 13,
+    "totalSetSize": 15,
+    "languages": [
+      "English"
+    ],
+    "foreignNames": null,
+    "cards": [
+      {
+        "id": "EB04-026_r1",
+        "number": "EB04-026",
+        "name": "Bluegrass",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Egghead",
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "4",
+        "effect": "[On Play] Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck. [When Attacking] Draw 1 card and trash 1 card from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-026_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "EB04-028_p2",
+        "number": "EB04-028",
+        "name": "Ice Time",
+        "rarity": "R",
+        "cardClass": "EVENT",
+        "cost": "5",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": "[Trigger] Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+        "blockIcon": "4",
+        "effect": "[Main] You may trash 1 card from your hand: If your Leader has the {Navy} type, up to 2 of your opponent's Characters with 10000 power or less cannot attack until the end of your opponent's next End Phase.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-028_p2.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP12-040_p2",
+        "number": "OP12-040",
+        "name": "Kuzan",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Special"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "When a card is trashed from your hand by your {Navy} type card's effect, draw cards equal to the number of cards trashed.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-040_p2.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP12-043_r1",
+        "number": "OP12-043",
+        "name": "Kuzan",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "6",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "8000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "If you have 5 or more cards in your hand, this Character gains +1 cost. [On Play] You may trash 1 card from your hand: Up to 1 of your opponent's Characters cannot attack until the end of your opponent's next End Phase.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-043_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP12-045_r1",
+        "number": "OP12-045",
+        "name": "Jango",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "6",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "8000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-045_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP12-046_r1",
+        "number": "OP12-046",
+        "name": "Zephyr(Navy)",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "2000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "FILM",
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] Trash 2 cards from your hand. [Activate: Main] You may trash this Character: Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-046_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP12-047_r1",
+        "number": "OP12-047",
+        "name": "Sengoku",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play] You may trash 1 card from your hand: Look at 5 cards from the top of your deck; reveal up to 2 {Navy} type cards other than [Sengoku] and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-047_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP12-050_r1",
+        "number": "OP12-050",
+        "name": "Jaguar.D.Saul",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "6",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "7000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Giant",
+          "Ohara",
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-050_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP12-052_r1",
+        "number": "OP12-052",
+        "name": "Fullbody",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-052_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP12-057_r1",
+        "number": "OP12-057",
+        "name": "Ice Block Pheasant Peck",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": "[Trigger] You may trash 1 card from your hand: Draw 1 card.",
+        "blockIcon": "3",
+        "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, trash 1 card from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-057_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "ST33-001",
+        "number": "ST33-001",
+        "name": "Koby",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "1000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] You may trash 1 card from your hand: Draw 1 card.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST33-001.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "ST33-002",
+        "number": "ST33-002",
+        "name": "Sakazuki",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "[When Attacking] You may trash 1 card from your hand: If your opponent has 6 or more cards in their hand, your opponent trashes 1 card from their hand. [On K.O.] Play up to 1 {Navy} type Character card with a cost of 4 or less from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST33-002.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "ST33-003",
+        "number": "ST33-003",
+        "name": "Smoker",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "3000",
+        "counter": "2000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "[On Play] You may trash 1 card from your hand: Place up to 2 of your opponent's Characters with a cost of 2 or less at the bottom of the owner's deck.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST33-003.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "ST33-004",
+        "number": "ST33-004",
+        "name": "Borsalino",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "6",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "6000",
+        "counter": "2000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "During the turn in which a card in your hand is trashed by an effect, give this card in your hand −3 cost. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST33-004.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "ST33-005",
+        "number": "ST33-005",
+        "name": "Monkey.D.Garp",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "6",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Navy"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "[On Play] If your Leader has the {Navy} type, play up to 1 blue {Navy} type Character card with 8000 power or less other than [Monkey.D.Garp] from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST33-005.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      }
+    ]
+  }
+}

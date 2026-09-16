@@ -1,0 +1,387 @@
+{
+    "meta": {
+        "date": "2026-09-16",
+        "version": "1.0.0",
+        "set": 556032,
+        "language": "en"
+    },
+    "data": {
+        "code": "ST32",
+        "cards": [
+            {
+                "id": "OP10-036_r1",
+                "number": "OP10-036",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Perona",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "ODYSSEY",
+                    "Muggy Kingdom",
+                    "Thriller Bark Pirates"
+                ],
+                "block_icon": "3",
+                "effect": "[Your Turn] [Once Per Turn] If a Character is rested by your effect, set up to 1 of your DON!! cards as active.",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP10-036_r1.png"
+            },
+            {
+                "id": "OP12-020_p4",
+                "number": "OP12-020",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Roronoa Zoro",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "3",
+                "effect": "[DON!! x3] [Activate: Main] [Once Per Turn] If this Leader battles your opponent's Character during this turn, set this Leader as active. Then, this Leader cannot attack your opponent's Characters with a base cost of 7 or less during this turn.",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-020_p4.png"
+            },
+            {
+                "id": "OP12-023_r1",
+                "number": "OP12-023",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Kawamatsu",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Fish-Man",
+                    "Land of Wano",
+                    "The Akazaya Nine"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-023_r1.png"
+            },
+            {
+                "id": "OP12-026_r1",
+                "number": "OP12-026",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Kuina",
+                "cost": "4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "East Blue",
+                    "Frost Moon Village"
+                ],
+                "block_icon": "3",
+                "effect": "[Activate: Main] You may rest this Character: Rest up to 1 of your opponent's Characters with a base cost of 4 or less. Then, give up to 3 rested DON!! cards to your [Roronoa Zoro] Leader.",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-026_r1.png"
+            },
+            {
+                "id": "OP12-027_r1",
+                "number": "OP12-027",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Koushirou",
+                "cost": "2",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "East Blue",
+                    "Frost Moon Village"
+                ],
+                "block_icon": "3",
+                "effect": "If your attribute Character with a cost of 5 or less other than this Character would be K.O.'d by your opponent's effect, you may rest this Character instead. [Blocker]",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-027_r1.png"
+            },
+            {
+                "id": "OP12-028_r1",
+                "number": "OP12-028",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kouzuki Hiyori",
+                "cost": "1",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "-",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Kouzuki Clan"
+                ],
+                "block_icon": "3",
+                "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: If your Leader is [Roronoa Zoro], look at 5 cards from the top of your deck; reveal up to 1 attribute card or green Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-028_r1.png"
+            },
+            {
+                "id": "OP12-031_r1",
+                "number": "OP12-031",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Tashigi",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "East Blue",
+                    "Navy"
+                ],
+                "block_icon": "3",
+                "effect": "[On Play] Rest up to 1 of your opponent's Characters with a base cost of 6 or less. Then, give up to 3 rested DON!! cards to your [Roronoa Zoro] Leader.",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-031_r1.png"
+            },
+            {
+                "id": "OP12-039_p1",
+                "number": "OP12-039",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+                "cost": "3",
+                "attribute": [],
+                "trigger": "[Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "3",
+                "effect": "[Main] Set your [Roronoa Zoro] Leader as active.",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-039_p1.png"
+            },
+            {
+                "id": "OP15-036_r1",
+                "number": "OP15-036",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Ryuma",
+                "cost": "6",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Thriller Bark Pirates"
+                ],
+                "block_icon": "4",
+                "effect": "[On Play]/[When Attacking] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP15-036_r1.png"
+            },
+            {
+                "id": "ST24-005_r1",
+                "number": "ST24-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "X.Drake",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "Navy",
+                    "Drake Pirates"
+                ],
+                "block_icon": "3",
+                "effect": "[On Play] If your Leader has the {Supernovas} type, rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, set up to 1 of your DON!! cards as active at the end of this turn.",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST24-005_r1.png"
+            },
+            {
+                "id": "ST32-001",
+                "number": "ST32-001",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Kin'emon",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "The Akazaya Nine"
+                ],
+                "block_icon": "5",
+                "effect": "[On Play] You may rest your attribute Leader or 1 of your DON!! cards: Draw 2 cards and trash 1 card from your hand.",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST32-001.png"
+            },
+            {
+                "id": "ST32-002",
+                "number": "ST32-002",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Kouzuki Oden",
+                "cost": "5",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Land of Wano",
+                    "Kouzuki Clan"
+                ],
+                "block_icon": "5",
+                "effect": "[On Play] Draw 1 card and up to 1 of your opponent's Characters with a base cost of 6 or less cannot be rested until the end of your opponent's next End Phase.",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST32-002.png"
+            },
+            {
+                "id": "ST32-003",
+                "number": "ST32-003",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Dracule Mihawk",
+                "cost": "6",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "-",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Muggy Kingdom",
+                    "The Seven Warlords of the Sea"
+                ],
+                "block_icon": "5",
+                "effect": "[Your Turn] When this Character becomes rested, draw 1 card and trash 1 card from your hand. [On Play] If your Leader has the attribute, play up to 1 Character card with a cost of 5 or less that is either [Perona] or has the attribute from your hand.",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST32-003.png"
+            },
+            {
+                "id": "ST32-004",
+                "number": "ST32-004",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Silvers Rayleigh",
+                "cost": "4",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Former Roger Pirates"
+                ],
+                "block_icon": "5",
+                "effect": "If your Leader has the attribute, this Character gains [Rush: Character]. (This card can attack Characters on the turn in which it is played.) [On Play] Rest up to 2 of your opponent's Characters with a cost of 2 or less.",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST32-004.png"
+            },
+            {
+                "id": "ST32-005",
+                "number": "ST32-005",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Roronoa Zoro",
+                "cost": "1",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "2000",
+                "counter": "2000",
+                "color": [
+                    "Green"
+                ],
+                "feature": [
+                    "Supernovas",
+                    "Straw Hat Crew"
+                ],
+                "block_icon": "5",
+                "effect": "[Rush: Character] (This card can attack Characters on the turn in which it is played.) [On Play] If your Leader has the attribute, rest up to 1 of your opponent's Characters with a cost of 2 or less.",
+                "card_set": "STARTER DECK -Green Roronoa Zoro- [ST-32]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST32-005.png"
+            }
+        ]
+    }
+}

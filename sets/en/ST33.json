@@ -1,0 +1,373 @@
+{
+    "meta": {
+        "date": "2026-09-16",
+        "version": "1.0.0",
+        "set": 556033,
+        "language": "en"
+    },
+    "data": {
+        "code": "ST33",
+        "cards": [
+            {
+                "id": "EB04-026_r1",
+                "number": "EB04-026",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Bluegrass",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Egghead",
+                    "Navy"
+                ],
+                "block_icon": "4",
+                "effect": "[On Play] Place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck. [When Attacking] Draw 1 card and trash 1 card from your hand.",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-026_r1.png"
+            },
+            {
+                "id": "EB04-028_p2",
+                "number": "EB04-028",
+                "type": "R",
+                "class": "EVENT",
+                "name": "Ice Time",
+                "cost": "5",
+                "attribute": [],
+                "trigger": "[Trigger] Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "4",
+                "effect": "[Main] You may trash 1 card from your hand: If your Leader has the {Navy} type, up to 2 of your opponent's Characters with 10000 power or less cannot attack until the end of your opponent's next End Phase.",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB04-028_p2.png"
+            },
+            {
+                "id": "OP12-040_p2",
+                "number": "OP12-040",
+                "type": "L",
+                "class": "LEADER",
+                "name": "Kuzan",
+                "cost": "5",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "3",
+                "effect": "When a card is trashed from your hand by your {Navy} type card's effect, draw cards equal to the number of cards trashed.",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-040_p2.png"
+            },
+            {
+                "id": "OP12-043_r1",
+                "number": "OP12-043",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Kuzan",
+                "cost": "6",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "3",
+                "effect": "If you have 5 or more cards in your hand, this Character gains +1 cost. [On Play] You may trash 1 card from your hand: Up to 1 of your opponent's Characters cannot attack until the end of your opponent's next End Phase.",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-043_r1.png"
+            },
+            {
+                "id": "OP12-045_r1",
+                "number": "OP12-045",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Jango",
+                "cost": "6",
+                "attribute": [
+                    "Slash"
+                ],
+                "trigger": "N/A",
+                "power": "8000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-045_r1.png"
+            },
+            {
+                "id": "OP12-046_r1",
+                "number": "OP12-046",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Zephyr(Navy)",
+                "cost": "5",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "2000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "FILM",
+                    "Navy"
+                ],
+                "block_icon": "3",
+                "effect": "[On Play] Trash 2 cards from your hand. [Activate: Main] You may trash this Character: Return up to 1 Character with a cost of 5 or less to the owner's hand.",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-046_r1.png"
+            },
+            {
+                "id": "OP12-047_r1",
+                "number": "OP12-047",
+                "type": "R",
+                "class": "CHARACTER",
+                "name": "Sengoku",
+                "cost": "3",
+                "attribute": [
+                    "Wisdom"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "3",
+                "effect": "[On Play] You may trash 1 card from your hand: Look at 5 cards from the top of your deck; reveal up to 2 {Navy} type cards other than [Sengoku] and add them to your hand. Then, place the rest at the bottom of your deck in any order.",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-047_r1.png"
+            },
+            {
+                "id": "OP12-050_r1",
+                "number": "OP12-050",
+                "type": "UC",
+                "class": "CHARACTER",
+                "name": "Jaguar.D.Saul",
+                "cost": "6",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "7000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Giant",
+                    "Ohara",
+                    "Navy"
+                ],
+                "block_icon": "3",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-050_r1.png"
+            },
+            {
+                "id": "OP12-052_r1",
+                "number": "OP12-052",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Fullbody",
+                "cost": "4",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "3",
+                "effect": "-",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-052_r1.png"
+            },
+            {
+                "id": "OP12-057_r1",
+                "number": "OP12-057",
+                "type": "C",
+                "class": "EVENT",
+                "name": "Ice Block Pheasant Peck",
+                "cost": "1",
+                "attribute": [],
+                "trigger": "[Trigger] You may trash 1 card from your hand: Draw 1 card.",
+                "power": "-",
+                "counter": "-",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "3",
+                "effect": "[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, trash 1 card from your hand.",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP12-057_r1.png"
+            },
+            {
+                "id": "ST33-001",
+                "number": "ST33-001",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Koby",
+                "cost": "2",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "1000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "5",
+                "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] You may trash 1 card from your hand: Draw 1 card.",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST33-001.png"
+            },
+            {
+                "id": "ST33-002",
+                "number": "ST33-002",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Sakazuki",
+                "cost": "4",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "5000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "5",
+                "effect": "[When Attacking] You may trash 1 card from your hand: If your opponent has 6 or more cards in their hand, your opponent trashes 1 card from their hand. [On K.O.] Play up to 1 {Navy} type Character card with a cost of 4 or less from your hand.",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST33-002.png"
+            },
+            {
+                "id": "ST33-003",
+                "number": "ST33-003",
+                "type": "C",
+                "class": "CHARACTER",
+                "name": "Smoker",
+                "cost": "2",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "3000",
+                "counter": "2000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "5",
+                "effect": "[On Play] You may trash 1 card from your hand: Place up to 2 of your opponent's Characters with a cost of 2 or less at the bottom of the owner's deck.",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST33-003.png"
+            },
+            {
+                "id": "ST33-004",
+                "number": "ST33-004",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Borsalino",
+                "cost": "6",
+                "attribute": [
+                    "Special"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "2000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "5",
+                "effect": "During the turn in which a card in your hand is trashed by an effect, give this card in your hand −3 cost. [Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST33-004.png"
+            },
+            {
+                "id": "ST33-005",
+                "number": "ST33-005",
+                "type": "SR",
+                "class": "CHARACTER",
+                "name": "Monkey.D.Garp",
+                "cost": "6",
+                "attribute": [
+                    "Strike"
+                ],
+                "trigger": "N/A",
+                "power": "6000",
+                "counter": "1000",
+                "color": [
+                    "Blue"
+                ],
+                "feature": [
+                    "Navy"
+                ],
+                "block_icon": "5",
+                "effect": "[On Play] If your Leader has the {Navy} type, play up to 1 blue {Navy} type Character card with 8000 power or less other than [Monkey.D.Garp] from your hand.",
+                "card_set": "STARTER DECK -Blue Kuzan- [ST-33]",
+                "image_url": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST33-005.png"
+            }
+        ]
+    }
+}

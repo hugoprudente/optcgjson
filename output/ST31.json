@@ -1,0 +1,456 @@
+{
+  "meta": {
+    "date": "2026-09-16",
+    "version": "1.0.0"
+  },
+  "data": {
+    "code": "ST31",
+    "name": "STARTER DECK -Red Monkey.D.Luffy- [ST-31]",
+    "type": "starter",
+    "releaseDate": null,
+    "baseSetSize": 13,
+    "totalSetSize": 15,
+    "languages": [
+      "English"
+    ],
+    "foreignNames": null,
+    "cards": [
+      {
+        "id": "OP01-016_p8",
+        "number": "OP01-016",
+        "name": "Nami",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "X",
+        "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card other than [Nami] and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP01-016_p8.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP04-016_p3",
+        "number": "OP04-016",
+        "name": "Bad Manners Kick Course",
+        "rarity": "R",
+        "cardClass": "EVENT",
+        "cost": null,
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Alabasta",
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] Give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.",
+        "blockIcon": "4",
+        "effect": "[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP04-016_p3.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP11-003_r1",
+        "number": "OP11-003",
+        "name": "Usopp",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Ranged"
+        ],
+        "power": "6000",
+        "counter": "2000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP11-003_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP11-009_r1",
+        "number": "OP11-009",
+        "name": "Nico Robin",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[DON!! x2] [When Attacking] Give up to 1 of your opponent's Characters −2000 power until the end of your opponent's next turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP11-009_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP11-012_r1",
+        "number": "OP11-012",
+        "name": "Franky",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "4000",
+        "counter": "2000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Your Turn] [Once Per Turn] When your opponent activates an Event, all of your Characters gain +2000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP11-012_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP13-021_r1",
+        "number": "OP13-021",
+        "name": "Gum-Gum Gatling Gun",
+        "rarity": "C",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": "[Trigger] Give up to 1 of your opponent's Characters −2000 power during this turn.",
+        "blockIcon": "4",
+        "effect": "[Main] Give up to 1 rested DON!! card to 1 of your [Monkey.D.Luffy] cards. Then, give up to 1 of your opponent's Characters −2000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP13-021_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP14-015_r1",
+        "number": "OP14-015",
+        "name": "Roronoa Zoro",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "7",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "8000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Supernovas",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "4",
+        "effect": "[Rush] (This card can attack on the turn in which it is played.) [When Attacking] Give up to 1 of your opponent's Characters −1000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP14-015_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "P-101_r1",
+        "number": "P-101",
+        "name": "Tony Tony.Chopper",
+        "rarity": "P",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Animal",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "4",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Give up to 1 rested DON!! card to your Leader.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/P-101_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "ST21-001_r1",
+        "number": "ST21-001",
+        "name": "Monkey.D.Luffy",
+        "rarity": "L",
+        "cardClass": "LEADER",
+        "cost": null,
+        "life": "5",
+        "attribute": [
+          "Strike"
+        ],
+        "power": "5000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[DON!! x1] [Activate: Main] [Once Per Turn] Give up to 2 rested DON!! cards to 1 of your Characters.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST21-001_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "ST23-004_r1",
+        "number": "ST23-004",
+        "name": "Monkey.D.Luffy",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Animal",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Activate: Main] You may rest 1 of your DON!! cards and this Character: Give up to 1 of your opponent's Characters −1000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST23-004_r1.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "ST31-001",
+        "number": "ST31-001",
+        "name": "Sanji",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "[DON!! x2] This Character gains [Rush]. (This card can attack on the turn in which it is played.) [On Play] Draw 1 card and play up to 1 {Straw Hat Crew} type Character card with a cost of 5 or less other than [Sanji] from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST31-001.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "ST31-002",
+        "number": "ST31-002",
+        "name": "Jinbe",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Fish-Man",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Draw 1 card and play up to 1 {Straw Hat Crew} type card with a cost of 1 from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST31-002.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "ST31-003",
+        "number": "ST31-003",
+        "name": "Brook",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "3000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "[Opponent's Turn] If you have a total of 3 or more given DON!! cards, this Character gains [Blocker] and +3000 power. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST31-003.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "ST31-004",
+        "number": "ST31-004",
+        "name": "Monkey.D.Luffy",
+        "rarity": "SR",
+        "cardClass": "CHARACTER",
+        "cost": "7",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "9000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "If you have a total of 3 or more given DON!! cards, this Character gains [Rush]. (This card can attack on the turn in which it is played.) [On Play] For every {Straw Hat Crew} type card on your field, give up to 1 of your opponent's Characters −1000 power during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST31-004.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "ST31-005",
+        "number": "ST31-005",
+        "name": "Thousand Sunny",
+        "rarity": "C",
+        "cardClass": "STAGE",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Activate: Main] You may rest this Stage: Give up to 1 rested DON!! card to 1 of your [Monkey.D.Luffy] cards.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST31-005.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      }
+    ]
+  }
+}
