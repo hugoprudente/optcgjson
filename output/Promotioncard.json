@@ -1,6 +1,6 @@
 {
   "meta": {
-    "date": "2026-10-25",
+    "date": "2026-11-01",
     "version": "1.0.0"
   },
   "data": {
@@ -8,8 +8,8 @@
     "name": "Promotion card",
     "type": "special",
     "releaseDate": null,
-    "baseSetSize": 111,
-    "totalSetSize": 389,
+    "baseSetSize": 112,
+    "totalSetSize": 404,
     "languages": [
       "English",
       "Thai"
@@ -328,6 +328,36 @@
             ]
           }
         ]
+      },
+      {
+        "id": "EB02-001_p1",
+        "number": "EB02-001",
+        "name": "Karoo",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "7000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Animal",
+          "Alabasta"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": null,
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB02-001_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
       },
       {
         "id": "EB02-006_p2",
@@ -731,6 +761,66 @@
             ]
           }
         ]
+      },
+      {
+        "id": "EB05-050_p1",
+        "number": "EB05-050",
+        "name": "Atlas",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Egghead",
+          "Scientist"
+        ],
+        "trigger": "[Trigger] Activate this card's [On Play] effect.",
+        "blockIcon": "5",
+        "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 card with the <Wisdom> attribute and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB05-050_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "EB05-050_p2",
+        "number": "EB05-050",
+        "name": "Atlas",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Egghead",
+          "Scientist"
+        ],
+        "trigger": "[Trigger] Activate this card's [On Play] effect.",
+        "blockIcon": "5",
+        "effect": "[On Play] Look at 4 cards from the top of your deck; reveal up to 1 card with the <Wisdom> attribute and add it to your hand. Then, place the rest at the bottom of your deck in any order.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/EB05-050_p2.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
       },
       {
         "id": "OP01-004_p2",
@@ -6616,6 +6706,35 @@
         ]
       },
       {
+        "id": "OP11-107_p1",
+        "number": "OP11-107",
+        "name": "Topknot Neptunian",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "5",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "6000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Neptunian"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Blocker] [Activate: Main] [Once Per Turn] If your Leader is [Shirahoshi], you may turn 1 card from the top of your Life cards face-down: Set this Character as active at the end of this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP11-107_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
         "id": "OP11-119_p2",
         "number": "OP11-119",
         "name": "Koby",
@@ -7452,6 +7571,37 @@
         ]
       },
       {
+        "id": "OP14-004_p1",
+        "number": "OP14-004",
+        "name": "Cavendish",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "Dressrosa",
+          "Supernovas",
+          "Beautiful Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "4",
+        "effect": "If this Character has 5000 power or more, this Character gains [Rush]. (This card can attack on the turn in which it is played.)",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP14-004_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
         "id": "OP14-023_p1",
         "number": "OP14-023",
         "name": "Kikunojo",
@@ -7763,6 +7913,34 @@
         ]
       },
       {
+        "id": "OP14-118_p2",
+        "number": "OP14-118",
+        "name": "You'll Frighten Me... ♡",
+        "rarity": "R",
+        "cardClass": "EVENT",
+        "cost": "1",
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "The Seven Warlords of the Sea",
+          "Kuja Pirates"
+        ],
+        "trigger": "[Trigger] Play up to 1 Character card with 6000 power or less and a [Trigger] from your hand.",
+        "blockIcon": "4",
+        "effect": "[Counter] If you have 2 or less Life cards, up to 1 of your opponent's active Characters cannot attack during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP14-118_p2.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
         "id": "OP15-060_p2",
         "number": "OP15-060",
         "name": "Enel",
@@ -7828,6 +8006,33 @@
         "blockIcon": "4",
         "effect": "If you have 6 or less DON!! cards on your field, this Character gains [Blocker]. (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)",
         "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP15-068_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP15-074_p1",
+        "number": "OP15-074",
+        "name": "Varie",
+        "rarity": "UC",
+        "cardClass": "EVENT",
+        "cost": null,
+        "life": null,
+        "attribute": null,
+        "power": null,
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Sky Island"
+        ],
+        "trigger": null,
+        "blockIcon": "4",
+        "effect": "[Main] DON!! −1: If your Leader is [Enel], draw 1 card. Then, up to 1 of your Characters gains +2 cost until the end of your opponent's next End Phase. [Counter] Up to 1 of your [Enel] cards gains +2000 power during this battle.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP15-074_p1.png",
         "isParallel": true,
         "languages": [
           "English"
@@ -7986,6 +8191,36 @@
         "foreignData": null
       },
       {
+        "id": "OP16-045_p1",
+        "number": "OP16-045",
+        "name": "Crocodile",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Impel Down",
+          "Former Baroque Works"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "[Blocker] [On Play] You may return 1 of your Characters with a cost of 2 or more to the owner's hand: Play up to 1 {Impel Down} type Character card with a cost of 2 or less from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP16-045_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
         "id": "OP16-092_p1",
         "number": "OP16-092",
         "name": "Nico Robin",
@@ -8046,6 +8281,35 @@
         "foreignData": null
       },
       {
+        "id": "OP16-097_p1",
+        "number": "OP16-097",
+        "name": "Yamato",
+        "rarity": "R",
+        "cardClass": "CHARACTER",
+        "cost": "8",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "8000",
+        "counter": null,
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Land of Wano"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "[On Play] Add up to 1 {Land of Wano} type Character card with a cost of 6 or less from your trash to your hand. Then, play up to 1 Character card with a cost of 2 or less from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP16-097_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
         "id": "OP17-027_p2",
         "number": "OP17-027",
         "name": "Benn.Beckman",
@@ -8075,6 +8339,35 @@
         "foreignData": null
       },
       {
+        "id": "OP17-044_p1",
+        "number": "OP17-044",
+        "name": "Captain John",
+        "rarity": "UC",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Special"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Blue"
+        ],
+        "feature": [
+          "Rocks Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "If your Leader's type includes \"Rocks Pirates\" and this Character is rested, your opponent cannot attack any card other than the Character [Captain John]. [Activate: Main] You may rest this Character: Draw 1 card and trash 1 card from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP17-044_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
         "id": "OP17-054_p2",
         "number": "OP17-054",
         "name": "Miss Buckingham Stussy",
@@ -8097,6 +8390,36 @@
         "blockIcon": "5",
         "effect": "[On Play] Up to 1 of your opponent's Characters with a base cost of 6 or less cannot attack until the end of your opponent's next End Phase. [Activate: Main] You may rest 3 of your DON!! cards and this Character: Up to 1 of your opponent's Characters cannot attack until the end of your opponent's next End Phase.",
         "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP17-054_p2.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "OP17-090_p1",
+        "number": "OP17-090",
+        "name": "Franky",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "2",
+        "life": null,
+        "attribute": [
+          "Strike"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Black"
+        ],
+        "feature": [
+          "Elbaph",
+          "Straw Hat Crew"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "If there is a Character with a cost of 12 or more, this Character gains +3000 power. [On Play] If there is a Character with a cost of 12 or more, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/OP17-090_p1.png",
         "isParallel": true,
         "languages": [
           "English"
@@ -12785,6 +13108,49 @@
         ]
       },
       {
+        "id": "P-093_p1",
+        "number": "P-093",
+        "name": "Trafalgar Law",
+        "rarity": "P",
+        "cardClass": "CHARACTER",
+        "cost": "4",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "6000",
+        "counter": null,
+        "color": [
+          "Purple"
+        ],
+        "feature": [
+          "Heart Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[Blocker] [On Play] If the number of DON!! cards on your field is equal to or less than the number on your opponent's field, add up to 1 DON!! card from your DON!! deck and rest it.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/P-093_p1.png",
+        "isParallel": true,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Trafalgar Law",
+            "effect": "[บล็อกเกอร์] (ขณะที่คู่แข่งโจมตี, จะสามารถ เรสต์ การ์ดใบนี้, และเปลี่ยนเป้าหมายการโจมตีมาที่การ์ดใบนี้) [เมื่อลงสนาม] ถ้า ด้ง!! ที่อยู่บนสนามของเรา มีจำนวนไม่มากไปกว่า ด้ง!! ที่อยู่บนสนามของคู่แข่งละก็, จะนำ ด้ง!! จากด้ง!! เด็ค จำนวนไม่เกิน 1 ใบ, มาวางเพิ่มแบบ เรสต์.",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "กลุ่มโจรสลัดฮาร์ท"
+            ]
+          }
+        ]
+      },
+      {
         "id": "P-094",
         "number": "P-094",
         "name": "Roronoa Zoro",
@@ -12895,6 +13261,51 @@
         "effect": "[On Play]/[When Attacking] Your opponent cannot activate [Blocker] during this turn.",
         "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/P-097.png",
         "isParallel": false,
+        "languages": [
+          "English",
+          "Thai"
+        ],
+        "foreignData": [
+          {
+            "language": "Thai",
+            "name": "Shanks",
+            "effect": "[เมื่อลงสนาม] / [เมื่อโจมตี] ในเทิร์นนี้, คาแรกเตอร์ของฝ่ายคู่แข่ง จะไม่สามารถใช้งาน [บล็อกเกอร์].",
+            "trigger": null,
+            "attribute": [
+              "ฟัน"
+            ],
+            "feature": [
+              "สี่จักรพรรดิ",
+              "กลุ่มโจรสลัดผมแดง"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "P-097_p1",
+        "number": "P-097",
+        "name": "Shanks",
+        "rarity": "P",
+        "cardClass": "CHARACTER",
+        "cost": "10",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "12000",
+        "counter": null,
+        "color": [
+          "Red"
+        ],
+        "feature": [
+          "The Four Emperors",
+          "Red-Haired Pirates"
+        ],
+        "trigger": null,
+        "blockIcon": "3",
+        "effect": "[On Play]/[When Attacking] Your opponent cannot activate [Blocker] during this turn.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/P-097_p1.png",
+        "isParallel": true,
         "languages": [
           "English",
           "Thai"
@@ -14176,6 +14587,35 @@
         "blockIcon": "5",
         "effect": "[On Play] You may trash 1 card from your hand: Play up to 1 {Elbaph} type Character card with a cost of 4 or less from your trash.",
         "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/P-157.png",
+        "isParallel": false,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "P-160",
+        "number": "P-160",
+        "name": "Nefeltari Vivi",
+        "rarity": "P",
+        "cardClass": "CHARACTER",
+        "cost": "3",
+        "life": null,
+        "attribute": [
+          "Wisdom"
+        ],
+        "power": "4000",
+        "counter": "1000",
+        "color": [
+          "Yellow"
+        ],
+        "feature": [
+          "Alabasta"
+        ],
+        "trigger": "[Trigger] If you have 2 or less Life cards, play this card.",
+        "blockIcon": "5",
+        "effect": "[On Play] Look at 5 cards from the top of your deck; reveal up to 1 <Wisdom> attribute card, add it to your hand and place the rest at the bottom of your deck in any order. Then, trash 1 card from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/P-160.png",
         "isParallel": false,
         "languages": [
           "English"
@@ -16779,6 +17219,36 @@
         "blockIcon": "5",
         "effect": "[On Play] You may rest 1 of your DON!! cards: This Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.) [When Attacking] Rest up to 1 of your opponent's [Blocker] Characters.",
         "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST30-012_p2.png",
+        "isParallel": true,
+        "languages": [
+          "English"
+        ],
+        "foreignData": null
+      },
+      {
+        "id": "ST32-001_p1",
+        "number": "ST32-001",
+        "name": "Kin'emon",
+        "rarity": "C",
+        "cardClass": "CHARACTER",
+        "cost": "1",
+        "life": null,
+        "attribute": [
+          "Slash"
+        ],
+        "power": "2000",
+        "counter": "1000",
+        "color": [
+          "Green"
+        ],
+        "feature": [
+          "Land of Wano",
+          "The Akazaya Nine"
+        ],
+        "trigger": null,
+        "blockIcon": "5",
+        "effect": "[On Play] You may rest your <Slash> attribute Leader or 1 of your DON!! cards: Draw 2 cards and trash 1 card from your hand.",
+        "imageUrl": "https://asia-en.onepiece-cardgame.com/images/cardlist/card/ST32-001_p1.png",
         "isParallel": true,
         "languages": [
           "English"
