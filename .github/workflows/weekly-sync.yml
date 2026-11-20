@@ -1,11 +1,14 @@
 # Weekly scrape + build + commit published output/ for downstream consumers (punkrecords).
 #
-# Schedule: Sunday 03:00 UTC. punkrecords imports at 06:00 UTC (3h buffer).
+# Schedule: Mon/Wed/Fri 04:00 UTC (13:00 JST) + Sunday catch-up 03:00 UTC.
+# Bandai does not expose publish time; new sets often land mid-week JST.
+# punkrecords imports 3h later (07:00 / 06:00 UTC). See punkrecords OP_DATA_SYNC.md.
 name: Weekly OPTCG data sync
 
 on:
   workflow_dispatch:
   schedule:
+    - cron: "0 4 * * 1,3,5"
     - cron: "0 3 * * 0"
 
 concurrency:

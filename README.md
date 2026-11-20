@@ -36,7 +36,7 @@ Weekly CI commits both `output/` and `sets/` so rebuilds and multi-language merg
 
 [punkrecords](https://github.com/hugoprudente/punkrecords) imports `output/` weekly (no scraping in that repo). See its [docs/OP_DATA_SYNC.md](https://github.com/hugoprudente/punkrecords/blob/main/docs/OP_DATA_SYNC.md).
 
-Weekly schedule (UTC): optcgjson scrape **03:00** → punkrecords import **06:00** → image CDN sync **07:00**.
+Schedule (UTC): optcgjson **Mon/Wed/Fri 04:00** and **Sun 03:00** → punkrecords import **3h later**. See punkrecords [OP_DATA_SYNC.md](https://github.com/hugoprudente/punkrecords/blob/main/docs/OP_DATA_SYNC.md).
 
 ## CI
 
